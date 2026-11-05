@@ -70,4 +70,4 @@ After the sheets, the build writes the public library site to `web/`: one card p
 
 ## Deploy
 
-Push to `main`; Vercel deploys `web/` (project Root Directory `web`, no build command). Run `python3 build.py` and commit `web/` together with any product change, so the live site always matches the data files.
+Push to `main`; Vercel deploys `web/` to https://datasheets.mocproducts.app (Vercel project `moc-product-data-sheets-web`, Root Directory `web`, no build command). The project's `.vercel.app` addresses redirect to the custom domain (`web/vercel.json`). Run `python3 build.py` and commit `web/` together with any product change, so the live site always matches the data files.

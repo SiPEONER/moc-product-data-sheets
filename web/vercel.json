@@ -1,6 +1,26 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "moc-product-data-sheets-web\\.vercel\\.app" }],
+      "destination": "https://datasheets.mocproducts.app/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "moc-product-data-sheets-web-bnd-fish\\.vercel\\.app" }],
+      "destination": "https://datasheets.mocproducts.app/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "moc-product-data-sheets-web-git-main-bnd-fish\\.vercel\\.app" }],
+      "destination": "https://datasheets.mocproducts.app/:path*",
+      "permanent": true
+    }
+  ],
   "headers": [
     { "source": "/pdfs/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }] }
   ]
