@@ -1,0 +1,82 @@
+{
+  "item": "0448",
+  "name": "Direct GDI Fuel-injector Cleaner",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/0448.png",
+  "features": [
+    {
+      "text": "Designed for all GDI systems"
+    },
+    {
+      "text": "Cleans injector passageways and nozzle"
+    },
+    {
+      "text": "Helps reduce emissions"
+    },
+    {
+      "text": "Can help improve driveability"
+    }
+  ],
+  "ratings": [],
+  "description": "Formulated to quickly dissolve stubborn fuel deposits that restrict fuel flow. DIRECT GDI Fuel Injector Cleaner is formulated to quickly dissolve stubborn fuel deposits that restrict fuel flow. It restores fuel spray patterns, proper fuel atomization, engine efficiency and will not harm fuel system components.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear"
+    ],
+    [
+      "Color",
+      "",
+      "Orange"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density (g/mL) @68° F",
+      "D4052",
+      "0.83"
+    ],
+    [
+      "Density, U.S. (lbs/gal) calculated @68° F",
+      "",
+      "6.90"
+    ],
+    [
+      "Flash Point (°F) based on components",
+      "",
+      "~50"
+    ],
+    [
+      "Boiling Point (°F) based on components",
+      "",
+      "~185"
+    ],
+    [
+      "%VOC",
+      "",
+      "~89%"
+    ]
+  ],
+  "application": "Vehicle should be at operating temperature. Use one of the following MOC equipment to inject the product: 1. #73400 EDR-3, 2. #73500 EDR-Advanced Fuel Service Machine, or 3. #72450 Deluxe Cleaner Application Tool II. Do not use the product with other tools or equipment, as results may vary. Read all precautions and instructions for the MOC equipment being used before starting the cleaning process.",
+  "packaging": [
+    [
+      "10 oz.",
+      "24",
+      "17 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0448.pdf",
+    "old_rev": 1
+  },
+  "review": [
+    "Bottle photo is only 371 px tall"
+  ]
+}

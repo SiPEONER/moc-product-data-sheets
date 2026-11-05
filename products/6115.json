@@ -1,0 +1,88 @@
+{
+  "item": "6115",
+  "name": "Washer Solve",
+  "category": "Automotive Cleaner",
+  "library_section": "Glass Care",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/6115.png",
+  "features": [
+    {
+      "text": "Quickly dissolves dirt, grime, road film and bug-matter."
+    },
+    {
+      "text": "Leaves Windshield Bright & Clean"
+    },
+    {
+      "text": "Formulated to prevent streaking."
+    },
+    {
+      "text": "One bottle can be diluted to fill most windshield washer reservoirs."
+    },
+    {
+      "text": "Low V.O.C. at diluted strength."
+    }
+  ],
+  "ratings": [],
+  "description": "SPECIALLY FORMULATED TO: (1) quickly dissolve dirt, grime, road film, and bug-matter; and (2) leave the windshield bright and shiny-clean without any streaks. It is designed not harm the paint, metal or rubber surfaces of a vehicle. Not intended for applications in which freeze-resistant is required.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Blue"
+    ],
+    [
+      "Odor",
+      "",
+      "Alcohol"
+    ],
+    [
+      "Density (mg/mL)",
+      "D5931",
+      "0.967 - 0.987"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "",
+      "8.070 - 8.237"
+    ],
+    [
+      "RI",
+      "",
+      "7.9 - 8.2"
+    ],
+    [
+      "Boiling Point",
+      "",
+      ">65 °C / 149 °F"
+    ],
+    [
+      "Flash Point",
+      "",
+      ">38 °C / 100 °F"
+    ],
+    [
+      "VOC %",
+      "",
+      "22%"
+    ]
+  ],
+  "application": "Premix 2 oz. (one bottle) of concentrate per one (1) gallon of water (preferably filtered or deionized) and then add to the reservoir.",
+  "packaging": [
+    [
+      "2 oz.",
+      "24",
+      "4.07 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "6115.pdf",
+    "old_rev": 1
+  },
+  "review": []
+}

@@ -1,0 +1,77 @@
+{
+  "item": "0149",
+  "name": "Limited-slip Concentrate",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0149.png",
+  "features": [
+    {
+      "text": "Enhances limited-slip performance (anti-chatter) of rear axles."
+    },
+    {
+      "text": "Compatible with most conventional and synthetic gear oils."
+    },
+    {
+      "text": "Eliminates the need for inventory multiple gear oils."
+    }
+  ],
+  "ratings": [],
+  "description": "Designed to prevent chatter in limited-slip differentials and full-time four-wheel drive transfer cases. This product helps quiet gears in the differential and fortify standard gear lubricants. It is designed to be used with any GL-5 gear lubricant in Limited-slip applications. Recommended for rear-wheel drive passenger cars, trucks, and sport utility vehicles.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Amber"
+    ],
+    [
+      "Odor",
+      "",
+      "Petroleum"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.91"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "7.60"
+    ],
+    [
+      "Viscosity, cSt @ 100°C",
+      "D445",
+      "~7"
+    ],
+    [
+      "Viscosity, cSt @ 40°C",
+      "D445",
+      "~46"
+    ],
+    [
+      "Flash Point(°F), PMCC",
+      "D93",
+      "≥257"
+    ]
+  ],
+  "application": "Add 1-part concentrate to every 25 parts of gear lubricant. Add treated gear lubricant to vehicle. Do not overfill system. For best results, use MOC® Limited-Slip Concentrate with MOC® Gear Guard™ #0148 or #0414 gear oil. Product may be added between services or as needed.",
+  "packaging": [
+    [
+      "4 oz.",
+      "12",
+      "4 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0149.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

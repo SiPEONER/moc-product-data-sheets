@@ -1,0 +1,85 @@
+{
+  "item": "0418",
+  "name": "Universal CVT Conditioner",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0418.png",
+  "features": [
+    {
+      "text": "Improves Fluid Stability and Service Life"
+    },
+    {
+      "text": "Maintains optimal friction and anti-shutter properties."
+    },
+    {
+      "text": "Keeps seal soft and pliable."
+    },
+    {
+      "text": "Can be used in DCT, DSG & CVT systems: belt or chain."
+    },
+    {
+      "text": "Compatible with all types of CVT fluid."
+    }
+  ],
+  "ratings": [],
+  "description": "A concentrated, synthetic-based formula designed for use in Continuously Variable Transmissions (CVT) as well as Wet Dual Clutch Transmissions (DCT) and Direct-Shift Gearboxes (DSG) to fortify and extend service life. Fluids used in these types of transmissions have unique characteristics and requirements that differ from those used in traditional automatic transmissions. Universal CVT Conditioner is formulated to fortify the properties of new and used fluid by significantly improving oxidation stability and preventing deposit formation. It is designed to maintain the friction and anti-shutter properties that are critical to fluid performance. This product is designed for use in both chain and belt- type transmissions and is compatible with all types of CVT fluids.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear Oil"
+    ],
+    [
+      "Color",
+      "",
+      "Amber"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.84"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "7.01"
+    ],
+    [
+      "Viscosity @ 100° C, cSt",
+      "D445",
+      "7.0"
+    ],
+    [
+      "Viscosity, @ 40° C, cSt",
+      "D445",
+      "35"
+    ],
+    [
+      "Boiling Point (°F) (Based on components)",
+      "",
+      "≥464"
+    ],
+    [
+      "Flash Point (°F) (Based on components)",
+      "",
+      ">266"
+    ]
+  ],
+  "application": "Add contents of the bottle to transmission after every fluid change.",
+  "packaging": [
+    [
+      "11 oz",
+      "24",
+      "17.5 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0418.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 378 px tall"
+  ]
+}

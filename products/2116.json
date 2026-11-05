@@ -1,0 +1,84 @@
+{
+  "item": "2116",
+  "name": "Armour Ceramic Coating",
+  "category": "Automotive Cleaner / Degreaser",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/2116.png",
+  "features": [
+    {
+      "text": "Simply spray on wipe off"
+    },
+    {
+      "text": "Allows ceramic coating to bond better"
+    },
+    {
+      "text": "Removes waxes, oils, and polishing residue"
+    }
+  ],
+  "ratings": [],
+  "description": "Designed to provide years of protection against a variety of environmental hazards, including dirt, grime, industrial fallout, bird droppings, UV light, and more. The advanced ceramic nanotechnology bonds to a vehicle’s paint surface like an extra layer of clear coat, creating a durable, high gloss, swirl resistant, hydrophobic surface. Armour will prevent dirt, water spots and contaminants from adhering to paint, extending paint life and will change the way you care for your vehicle.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Colorless"
+    ],
+    [
+      "Odor",
+      "",
+      "Ammoniacal"
+    ],
+    [
+      "Density, U.S. (g/ml) @ 68°F",
+      "",
+      "1.02 - 1.04"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "",
+      "8.51 - 8.68"
+    ],
+    [
+      "Boiling Point",
+      "",
+      "100 / 212"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "To apply MP™ ARMOUR™ Ceramic Coating, your vehicle should be indoors and remain indoors for at least 12 hours after application has been completed. WASH - Thoroughly wash vehicle free of dust, sand, and dirt. DE-CONTAMINATE - Using MP™ Exterior Prep Towels/Pads and MOC® BODY GLOSS, remove all bonded contaminants from exterior surface of the vehicle. PAINT CORRECTION - If necessary, vehicle paint should be polished to remove any imperfections or light scratches using MP™ 2-step Correction™ & Perfection™, or Reflection ™ ALL-IN-ONE. DE-GREASE - Using MP™ Pryme™ Surface Prep, spray product onto a clean microfiber cloth and then carefully wipe down all exterior painted surfaces to remove any oils and polish residues. APPLICATION - Apply proper amount of MP™ ARMOUR™ to the Sponge Applicator - #70567. In overlapping strokes, apply coating onto the vehicle surface in small sections (3’ X 3’). Allow the product to haze for 10-15 minutes before wiping away any residue with a clean microfiber cloth. Repeat the process, one section at a time, until vehicle is completed. Note: Replace used microfiber towel with a clean towel when needed.",
+  "packaging": [
+    [
+      "1.02 oz",
+      "12",
+      "xx lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "2116.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 282 px tall"
+  ]
+}

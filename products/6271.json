@@ -1,0 +1,86 @@
+{
+  "item": "6271",
+  "name": "Sunrise Special Car Shampoo",
+  "category": "Automotive Dressing",
+  "library_section": "Shampoos & Washes",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/6271.png",
+  "features": [
+    {
+      "text": "Biodegradable."
+    },
+    {
+      "text": "Extremely high foam."
+    },
+    {
+      "text": "Non-streaking."
+    },
+    {
+      "text": "Color-coded compliant Packaging."
+    }
+  ],
+  "ratings": [
+    "Foaming 9",
+    "Concentration 8"
+  ],
+  "description": "Sunrise Special Car Shampoo™ is a thick, highly concentrated liquid shampoo for cleaning dirt and grime from all exterior vehicle surfaces. For use on cars, trucks, buses, boats and other vehicles.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow/ Green"
+    ],
+    [
+      "Odor",
+      "",
+      "Soapy"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.60"
+    ],
+    [
+      "pH",
+      "E 70",
+      "~9.3"
+    ],
+    [
+      "RI",
+      "",
+      "~12.5"
+    ],
+    [
+      "Viscosity, Brookfield, cP",
+      "",
+      "~1750"
+    ]
+  ],
+  "application": "For best results, make sure surface is cool and out of direct sunlight. 1.) Shake well before using. 2.) Use approximately 1 to 2 oz per gallon of water. 3.) Adjust dilution to desired strength: less for cleaner conditions and more of extremely dirty conditions. 4.) Rinse vehicle thoroughly. 5.) Apply Sunrise Special Car Shampoo generously, using a mitt. 6.) Rinse well and wipe dry using a clean chamois.",
+  "packaging": [
+    [
+      "5 gal.",
+      "N/A",
+      "46 lbs"
+    ],
+    [
+      "55 gal.",
+      "N/A",
+      "495 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "6271.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Foaming - 9 Concentration - 8",
+    "Bottle photo is only 380 px tall"
+  ]
+}

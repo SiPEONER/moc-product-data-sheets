@@ -1,0 +1,96 @@
+{
+  "item": "04533P",
+  "name": "Heavy-Duty Antifreeze / Coolant",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/04533P.png",
+  "features": [
+    {
+      "text": "Protects against freeze-ups to -34° F"
+    },
+    {
+      "text": "Protects against summer boil-overs to 265° F"
+    },
+    {
+      "text": "Protects all cooling system metals, including aluminum"
+    },
+    {
+      "text": "Compatible with most coolant formulations"
+    },
+    {
+      "text": "Up to 600,000 miles of protection"
+    }
+  ],
+  "ratings": [],
+  "description": "The Heavy-Duty Extended Life 50/50 Coolant meets the performance requirements for heavy-duty diesel engines. This coolant incorporates Organic Acid Technology (OAT) along with heavy-duty corrosion inhibitors, providing protection against cavitation, liner pitting, mineral deposits, and corrosion in diesel engines. It offers protection for up to 600,000 miles on the initial fill. Its formulation protects all cooling system metals, including aluminum. This product can be used in diesel engines, stationary industrial applications, marine applications, and heavy-duty equipment.",
+  "specs": [
+    [
+      "Effect on metals (hoses/gaskets)",
+      "",
+      "None"
+    ],
+    [
+      "Color",
+      "",
+      "RED"
+    ],
+    [
+      "Storage Stability",
+      "",
+      "Min. 3 Years"
+    ],
+    [
+      "Specific Gravity @ 50/50",
+      "",
+      "1.13-1.14"
+    ],
+    [
+      "Freezing point @ 50/50",
+      "D1122",
+      "-34 °F / -37 °C"
+    ],
+    [
+      "Boiling point, @ 50/50",
+      "D1120",
+      "265 °F / 129 °C"
+    ],
+    [
+      "pH level",
+      "D1119",
+      "9"
+    ],
+    [
+      "Reserve Alkalinity",
+      "D1287",
+      "2"
+    ],
+    [
+      "Ash, Wt %",
+      "",
+      "2"
+    ],
+    [
+      "Silicon, ppm",
+      "",
+      "2"
+    ]
+  ],
+  "application": "Follow the vehicle's owner manual for instructions and dilution percentages before adding or changing antifreeze/ coolant. Note: Color may change and performance may be impacted if mixed with traditional green antifreeze /coolant.",
+  "packaging": [
+    [
+      "1 gal.",
+      "6",
+      "58 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "04533P.pdf",
+    "old_rev": 1
+  },
+  "review": [
+    "Bottle photo is only 862 px tall",
+    "Name read by hand from the header artwork"
+  ]
+}

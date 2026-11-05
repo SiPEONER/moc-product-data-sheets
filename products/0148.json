@@ -1,0 +1,94 @@
+{
+  "item": "0148",
+  "name": "Gear Guard",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0148.png",
+  "features": [
+    {
+      "text": "Superior lubrication and protection for bearings and gears. Helps prevent wear, pitting and corrosion under high-load conditions."
+    },
+    {
+      "text": "Excellent fluidity in extreme temperatures."
+    },
+    {
+      "text": "Eliminates the need to inventory and use multiple gear oils for different weather conditions."
+    },
+    {
+      "text": "Provides proper lubrication in summer and winter."
+    },
+    {
+      "text": "Helps reduce gear noise in all conditions due to its multigrade formula and increases driveline efficiency."
+    },
+    {
+      "text": "Meets stringent industry standards, including API GL-5, MT-1 and SAE J2360 specifications."
+    }
+  ],
+  "ratings": [],
+  "description": "A multi-grade synthetic (polyalphaolefin), A.P.I. GL-5 rated, hypoid gear oil formulated to SAE 75W-140 viscosity. It is a premium extreme-pressure lubricant designed for use in conventional differentials, limited-slip differentials, and manual transmissions. MOC® Gear Guard™ is a versatile product that can be used in place of SAE 75W, Motorcraft SAE 75W-85, SAE 80W-90, SAE 90, or SAE 80W-140 and SAE 85W-140 or SAE 140 oils.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Amber"
+    ],
+    [
+      "Odor",
+      "",
+      "Petroleum"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "~0.86"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "~7.18"
+    ],
+    [
+      "Viscosity @ 100°C, cSt",
+      "D445",
+      "~26"
+    ],
+    [
+      "Viscosity @ 40°C, cSt",
+      "D445",
+      "~212"
+    ],
+    [
+      "Viscosity Index",
+      "D2270",
+      "~135.000"
+    ]
+  ],
+  "application": "Follow vehicle manufacturer’s recommendations for use of product. Gear Guard™ is designed to be used in conjunction with MOC® Differential/Driveline service and tools. NOTE: Limited-slip differentials require the use of MOC® Limited-Slip Concentrate #0149 with MOC® Gear Guard™.",
+  "packaging": [
+    [
+      "1 qt..",
+      "12",
+      "24 lbs."
+    ],
+    [
+      "16 gal.",
+      "1 Drum",
+      "248 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0148.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 389 px tall",
+    "Spelling corrected from the old sheet: Pertroleum -> Petroleum"
+  ]
+}

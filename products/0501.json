@@ -1,0 +1,80 @@
+{
+  "item": "0501",
+  "name": "Motor-oil Supplement",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0501.png",
+  "features": [
+    {
+      "text": "Improves Performance."
+    },
+    {
+      "text": "Reduces Friction."
+    },
+    {
+      "text": "Helps Keep Engines Clean."
+    },
+    {
+      "text": "Compatible with all types of internal-combustion engines."
+    }
+  ],
+  "ratings": [],
+  "description": "Scientifically formulated to increase performance by reducing friction and wear. MOC® Motor-Oil Supplement contains dispersants and detergents to help prevent sludge buildup and oxidation breakdown. The product lubricates internal parts to create a low-friction surface. This reduction in friction can protect new engines during break-in and start-ups. It may be used in all internal-combustion engines, including rotary and diesel.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Brown"
+    ],
+    [
+      "Odor",
+      "",
+      "Petroleum"
+    ],
+    [
+      "Density, U.S. (g/ml) @ 68°F",
+      "D1298",
+      "0.99"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "D1250",
+      "8.30"
+    ],
+    [
+      "Viscosity, cSt @ 100°C",
+      "D445",
+      "~4"
+    ],
+    [
+      "Boiling Point (°F) (based on components)",
+      "",
+      ">527"
+    ],
+    [
+      "Flash Point (°F) (based on components)",
+      "",
+      ">248"
+    ]
+  ],
+  "application": "Add contents of the bottle into the crankcase at each oil change.",
+  "packaging": [
+    [
+      "8 oz.",
+      "24 Bottles",
+      "14 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0501.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

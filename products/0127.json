@@ -1,0 +1,91 @@
+{
+  "item": "0127",
+  "name": "Premium Fuel Treatment",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0127.png",
+  "features": [
+    {
+      "lead": "Improves Performance",
+      "text": "can improve driveability in one tankful."
+    },
+    {
+      "text": "Cleans Combustion Chamber deposits."
+    },
+    {
+      "text": "Cleans Injector Tips for Better Fuel Flow: clean engines to maximize fuel efficiency."
+    },
+    {
+      "lead": "Inhibits Corrosion",
+      "text": "special formula helps prevent rusting."
+    },
+    {
+      "text": "Will not harm oxygen sensors or catalytic converters."
+    },
+    {
+      "text": "Compatible with all fuel types"
+    }
+  ],
+  "ratings": [],
+  "description": "A highly concentrated fuel additive that cleans the entire fuel system, including the combustion chamber, intake valves, and injector tips. It dissolves carbonaceous residue and removes harmful deposits that restrict fuel flow, cause inefficient ignition and reduce power output. The high-quality detergents and additives in Premium Fuel Treatment are able to restore lost performance and gas mileage. It can be used in all types of fuel, including alcohol-blended versions. The formula is compatible with all fuel system materials, catalytic converters and oxygen sensors.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Light Brown"
+    ],
+    [
+      "Odor",
+      "",
+      "Amine"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.88"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "7.34"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "D93",
+      "124"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      ">185"
+    ],
+    [
+      "%VOC",
+      "",
+      "21.4"
+    ]
+  ],
+  "application": "Pour entire contents of bottle into fuel tank. Caution: make sure tank has a minimum of five gallons of gas. Less dilution may cause erratically-running engine during cleaning cycle.",
+  "packaging": [
+    [
+      "12 oz.",
+      "24",
+      "19 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0127.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 381 px tall",
+    "Spelling corrected from the old sheet: Treatement -> Treatment"
+  ]
+}

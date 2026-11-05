@@ -1,0 +1,85 @@
+{
+  "item": "0419",
+  "name": "Universal Transmission Conditioner",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0419.png",
+  "features": [
+    {
+      "text": "Improves Fluid Stability and Service Life"
+    },
+    {
+      "text": "Maintains optimal friction and anti-shutter properties."
+    },
+    {
+      "text": "Synthetic-Based Formula."
+    },
+    {
+      "text": "Can be used in automatic transmissions and all types of CVT systems: belt or chain."
+    },
+    {
+      "text": "Compatible with all types of ATF & CVT fluid."
+    }
+  ],
+  "ratings": [],
+  "description": "A concentrated, synthetic-based formula designed to fortify new and used transmission fluid. It provides improved oxidation stability and helps reduce deposit formation. This product can be used in both automatic and CVT transmissions and is compatible with all types of ATF and CVT fluids. The formula does not alter friction and anti-shutter properties that are critical to fluid performance.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear Oil"
+    ],
+    [
+      "Color",
+      "",
+      "Amber"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "~0.86"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "~7.1"
+    ],
+    [
+      "Viscosity @ 100° C, cSt",
+      "D445",
+      "~7.0"
+    ],
+    [
+      "Viscosity, @ 40° C, cSt",
+      "D445",
+      "~35"
+    ],
+    [
+      "Boiling Point (°F) (Based on components)",
+      "",
+      "≥464"
+    ],
+    [
+      "Flash Point (°F) (Based on components)",
+      "",
+      ">266"
+    ]
+  ],
+  "application": "Add contents of the bottle to transmission after every fluid change or between servicing to fortify used fluid.",
+  "packaging": [
+    [
+      "8 oz",
+      "24",
+      "10.8 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0419.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 388 px tall"
+  ]
+}

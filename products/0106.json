@@ -1,0 +1,90 @@
+{
+  "item": "0106",
+  "name": "Fuel System Treatment",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0106.png",
+  "features": [
+    {
+      "lead": "Helps Maintain Fuel System Performance",
+      "text": "keeps engines running cleanly to operate more efficiently."
+    },
+    {
+      "text": "Keeps Injector Tips Clean for Better Fuel Flow - clean engines maximize fuel efficiency."
+    },
+    {
+      "lead": "Protects",
+      "text": "will not cause harm to catalytic converters or fuel systems."
+    },
+    {
+      "lead": "Versatile",
+      "text": "can be used in leaded or unleaded fuel."
+    }
+  ],
+  "ratings": [],
+  "description": "Designed to prevent deposit build-up in the fuel system, including the fuel injectors, intake valves and combustion chambers. By preventing buildup of harmful deposits, this product helps avoid problems such as stalling, hesitation, power loss and restricted fuel flow. MOC® Fuel Injector Cleaner can be used with leaded or unleaded fuel, and it will not harm catalytic converters or oxygen sensors.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Amber - Light Brown"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.82"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "6.84"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      ">422"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "D93",
+      "192"
+    ]
+  ],
+  "application": "Add 8oz of product to the fuel tank to treat up to 15-18 gallons of fuel.",
+  "packaging": [
+    [
+      "8 oz.",
+      "24 Bottles",
+      "13 lbs."
+    ],
+    [
+      "5 gal.",
+      "1 cube",
+      "38.36 lbs."
+    ],
+    [
+      "55 gal.",
+      "1 drum",
+      "406.6 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0106.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 378 px tall"
+  ]
+}

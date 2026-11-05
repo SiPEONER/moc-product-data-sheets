@@ -1,0 +1,90 @@
+{
+  "item": "0122",
+  "name": "Premium Diesel Engine Treatment",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0122.png",
+  "features": [
+    {
+      "text": "Significantly reduces friction and improves load bearing ability by 180% (based on ASTM Test D3233A)."
+    },
+    {
+      "text": "Reduces sludge and varnish."
+    },
+    {
+      "text": "Greatly improves engine oil's ability to resist oxidation breakdown. (Based on ASTM D4742 TFOUT tests.)"
+    },
+    {
+      "text": "Protects vital engine parts during start-ups and new car break-in periods."
+    },
+    {
+      "text": "Compatible with all diesel oils including synthetic and multi- grade."
+    }
+  ],
+  "ratings": [],
+  "description": "Designed to fortify oil in modern high-output diesel engines that is subject to extreme pressure and temperatures. Increased soot and sulfur accumulation is common in today's diesel engine oil. These contaminants combine with moisture to form acids that can quickly cause corrosive wear and damage to engine components. This full-synthetic formula contains advanced antioxidants, dispersants and lubricants that provide long-lasting protection and maintain oil performance. Premium Diesel Engine Treatment neutralizes acids, prevents sludge, reduces friction, stabilizes viscosity, and helps disperse soot buildup. Pour entire contents (11 oz.) into crankcase with each oil change.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Brown"
+    ],
+    [
+      "Odor",
+      "",
+      "Hydrocarbon"
+    ],
+    [
+      "Density (g/ml)",
+      "D4052",
+      "0.88"
+    ],
+    [
+      "Density, U.S. (lbs/gal) calculated",
+      "",
+      "7.34"
+    ],
+    [
+      "Viscosity,cSt @ 100°C",
+      "D445",
+      "~9"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "",
+      "≥248"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      "≥455"
+    ]
+  ],
+  "application": "Pour entire contents of bottle into crankcase after or between an oil change. Use 11 oz. size for passenger cars and trucks. Use 32 oz. size for large commercial vehicle engines.",
+  "packaging": [
+    [
+      "11 oz.",
+      "24",
+      "21 lbs."
+    ],
+    [
+      "32 oz.",
+      "12",
+      "24.5 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0122.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 380 px tall"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "item": "0428",
+  "name": "Gear Guard Plus SAE 75W-140",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0428.png",
+  "features": [
+    {
+      "text": "Superior lubrication and protection for bearings and gears."
+    },
+    {
+      "text": "Helps prevent wear, pitting, gear noise and corrosion under high-load conditions."
+    },
+    {
+      "text": "Excellent fluidity and protection in extreme temperatures."
+    },
+    {
+      "text": "Contains special additives to reduce chattering in limited- slip differentials."
+    },
+    {
+      "text": "• Can be used in conventional differentials in addition to limited slip, avoiding the need for a supplement or application errors."
+    },
+    {
+      "text": "Recommended for use where Ford M2C-192A, GM 12346140, Chrysler MS-8985, or GL-5 SAE 75W-140 gear oil is specified."
+    }
+  ],
+  "ratings": [],
+  "description": "A multigrade synthetic (polyalphaolefin), A.P.I. GL-5 rated gear oil formulated to SAE 75W-140 viscosity. It is a premium extreme-pressure lubricant designed for use in axle applications requiring limited-slip performance but can also be used in conventional differentials. MOC® Gear Guard™ Plus SAE 75W-140 is a versatile product that can be used in place of 85w-140, SAE 140 oils and eliminates the need for supplemental friction modifiers such as Ford M2C118-A, Chrysler MS- 5630, or GM 1052358. It is designed to provide excellent extreme pressure protection, load carrying capacity, anti-foam performance, corrosion protection, and thermal stability protection.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Oil"
+    ],
+    [
+      "Color",
+      "",
+      "Amber"
+    ],
+    [
+      "Odor",
+      "",
+      "Petroleum"
+    ],
+    [
+      "Density (g/mL) @68 °F",
+      "D4052",
+      "0.87"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated @68 °F",
+      "",
+      "7.26"
+    ],
+    [
+      "Viscosity @ 100°C, cSt",
+      "D445",
+      "26.0"
+    ],
+    [
+      "Viscosity Index",
+      "D2270",
+      "120 (typical)"
+    ],
+    [
+      "Brookfield Viscosity @ -40° C, cP",
+      "D2983",
+      "100,000"
+    ]
+  ],
+  "application": "Follow vehicle manufacturer’s recommendations for use of product. Gear Guard™ Plus is designed to be used in conjunction with MOC® Differential/Driveline service equipment and tools.",
+  "packaging": [
+    [
+      "1 quart",
+      "12 Bottles",
+      "24.14 lbs."
+    ],
+    [
+      "16 gal",
+      "1 drum",
+      "129.9 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0428.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 385 px tall"
+  ]
+}

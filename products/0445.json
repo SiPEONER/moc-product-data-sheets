@@ -1,0 +1,85 @@
+{
+  "item": "0445",
+  "name": "Cooling System Protector",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/0445.png",
+  "features": [
+    {
+      "text": "Eliminates the need to use 2 or 3 different products."
+    },
+    {
+      "text": "Compatible with all types of coolant"
+    },
+    {
+      "text": "Proven to increase corrosion inhibiting performance of treated coolant and fortify system services from corrosion damage for an extended period."
+    },
+    {
+      "text": "Increases protection of water pump and reduces potential damage to pump surfaces."
+    },
+    {
+      "text": "Sealing compounds help stop minor leaks and seal cracks in the radiator and block."
+    }
+  ],
+  "ratings": [],
+  "description": "A concentrated additive that provides complete protection for the entire cooling system. It protects the cooling system in four different ways. It contains a concentrated blend of corrosion inhibitors, anti-foaming agents, pump lubricants and sealing compounds. This product contains a unique corrosion and rust inhibitor that enhances protection of iron, aluminum, copper, and solder surfaces. Cooling System Protector is specially formulated to improve heat transfer qualities, helping reduce operating temperatures while towing, carrying heavy loads, or operating in high temperatures.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow-brown"
+    ],
+    [
+      "Odor",
+      "",
+      "Faint Ammonia"
+    ],
+    [
+      "pH",
+      "D1287",
+      "8.7-9.5"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "1.06"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "8.85"
+    ],
+    [
+      "Boiling Point (°F) Based on components",
+      "",
+      ">212"
+    ],
+    [
+      "Flash Point (°F) Based on components",
+      "",
+      ">232"
+    ]
+  ],
+  "application": "Shake well before using. If used between services, allow cooling system to cool before removing radiator cap to add product. 1. Remove radiator cap and add entire contents of container to cooling system. 2. Replace radiator cap and allow car to idle for 10-15 minutes.",
+  "packaging": [
+    [
+      "12 oz.",
+      "24",
+      "22 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0445.pdf",
+    "old_rev": 1
+  },
+  "review": [
+    "Bottle photo is only 395 px tall"
+  ]
+}

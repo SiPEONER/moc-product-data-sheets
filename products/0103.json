@@ -1,0 +1,82 @@
+{
+  "item": "0103",
+  "name": "ATF Conditioner",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0103.png",
+  "features": [
+    {
+      "text": "Helps fortify ATF against oxidation and acid formation."
+    },
+    {
+      "text": "Helps keep seals soft and pliable"
+    },
+    {
+      "text": "Helps prevent the formation of sludge and varnish."
+    },
+    {
+      "text": "Contains shear-resistant viscosity stabilizers to help maintain smooth shifting."
+    }
+  ],
+  "ratings": [],
+  "description": "MOC® Automatic Transmission Fluid Conditioner is an additive that contains a special detergent package to fortify ATF against oxidation, acid formation and breakdown due to thermal stress. The advanced formula contains synthetic base oils, shear-resistant viscosity stabilizers, dispersants and seal conditioners to help prevent deposits, erratic shifting and leaks. This “UNIVERSAL” conditioner is designed for use in the newest generation transmissions, including G.M., Dex, Ford Mercon, Chrysler, Nissan, Toyota, Hyundai, Kia, Subaru and many other manufacturers.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear Oil"
+    ],
+    [
+      "Color",
+      "",
+      "Amber Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Mild Petroleum"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.84"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "",
+      "7.00"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      "≥464"
+    ],
+    [
+      "Flash Point (°F) (based on components)",
+      "",
+      "273"
+    ],
+    [
+      "Viscosity, cSt, @100°C",
+      "D445",
+      "7"
+    ]
+  ],
+  "application": "Add to transmission at each service or when needed. Use between ATF fluid-exchanges.",
+  "packaging": [
+    [
+      "8 oz.",
+      "24",
+      "14 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0103.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 387 px tall"
+  ]
+}

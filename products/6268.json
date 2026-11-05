@@ -1,0 +1,94 @@
+{
+  "item": "6268",
+  "name": "Tunnel Wash",
+  "category": "Automotive Shampoo",
+  "library_section": "Shampoos & Washes",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/6268.png",
+  "features": [
+    {
+      "text": "Very-high-foaming car-wash liquid"
+    },
+    {
+      "text": "Will not leave streaks when used properly"
+    },
+    {
+      "text": "Designed to be used in proportioning system"
+    }
+  ],
+  "ratings": [],
+  "description": "A thin, orange liquid with a soapy aroma. It is an economical, concentrated shampoo that produces a rich, long-lasting foam for use on vehicles, trailers, boats, or motor homes. This product is thin enough to be used through proportioning systems and car-wash tunnels",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Orange"
+    ],
+    [
+      "Odor",
+      "",
+      "Soap"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.60"
+    ],
+    [
+      "pH",
+      "E 70",
+      "~9.0"
+    ],
+    [
+      "RI",
+      "",
+      "~9.0"
+    ],
+    [
+      "Viscosity, Brookfield, cP",
+      "",
+      "~200"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "Machine Use: Set proportioning or tunnel system to desired dilution setting. Place pickup hose in drum. Operate equipment according to manufacturer’s directions. Hand Use: Use 1 part concentrate for 100 parts waters (approximately 2 oz. for each 1 gallon of water). Adjust dilution to desired strength for extremely dirty conditions. Rinse vehicle thoroughly. Apply solution generously, using a mitt. Rinse well. Wipe dry with a clean chamois. For best results, surface should be cool and out of direct sunlight.",
+  "packaging": [
+    [
+      "5 gal",
+      "N/A",
+      "47 lbs."
+    ],
+    [
+      "55 gal",
+      "N/A",
+      "499 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "6268.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 376 px tall"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "item": "5131",
+  "name": "Bright Shine",
+  "category": "Automotive Dressing",
+  "library_section": "Dressings & Protectants",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/5131.png",
+  "features": [
+    {
+      "text": "A versatile, water-based dressing that is both VOC- compliant and body shop safe."
+    },
+    {
+      "text": "Shines and protects interior and exterior surfaces."
+    },
+    {
+      "text": "Silicone-free formula will not “fish eye” freshly applied paint."
+    },
+    {
+      "text": "Color-coded compliant packaging."
+    }
+  ],
+  "ratings": [
+    "Gloss 8",
+    "Durability 3"
+  ],
+  "description": "A special, water-based, concentrated dressing for use in places where silicone is undesirable. This product is designed for use in body shops, on trim, vinyl, and rubber.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Medium Blue"
+    ],
+    [
+      "Odor",
+      "",
+      "Mild"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 60°F",
+      "D1250",
+      "9.37"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "D 93",
+      "119"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "Make sure tires or trim are clean and dry before applying product. 1.) Apply product with a trigger sprayer, sponge, or brush until there is complete coverage. 2.) Allow product to dry and wipe away excess with a clean towel (to prevent \"sling\"). Important! Excess product and improper application of dressings on tires may result in product “sling” or splatter which can stain adjacent painted surfaces of a vehicle.",
+  "packaging": [
+    [
+      "1 gal.",
+      "4 Bottles",
+      "38.6 lbs"
+    ],
+    [
+      "5 gal.",
+      "N/A",
+      "50.4 lbs"
+    ],
+    [
+      "55 gal.",
+      "N/A",
+      "536.8 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "5131.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Gloss - 8 Durability - 3"
+  ]
+}

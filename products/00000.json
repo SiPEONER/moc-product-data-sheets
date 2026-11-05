@@ -3,32 +3,96 @@
   "item": "00000",
   "name": "Product Name Two Lines Max",
   "category": "Automotive Additives & Lubricants",
-  "library_section": "Engine Treatments",
+  "library_section": "Additives & Fluids",
   "rev": "1.0",
   "issued": "2026",
   "image": "",
   "features": [
-    { "lead": "Lead-In", "text": "optional bold lead-in, then // and the benefit in sentence case." },
-    { "lead": "Lead-In", "text": "five to seven features; nine lines of text at most." },
-    { "text": "Or a plain feature with no lead-in. Pick one style per sheet." },
-    { "text": "Cite the test behind any number (based on ASTM D0000 test results)." },
-    { "text": "End every feature with a period." }
+    {
+      "lead": "Lead-In",
+      "text": "optional bold lead-in, then // and the benefit in sentence case."
+    },
+    {
+      "lead": "Lead-In",
+      "text": "five to seven features; nine lines of text at most."
+    },
+    {
+      "text": "Or a plain feature with no lead-in. Pick one style per sheet."
+    },
+    {
+      "text": "Cite the test behind any number (based on ASTM D0000 test results)."
+    },
+    {
+      "text": "End every feature with a period."
+    }
   ],
   "description": "One paragraph, about 80 words. Say what the product is, what it does and where it is used. Name the product in full once (MOC® Product Name). Keep claims to what the specifications and test results below support. No em dashes; use a comma, colon or period instead. Longer copy fits only when the features are short, and the build stops any sheet that runs over.",
   "specs": [
-    ["Appearance", "", "Result"],
-    ["Color", "", "Result"],
-    ["Odor", "", "Result"],
-    ["Density (g/mL)", "D4052", "0.00"],
-    ["Density, U.S. (lbs/gal), calculated", "", "0.00"],
-    ["Viscosity, cSt @ 100°C", "D445", "~0"],
-    ["Flash Point (°F)", "D93", "≥000"],
-    ["Boiling Point (°F)", "D0000", "≥000"]
+    [
+      "Appearance",
+      "",
+      "Result"
+    ],
+    [
+      "Color",
+      "",
+      "Result"
+    ],
+    [
+      "Odor",
+      "",
+      "Result"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.00"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "0.00"
+    ],
+    [
+      "Viscosity, cSt @ 100°C",
+      "D445",
+      "~0"
+    ],
+    [
+      "Flash Point (°F)",
+      "D93",
+      "≥000"
+    ],
+    [
+      "Boiling Point (°F)",
+      "D0000",
+      "≥000"
+    ]
   ],
   "application": "One or two sentences: how much, where it goes and how often.",
   "packaging": [
-    ["Fill", "00 fl. oz. (000 mL)"],
-    ["Case Quantity", "00"],
-    ["Case Weight", "00 lbs."]
-  ]
+    [
+      "00 fl. oz. (000 mL)",
+      "00",
+      "00 lbs."
+    ],
+    [
+      "1 gal",
+      "4",
+      "00 lbs."
+    ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Claim Here",
+    "description": "About 70 words: what the product does and why it matters to the customer, in plain language. Keep claims consistent with the product's data sheet. No em dashes. The headline is one benefit in two to three short words, set in capitals by the template.",
+    "benefits": [
+      "Three to five benefits, one line each where possible.",
+      "Start with a verb or the result the customer gets.",
+      "End every benefit with a period.",
+      "Keep each one consistent with the data sheet."
+    ],
+    "callout": "Optional call-out, eight words max"
+  },
+  "ratings": []
 }

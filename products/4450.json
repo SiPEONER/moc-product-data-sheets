@@ -1,0 +1,87 @@
+{
+  "item": "4450",
+  "name": "Power Red Degreaser",
+  "category": "Automotive Degreaser",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4450.png",
+  "features": [
+    {
+      "text": "Loosens and emulsifies grease and grime"
+    },
+    {
+      "text": "Rich foam lifts soil and rinses away oils."
+    },
+    {
+      "text": "Can be used as is or diluted."
+    }
+  ],
+  "ratings": [],
+  "description": "A citrus-scented, all-purpose heavy-duty cleaning and degreasing compound.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Light Viscosity Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Pink"
+    ],
+    [
+      "Odor",
+      "",
+      "Citrus"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.8"
+    ],
+    [
+      "pH",
+      "E 70",
+      "~13.5"
+    ],
+    [
+      "RI",
+      "",
+      "~16.0"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "Light-Duty Cleaning: dilute 1:20 with water. Medium-Duty Cleaning: dilute 1:10 with water. Heavy-Duty Cleaning: dilute 1:5 with water. 1) Dilute with water and apply with spray bottle or sponge. 2) Spray or wipe diluted solution on surface to be cleaned. 3) If needed, scrub surface with a brush or mop. 4) Rinse surface with clean water. AVOID CONTACT WITH ALUMINUM, MAGNESIUM, AND PAINTED SURFACES, AS SPOTTING OR DAMAGE MAY OCCUR.",
+  "packaging": [
+    [
+      "5 gal",
+      "1",
+      "47 lbs."
+    ],
+    [
+      "55 gal",
+      "1",
+      "506 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4450.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

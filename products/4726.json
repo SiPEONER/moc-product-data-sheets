@@ -1,0 +1,102 @@
+{
+  "item": "4726",
+  "name": "Ultra Exterior Concentrate",
+  "category": "Automotive Cleaner / Degreaser",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/4726.png",
+  "features": [
+    {
+      "text": "Cleans grease, grime and soil from exterior surfaces."
+    },
+    {
+      "text": "Complies with VOC regulations."
+    },
+    {
+      "text": "Color-Coded compliant packaging."
+    },
+    {
+      "text": "Reduces the number of products needed in a shop and helps control inventory."
+    }
+  ],
+  "ratings": [],
+  "description": "A versatile cleaner designed to remove dirt, grease and grime from a wide range of vehicle exterior surfaces such as engines, tires and wheel wells. Test on a small inconspicuous area before using on the entire surface. Do not mix with other products as they may not be compatible and could result in unsatisfactory performance.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Dark Orange"
+    ],
+    [
+      "Odor",
+      "",
+      "Citrus"
+    ],
+    [
+      "Density, U.S. (g/ml)",
+      "D4052",
+      "1.08 - 1.10"
+    ],
+    [
+      "Density, U.S. (lbs/gal)",
+      "",
+      "9 - 9.18"
+    ],
+    [
+      "pH",
+      "E 70",
+      "13-14"
+    ],
+    [
+      "Boiling Point/ Range",
+      "Lowest Liquid Component",
+      "100°C/212°F"
+    ],
+    [
+      "Flash Point",
+      "Lowest Liquid Component",
+      "62°C/143.6°F"
+    ],
+    [
+      "VOC Content (%)",
+      "",
+      "9.9%"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "Mixing Instructions: Option 1 - Dilution by proportioner. Remove cap, create a hole in the center of the cap or secure cap/draw tube assembly from MOC Recon Cabinet system. Place the draw tube of the proportioner into the container. Set dilution on proportioner to desired concentration. Operate proportioner per manufacturer’s instructions. Use filtered or deionized water for best results. Option 2 - Transfer entire contents to a clean empty 55-gallon drum. Fill drum with filtered or deionized water until full. Stir contents until uniform. Apply secondary label LB4726S to drum. Dilute further as needed for final use and concentration.",
+  "packaging": [
+    [
+      "5 gal",
+      "N/A",
+      "48.95 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4726.pdf",
+    "old_rev": 1
+  },
+  "review": [
+    "Bottle photo is only 358 px tall"
+  ]
+}

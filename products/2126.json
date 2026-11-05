@@ -1,0 +1,89 @@
+{
+  "item": "2126",
+  "name": "Magna Crystal",
+  "category": "Automotive Wax & Polish",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/2126.png",
+  "features": [
+    {
+      "text": "Cleans, polishes and is easily removed by hand."
+    },
+    {
+      "text": "Leaves no streaks or powder behind."
+    },
+    {
+      "lead": "Versatile",
+      "text": "works with a high speed and orbital buffers."
+    }
+  ],
+  "ratings": [
+    "Abrasiveness 2",
+    "Gloss 8",
+    "Durability 6"
+  ],
+  "description": "A free-flowing, viscous, clearcoat-cleaner glaze. It is pink in color with a slightly solvent odor. Magna Crystal ® can be used on conventional paints, as well as clearcoat, to polish and protect, while removing scratches and light oxidation.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous cream"
+    ],
+    [
+      "Color",
+      "",
+      "Pink"
+    ],
+    [
+      "Odor",
+      "",
+      "Cherry"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D1475",
+      "~8.14"
+    ],
+    [
+      "Solids, %",
+      "E1868",
+      "~ 14"
+    ],
+    [
+      "Brookfield Viscosity, cPs",
+      "",
+      "~30,000"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "Hand Use: Using a saturated applicator pad, apply in an overlapping, circular motion. Allow to dry completely and remove with a clean microfiber towel. Can be removed with an orbital machine. Machine Use: Squirt material on surface and distribute with buffer pad. Turn on buffer, using medium pressure, machine to a clean, high-gloss surface. Can be used with all wool or foam pads.",
+  "packaging": [
+    [
+      "1 gal.",
+      "4",
+      "34 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "2126.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Abrasiveness - 2 Gloss - 8 Durability - 6"
+  ]
+}

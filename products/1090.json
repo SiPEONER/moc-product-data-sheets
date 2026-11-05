@@ -1,0 +1,78 @@
+{
+  "item": "1090",
+  "name": "Dissolve It",
+  "category": "Aerosols",
+  "library_section": "Aerosols & Service Chemicals",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/1090.png",
+  "features": [
+    {
+      "text": "Removes built-up contaminants and debris quickly and easily."
+    },
+    {
+      "text": "Can avoid the need for disassembly of parts."
+    },
+    {
+      "text": "Just spray and allow surface to dry."
+    },
+    {
+      "text": "Contains no fluorocarbons or chlorinated solvents."
+    },
+    {
+      "text": "Not for sale or use in California and OTC States."
+    }
+  ],
+  "ratings": [],
+  "description": "A specially formulated blend of solvents designed to dissolve, disperse and remove contaminants and other organic material from a variety of surfaces. This non-chlorinated, CFC-free formula dries quickly and does not leave a residue or oily film behind. The multi-purpose solvent works well on metal parts, equipment and for various automotive or industrial uses.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Organic Solvents - Compressed Gas"
+    ],
+    [
+      "Color (liquid portion)",
+      "",
+      "Colorless to Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Sweet"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (liquid portion)",
+      "D4052",
+      "5.92"
+    ],
+    [
+      "Aerosol Flammability, NFPA Rating",
+      "",
+      "Level 3 Aerosol"
+    ],
+    [
+      "Can Pressure, psi",
+      "",
+      "~ 100"
+    ],
+    [
+      "% V.O.C",
+      "",
+      "95"
+    ]
+  ],
+  "application": "First test product on an inconspicuous area to determine color fastness and compatibility before using on entire surface. 1. Hold can 8 to 12 inches from surface to be cleaned. 2. Spray liberally until surface is clean. 3. Allow to air dry or remove excess with an absorbent towel or cloth. Note: For harder-to-remove contaminants, spray a clean cloth with product and wipe surface.",
+  "packaging": [
+    [
+      "13 oz.",
+      "12 cans",
+      "13.1 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "1090.pdf",
+    "old_rev": 3
+  },
+  "review": []
+}

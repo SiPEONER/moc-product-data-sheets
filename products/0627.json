@@ -1,0 +1,75 @@
+{
+  "item": "0627",
+  "name": "Cold Protect Cold Weather Diesel Treatment",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/0627.png",
+  "features": [
+    {
+      "text": "Improves cold-flow performance."
+    },
+    {
+      "text": "Anti-gel and wax crystal protection."
+    },
+    {
+      "text": "Controls moisture"
+    },
+    {
+      "text": "Helps prevent fuel-filter plugging."
+    }
+  ],
+  "ratings": [],
+  "description": "A cold-weather diesel fuel supplement designed to help keep diesel fuel flowing properly in low temperatures. Cold Protect lowers the CFPP (cold filter plugging point), inhibits wax crystals and gel formation while providing deicing and freeze protection. Cold Protect helps deliver dependable starts and reliable engine performance when temperatures drop.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Petroleum Distillates"
+    ],
+    [
+      "Density (mg/mL)",
+      "D5931",
+      "0.843 - 0.861"
+    ],
+    [
+      "Density, U.S. (lbs/gal) (calculated)",
+      "",
+      "7.035 - 7.185"
+    ],
+    [
+      "Flash Point",
+      "",
+      "63 °C / 145 °F"
+    ],
+    [
+      "VOC %",
+      "",
+      "42.5%"
+    ]
+  ],
+  "application": "Directions: Pour product into fuel tank. Treat Rate: Add 1 ounce of product for every 14-16 gallons of diesel fuel. One gallon of product treats up to 2,000 gallons of diesel fuel. USE ONLY AS DIRECTED",
+  "packaging": [
+    [
+      "55 gl.",
+      "Single Drum",
+      "429 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0627.pdf",
+    "old_rev": 1
+  },
+  "review": []
+}

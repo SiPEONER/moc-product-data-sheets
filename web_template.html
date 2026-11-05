@@ -1,10 +1,10 @@
-<!doctype html>
+{% set sections = lib.sections %}<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Product Data Sheets // MOC Products</title>
-<meta name="description" content="Product performance and data sheets for MOC Products automotive additives and lubricants.">
+<title>Product {{ lib.label }} // MOC Products</title>
+<meta name="description" content="{{ 'Product performance and data sheets' if lib.kind == 'pds' else 'Product ad sheets' }} for MOC Products automotive additives and lubricants.">
 {% if noindex %}<meta name="robots" content="noindex, nofollow">{% endif %}
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <style>
@@ -43,6 +43,10 @@ img { max-width: 100%; }
 .masthead { border-bottom: 2px solid #000000; display: flex; align-items: center; justify-content: space-between; gap: 16px 32px; flex-wrap: wrap; padding-top: 16px; padding-bottom: 16px; }
 .brand { display: flex; align-items: center; gap: 14px; text-decoration: none; color: inherit; }
 .brand img { width: 40px; height: auto; display: block; }
+.libs { display: flex; flex-wrap: wrap; gap: 4px; }
+.libs a { display: inline-flex; align-items: center; gap: 8px; padding: 11px 12px 9px; border: 2px solid #000000; font-size: 11px; font-weight: 900; letter-spacing: 0.1em; text-transform: uppercase; text-decoration: none; color: #000000; background: #ffffff; transition: background-color 120ms, color 120ms; }
+.libs a:hover, .libs a[aria-current="page"] { background: #000000; color: #ffffff; }
+.libs .n { font-weight: 400; }
 
 .hero { padding-top: 56px; padding-bottom: 48px; border-bottom: 2px solid #000000; }
 .kicker { margin-bottom: 24px; }
@@ -99,25 +103,27 @@ img { max-width: 100%; }
 </style>
 </head>
 <body>
-<a href="#main" class="skip-link">Skip to data sheets</a>
+<a href="#main" class="skip-link">Skip to {{ lib.label|lower }}</a>
 <div class="page">
 <div class="sheet">
   <header class="masthead in">
     <a class="brand" href="./" aria-label="MOC Products data sheets home">
       <img src="logo.svg" alt="MOC Products" width="40" height="41">
-      <span class="micro">Product Data Sheets</span>
+      <span class="micro">Product Sheets</span>
     </a>
-    <p class="micro micro-reg">{{ total }} {{ "sheet" if total == 1 else "sheets" }} // Updated {{ updated }}</p>
+    <nav class="libs" aria-label="Libraries">
+      {% for l in libraries %}<a href="{{ './' if l.page == 'index.html' else l.page[:-5] }}"{% if l.kind == lib.kind %} aria-current="page"{% endif %}>{{ l.label }} <span class="n">{{ l.total }}</span></a>{% endfor %}
+    </nav>
   </header>
 
   <main id="main">
     <header class="hero in">
-      <p class="micro kicker">Doc no. MOC-PDS // Product data sheets // Rev 1.0 // Issued 2026</p>
-      <h1 class="title">Product Data Sheets</h1>
-      <div class="hero-row"><p class="stamp">Automotive Additives &amp; Lubricants</p></div>
-      <p class="lead">Performance data, specifications and packaging for every MOC Products additive. Find a product by name or item number and download its data sheet.</p>
+      <p class="micro kicker">Doc no. MOC-{{ lib.code }} // Product {{ lib.label|lower }} // Rev 1.0 // Updated {{ updated }}</p>
+      <h1 class="title">Product {{ lib.label }}</h1>
+      <div class="hero-row"><p class="stamp">{{ lib.total }} {{ "product" if lib.total == 1 else "products" }} // {{ sections|length }} {{ "section" if sections|length == 1 else "sections" }}</p></div>
+      <p class="lead">{% if lib.kind == "pds" %}Performance data, specifications and packaging for every MOC Products additive, fluid, cleaner and appearance product. Find a product by name or item number and download its data sheet.{% else %}One-page sales sheets for MOC Products, ready to print or send to a customer. Find a product by name or item number and download its ad sheet.{% endif %}</p>
       <form class="search" role="search" id="search-form">
-        <label for="q" class="sr-only">Search data sheets</label>
+        <label for="q" class="sr-only">Search {{ lib.label|lower }}</label>
         <input id="q" name="q" type="search" class="field" placeholder="Search by product or item number" autocomplete="off">
       </form>
     </header>
@@ -139,13 +145,13 @@ img { max-width: 100%; }
       <div class="cells">
         {% for p in s.sheets %}
         <article class="cell" data-search="{{ (p.name ~ ' ' ~ p.item ~ ' ' ~ s.title)|lower }}">
-          <a class="cell-img" href="pdfs/{{ p.file }}.pdf" target="_blank" rel="noopener" aria-label="Open the {{ p.name }} data sheet (PDF)">
-            <img src="previews/{{ p.file }}.jpg" alt="{{ p.name }} data sheet" width="720" height="932" loading="lazy">
+          <a class="cell-img" href="pdfs/{{ p.file }}.pdf" target="_blank" rel="noopener" aria-label="Open the {{ p.name }} {{ 'data sheet' if lib.kind == 'pds' else 'ad sheet' }} (PDF)">
+            <img src="previews/{{ p.file }}.jpg" alt="{{ p.name }} {{ 'data sheet' if lib.kind == 'pds' else 'ad sheet' }}" width="720" height="932" loading="lazy">
           </a>
           <div class="cap">
             <h3 class="cap-name">{{ p.name }}</h3>
             <div class="cap-meta"><span class="st st-solid">#{{ p.item }}</span><span class="st">Rev {{ p.rev }}</span></div>
-            <p class="micro micro-reg">MOC-PDS-{{ p.item }} // PDF {{ p.size }}</p>
+            <p class="micro micro-reg">MOC-{{ p.code }}-{{ p.item }} // PDF {{ p.size }}</p>
             <div class="cap-actions">
               <a class="btn btn-solid" href="pdfs/{{ p.file }}.pdf" download>Download PDF <span class="size"><svg viewBox="0 0 16 16" class="arrow" aria-hidden="true"><path d="M8 2 V13 M4 9 L8 13 L12 9" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="square" stroke-linejoin="miter"/></svg></span></a>
             </div>
@@ -155,12 +161,12 @@ img { max-width: 100%; }
       </div>
     </section>
     {% endfor %}
-    <p class="empty in" id="empty" hidden>No data sheet matches that search. Try a product name or a five-digit item number.</p>
+    <p class="empty in" id="empty" hidden>No {{ "data sheet" if lib.kind == "pds" else "ad sheet" }} matches that search. Try a product name or a five-digit item number.</p>
   </main>
 
   <footer class="foot in">
     <p class="micro micro-reg">MOC Products // 12306 Montague Street // Pacoima, CA 91331-2279 // 800.266.9226</p>
-    <p class="micro">MOC-PDS // Rev 1.0</p>
+    <p class="micro">MOC-{{ lib.code }} // Rev 1.0</p>
   </footer>
 </div>
 </div>

@@ -1,0 +1,98 @@
+{
+  "item": "2430",
+  "name": "Vinyl & Leather Protectant",
+  "category": "Automotive Dressing",
+  "library_section": "Dressings & Protectants",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/2430.png",
+  "features": [
+    {
+      "text": "Easy to apply."
+    },
+    {
+      "text": "Long-lasting protection."
+    },
+    {
+      "text": "Resists cracking, staining, fading and discoloration."
+    },
+    {
+      "text": "Leaves a natural looking finish. PERFORMANCE RATING - Gloss - 5 • Durability - 10"
+    }
+  ],
+  "ratings": [],
+  "description": "A water-based liquid sealant containing long-lasting resins, U.V. inhibitors and protective compounds designed to preserve and beautify vinyl and finished leather on a car's interior.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Aqueous emulsion"
+    ],
+    [
+      "Color",
+      "",
+      "White"
+    ],
+    [
+      "Odor",
+      "",
+      "Odorless"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D1475",
+      "8.3"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "Based on components",
+      ">212"
+    ],
+    [
+      "pH",
+      "",
+      "~7.0"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "Shake well before using. Never apply product to steering wheels, accelerator pedals, brake pedals and clutch pedals. Surface should be clean and dry. 1) Generously apply product to a sponge applicator and wipe surface in an overlapping 2) For best results, allow product to set and penetrate for 5-10 minutes. Buff off excess product with a soft, dry cloth or microfiber towel. 3) A second application may be applied added protection and improved appearance.",
+  "packaging": [
+    [
+      "1 gal.",
+      "4",
+      "36 lbs."
+    ],
+    [
+      "5 gal.",
+      "1",
+      "45 lbs."
+    ],
+    [
+      "55 gal.",
+      "1",
+      "478 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "2430.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 366 px tall",
+    "Name read by hand from the header artwork"
+  ]
+}

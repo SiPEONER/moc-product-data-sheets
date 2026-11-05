@@ -1,0 +1,78 @@
+{
+  "item": "1150",
+  "name": "Foaming Fabric & Vinyl Cleaner",
+  "category": "Interior Cleaner",
+  "library_section": "Aerosols & Service Chemicals",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/1150.png",
+  "features": [
+    {
+      "text": "Cleans soiled vinyl, leather, plastic, and cloth."
+    },
+    {
+      "text": "Excellent for carpet."
+    },
+    {
+      "text": "Foam gently lifts away dirt and grime."
+    },
+    {
+      "text": "Minimizes dry time compared to a liquid product."
+    },
+    {
+      "text": "This foaming formula clings to surfaces, providing increased contact time to accelerate cleaning action."
+    }
+  ],
+  "ratings": [],
+  "description": "A high-foaming, clinging formulation that instantly attacks and loosens dirt, fingerprints and smudges from most fabric, carpet and hard surfaces. The dry foam provides quick cleaning action without soaking into the fabric or carpet.",
+  "specs": [
+    [
+      "Appearance (liquid portion)",
+      "",
+      "Foamy White Liquid"
+    ],
+    [
+      "Odor",
+      "",
+      "Mint"
+    ],
+    [
+      "pH",
+      "D 1287",
+      "11.5"
+    ],
+    [
+      "Density, U.S. (g/ml) @ 68°F (liquid portion)",
+      "D4052",
+      "~1.00"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "",
+      "~8.34"
+    ],
+    [
+      "Aerosol Flammability, NFPA",
+      "",
+      "Level 1 Aerosol"
+    ],
+    [
+      "% VOC",
+      "",
+      "5"
+    ]
+  ],
+  "application": "Thoroughly vacuum area to be cleaned. Hold can 6-8 inches from surface. Spray evenly on surface to be cleaned. Wipe surface with clean towel. For heavily soiled areas, brush briskly and allow product to remain up to one minute before wiping.",
+  "packaging": [
+    [
+      "18 oz.",
+      "12 cans",
+      "18 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "1150.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

@@ -1,0 +1,91 @@
+{
+  "item": "4351",
+  "name": "Formula 3000",
+  "category": "Automotive Cleaner / Degreaser",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4351.png",
+  "features": [
+    {
+      "text": "All-purpose cleaner for automotive and industrial uses."
+    },
+    {
+      "text": "Can be used on any surface not adversely affected by water."
+    }
+  ],
+  "ratings": [],
+  "description": "An all-purpose cleaner for interior or exterior use on machinery, floors, walls, engines, tires and vehicle bodies. Quickly loosens and emulsifies grease and grime so that they may be easily rinsed away.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Greenish-Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      ""
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.8"
+    ],
+    [
+      "pH",
+      "E 70",
+      "~13.0"
+    ],
+    [
+      "RI",
+      "",
+      "~16.0"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "Light-Duty Cleaning: dilute 1:40 with water. Medium-Duty Cleaning: dilute 1:8 with water. Heavy-Duty Cleaning: dilute 1:4 with water. 1) Dilute with water and apply with spray bottle or sponge. 2) Spray or wipe diluted solution on surface to be cleaned. 3) If needed, scrub surface with a brush or mop. 4) Rinse surface with clean water. Test for compatibility with aluminum, magnesium and painted surfaces before applying.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "38 lbs."
+    ],
+    [
+      "5 gal",
+      "1",
+      "47 lbs."
+    ],
+    [
+      "55 gal",
+      "1",
+      "506 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4351.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Name read by hand from the header artwork"
+  ]
+}

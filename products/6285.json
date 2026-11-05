@@ -1,0 +1,77 @@
+{
+  "item": "6285",
+  "name": "Aqua Beads",
+  "category": "Automotive Wax/Rinse",
+  "library_section": "Shampoos & Washes",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/6285.png",
+  "features": [
+    {
+      "text": "A highly concentrated rinse and spray wax for car wash tunnels."
+    },
+    {
+      "text": "Enhances gloss and sheds water from exterior."
+    },
+    {
+      "text": "Can be diluted and applied with a spray bottle."
+    }
+  ],
+  "ratings": [
+    "Foaming 2",
+    "Concentration 10"
+  ],
+  "description": "A concentrated car-wash rinse aide that promotes sheeting action, increased drying efficiency and a gloss finish. Designed for use in automatic car-wash machines, pressure washers, or hand application to create spot-free rinse.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Straw"
+    ],
+    [
+      "Odor",
+      "",
+      "Soapy"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~7.90"
+    ],
+    [
+      "pH",
+      "E 70",
+      "~6.5"
+    ],
+    [
+      "RI",
+      "",
+      "~39"
+    ]
+  ],
+  "application": "DIRECTIONS: 1) MACHINE USE: Dilute product with water according to chart below. Follow machine manufacturer’s directions for application. 2) HAND USE: Dilute product with water according to chart below. Spray diluted solution on vehicle exterior using a trigger sprayer. TYPICAL DILUTION RATIOS WITH WATER: Premium Dilution 40-60 parts water to 1 part product. Regular Dilution 61-80 parts water to 1 part product. Economy Dilution 81-100 parts water to 1 part product.",
+  "packaging": [
+    [
+      "5 gal.",
+      "N/A",
+      "43 lbs"
+    ],
+    [
+      "55 gal.",
+      "N/A",
+      "462 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "6285.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Foaming - 2 Concentration - 10"
+  ]
+}

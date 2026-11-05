@@ -1,0 +1,69 @@
+{
+  "item": "6297",
+  "name": "Glass Cleaner Concentrate",
+  "category": "Automotive Glass Cleaner",
+  "library_section": "Glass Care",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/6297.png",
+  "features": [
+    {
+      "text": "Removes dirt and film without streaking."
+    },
+    {
+      "text": "Contains alcohol and ammonia for extra cleaning ability."
+    },
+    {
+      "text": "Highly dilutable and economical to use."
+    }
+  ],
+  "ratings": [],
+  "description": "A highly concentrated glass cleaner designed to cut through the toughest film on glass and mirrors. For best results dilute up to 20 to 1 with water.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Blue"
+    ],
+    [
+      "Odor",
+      "",
+      "Alcohol"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~7.65"
+    ],
+    [
+      "pH",
+      "E 70",
+      "~12"
+    ],
+    [
+      "RI",
+      "",
+      "~25.0"
+    ]
+  ],
+  "application": "Dilute with water and dispense with a spray bottle. To obtain maximum results, the surface should be wiped immediately with a clean cloth or paper towel after spraying.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "33 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "6297.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 376 px tall"
+  ]
+}

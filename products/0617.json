@@ -1,0 +1,87 @@
+{
+  "item": "0617",
+  "name": "Electric Power Steering Fluid",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/0617.png",
+  "features": [
+    {
+      "text": "Reduces friction and heat that can wear out the pump, valves, and gears."
+    },
+    {
+      "text": "Conditions seals and hoses to help prevent cracks and leaks."
+    },
+    {
+      "text": "Helps extend system life by reducing wear on internal components."
+    },
+    {
+      "text": "Outstanding cold weather performance."
+    }
+  ],
+  "ratings": [],
+  "description": "A specialized synthetic power-steering fluid designed for use in \"electro-hydraulic\" power steering systems that utilize an electric motor instead of a traditional belt-driven pump to provide hydraulic pressure. This advanced formula contains a special additive package for enhanced shear stability, anti-wear and thermal stability. It is suitable for use in electro-hydraulic \"hybrid\" systems found in certain Nissan ®, Infiniti ®, Jeep ®, Chrysler ®, Dodge ®, VW ® and Audi ® model vehicles.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear"
+    ],
+    [
+      "Color",
+      "",
+      "Amber"
+    ],
+    [
+      "Odor",
+      "",
+      "Mild Petroleum"
+    ],
+    [
+      "Density, U.S. (g/ml) @ 68°F",
+      "D1298",
+      "~0.83"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "D1250",
+      "~6.9"
+    ],
+    [
+      "Viscosity @ 100°C, cSt",
+      "D445",
+      "~6"
+    ],
+    [
+      "Viscosity Index",
+      "D2270",
+      "~220"
+    ],
+    [
+      "Viscosity @ -40°C, cP",
+      "",
+      "3,560"
+    ],
+    [
+      "Flash Point (°F)",
+      "",
+      ">276"
+    ]
+  ],
+  "application": "MOC® Electric Power-Steering Fluid #06171 should only be used with a MOC® Power-Steering Fluid Exchanger. 1. Follow the MOC® Power-Steering Fluid Exchanger instructions to perform the exchange process. 2. Dispose of used fluid in accordance with local, state and federal regulations.",
+  "packaging": [
+    [
+      "32 oz",
+      "12 Bottles",
+      "23.81 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0617.pdf",
+    "old_rev": 3
+  },
+  "review": [
+    "Bottle photo is only 380 px tall"
+  ]
+}

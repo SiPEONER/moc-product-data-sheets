@@ -1,0 +1,96 @@
+{
+  "item": "0601",
+  "name": "Heavy-duty DOT 4 Brake Fluid",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/0601.png",
+  "features": [
+    {
+      "text": "Contains special additives and esters for excellent high-temperature protection and moisture resistance."
+    },
+    {
+      "text": "Extremely high-boiling point formula Dry ERBP: > 260°C (> 500°F), Wet ERBP: >175°C (>346°F)"
+    },
+    {
+      "text": "Exceeds DOT specifications for DOT 4 brake fluid (DOT minimum is 446°F)."
+    },
+    {
+      "text": "Two convenient sizes for use with fluid exchange equipment."
+    },
+    {
+      "text": "Product is compatible and may be used in place of DOT 3."
+    }
+  ],
+  "ratings": [],
+  "description": "A high quality product which meets and exceeds the DOT specifications for DOT 4 brake fluid.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Light Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Mild"
+    ],
+    [
+      "Density, U.S. (g/ml) @ 68°F",
+      "D4052",
+      "~1.06"
+    ],
+    [
+      "Density, U.S. (lbs/gal) (Calculated)",
+      "",
+      "~8.85"
+    ],
+    [
+      "Viscosity @-40 °C, cSt",
+      "SAE J-1704",
+      "~1,090"
+    ],
+    [
+      "Dry ERBP, °F",
+      "SAE J-I704",
+      "~500"
+    ],
+    [
+      "Wet ERBP, °F",
+      "SAE J-I704",
+      "~350"
+    ],
+    [
+      "Water %",
+      "SAE J1704",
+      "<0.3"
+    ]
+  ],
+  "application": "This product is to be used with a #98000 MOC® Pure Brake™ Brake-Fluid Exchanger. Follow directions in the machine’s instruction manual for use of this product.",
+  "packaging": [
+    [
+      "32 oz.",
+      "12 Bottles",
+      "29.6 lbs."
+    ],
+    [
+      "53 oz.",
+      "4 Bottles",
+      "16.39 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0601.pdf",
+    "old_rev": 3
+  },
+  "review": [
+    "Bottle photo is only 369 px tall",
+    "Spelling corrected from the old sheet: ERPB -> ERBP; ◦ -> °"
+  ]
+}

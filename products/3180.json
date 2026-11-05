@@ -1,0 +1,86 @@
+{
+  "item": "3180",
+  "name": "Correction",
+  "category": "Automotive Waxes & Sealants",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/3180.png",
+  "features": [
+    {
+      "text": "Fast scratch & oxidation removal without swirls."
+    },
+    {
+      "lead": "No sling, no dust",
+      "text": "easy clean-up."
+    },
+    {
+      "text": "Leaves a deep long-lasting shine."
+    },
+    {
+      "text": "Formulated for da random- orbital polishers."
+    }
+  ],
+  "ratings": [],
+  "description": "Contains micro abrasives and polishing agents that quickly remove scratches, oxidation and defects from painted surfaces. MP™ Correction™ is specially formulated for use with DA Random-Orbital Polishers to create fast, swirl-free results with minimal dust and clean up. Designed for use with MP Pro Series™ microfiber or foam cutting pads.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous Cream"
+    ],
+    [
+      "Color",
+      "",
+      "Orange"
+    ],
+    [
+      "Odor",
+      "",
+      "Peaches n' Cream"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 77°F",
+      "D1475",
+      "~8.9"
+    ],
+    [
+      "Solids, %",
+      "E1868",
+      "~22"
+    ],
+    [
+      "Viscosity, Brookfield, cP",
+      "",
+      "15,000"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "Directions: For best results, use our BLACKSPEED long-throw polisher (#70339) and microfiber cutting (#70336) Please note : vehicle should be clean, cool, and out of direct sunlight. If necessary, clay vehicle surface prior to correcting paint. DA Polisher: 1) Apply 4 to 5 dime-sized drops of product directly to Cutting Pad. 2) Set DA Polisher at medium to high speed (4000–6000 OPM) 3) Using mild pressure, buff a 2’x2’ section of the painted surface side to side and then up and down in overlapping passes. 4) Repeat Steps 1 and 3 if additional surface cleaning is needed. 5) Wipe off any remaining residue using a clean microfiber towel. 6) Complete the surface restoration process by using MP Pro Series™ Perfection™ Finish Wax. Hand Use: 1) Apply product to a clean, soft cloth or sponge. 2) Using an overlapping circular motion, wipe product onto painted surface. 3) Continue wiping until product starts to dry or desired results are achieved 4) Repeat Steps 2 and 3 if needed. 5) Wipe off any remaining residue using a clean microfiber towel. 6) Complete the surface restoration process by using MP Pro Series™ Perfection™ Finish Wax.",
+  "packaging": [
+    [
+      "1 quart",
+      "6",
+      "15 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "3180.pdf",
+    "old_rev": 3
+  },
+  "review": []
+}

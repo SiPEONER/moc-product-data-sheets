@@ -1,0 +1,64 @@
+{
+  "item": "4340",
+  "name": "Exterior Body Solvent",
+  "category": "Automotive Degreaser / Solvent",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4340.png",
+  "features": [
+    {
+      "text": "Has no adverse effect on paint when used as directed."
+    },
+    {
+      "text": "Dries quickly, leaving a clean surface without residue."
+    }
+  ],
+  "ratings": [],
+  "description": "A fast-drying formulation with outstanding cleaning power that can be used on paint finishes or plastic moldings. Removes wax, silicone, tar, glue, road oil, weatherstrip adhesive, undercoating overspray, and grease. NOTE: NOT FOR SALE OR USE IN CALIFORNIA OR OTC STATES",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Colorless"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~6.45"
+    ]
+  ],
+  "application": "DIRECTIONS: DO NOT USE ON FRESHLY PAINTED SURFACES. AS WITH ANY REMOVER, TEST PRODUCT ON AN INCONSPICUOUS AREA PRIOR TO APPLYING TO ENTIRE SURFACE. DO NOT USE ON HOT SURFACES. THIS PRODUCT IS NOT RECOMMENDED FOR USE ON VEHICLE INTERIOR SURFACES. 1) Using a saturated clean cloth or a trigger sprayer, apply product to areas to be cleaned. 2) Lightly rub area until residue is removed. 3) Wipe dry with a clean cloth or towel.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "30 lbs."
+    ],
+    [
+      "5 gal",
+      "1",
+      "38 lbs."
+    ],
+    [
+      "55 gal",
+      "1",
+      "405 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4340.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

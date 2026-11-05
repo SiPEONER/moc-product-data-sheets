@@ -1,0 +1,86 @@
+{
+  "item": "0446",
+  "name": "Shyft Premium ATF Treatment",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/0446.png",
+  "features": [
+    {
+      "text": "A highly concentrated formula that helps extend the life of automatic transmission fluid by improving oxidation stability"
+    },
+    {
+      "text": "Helps prevent sludge and varnish formation."
+    },
+    {
+      "text": "Helps keep seals soft and pliable."
+    },
+    {
+      "text": "A \"universal\" product designed for use in the newest generation of ATF (Dexron III, Mercon V, Chrysler, Toyota WS & Allison C-4)."
+    },
+    {
+      "text": "Contains a special shudder guard additive."
+    }
+  ],
+  "ratings": [],
+  "description": "A concentrated conditioner designed to fortify and extend the service life of ATF. This blend of synthetic base oils and additives improves fluid oxidation stability, conditions seals to prevent leaks, slows sludge and varnish formation, and helps control transmission shudder. SHYFT is poured into the transmission after a MOC® Automatic Transmission Fluid Exchange or a transmission drain and refill service. NOT COMPATIBLE WITH CVT TRANSMISSIONS.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Amber"
+    ],
+    [
+      "Odor",
+      "",
+      "Petroleum"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.83"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "6.92"
+    ],
+    [
+      "Viscosity,cSt @ 100°C",
+      "D445",
+      "~7.0"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      ">464"
+    ],
+    [
+      "Flash Point (°F) (based on components)",
+      "",
+      ">257"
+    ]
+  ],
+  "application": "Add entire contents of SHYFT Premium ATF Treatment through the dipstick tube or fill port.",
+  "packaging": [
+    [
+      "11 oz.",
+      "24",
+      "20 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0446.pdf",
+    "old_rev": 1
+  },
+  "review": [
+    "Bottle photo is only 395 px tall",
+    "Name read by hand from the header artwork"
+  ]
+}

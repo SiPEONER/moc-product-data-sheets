@@ -1,0 +1,84 @@
+{
+  "item": "4230",
+  "name": "Pryme",
+  "category": "Automotive Cleaner / Degreaser",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4230.png",
+  "features": [
+    {
+      "text": "Simply spray on wipe off"
+    },
+    {
+      "text": "Allows ceramic coating to bond better"
+    },
+    {
+      "text": "Removes waxes, oils, and polishing residue"
+    }
+  ],
+  "ratings": [],
+  "description": "Specifically formulated to clean and prep exterior vehicle surfaces prior to applying MP Armour Ceramic Coating. The grease-cutting surfactants and solvents quickly dissolve oils; remove wax, silicone and other contaminants that might inhabit optimal adhesion of the coating. This promotes a stronger bond, resulting in longer and more durable paint protection.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Low Viscosity Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Blue"
+    ],
+    [
+      "Odor",
+      "",
+      "Citrus"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.7"
+    ],
+    [
+      "pH",
+      "E 70",
+      "~13.0"
+    ],
+    [
+      "RI",
+      "",
+      "~17.0"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "DIRECTIONS: TEST PRODUCT ON AN INCONSPICUOUS AREA FOR COMPATIBILITY BEFORE USING ON ENTIRE SURFACE. Once the paint correction process has been completed, all exterior painted surfaces must be properly cleaned prior to applying MP Armour Ceramic Coating. 1) Spray a heavy coating of Pryme - Surface Prep onto the surface. 2) Allow solution to sit for 10-15 seconds and wipe clean (rotate towels to ensure proper removal of product). 3) Repeat steps 1 and 2 over the entire vehicle. 4) Inspect all surfaces thoroughly before applying Armour Ceramic Coating.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "37 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4230.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 376 px tall"
+  ]
+}

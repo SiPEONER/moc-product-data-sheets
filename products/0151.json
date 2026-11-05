@@ -1,0 +1,92 @@
+{
+  "item": "0151",
+  "name": "Engine-oil Supplement",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0151.png",
+  "features": [
+    {
+      "text": "Specially formulated to reduce friction and increase the lubricating power of oil."
+    },
+    {
+      "text": "Protects new engines during break-in and start up."
+    },
+    {
+      "text": "Dispersants and detergents to help prevent sludge buildup."
+    },
+    {
+      "text": "Can be used in all types of internal-combustion engines."
+    }
+  ],
+  "ratings": [],
+  "description": "Scientifically formulated to increase performance by reducing friction and wear. MOC® Engine-Oil Supplement contains dispersants and detergents to help prevent sludge buildup. This reduction in friction can protect new engines during break-in and startups. It may be used in all internal combustion engines, including rotary and diesel.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Oil"
+    ],
+    [
+      "Color",
+      "",
+      "Dark Brown"
+    ],
+    [
+      "Odor",
+      "",
+      "Petroleum"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.86"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "7.18"
+    ],
+    [
+      "Viscosity, cSt @ 40°C",
+      "D445",
+      "25"
+    ],
+    [
+      "Viscosity, cSt @ 100°C",
+      "D445",
+      "5"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      ">400"
+    ],
+    [
+      "Flash Point(°F) (based on components)",
+      "",
+      ">248"
+    ],
+    [
+      "Viscosity Index",
+      "",
+      "129"
+    ]
+  ],
+  "application": "Add entire contents to crankcase at each oil change and between changes, as needed. Treats 4 to 6 quarts of oil.",
+  "packaging": [
+    [
+      "8 oz.",
+      "24",
+      "14 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0151.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 833 px tall"
+  ]
+}

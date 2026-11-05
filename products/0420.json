@@ -1,0 +1,87 @@
+{
+  "item": "0420",
+  "name": "Multi-vehicle Synthetic ATF - Blue",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/0420.png",
+  "features": [
+    {
+      "text": "Highly resistant to shearing, oxidation and thermal breakdown."
+    },
+    {
+      "text": "Provides excellent flow properties at low temperatures and film protection at high temperatures."
+    },
+    {
+      "text": "Outstanding anti-wear properties to protect transmission parts."
+    },
+    {
+      "text": "Conditions seals and helps prevent leaks."
+    }
+  ],
+  "ratings": [],
+  "description": "A special blend of fully-synthetic base oils combined with a multi-functional additive system that provides superior anti-wear protection and performance in virtually all types of passenger and commercial automatic transmissions that require newer \"low-viscosity\" fluid. It offers excellent high & low temperature fluidity, shear stability, seal protection and oxidation resistance. This premium formula may be used in place of synthetic fluids required or specified by a wide range of OEMs, including those used for extended drain and severe duty intervals. This product is designed to be used in conjunction with the MOC® ATF Fluid Exchanger #94500 and ATF Cleaner/Supplement Kit #01941. Multi-Vehicle Synthetic ATF-Blue is suitable for use in all applications where Blue ATF fluid is required. Compatible with Mazda FZ transmissions.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear Oil"
+    ],
+    [
+      "Color",
+      "",
+      "Blue"
+    ],
+    [
+      "Density (g/mL) @68 °F",
+      "D4052",
+      "0.83"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated @68 °F",
+      "",
+      "6.93"
+    ],
+    [
+      "Viscosity @ 100°C, cSt",
+      "D445",
+      "~6"
+    ],
+    [
+      "Viscosity @ 40°C, cSt",
+      "D445",
+      "~32"
+    ],
+    [
+      "Viscosity Index, calculated",
+      "",
+      "~150"
+    ],
+    [
+      "Brookfield Viscosity @ -40°C, cPs",
+      "D97",
+      "<10,000"
+    ]
+  ],
+  "application": "Use in automatic transmissions according to equipment manufacturer’s recommendations. DO NOT use in transmissions that require CVT or Type F fluids.",
+  "packaging": [
+    [
+      "1 gal",
+      "4 Bottles",
+      "31 lbs."
+    ],
+    [
+      "3 gal",
+      "2 Bottles",
+      "46 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0420.pdf",
+    "old_rev": 3
+  },
+  "review": [
+    "Bottle photo is only 381 px tall"
+  ]
+}

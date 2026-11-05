@@ -1,0 +1,81 @@
+{
+  "item": "0120",
+  "name": "Double Clean",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0120.png",
+  "features": [
+    {
+      "lead": "Improves engine performance",
+      "text": "dissolves gum and varnish deposits that cause rough idle, hard starting and stalling."
+    },
+    {
+      "lead": "Reduces exhaust emissions",
+      "text": "through the cleaning process and chemical reaction, harmful exhaust emissions are converted to inert compounds, resulting in lower exhaust readings."
+    },
+    {
+      "lead": "Versatile",
+      "text": "does the job of two products in one. Can be applied through the throttle-valve using MOC® A.I.S. Cleaning S-Tool (#74100) in conjunction with MOC® Cleaner Application Tool (#72450) or through a vacuum source using MOC® Deluxe Induction Tool (#72172)."
+    },
+    {
+      "text": "Will not harm oxygen sensors or catalytic converters."
+    }
+  ],
+  "ratings": [],
+  "description": "A powerful solvent blend that will quickly remove gum, varnish, carbon and other deposits from the throttle-valve, throttle-body, idle-air control valves, PCV valves, plenum and other parts of the air-induction system. It can improve engine performance by dissolving those deposits which build up and cause rough idling, hard starting, stalling, and poor acceleration. As a result of its cleaning process, harmful exhaust emissions can be significantly reduced.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Mobile Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Colorless"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density (g/ml)",
+      "D4052",
+      "0.89"
+    ],
+    [
+      "Density, U.S. (lbs/gal) calculated",
+      "",
+      "7.43"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "D93",
+      "81"
+    ],
+    [
+      "Boiling Point (°F) based on components",
+      "",
+      ">160"
+    ]
+  ],
+  "application": "Note: Avoid contact with painted surfaces. Vehicle should be at operating Temperature. A) Through A.I.S. Opening – 1. Attach A.I.S. Tool (#74100) to boot at air-intake system opening so spray tip is center and 1-2 inches from throttle valve. Secure boot to opening. 2. Pour contents of Double Clean™ into the canister of MOC® Cleaner Application Tool (#72450). 3. Follow procedures for use found in the instruction manual for the MOC® Cleaner Application Tool. 4. Attach outlet hose of Cleaner Application Tool (#72450) to A.I.S. S-Tool (#74100) tool. 5. Start vehicle and set idle at approximately 1500 rpm. 6. Open flow valve so product evacuates in 7-10 minutes. 7. Shut off engine, remove tools and reconnect intake components. B) Through Vacuum Source: Pour contents into bottle reservoir of MOC® Deluxe Induction Tool (#72172). Secure valve cap to bottle reservoir. Attach outlet hose of tool to an intake vacuum source. Turn engine on. Set rpm at approximately 1500. Open flow valve so that product evacuates in 8-10 minutes. When the reservoir bottle is empty, turn off the engine. Disconnect outlet hose and replace vacuum hose. Drive vehicle for 5 minutes to remove any residual product.",
+  "packaging": [
+    [
+      "12 oz.",
+      "24",
+      "18 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0120.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 391 px tall",
+    "Spelling corrected from the old sheet: componets -> components"
+  ]
+}

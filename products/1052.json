@@ -1,0 +1,65 @@
+{
+  "item": "1052",
+  "name": "Evaporator Core Cleaner",
+  "category": "Automotive Cleaner & Deodorizer",
+  "library_section": "Aerosols & Service Chemicals",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/1052.png",
+  "features": [
+    {
+      "text": "Removes buildup of contaminants from the surface of the evaporator core."
+    },
+    {
+      "text": "Can improve the flow of air, which can increase the efficiency of the air-conditioning system."
+    },
+    {
+      "text": "Patented process for removing built-up contaminants."
+    },
+    {
+      "text": "Quick and easy results."
+    },
+    {
+      "text": "Can help alleviate allergic reactions by removing allergens from the system."
+    }
+  ],
+  "ratings": [],
+  "description": "A specially formulated foam that quickly cleans and removes odor-producing build up on the surface of the evaporator core and housing of the HVAC system.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear to Hazy"
+    ],
+    [
+      "Density, U.S. (g/ml) @ 68°F(liquid portion)",
+      "D 4052",
+      "~1.00"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "",
+      "~8.3"
+    ],
+    [
+      "Flammability, NFPA Code 30B",
+      "",
+      "Level 1 Aerosol"
+    ]
+  ],
+  "application": "VERY IMPORTANT! SHAKE WELL BEFORE AND DURING THE FLUSH PROCESS. Place cloth towels securely in front of all interior A/C vents (making sure vents are in the “open” position). Place a drip pan under the car to collect residual fluid from the residual drain tube. If HVAC system has a blower motor cooling tube, then remove the cooling tube end that is attached to the blower and insert a cloth into the tube hole. SERVICE PREPARATION: 1) In the car’s interior or under its hood (whichever is more accessible), drill a 3/8” hole in the middle of the evaporator case, halfway between the evaporator core and the blower fan. Avoid contact with any of the A/C components. 2) Insert the evaporator-case adapter (included) into the hole. 3) Snap the knurled tip of the MOC® hose assembly into the case adapter and start the engine. 4) Turn on A/C system and set blower to high. The vehicle is now ready for service. SERVICE PROCEDURE: 1) Inject product into evaporator case by pressing actuator tip on can. 2) Once blower fan begins to slow, stop injecting product for 15-30 seconds. 3) Repeat steps 1 and 2 until injector can is empty. 4) Turn off engine for 2 minutes. 5) Restart engine and allow A/C to run until no foam comes out of the interior vents (approximately 5 minutes). 6) Turn off engine and A/C system. 7) Remove MOC® hose assembly from evaporator case and place supplied plug into case adapter. NOTE: IF EVAPORATOR CASE IS NOT EASILY ACCESSIBLE. 1) With engine and A/C system off, insert knurled tip of MOC® hose assembly into A/C drain tube as far as it will go. 2) Evacuate entire contents of can. 3) Start engine. Turn on A/C system and put blower motor on high. Allow engine and A/C system to continue running for approximately five 5 minutes or until no foam comes out of the A/C interior vents.",
+  "packaging": [
+    [
+      "10 oz.",
+      "12 Cans",
+      "12 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "1052.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 379 px tall"
+  ]
+}

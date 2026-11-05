@@ -1,0 +1,86 @@
+{
+  "item": "0129",
+  "name": "Premium Fuel Guard",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0129.png",
+  "features": [
+    {
+      "text": "Contains no alcohol."
+    },
+    {
+      "text": "Removes water from fuel system."
+    },
+    {
+      "text": "Helps prevent rust & corrosion build up."
+    },
+    {
+      "text": "Cleans fuel system deposits."
+    },
+    {
+      "text": "Effective in gasoline and diesel fuels."
+    },
+    {
+      "text": "Will not harm catalytic converter systems or oxygen sensors."
+    }
+  ],
+  "ratings": [],
+  "description": "A remarkable alcohol-free formula which removes moisture from the fuel system by suspending water and gasoline together. MOC® Premium Fuel Guard™ helps prevent rust and corrosion from forming on fuel system components. Engine performance can improve by removing contaminants and deposits in the fuel system.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Light Blue"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.89"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "7.43"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "D93",
+      "158"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      ">210"
+    ],
+    [
+      "% VOC",
+      "",
+      "35.0"
+    ]
+  ],
+  "application": "Pour entire contents into fuel tank. Treats up to 30 gallons of fuel. Removes up to 10 oz. of water.",
+  "packaging": [
+    [
+      "10 oz.",
+      "24",
+      "17 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0129.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

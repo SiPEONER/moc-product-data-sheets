@@ -1,0 +1,66 @@
+{
+  "item": "0449",
+  "name": "Thrust Octane Booster",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/0449.png",
+  "features": [
+    {
+      "text": "Restores fuel economy."
+    },
+    {
+      "text": "Reduces knocking and pinging."
+    },
+    {
+      "text": "Raises the octane rating of your fuel up to 3 / 30*"
+    },
+    {
+      "text": "Helps prevent rough idling, hesitation and stalling."
+    },
+    {
+      "text": "Suitable for all fuel types including ethanol up to E85."
+    },
+    {
+      "text": "Safe for turbos, oxygen sensors and catalytic converters**"
+    }
+  ],
+  "ratings": [],
+  "description": "A concentrated, dual-purpose fuel treatment that contains powerful octane boosting additives that reduce knocking and pinging while improving engine performance, throttle response and horsepower. Thrust Octane Booster features top-tier detergents that clean fuel injectors, intake valves, and combustion chambers, making it especially effective on high-performance and turbocharged engines. Compatible with all gasoline fuel types including ethanol blends up to E85. *Depending on the quality of fuel, Thrust Octane Booster can increase octane levels up to 3 numbers or 30 points. **When used as directed Thrust Octane Booster is safe for types of fuel systems.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Transparent Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Colorless"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "",
+      "~8.34"
+    ],
+    [
+      "pH",
+      "",
+      "9-12"
+    ]
+  ],
+  "application": "Direction: 1) Add entire contents of the bottle to the fuel tank at each fill-up for maximum performance. One bottle treats up to 18 gallons of gasoline.",
+  "packaging": [
+    [
+      "10 oz.",
+      "12 per",
+      "xxxxx"
+    ]
+  ],
+  "source": {
+    "pdf": "0449.pdf",
+    "old_rev": 1
+  },
+  "review": []
+}

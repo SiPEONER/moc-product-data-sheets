@@ -1,0 +1,64 @@
+{
+  "item": "4346",
+  "name": "Clean-up Solvent",
+  "category": "Automotive Degreaser / Solvent",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4346.png",
+  "features": [
+    {
+      "text": "Has no adverse effect on paint when used as directed."
+    },
+    {
+      "text": "Dries quickly, leaving a clean surface without residue."
+    }
+  ],
+  "ratings": [],
+  "description": "A crystal-clear solvent with a highly aromatic scent. Caution: liquid and vapor are highly flammable. Very-fast-drying solvent that leaves no residue.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Colorless"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~6.45"
+    ]
+  ],
+  "application": "DIRECTIONS: Wet a cloth and wipe contamination from the surface. Allow rags to completely dry before disposal to prevent spontaneous combustion. Rubber gloves should be worn. Use only in a well-ventilated area.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "32 lbs."
+    ],
+    [
+      "5 gal",
+      "1",
+      "38 lbs."
+    ],
+    [
+      "55 gal",
+      "1",
+      "429 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4346.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

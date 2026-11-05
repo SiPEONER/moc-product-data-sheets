@@ -1,0 +1,80 @@
+{
+  "item": "1008",
+  "name": "Parts Wash",
+  "category": "Aerosols",
+  "library_section": "Aerosols & Service Chemicals",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/1008.png",
+  "features": [
+    {
+      "text": "Contains no fluorocarbons to adversely affect the ozone layer."
+    },
+    {
+      "text": "Contains no chlorinated solvents to contaminate waste oil, resulting in high cost of disposal."
+    },
+    {
+      "text": "Cleans quickly, thoroughly, and economically."
+    },
+    {
+      "text": "Will not rust metal surfaces like some water- based cleaners."
+    },
+    {
+      "text": "Helps reduce labor costs and save time."
+    }
+  ],
+  "ratings": [],
+  "description": "A solvent cleaner designed to remove grease, grime, oil and other debris from fabricated parts. It dries quickly and leaves no residue. Warning: Flammable.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Light Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent, Acetone"
+    ],
+    [
+      "Density, U.S. (g/mll @ 68°F (liquid portion)",
+      "D4052",
+      "0.81"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F, (calculated)",
+      "",
+      "6.76"
+    ],
+    [
+      "Flammability, NFPA 30B",
+      "",
+      "Level 2 Aerosol"
+    ],
+    [
+      "% VOC",
+      "",
+      "9.2"
+    ]
+  ],
+  "application": "Cover all rubber and painted surfaces. Do not spray on, or allow to drip on hot surfaces. Hold can in the upright position 6 to 8 inches from the surface to be cleaned. Spray generously to ensure a complete cleaning. Allow liquid to run off and allow to air dry.",
+  "packaging": [
+    [
+      "13 oz.",
+      "12 cans",
+      "13 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "1008.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 387 px tall"
+  ]
+}

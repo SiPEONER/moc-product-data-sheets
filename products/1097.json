@@ -1,0 +1,73 @@
+{
+  "item": "1097",
+  "name": "Charge Port Cleaner",
+  "category": "Automotive Cleaner",
+  "library_section": "Aerosols & Service Chemicals",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/1097.png",
+  "features": [
+    {
+      "text": "Safely cleans charge ports without corrosive chemicals."
+    },
+    {
+      "text": "Removes dust, grime, and residue for optimal charging performance."
+    },
+    {
+      "text": "Formulated for use on electric and hybrid vehicle charge ports."
+    },
+    {
+      "text": "Promotes a consistent charging experience."
+    },
+    {
+      "text": "Non-Flammable, Non-Corrosive"
+    }
+  ],
+  "ratings": [],
+  "description": "A non-flammable cleaner specifically formulated to ensure the optimal performance of electric and hybrid vehicle charge ports and charging cables. MP® Charge Port Cleaner’s powerful cleaning agents quickly break down and remove dirt, dust, and grime that can impede charging efficiency. This service can ensure optimal connection of the power contacts to promote a more efficient battery recharge. Warning: The use of a cordless drill is strictly prohibited due to potential safety hazards.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear Liquid"
+    ],
+    [
+      "Odor",
+      "",
+      "Slight Ether"
+    ],
+    [
+      "Density @68 °F (g/mL)",
+      "D4052",
+      "1.58"
+    ],
+    [
+      "Density (lbs/gal) calculated",
+      "",
+      "13.19"
+    ],
+    [
+      "NFPA Aerosol Rating",
+      "D93",
+      "Level 2 Aerosol"
+    ],
+    [
+      "Can Pressure (psi)",
+      "",
+      "~80"
+    ]
+  ],
+  "application": "Caution: Wear rubber insulated gloves certified for use on electric vehicles and approved safety glasses during the application process. Do not spray directly on painted surfaces. For best results, vehicle should be in dry, dust-free location, out of direct sunlight. Directions : FOR CHARGE PORT (on vehicle): Remove or open charge port cover and inspect for any surface or other damage before starting any cleaning. Spray small burst of product into charge port terminals. Insert the Charge Port Cleaning Nylon Brush Adaptor (#71372) into the port hole. Allow the brush head to rotate for 15 to 20 seconds. Repeat in each port hole. After cleaning with tool, respray ports to remove any residual contaminants. Allow product to dry completely, before closing port cover or charging vehicle. Low pressure compressed air may be blown into the ports to assist with the drying process. FOR CHARGE CABLE: Important: De-energize and disconnect charge cable from power source. Remove protective cover or boot, if equipped. Inspect for any surface or other damage before starting any cleaning. Spray small burst of product into charge cable terminals. Insert the Charge Cable Cleaning Pin Adaptor (#71373) into the charge cable terminals. Allow the head to rotate for 15 to 20 seconds. Repeat for each terminal. After cleaning with tool, respray terminals to remove any residual contaminants. Allow product to dry completely, before closing any cover or using cable. Low pressure compressed air may be blown into the ports to assist with the drying process.",
+  "packaging": [
+    [
+      "2 oz.",
+      "12",
+      "TBD lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "1097.pdf",
+    "old_rev": 1
+  },
+  "review": []
+}

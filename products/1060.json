@@ -1,0 +1,80 @@
+{
+  "item": "1060",
+  "name": "Odor Eliminator",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Aerosols & Service Chemicals",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/1060.png",
+  "features": [
+    {
+      "text": "Convenient aerosol packaging."
+    },
+    {
+      "lead": "Many uses other than automotive, I.E",
+      "text": "offices, home, rest rooms, boats and airplanes."
+    },
+    {
+      "lead": "Treats the source of odor",
+      "text": "does not mask it."
+    },
+    {
+      "lead": "Economical",
+      "text": "multiple applications in one can."
+    }
+  ],
+  "ratings": [],
+  "description": "SPECIALLY FORMULATED TO: Effectively remove foul odors trapped in carpeting, upholstery, fabric and many other surfaces. MOC® Odor Eliminator™ immediately starts to neutralize odors on contact, leaving behind a pleasant scent. Helps remove odors left by pets, tobacco, body odor, mildew, urine and other organic sources. Designed for use in vehicles, boats, airplanes, homes and offices.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Organic Solution - Compressed Gas"
+    ],
+    [
+      "Color (liquid portion)",
+      "",
+      "Clear - Light Straw"
+    ],
+    [
+      "Odor",
+      "",
+      "Fresh"
+    ],
+    [
+      "Density, U.S. (g/ml) @ 68°F",
+      "D4052",
+      "~0.83"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "",
+      "~6.9"
+    ],
+    [
+      "Aerosol Flammability, NFPA 30B",
+      "",
+      "Level 3 Aerosol"
+    ],
+    [
+      "%V.O.C.",
+      "",
+      "<25"
+    ]
+  ],
+  "application": "Directions: 1. Shake can well before each application. 2. Hold can 6–8 inches from affected area. 3. Spray a fine mist onto entire area. 4. For tough odors, spray a generous amount of Odor Eliminator™ directly on the source. Note: MOC® Odor Eliminator™ must make contact with the source of the odor to neutralize it.",
+  "packaging": [
+    [
+      "12 oz.",
+      "24",
+      "13 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "1060.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Spelling corrected from the old sheet: aersol -> aerosol"
+  ]
+}

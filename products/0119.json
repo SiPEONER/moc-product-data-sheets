@@ -1,0 +1,85 @@
+{
+  "item": "0119",
+  "name": "Premium ATF Supplement",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/0119.png",
+  "features": [
+    {
+      "text": "A highly concentrated formula that helps extend the life of automatic transmission fluid by improving oxidation stability (Based on ASTM D4742 TFOUT Test results.)"
+    },
+    {
+      "text": "Helps prevent sludge and varnish formation."
+    },
+    {
+      "text": "Helps keep seals soft and pliable."
+    },
+    {
+      "text": "A \"universal\" product designed for use in the newest generation of ATF (Dexron III, Mercon V, Chrysler, Toyota WS & Allison C-4)."
+    },
+    {
+      "text": "Contains a special shudder guard additive."
+    }
+  ],
+  "ratings": [],
+  "description": "A concentrated conditioner designed to fortify and extend the service life of ATF. This blend of synthetic base oils and additives improves fluid oxidation stability, conditions seals to prevent leaks, slows sludge and varnish formation, and helps control transmission shudder. Premium ATF Supplement is poured into the transmission after a MOC® Automatic Transmission Fluid Exchanger has completed its exchange cycle. This product is used in conjunction with MOC® Premium ATF Cleaner #0118.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Amber"
+    ],
+    [
+      "Odor",
+      "",
+      "Petroleum"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.83"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "6.92"
+    ],
+    [
+      "Viscosity,cSt @ 100°C",
+      "D445",
+      "~7"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      ">464"
+    ],
+    [
+      "Flash Point (°F) (based on components)",
+      "",
+      ">257"
+    ]
+  ],
+  "application": "Add entire contents of Premium ATF Supplement #0119 through the dipstick tube.",
+  "packaging": [
+    [
+      "11 oz.",
+      "#01941 Kit / 12",
+      "20 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0119.pdf",
+    "old_rev": 3
+  },
+  "review": [
+    "Name check: header reads \"PREMIUM ATF SUPPLEMENT\", description says \"Automatic Transmission Fluid Exchanger\""
+  ]
+}

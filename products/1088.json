@@ -1,0 +1,83 @@
+{
+  "item": "1088",
+  "name": "Fuel-injector Flush",
+  "category": "Aerosols",
+  "library_section": "Aerosols & Service Chemicals",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/1088.png",
+  "features": [
+    {
+      "text": "Cleans fuel injectors on vehicle."
+    },
+    {
+      "text": "Will not harm EFI components."
+    },
+    {
+      "text": "Will not harm catalytic converters or oxygen sensor."
+    },
+    {
+      "text": "Helps improve driveability issues such as run-on, cold- start and hesitation."
+    },
+    {
+      "text": "Does not require compressed air or electricity."
+    },
+    {
+      "text": "Contains a resealable valve to avoids leaks during connection."
+    }
+  ],
+  "ratings": [],
+  "description": "A powerful cleaning agent that is used in connection with the MOC® Fuel Injector Machine #74000 to clean fuel injectors and the combustion chamber. Fuel Injector Flush is connected directly to the fuel rail and the engine runs on this product in place of fuel. Restored performance and mileage can be achieved after removal of harmful deposits on the injectors, valves and combustion chambers. This product is designed to be compatible with all fuel-system components.",
+  "specs": [
+    [
+      "Appearance (liquid portion)",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color (liquid portion)",
+      "",
+      "Colorless"
+    ],
+    [
+      "Odor",
+      "",
+      "Ammonia"
+    ],
+    [
+      "Specific Gravity @ 68°F",
+      "D1298",
+      "0.81 - 0.83"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D1250",
+      "6.76 - 6.93"
+    ],
+    [
+      "Aerosol Flammability, NFPA 30B",
+      "",
+      "Level 3 Aerosol"
+    ],
+    [
+      "% VOC",
+      "",
+      "~94"
+    ]
+  ],
+  "application": "Refer to instructions found in the operation manual for the MOC® Fuel Injector Machine #74000",
+  "packaging": [
+    [
+      "10 oz.",
+      "12 cans",
+      "12 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "1088.pdf",
+    "old_rev": 3
+  },
+  "review": [
+    "Bottle photo is only 708 px tall"
+  ]
+}

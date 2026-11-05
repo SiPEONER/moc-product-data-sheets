@@ -1,0 +1,79 @@
+{
+  "item": "4098",
+  "name": "Chamois Cleaner",
+  "category": "Cleaner / Degreaser",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/4098.png",
+  "features": [
+    {
+      "text": "Concentrated & Economical"
+    },
+    {
+      "text": "Helps avoid scratches created by a dirty chamois."
+    },
+    {
+      "text": "Helps extend the life of a chamois"
+    }
+  ],
+  "ratings": [],
+  "description": "A concentrated formula designed to clean, soften, and protect chamois. Helps loosen embedded dirt particles to minimize the likelihood of scratching painted surfaces. Soaking chamois in a solution of this cleaner and water will help leave the chamois soft and clean for the next use.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Low Viscosity Liquid"
+    ],
+    [
+      "Color Odor",
+      "",
+      "Blue"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.8"
+    ],
+    [
+      "RI",
+      "",
+      "~14"
+    ],
+    [
+      "pH",
+      "E70",
+      "~9.5"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "DIRECTIONS: 1) Add 2-3 ounces of product to each gallon of water in a bucket. 2) Let chamois soak in solution. 3) Wring out chamois and rinse with clean water before using. NOTE: For heavily soiled chamois, clean with product diluted 8 parts water to 1 part product, rinse chamois with water, then soak in solution as directed above.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "32 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "4098.pdf",
+    "old_rev": 1
+  },
+  "review": [
+    "Spelling corrected from the old sheet: Chamios -> Chamois"
+  ]
+}

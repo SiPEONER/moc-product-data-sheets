@@ -1,0 +1,76 @@
+{
+  "item": "0107",
+  "name": "E-shield",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0107.png",
+  "features": [
+    {
+      "lead": "Control Deposits",
+      "text": "prevents fuel system deposits. Cleans fuel injectors."
+    },
+    {
+      "lead": "Stabilizes fuel",
+      "text": "improves storage stability, inhibits gum and varnish, and keeps fuel fresh by inhibiting oxidation."
+    },
+    {
+      "lead": "Prevents corrosion",
+      "text": "contains corrosion inhibitors, helps prevent rust/ corrosion on system components."
+    },
+    {
+      "lead": "Versatile",
+      "text": "can be used in tools, equipment, or recreational vehicles with 2 or 4-cycle engines."
+    }
+  ],
+  "ratings": [],
+  "description": "A fuel treatment and conditioner for vehicles that run high ethanol content fuels such as E-10 and E-85. These vehicles can experience drivability problems, deposit buildup, or fuel system damage that is different than those associated with standard gasoline. Ethanol absorbs water which can be corrosive to the fuel system, promotes oxidation/gum/ varnish, and can form deposits that impact engine performance. Traditional gasoline additive technology typically does not address these unique issues. E-SHIELD™ contains a blend of corrosion inhibitors, fuel stabilizers and deposit control additives that treat the gasoline, clean deposits and protect the system from the harmful effects of ethanol. Note: If fuel is contaminated with water, treat with Premium Fuel Guard #01291 in addition to E-SHIELD™.",
+  "specs": [
+    [
+      "Color",
+      "",
+      "Clear to Pale Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Petroleum"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.84"
+    ],
+    [
+      "Density, U.S. (lbs./gal), calculated",
+      "",
+      "7.00"
+    ],
+    [
+      "Flash Point (°F), based on components",
+      "",
+      "≥ 111"
+    ],
+    [
+      "Boiling Point (°F), based on components",
+      "",
+      "> 422"
+    ]
+  ],
+  "application": "Add contents to the fuel tank at time of fill up. One 8-ounce bottle treats up to 15 gallons of fuel. For tools, equipment, or recreational vehicles with 2 or 4-cycle engines, add ½ to 1 ounce of product per gallon of fuel.",
+  "packaging": [
+    [
+      "8 oz.",
+      "24",
+      "13 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0107.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 381 px tall"
+  ]
+}

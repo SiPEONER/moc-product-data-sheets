@@ -1,0 +1,92 @@
+{
+  "item": "2115",
+  "name": "Nano Spray Wax",
+  "category": "Automotive Waxes & Sealants",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/2115.png",
+  "features": [
+    {
+      "text": "Ideal for fast and easy new car delivery."
+    },
+    {
+      "text": "Conceals minor scratches."
+    },
+    {
+      "text": "Protects against UV rays."
+    },
+    {
+      "text": "Can be used on glass, wheels and vinyl graphics."
+    }
+  ],
+  "ratings": [],
+  "description": "A liquid protectant that creates a durable, high-gloss finish on painted and chrome surfaces. This spray utilizes nanotechnology, hydrophobic polymers and natural wax particles to create a deep, even streak-free finish. Nano Spray Wax is easy to apply, just spray it on and wipe .",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Mint Green"
+    ],
+    [
+      "Odor",
+      "",
+      "Watermelon"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D1475",
+      "8.3"
+    ],
+    [
+      "pH",
+      "E70",
+      "8.5"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "D93",
+      ">212"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "Surface should be clean and dry before application. 1. Mist Spray Wax sparingly on a 2’x2’ section of paint, glass or chrome. 2. Wipe and polish surface with clean microfiber towel. Buff to a glossy, streak-free finish. 3. Repeat application in sections until entire surface is treated.",
+  "packaging": [
+    [
+      "1 gal.",
+      "4",
+      "36 lbs."
+    ],
+    [
+      "5 gal.",
+      "1",
+      "45 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "2115.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Spelling corrected from the old sheet: streakfree -> streak-free"
+  ]
+}

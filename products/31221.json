@@ -1,0 +1,74 @@
+{
+  "item": "31221",
+  "name": "Miracle Clay",
+  "category": "Automotive Buffing Compound",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/31221.png",
+  "features": [
+    {
+      "text": "Works on paint, glass and chrome."
+    },
+    {
+      "text": "Will not damage painted surfaces."
+    },
+    {
+      "text": "Can last up to 20 applications depending on contamination level."
+    }
+  ],
+  "ratings": [],
+  "description": "A fast, effective and unique approach to preparation of painted surfaces of the vehicle. This easy-to-use bar quickly removes surface contaminants such as overspray, railroad dust, industrial fallout, tree sap and other stubborn deposits. Miracle Clay can be used on all types of paint finishes with mild to medium levels of contamination (excluding vehicles with a matte finish).",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Solid"
+    ],
+    [
+      "Color",
+      "",
+      "Grey"
+    ],
+    [
+      "Odor",
+      "",
+      "Slight Odor"
+    ],
+    [
+      "Weight",
+      "",
+      "200 grams"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "Surface to be cleaned should be clean, dry and cool. Form bar into an oval shape. Spray Body Gloss #2107 onto a 3'x3' section of the surface as a lubricant to help the bar glide across the surface. Gently rub the surface in a back-and-forth motion until the surface is smooth to the touch. Apply additional Body Gloss as needed. Periodically fold and reshape the bar to clean contaminant build up. Wipe surface clean with a microfiber towel. Note: Store bar in the plastic box provided after use. Discard bar if dropped on the ground.",
+  "packaging": [
+    [
+      "1 Bar 7.06 oz.",
+      "12",
+      "8 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "3122.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 277 px tall"
+  ]
+}

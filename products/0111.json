@@ -1,0 +1,79 @@
+{
+  "item": "0111",
+  "name": "Cooling-system Treatment",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0111.png",
+  "features": [
+    {
+      "text": "Compatible with all types of coolant (conventional - green, extended life - Dex-Cool, Hybrid - GO-5, Asian and European formulas). Based on ASTM D4334 test results."
+    },
+    {
+      "text": "Proven to increase corrosion inhibiting performance of treated coolant and fortify system surfaces from corrosion damage for an extended period. Based on ASTM D3306 test results."
+    },
+    {
+      "text": "Increases protection of water pump and reduces potential damage to pump surfaces. Based on ASTM D2809 test results."
+    }
+  ],
+  "ratings": [],
+  "description": "A universal formula that is compatible with all types of coolant-antifreeze. This product contains a unique corrosion and rust inhibitor technology that enhances protection of cooling system metals such as iron, aluminum, copper, and solder. It contains anti-foaming agents and provides additional protection to water pumps.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow -Brown"
+    ],
+    [
+      "Odor",
+      "",
+      "Faint Ammonia"
+    ],
+    [
+      "pH",
+      "D1287",
+      "8.7-9.5"
+    ],
+    [
+      "Density (g/ml)",
+      "D4052",
+      "1.06"
+    ],
+    [
+      "Density, U.S. (lbs/gal) calculated",
+      "",
+      "8.85"
+    ],
+    [
+      "Boiling Point(°F)",
+      "",
+      ">212"
+    ],
+    [
+      "Flash Point(°F) based on components",
+      "",
+      ">232"
+    ]
+  ],
+  "application": "Add one bottle of MOC® Cooling System Treatment to the cooling system any time a service is performed, or additional rust and corrosion protection is desired.",
+  "packaging": [
+    [
+      "8 oz.",
+      "24",
+      "16 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0111.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 395 px tall"
+  ]
+}

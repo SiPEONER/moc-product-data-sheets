@@ -1,0 +1,100 @@
+{
+  "item": "4115",
+  "name": "Dry Foam",
+  "category": "Automotive Degreaser / Cleaner",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4115.png",
+  "features": [
+    {
+      "text": "Super-concentrated!"
+    },
+    {
+      "text": "Specially formulated not to saturate fabric and carpets."
+    },
+    {
+      "text": "Reduces dry-time and speeds the cleaning process."
+    },
+    {
+      "text": "Contains color brighteners to bring back faded colors."
+    }
+  ],
+  "ratings": [],
+  "description": "A thick, amber solution with a pleasant, fresh fragrance. It is designed to produce a high foam that captures dirt and suspends it, prohibiting it from reentering the carpet and upholstery.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Fresh"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.6"
+    ],
+    [
+      "pH",
+      "E 70",
+      "~8.5"
+    ],
+    [
+      "RI",
+      "",
+      "~13"
+    ],
+    [
+      "Viscosity, Brookfield, cPs",
+      "",
+      "~2,000"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "Dilution ratio with water: Regular Use: 1 part to 32 parts water (4 oz. per gallon of water). Heavy Use: 1 part to 20 parts water (6 oz. per gallon of water). Scoop diluted foam onto carpet and agitate. Brush in a single direction with a pile brush. Wipe with clean, dry towel. When carpet is dry, vacuum well.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "38 lbs."
+    ],
+    [
+      "5 gal",
+      "1",
+      "46 lbs."
+    ],
+    [
+      "55 gal",
+      "1",
+      "495 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4115.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

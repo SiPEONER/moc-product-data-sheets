@@ -1,0 +1,97 @@
+{
+  "item": "5116",
+  "name": "V.L.R Dressing",
+  "category": "Automotive Dressing",
+  "library_section": "Dressings & Protectants",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/5116.png",
+  "features": [
+    {
+      "text": "Contains silicones for durability."
+    },
+    {
+      "text": "Great for tires, engines, interior and exterior surfaces."
+    },
+    {
+      "text": "Color-coded compliant packaging & VOC Compliant."
+    },
+    {
+      "text": "Ready-to-use or can be diluted up to 1 part product with 2 parts water. PERFORMANCE RATING - Gloss - 7 • Durability - 4"
+    }
+  ],
+  "ratings": [],
+  "description": "A versatile, water-based dressing that protects and shines vinyl, leather, trim and tires, leaving a beautiful, rich, natural appearance. Helps protect against harmful ultraviolet rays and contaminants.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Aqueous emulsion"
+    ],
+    [
+      "Color",
+      "",
+      "Milky White"
+    ],
+    [
+      "Odor",
+      "",
+      "Neutral"
+    ],
+    [
+      "Specific Gravity @ 68°F",
+      "D1475",
+      "1.00"
+    ],
+    [
+      "Density, U.S. (lbs/gal) (calculated)",
+      "",
+      "8.3"
+    ],
+    [
+      "pH",
+      "",
+      "7.0"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "Shake well before using. Apply with a trigger sprayer, sponge or brush. Allow product to dry and wipe away excess from tires. Protect painted-plastic panels and never apply to steering wheels, accelerator, brake or clutch pedals.",
+  "packaging": [
+    [
+      "1 gal.",
+      "4",
+      "36 lbs."
+    ],
+    [
+      "5 gal.",
+      "1",
+      "45 lbs."
+    ],
+    [
+      "55 gal.",
+      "1",
+      "478 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "5116.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Name read by hand from the header artwork"
+  ]
+}

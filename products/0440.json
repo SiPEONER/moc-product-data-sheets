@@ -1,0 +1,73 @@
+{
+  "item": "0440",
+  "name": "Recover",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0440.png",
+  "features": [
+    {
+      "text": "Removes oil sludge and varnish"
+    },
+    {
+      "text": "Reduces oil consumption"
+    },
+    {
+      "text": "Restores compression"
+    },
+    {
+      "text": "Decreased emissions"
+    }
+  ],
+  "ratings": [],
+  "description": "A concentrated solution designed to remove residual cleaner and deposit residue to complete the enhanced engine cleaning service. The service may be performed on gasoline, diesel, and rotary engines to thoroughly clean the crankcase and restore compression. Compatible with oil pumps, seals, gaskets, and other internal engine surfaces. Caution should be used in engines with excessive sludge.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear"
+    ],
+    [
+      "Color",
+      "",
+      "Colorless"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density, U.S. lb/gal @ 68F",
+      "D4052",
+      "7.05"
+    ],
+    [
+      "Kinematic Viscosity, @40 °F, cSt",
+      "D445",
+      "30.22"
+    ],
+    [
+      "Flash Point, PMCC, (°F)",
+      "D93",
+      "74"
+    ]
+  ],
+  "application": "FOR PROFESSIONAL USE ONLY A. Ensure DISPERSE has completely drained from engine and the drain plug is replaced before continuing. (Optional & suggested - remove used engine oil filter and replace with another new filter.) Pour RECOVER Engine Rinse Oil into engine through oil filler cap to the OEM recommended capacity (5-6 quarts). B With parking brake engaged, start engine. Set engine at 1200 to 1500 RPMs with the transmission in PARK. Allow engine to run for 30 to 45 minutes. Switch ignition OFF. Note: DO NOT leave engine running unattended! Monitor engine oil pressure throughout procedure. If engine oil pressure drops, check the oil pick up screen for obstructions. CAUTION! Used solution may be extremely hot while draining. Use heat-resistant personal protective equipment to prevent burns or other bodily injury. C. Remove drain plug. Drain used RECOVER solution from engine. Replace drain plug and crush washer. D. Install a new engine oil filter and fill the engine with new oil according to OEM recommendations.",
+  "packaging": [
+    [
+      "32 oz.",
+      "6",
+      ""
+    ]
+  ],
+  "source": {
+    "pdf": "0440.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Packaging also says: Kit: #05921",
+    "Bottle photo is only 385 px tall"
+  ]
+}

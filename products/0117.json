@@ -1,0 +1,84 @@
+{
+  "item": "0117",
+  "name": "Multi-clean",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0117.png",
+  "features": [
+    {
+      "text": "Contains an anti-friction additive to help prevent dry starts."
+    },
+    {
+      "lead": "Versatile",
+      "text": "can be used in multiple systems."
+    },
+    {
+      "text": "Helps remove harmful deposits and contaminants."
+    },
+    {
+      "text": "Helps clean valve lifters, ring lands and rocker arms."
+    },
+    {
+      "text": "Helps reduce engine blow-by."
+    },
+    {
+      "text": "Improves fluid circulation."
+    }
+  ],
+  "ratings": [],
+  "description": "A dispersant-based cleaning solution that removes accumulated deposits from various oil systems on a vehicle. When used in an engine prior to an oil change, this product removes deposits from lifters, rings, lands, rocker arms and other internal components. In transmissions, deposits are removed from the torque converter, valve body and filter screen. Pump housing, valves and lines are cleaned in the power steering system by removing deposits and used fluids.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density, (g/ml)",
+      "D4052",
+      "0.83"
+    ],
+    [
+      "Density, U.S. calculated",
+      "",
+      "6.93"
+    ],
+    [
+      "Boiling Point(°F)",
+      "",
+      ">374"
+    ],
+    [
+      "Flash Point(°F)(based on components)",
+      "",
+      ">194"
+    ]
+  ],
+  "application": "Engine: Make sure oil is at proper level and engine is at operating temperature. 1.) Before performing an oil and filter change, add MULTI-CLEAN™ to crankcase. Let car run at idle for 5-10 minutes. Do not rev engine or drive car. 2.) Drain oil and perform an oil and filter change according to manufacturer’s recommendations. Transmission: 1.) Add MULTI-CLEAN™ to transmission prior to fluid-exchange process. 2.) Set emergency brake, start car. While pressing brake pedal, switch through different gear settings for 5 minutes. 3.) Turn off engine and perform exchange process according to machine manufacturer's instructions.",
+  "packaging": [
+    [
+      "8 oz.",
+      "24",
+      "13 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0117.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 387 px tall"
+  ]
+}

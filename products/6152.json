@@ -1,0 +1,81 @@
+{
+  "item": "6152",
+  "name": "Cherry Air Freshener",
+  "category": "Deodorants - Air Freshener",
+  "library_section": "Odor Control",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/6152.png",
+  "features": [
+    {
+      "text": "Long-lasting, odor counteractants that leave a pleasant scent."
+    },
+    {
+      "text": "Can be diluted for use in extractor machines"
+    },
+    {
+      "text": "Spray full-strength on carpets, under the dash, and under seats."
+    }
+  ],
+  "ratings": [
+    "Concentration 8"
+  ],
+  "description": "Knocks out offensive odors, leaving a pleasant, clean scent.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Red"
+    ],
+    [
+      "Odor",
+      "",
+      "Cherry"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.3"
+    ],
+    [
+      "RI",
+      "",
+      "~6.5"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "DIRECTIONS: Mix 2-5 ounces with each gallon of floor-cleaning solution or interior shampoo; OR Spray full-strength on carpets, under dash, and under seats.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "36 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "6152.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Concentration - 8"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "item": "0128",
+  "name": "Vacu Flush",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/0128.png",
+  "features": [
+    {
+      "text": "Removes gum and varnish from intake valves."
+    },
+    {
+      "text": "Removes fuel deposits from intake valves and combustion chambers."
+    },
+    {
+      "text": "Helps lower harmful exhaust emissions."
+    },
+    {
+      "text": "Alcohol-free."
+    },
+    {
+      "text": "Compatible with catalytic converters, seals or oxygen sensors."
+    }
+  ],
+  "ratings": [],
+  "description": "A concentrated detergent designed to penetrate and dissolve harmful deposits found on intake valves and combustion chambers. Exhaust emissions can be lowered, and drivability improved through deposit removal. Vacu Flush ® uses an alcohol-free formula and can be used in any fuel-injected gasoline engine.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Brown"
+    ],
+    [
+      "Color",
+      "",
+      "Brown"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.81"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "6.76"
+    ],
+    [
+      "Flash Point (°F), PMCC",
+      "D93",
+      "112"
+    ],
+    [
+      "Boiling Point (°F), based on components",
+      "",
+      "≥284"
+    ],
+    [
+      "% VOC",
+      "",
+      "90.9"
+    ]
+  ],
+  "application": "For best results, engine should be at normal operating temperature. Eye protection should be worn. 1) Attach / screw Universal Induction Tool (72172) cap to the top of the fuel additive bottle (make sure flow adjustment is closed). 2) Attach tapered end tip of outlet hose to an intake vacuum source. 3) Start engine and set idle at approximately 1500 rpm. 4) Open flow-adjustment valve slowly to allow product to flow into vacuum hose. 5) Set flow adjuster so complete evacuation of bottle takes approximately 8 to 10 minutes. 6) Once bottle is completely emptied, shut off engine and reattach vacuum line to original location. 7) Drive vehicle for 5 minutes to remove residual product.",
+  "packaging": [
+    [
+      "12 oz.",
+      "24",
+      "19 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0128.pdf",
+    "old_rev": 3
+  },
+  "review": []
+}

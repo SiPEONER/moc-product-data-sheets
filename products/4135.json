@@ -1,0 +1,99 @@
+{
+  "item": "4135",
+  "name": "Power MAX",
+  "category": "Automotive Cleaner / Degreaser",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4135.png",
+  "features": [
+    {
+      "text": "Fast and efficient dirt and grease remover."
+    },
+    {
+      "text": "Quickly loosens and dissolves soil."
+    },
+    {
+      "text": "Contains no abrasives to damage the surface."
+    }
+  ],
+  "ratings": [],
+  "description": "The ultimate all-purpose cleaner for vehicle interior surfaces such as vinyl, upholstery, carpet, plastic, and leather. Power Max™ removes the toughest stains and grime, leaving behind a pleasant scent.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Blue"
+    ],
+    [
+      "Odor",
+      "",
+      "Fresh"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~1.04"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "",
+      "~8.7"
+    ],
+    [
+      "pH",
+      "E 70",
+      "≥ 12.0"
+    ],
+    [
+      "RI",
+      "",
+      "~13"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "Always test diluted product for spotting or damage on an inconspicuous area before using on an entire surface. Dilution: Always dilute with at least 9 parts water to 1 part product. Use only in diluted form 1) Spray or wipe diluted solution onto surface to be cleaned. 2) Scrub with upholstery brush, if needed. 3) wipe dry with a clean towel. Note: Can be used in carpet extractor machines",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "38 lbs."
+    ],
+    [
+      "5 gal",
+      "N/A",
+      "47 lbs."
+    ],
+    [
+      "55 gal",
+      "N/A",
+      "500 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4135.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 387 px tall"
+  ]
+}

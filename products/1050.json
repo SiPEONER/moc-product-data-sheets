@@ -1,0 +1,78 @@
+{
+  "item": "1050",
+  "name": "A/C Odor Treatment",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Aerosols & Service Chemicals",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/1050.png",
+  "features": [
+    {
+      "text": "Immediately attacks odors on contact."
+    },
+    {
+      "text": "Cleanses A/C system of contaminants that can cause problems when blown onto occupants."
+    },
+    {
+      "text": "Odors are eliminated, not masked."
+    },
+    {
+      "lead": "Non-ozone depleting",
+      "text": "contains no CFCs."
+    }
+  ],
+  "ratings": [],
+  "description": "A special blend of odor neutralizers that quickly eliminates odor-producing organisms that grow in the evaporator core and housing of air-conditioner systems. By cleansing the system, problems such as breathing discomfort and eye irritations may be avoided when the occupant turns on the air-conditioner. It is not just for A/C odors; it works equally well to control odors in the heating system during cold seasons. CLEAN SCENT #1050C",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Aqueous Solution"
+    ],
+    [
+      "Color (liquid portion)",
+      "",
+      "Cloudy White"
+    ],
+    [
+      "Odor",
+      "",
+      "Fresh"
+    ],
+    [
+      "Density, U.S. (g/ml) @ 68°F",
+      "D 4052",
+      "~0.95"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "",
+      "~7.93"
+    ],
+    [
+      "NFPA Aerosol Rating",
+      "",
+      "Level 2 Aerosol"
+    ],
+    [
+      "Can Pressure, psi",
+      "",
+      "~75"
+    ]
+  ],
+  "application": "Do not sit in vehicle when product is being applied. 1.) Shake can well before each application. 2.) Start vehicle. 3.) Turn on air- conditioner system and run fan on high setting. (Set system to external air vent, not recirculate.) 4.) Spray product liberally through all air-intake vents located in the cowl (hood) area of the vehicle (below windshield). 5.) Switch air-conditioner system to heat and spray additional product into same air-intake vents. 6.) Let system run a few minutes. 7.) Turn off air-conditioner system. Note: Product can be sprayed directly into evaporator during an air-conditioning service.",
+  "packaging": [
+    [
+      "5 oz",
+      "12 Cans",
+      "6 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "1050.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 416 px tall"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "item": "0160",
+  "name": "Banish Rodent Deterrent",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/0160.png",
+  "features": [
+    {
+      "text": "Developed to prevent rodent entry, nesting, and foraging."
+    },
+    {
+      "text": "Easy and fast application"
+    },
+    {
+      "text": "Contains natural ingredients"
+    }
+  ],
+  "ratings": [],
+  "description": "Formulated with essential oils that deliver a smell and taste developed to deter mice, rats, and other rodents from burrowing into a vehicle’s engine compartment and undercarriage. The heat of a recently used vehicle can last up to 24 hours, making it an inviting place for various rodents to seek warmth and begin nesting.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Clear to Light Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Pleasant Mint"
+    ],
+    [
+      "Density (g/ml)",
+      "D4052",
+      "0.88 - 0.87"
+    ],
+    [
+      "Density, U.S. (lbs/gal) calculated",
+      "",
+      "7.08 - 7.24"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "",
+      "170 °C / 338 °F"
+    ]
+  ],
+  "application": "Refer to directions for use supplied by your MOC® representative and/or at following web address https://mocproducts.com/mm/pdf/Instructions-Banish-Application.pdf",
+  "packaging": [
+    [
+      "8 oz.",
+      "12",
+      "6.47 lbs."
+    ],
+    [
+      "1 gal",
+      "4",
+      "31.2 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "0160.pdf",
+    "old_rev": 1
+  },
+  "review": [
+    "Bottle photo is only 573 px tall"
+  ]
+}

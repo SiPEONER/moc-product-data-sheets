@@ -1,0 +1,76 @@
+{
+  "item": "1020",
+  "name": "Clear Liquid Lube",
+  "category": "Aerosols",
+  "library_section": "Aerosols & Service Chemicals",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/1020.png",
+  "features": [
+    {
+      "text": "3-in-1 formula penetrates, lubricates, and protects."
+    },
+    {
+      "text": "Heat and water resistant."
+    },
+    {
+      "lead": "Multiple uses",
+      "text": "automotive and Marine: door, trunk & hood hinges, brake & gear assemblies, seat tracks, battery terminals, cables, antennas; Bike and Motorcycles: chains, gears, cables; Home: garage door tracks, locks, fishing gear, lawn & garden equipment."
+    },
+    {
+      "text": "Clear formula offers a superior alternative to the messy discoloration of White Lithium Grease."
+    },
+    {
+      "text": "Unique formula cures to a gel that clings to surfaces and resists slinging, drips and \"squeeze-out\"."
+    }
+  ],
+  "ratings": [],
+  "description": "This multi-purpose lubricant reduces friction and wear between metal to metal surfaces, increasing lubricity even at high temperatures. This unique formula forms a barrier which helps resist rust, water, alkalis, salt and other elements. Clear Liquid Lube allows you to spray into tight, hard-to-reach areas and clings to vertical surfaces. It resists “throw-off” (slinging), squeeze-out and wash off.",
+  "specs": [
+    [
+      "Color",
+      "",
+      "Hazy, Light Amber"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density, U.S. (g/ml) @68°F",
+      "D1298",
+      "~0.80"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @68°F (Calculated)",
+      "D1250",
+      "~6.7"
+    ],
+    [
+      "Aerosol Flammability, NFPA 30B",
+      "",
+      "Level 3"
+    ],
+    [
+      "VOC, %",
+      "",
+      "~20"
+    ]
+  ],
+  "application": "Shake well before using. Holding can 4 to 8 inches from surface to be lubricated, spray area. Allow a minute for product to set up as a gel. Use extension tube for hard-to-reach areas.",
+  "packaging": [
+    [
+      "8 oz.",
+      "12 Cans",
+      "10 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "1020.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 377 px tall"
+  ]
+}

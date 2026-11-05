@@ -1,0 +1,70 @@
+{
+  "item": "1029",
+  "name": "Spot Remover",
+  "category": "Automotive Cleaner & Degreaser",
+  "library_section": "Aerosols & Service Chemicals",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/1029.png",
+  "features": [
+    {
+      "text": "Quickly saturates materials for instant cleaning."
+    },
+    {
+      "text": "Leaves no residue."
+    },
+    {
+      "text": "Contains no solvent which might soften carpet backing."
+    },
+    {
+      "text": "Also, contains an odor-modifier which destroys odors due to urine or vomit, leaving a pleasant fragrance."
+    },
+    {
+      "text": "Effective on water and oil-based stains"
+    }
+  ],
+  "ratings": [],
+  "description": "A powerful carpet-stain and spot remover. It removes stains caused by dirt, ink, grease, oil, mud, ketchup, urine, vomit, coffee, tea, alcoholic beverages, soft drinks and blood. It destroys odors and is safe on most fabrics. This aerosol can is designed to be sprayed upside down, directly on the stain.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear Spray"
+    ],
+    [
+      "Odor",
+      "",
+      "Clean"
+    ],
+    [
+      "Density, U.S. (g/ml) @ 68°F (liquid portion)",
+      "D4052",
+      "~0.99"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "",
+      "~8.26"
+    ],
+    [
+      "Aerosol Flammability, NFPA 30B",
+      "",
+      "Level 1 Aerosol"
+    ]
+  ],
+  "application": "Test area for color fastness before spraying entire surface. Point can straight down, hold at 8-12 inches from the surface and spray in short bursts until stain is saturated. Blot area with absorbant towel. Stubborn stains may require a second application and agitation with a soft-bristle brush. Once stain is removed wipe area with a clean wet towel, then blot dry.",
+  "packaging": [
+    [
+      "15 oz",
+      "12 Cans",
+      "15 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "1029.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 678 px tall"
+  ]
+}

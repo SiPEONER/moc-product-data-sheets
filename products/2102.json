@@ -1,0 +1,87 @@
+{
+  "item": "2102",
+  "name": "Liquid Wonder",
+  "category": "Automotive Wax / Polish",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/2102.png",
+  "features": [
+    {
+      "text": "Cleans, waxes, and protects painted surfaces."
+    },
+    {
+      "text": "Removes road film, light grease, scuffs, and buffer marks."
+    },
+    {
+      "text": "Fast application and removal without residual dust."
+    },
+    {
+      "text": "Provides a deep gloss on used or new vehicles."
+    }
+  ],
+  "ratings": [
+    "Abrasiveness 2",
+    "Gloss 8",
+    "Durability 6"
+  ],
+  "description": "A quick-dry liquid wax for painted and metal surfaces on new or used vehicles. It is a thin liquid with solvency to clean road film, light grease, and scuffs during application. The product is easily applied and wipes off with no residue or smudges, even in direct sunlight. Liquid Wonder™ must be shaken before use, as separation is normal for this type of product.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.2"
+    ],
+    [
+      "Viscosity, Brookfield, cP",
+      "",
+      "~71"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "By Hand: Using an applicator pad, apply product evenly to surface using an overlapping, circular motion. Allow product to dry to a haze. Remove residue with a clean, dry polishing cloth or microfiber towel. Orbital or DA Buffer: In small sections (2'x2'), apply product evenly to the surface with a moist polishing bonnet or foam pad in an overlapping pattern. Allow product to dry to a haze. Remove residue with a clean, dry bonnet or microfiber towel.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "36 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "2102.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Abrasiveness - 2 Gloss - 8 Durability - 6",
+    "Bottle photo is only 642 px tall"
+  ]
+}

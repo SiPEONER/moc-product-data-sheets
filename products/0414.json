@@ -1,0 +1,89 @@
+{
+  "item": "0414",
+  "name": "Gear Guard SAE 75W-90",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0414.png",
+  "features": [
+    {
+      "text": "Superior lubrication and protection for bearings and gears."
+    },
+    {
+      "text": "Helps prevent wear, pitting and corrosion under high- load conditions. Helps reduce gear noise and increases driveline efficiency."
+    },
+    {
+      "text": "Meets stringent industry standards including A.P.I. GL-5, MT-1 and SAE J2360 specifications."
+    }
+  ],
+  "ratings": [],
+  "description": "A synthetic Polyalphaolefin, A.P.I. GL-5 rated gear oil formulated to SAE 75W-90 viscosity. It is a versatile extreme-pressure lubricant designed for use in conventional differentials, limited-slip differentials, and manual transmissions. MOC® Gear Guard™ SAE 75W-90 can be used in place of SAE 75W, SAE 75W-85, SAE 80, SAE 80W-90, or SAE 90 in a wide range of domestic and foreign vehicles.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Sulfur"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.84"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "7.10"
+    ],
+    [
+      "Viscosity @ 100°C, cSt",
+      "D445",
+      "~14.0"
+    ],
+    [
+      "Viscosity @ 40°C, cSt",
+      "D445",
+      "~60"
+    ],
+    [
+      "Flash Point °F (based on components)",
+      "",
+      ">230"
+    ],
+    [
+      "Brookfield Viscosity @ -40°C, cP",
+      "D2983",
+      "<100,000"
+    ]
+  ],
+  "application": "Follow vehicle manufacturer’s recommendations for use of product. Gear Guard™ is designed to be used in conjunction with MOC® Differential / Driveline service and tools. NOTE: Limited-slip differentials require the use of MOC® Limited-Slip Concentrate #0149 with MOC® Gear Guard™.",
+  "packaging": [
+    [
+      "1 qt.",
+      "12",
+      "24 lbs."
+    ],
+    [
+      "16 gal.",
+      "2",
+      "248 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0414.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 380 px tall"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "item": "4290",
+  "name": "Cling",
+  "category": "Automotive Cleaner / Degreaser",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4290.png",
+  "features": [
+    {
+      "text": "A powerful cleaner for all types of wheels."
+    },
+    {
+      "text": "Won’t chemically mill metal or polished surfaces."
+    },
+    {
+      "text": "Quickly dissolves tough brake dust and grime."
+    },
+    {
+      "text": "A great alternative to acid-based wheel cleaners."
+    }
+  ],
+  "ratings": [],
+  "description": "a powerful, non-acid tire & wheel cleaner designed to cling to both horizontal and vertical surfaces without dripping, A powerful, non-acid tire & wheel cleaner designed to cling to vertical surfaces without dripping, keeping the cleaning power where you need it most. CLING quickly dissolves stubborn road grime, dirt and brake dust from all types of clear coated, factory painted, alloy and chrome wheels. This non-caustic formula rinses clean without leaving spots or residue behind.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Orange"
+    ],
+    [
+      "Odor",
+      "",
+      "Odorless"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~9.0"
+    ],
+    [
+      "pH",
+      "E 70",
+      "~13.0"
+    ],
+    [
+      "RI",
+      "",
+      "~18.0"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "DIRECTIONS: TEST PRODUCT ON AN INCONSPICUOUS AREA FOR COMPATIBILITY BEFORE USING ON ENTIRE SURFACE. WHEELS SHOULD BE COOL, DRY, AND OUT OF DIRECT SUNLIGHT. 1) Dilute 1 to 1 with water for normal cleaning jobs. Use undiluted for tough jobs. 2) Saturate entire wheel with product and allow to soak into wheel for approximately 1-2 minutes. Do not allow cleaner to dry on surface. 3) Rinse thoroughly with water. (Extremely dirty wheels may require a second application and agitation with a brush.) 4) Dry with a soft, clean towel to prevent water spots.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "38 lbs."
+    ],
+    [
+      "5 gal",
+      "1",
+      "48 lbs."
+    ],
+    [
+      "55 gal",
+      "1",
+      "517 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4290.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

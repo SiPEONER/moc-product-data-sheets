@@ -1,0 +1,69 @@
+{
+  "item": "2104",
+  "name": "Power Shine",
+  "category": "Automotive Waxes & Sealants",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/2104.png",
+  "features": [
+    {
+      "text": "Effective on metallic, red and black finishes"
+    },
+    {
+      "text": "A combination cleaner, wax, sealer and color-brightener."
+    },
+    {
+      "text": "Gives a lasting high-gloss finish."
+    }
+  ],
+  "ratings": [
+    "Abrasiveness 5",
+    "Gloss 8",
+    "Durability 6"
+  ],
+  "description": "A free-flowing, semi-viscous one-step polish. It is brown in color with an oily feel and a slight solvent odor. It can be used on all paints to remove swirls, blemishes and streaks.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Beige"
+    ],
+    [
+      "Density, U.S. lbs/gal @ 68F",
+      "D4052",
+      "8.60"
+    ],
+    [
+      "% Solids",
+      "E1868",
+      "~ 22"
+    ],
+    [
+      "Brookfield Viscosity,cP",
+      "",
+      "5,000"
+    ]
+  ],
+  "application": "Shake well before using. Hand Use: Spread Power Shine TM on a clean, damp cloth. Wipe product on surface in an overlapping circular motion using even pressure. Allow to dry; wipe off with a clean towel. Machine Use: Using a ketchup bottle, squirt Power Shine TM on surface. Use with wool cutting pad to utilize more cleaning power. For best results, use an all wool finish pad or foam pad. Apply medium pressure at first, then gradually ease up until polish dries and develops a gloss. For extended protection and additional gloss, apply a finish wax as a final operation.",
+  "packaging": [
+    [
+      "1 gal.",
+      "4",
+      "35 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "2104.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Abrasiveness - 5 Gloss - 8 Durability - 6",
+    "Spelling corrected from the old sheet: matallic -> metallic"
+  ]
+}

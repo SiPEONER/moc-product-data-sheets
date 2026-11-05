@@ -1,0 +1,89 @@
+{
+  "item": "2160",
+  "name": "Magna Glaze",
+  "category": "Automotive Wax & Polish",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/2160.png",
+  "features": [
+    {
+      "text": "Seals and brightens all surfaces."
+    },
+    {
+      "text": "Low dust formula"
+    },
+    {
+      "lead": "Versatile",
+      "text": "easy application by hand or high speed and orbital buffers."
+    }
+  ],
+  "ratings": [
+    "Abrasiveness 6",
+    "Gloss 5",
+    "Durability 4"
+  ],
+  "description": "A one-step polish for use on all painted surfaces. It removes medium oxidation, cleans, polishes, and protects. Magna Glaze™ is a thick cream with an off-white color (similar to Magna Bright #21403, but more aggressive).",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous cream"
+    ],
+    [
+      "Color",
+      "",
+      "Off White"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 77°F",
+      "D1475",
+      "~8.60"
+    ],
+    [
+      "Solids, %",
+      "E1868",
+      "~18"
+    ],
+    [
+      "Brookfield Viscosity,CP",
+      "",
+      "30,000"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "Hand Use: Dampen a clean cloth or applicator and spread Magna Glaze ™ on cloth or vehicle surface. Apply product using even pressure and circular motion. Allow to dry. Use a clean towel to wipe clean. Machine Use: Squirt Magna Bright™ onto vehicle surface. For best results, use an all-wool finish pad. Apply medium to heavy pressure at first, then gradually ease up until polish dries and develops a gloss. For extended protection and additional gloss, apply a finish wax as a final operation. Can be used with all-wool and foam pads.",
+  "packaging": [
+    [
+      "1 gal.",
+      "4",
+      "34 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "2160.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Abrasiveness - 6 Gloss - 5 Durability - 4"
+  ]
+}

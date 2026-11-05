@@ -1,0 +1,94 @@
+{
+  "item": "6272",
+  "name": "W.W Special",
+  "category": "Automotive Shampoo",
+  "library_section": "Shampoos & Washes",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/6272.png",
+  "features": [
+    {
+      "text": "A concentrated liquid soap"
+    },
+    {
+      "text": "Leaves a waxy feel on the surface"
+    },
+    {
+      "text": "Thin enough for a pressure-wash system."
+    }
+  ],
+  "ratings": [
+    "Foaming 7",
+    "Concentration 6"
+  ],
+  "description": "A shampoo formulated to produce high foam & remove the toughest road film and soil while leaving behind a waxy shine. Works well on cars, trucks, boats, & RVs.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous Liquid"
+    ],
+    [
+      "Color Odor",
+      "",
+      "RED"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.60"
+    ],
+    [
+      "RI",
+      "",
+      "~9.0"
+    ],
+    [
+      "pH",
+      "E70",
+      "~11.5"
+    ],
+    [
+      "Viscosity, Brookfield, cP",
+      "",
+      "~1750"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "DIRECTIONS: FOR BEST RESULTS, SURFACE SHOULD BE COOL AND OUT OF DIRECT SUNLIGHT. 1) Dilute 3 ounces of product with 1 gallon of water. 2) Rinse exterior of vehicle thoroughly. 3) Apply diluted solution generously with a wash mitt, soft cloth, or pressure wash system. 4) Rinse well with clean water. 5) Thoroughly dry vehicle with either a clean chamois or clean, soft towel. As with any car polish, wax or sealant, pre-test on an inconspicuous area prior to applying to entire section.",
+  "packaging": [
+    [
+      "5 gal",
+      "1",
+      "47 lbs"
+    ],
+    [
+      "55 gal",
+      "1",
+      "495 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "6272.pdf",
+    "old_rev": 1
+  },
+  "review": [
+    "Has a Performance Ratings section: Foaming - 7 Concentration - 6",
+    "Name read by hand from the header artwork",
+    "Spelling corrected from the old sheet: pressurewash -> pressure wash"
+  ]
+}

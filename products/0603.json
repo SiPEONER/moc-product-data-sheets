@@ -1,0 +1,98 @@
+{
+  "item": "0603",
+  "name": "Ultra DOT 4-LV Brake Fluid",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0603.png",
+  "features": [
+    {
+      "text": "Low viscosity formulation, faster response at lower temperatures."
+    },
+    {
+      "text": "High-boiling point formula (ERBP of ~265 °C / 509 °F)."
+    },
+    {
+      "text": "Wet boiling point (ERBP of ~170 °C / 338°F)."
+    },
+    {
+      "text": "Ideal for use in vehicles with ESC and ABS brake systems"
+    },
+    {
+      "text": "Resists moisture absorption and retention."
+    },
+    {
+      "text": "Do not mix with DOT 5 Silicone-Based brake fluid"
+    }
+  ],
+  "ratings": [],
+  "description": "A premium, low viscosity brake fluid recommended for use in vehicles fitted with ESC (Electronic Stability Control), ABS (Anti-lock Braking System) and ASR (Acceleration Slip Regulation). Ultra DOT 4 LV is fully tested and certified to meet or exceed technical standards including: FMVSS 116, SAE J1704 and ISO 4925 Class 6. IMPORTANT: Do not mix with DOT 5 Silicone-Based Brake Fluid",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Pale Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Mild"
+    ],
+    [
+      "Specific Gravity @ 68°F",
+      "D4052",
+      "~1.05"
+    ],
+    [
+      "Density, U.S. (lbs/gal) (Calculated)",
+      "",
+      "~8.76"
+    ],
+    [
+      "Kinematic Viscosity, cSt@ -40°C",
+      "FMVSS 116",
+      "~549"
+    ],
+    [
+      "Kinematic Viscosity, cSt@ 100°C",
+      "FMVSS 116",
+      "~1.9"
+    ],
+    [
+      "Dry ERBP,°F",
+      "FMVSS 116",
+      "~504"
+    ],
+    [
+      "Wet ERBP,°F",
+      "FMVSS 116",
+      "~336"
+    ]
+  ],
+  "application": "This product is to be used with a #98000 MOC® Pure Brake™ Brake-Fluid Exchanger. Follow directions in the machine’s instruction manual for use of this product.",
+  "packaging": [
+    [
+      "32 oz.",
+      "12 Bottles",
+      "29.6 lbs."
+    ],
+    [
+      "53 oz.",
+      "4 Bottles",
+      "25.2 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0603.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 702 px tall"
+  ]
+}

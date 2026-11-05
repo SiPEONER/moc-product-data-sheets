@@ -1,0 +1,92 @@
+{
+  "item": "2108",
+  "name": "Surface Ceramic Spray",
+  "category": "Automotive Cleaner",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/2108.png",
+  "features": [
+    {
+      "text": "Sio2 ceramic detailing spray"
+    },
+    {
+      "text": "Safe for all vehicle surfaces"
+    },
+    {
+      "text": "Enhances gloss, depth, shine"
+    },
+    {
+      "text": "Extends the protection of waxes sealants"
+    }
+  ],
+  "ratings": [],
+  "description": "A specialized blend of lubricants, anti-static, and ceramic agents that clean and seal automotive painted surfaces, creating a mirror reflection and intense crystalline shine. SURFACE™ guards against harmful UV rays and environmental contaminants such brake dust, dirt, dust, industrial fallout, and bird droppings.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Purple"
+    ],
+    [
+      "Odor",
+      "",
+      "Grape"
+    ],
+    [
+      "Density, U.S. (g/ml) @ 68°F",
+      "",
+      ".99 - 1.0"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "",
+      "8.30 - 8.345"
+    ],
+    [
+      "pH",
+      "",
+      "5.8 - 7"
+    ],
+    [
+      "Flash Point (°C / °F)",
+      "",
+      "62 / 143.6"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "DIRECTIONS: to ensure an ideal bond, we recommend applying SURFACE ® to a clean, dry, and smooth surface. Spray SURFACE ® onto painted surfaces, one panel at a time. distribute evenly using a clean microfiber towel and buff to a smooth shiny surface. for vehicles already protected by ARMOUR ® ceramic coating use SURFACE ® to revitalize and extend shine and hydrophobic properties of ARMOUR ®",
+  "packaging": [
+    [
+      "1.02 oz",
+      "12",
+      "xx lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "2108.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 372 px tall"
+  ]
+}

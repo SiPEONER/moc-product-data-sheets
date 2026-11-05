@@ -1,6 +1,25 @@
-# MOC Product Data Sheets (MOC-PDS)
+# MOC Product Data Sheets (MOC-PDS) and Product Ad Sheets (MOC-PAS)
 
-Master template and build kit for every MOC Products data sheet. Started 2026-11-05 from the designer's concept (Rev003 layout) with the MOC-BSM-001 brand fixes applied.
+Master templates and build kit for every MOC Products data sheet and ad sheet. Started 2026-11-05 from the designer's concept (Rev003 layout) with the MOC-BSM-001 brand fixes applied. Live library: https://datasheets.mocproducts.app (Data Sheets and Ad Sheets).
+
+## Documents
+
+- **MOC-PDS, Product Data Sheet** (`template.html`): the technical sheet. Built for every product.
+- **MOC-PAS, Product Ad Sheet** (`ad_template.html`): the one-page sales sheet. Built for every product whose data file has an `"ad"` block.
+
+## Fitting long sheets
+
+The build tries, in order, until a sheet fits: the standard layout; smaller running text (down to 8 pt, never below); Application full width under the description; a compact header (shorter band and bottle); two pages, with long instructions (and, if needed, Specifications) on page 2 under a slim band. The log says which one each sheet used.
+
+## Migrating the old sheets (done 2026-11-05, 215 products)
+
+```
+python3 tools/extract_ppd.py <old PDFs> --out drafts --img img   # read each old sheet: text, name (OCR), bottle photo
+python3 tools/promote.py                                        # drafts -> products/*.json (names, sections, spelling)
+python3 build.py
+```
+
+`tools/promote.py` holds the hand-checked names, the library sections (by item-number range), and the spelling corrections; each correction is logged in the product's `review` list. Product claims and figures are never edited by the scripts.
 
 ## How it works
 
@@ -42,7 +61,10 @@ After the sheets, the build writes the public library site to `web/`: one card p
 | `description` | One paragraph, about 80 words |
 | `specs` | Rows of `[test, ASTM method, typical result]`; leave the method empty for N/A; 8 rows at most |
 | `application` | One or two sentences |
-| `packaging` | Rows of `[label, value]`: Fill, Case Quantity, Case Weight |
+| `packaging` | One row per size: `[fill, case quantity, case weight]` |
+| `ratings` | Optional performance ratings, e.g. `["Gloss 8", "Durability 4"]` |
+| `ad` | Optional ad sheet block: `headline`, `description`, `benefits`, `callout`, `rev` |
+| `source`, `review` | Where the data came from, and what still needs a product expert's check |
 
 ## Files
 
@@ -51,7 +73,7 @@ After the sheets, the build writes the public library site to `web/`: one card p
 - `img/`: bottle images. The two current ones are stand-ins cut from the concept PDF (about 390 px wide); they will be replaced by rendered bottles with the label art applied.
 - `web/`: the public library site (generated; Vercel deploys this folder)
 
-`out/` (working files) and `site/` (the internal review page) are kept out of git; both live in the build kit in Andy's MOC-BRAND-STYLE-GUIDE folder.
+`out/` (working files), `site/` (the internal review page), `drafts/` (extraction output) and `review/` (the product-expert review list) are kept out of git; they live in the build kit in Andy's MOC-BRAND-STYLE-GUIDE folder.
 
 ## Template rules
 

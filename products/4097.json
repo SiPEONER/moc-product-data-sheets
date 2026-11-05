@@ -1,0 +1,75 @@
+{
+  "item": "4097",
+  "name": "Tree-sap Remover",
+  "category": "Automotive Cleaner & Degreaser",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4097.png",
+  "features": [
+    {
+      "text": "Easy to use"
+    },
+    {
+      "text": "Fast-acting"
+    },
+    {
+      "text": "Removes contaminants other cleaners cannot."
+    },
+    {
+      "text": "Easy to remove."
+    }
+  ],
+  "ratings": [],
+  "description": "A water-based solution, red in color. This product quickly dissolves hard-to-remove sap and other organic contaminants from paints, glass, and metal surfaces.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Low Viscosity Liquid"
+    ],
+    [
+      "Color Odor",
+      "",
+      "Red"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D 4052",
+      "~7.4"
+    ],
+    [
+      "pH",
+      "E 70",
+      "~8.0"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "Vehicle surface should be cool, dry, and out of direct sunlight. Test product on an inconspicuous area prior to applying to the entire surface. Wear rubber gloves while handling this product. 1.) Saturate clean towel with Tree-Sap Remover. 2.) Rub contaminated surface with product. If sap is hard to remove, allow product to soak into the sap for 5 minutes by laying a towel over contaminated area. 3.) Wipe surface until sap is removed. 4.) Wash vehicle.",
+  "packaging": [
+    [
+      "1 gal.",
+      "4",
+      "33 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4097.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

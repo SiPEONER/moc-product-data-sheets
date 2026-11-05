@@ -1,0 +1,77 @@
+{
+  "item": "0104",
+  "name": "Cooling-system Sealer",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0104.png",
+  "features": [
+    {
+      "text": "Helps seal radiator, gaskets and freeze plugs."
+    },
+    {
+      "text": "Non-metallic."
+    },
+    {
+      "text": "Non-clogging."
+    },
+    {
+      "text": "Compatible with all types of coolant."
+    }
+  ],
+  "ratings": [],
+  "description": "MOC® Cooling System Sealer is designed to seal leaks caused by cracks or holes in the radiator, block and head gasket. It has the unique ability to seal leaks by forming a \"scab\" over the hole or damaged area. This nonmetallic formula is safe to use with all types of antifreeze and coolants. This non-clogging product may be used in all pressurized systems and will not harm plastic, metal or rubber parts.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Light Amber"
+    ],
+    [
+      "Odor",
+      "",
+      "Bland"
+    ],
+    [
+      "pH",
+      "D1293",
+      "8.5-9.5"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "1.07"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "8.96"
+    ],
+    [
+      "Boiling Point (°F)",
+      "D1120",
+      ">212"
+    ]
+  ],
+  "application": "Add directly to radiator after coolant/water mixture has been added. Do not add through flush machines. Run MOC® Cooling System Sealer through entire system. If MOC® Cooling System Sealer does not help stop a leak, this may be a sign of more serious cooling-system problems that should be addressed.",
+  "packaging": [
+    [
+      "8 oz.",
+      "24",
+      "15 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0104.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 388 px tall"
+  ]
+}

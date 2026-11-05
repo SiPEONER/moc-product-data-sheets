@@ -1,0 +1,72 @@
+{
+  "item": "28052",
+  "name": "Precise Clean",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/28052.png",
+  "features": [
+    {
+      "text": "Removes compound haze, swirl marks and holograms"
+    },
+    {
+      "text": "Eliminates P2000 grit and finer sanding scratches"
+    },
+    {
+      "text": "Targets light oxidation and surface imperfections"
+    },
+    {
+      "text": "Controlled abrasive breakdown for smooth, uniform results"
+    },
+    {
+      "text": "No dusting, no sticking, extended work time"
+    },
+    {
+      "lead": "100% body shop safe",
+      "text": "no silicones, fillers or waxes"
+    }
+  ],
+  "ratings": [],
+  "description": "PRECISE ™ CLEAN is a micro abrasive polish designed to remove 2000 grit scratches and swirl marks. Formulated to remove surface imperfections, surface blemishes, holograms, and oxidation leaving the paints surface smooth and glossy. PRECISE ™ CLEAN is body shop safe and does not contain silicone, wax, or fillers.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Orange"
+    ],
+    [
+      "Odor",
+      "",
+      "Citrus"
+    ],
+    [
+      "Density (g/ml)",
+      "D1475",
+      "~9.3"
+    ],
+    [
+      "Viscosity, cPs",
+      "",
+      "`31,500"
+    ]
+  ],
+  "application": "Directions: For use with a DA polisher or rotary buffer. Apply product directly to a cool surface working a small area at a time approximately 2’ x 2’. Work product until it is almost dry. Wipe off excess material with a clean microfiber towel. Repeat process until desired results are achieved. Formulated to be used with foams pads. DA Orbitals - use 70336 MF cut / polish or 70326 foam polish pads",
+  "packaging": [
+    [
+      "32 oz.",
+      "6",
+      "16 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "2805.pdf",
+    "old_rev": 1
+  },
+  "review": []
+}

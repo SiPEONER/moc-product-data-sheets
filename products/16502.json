@@ -1,0 +1,82 @@
+{
+  "item": "16502",
+  "name": "Optimizer Liquid",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/16502.png",
+  "features": [
+    {
+      "text": "Loosens and removes stubborn carbon."
+    },
+    {
+      "text": "Will not harm catalytic converter or oxygen sensor when used as directed."
+    },
+    {
+      "text": "Restores engine performance."
+    },
+    {
+      "text": "Designed for “hard-to-fix” problem areas."
+    }
+  ],
+  "ratings": [],
+  "description": "A unique liquid cleaner designed to remove carbon and other deposits in the fuel induction system. The blend of solvents and cleaners is specifically designed to address “hard-to-fix” problem areas. Removing carbon from intake valves and combustion chambers can help eliminate cold-starts, hesitation and other drivability problems. The product contains no alcohol and will not harm seals, oxygen sensors or catalytic converters. When used as directed Optimizer™ (Non Aerosol) can be used on all gasoline or diesel engines. It is highly effective as a solution for carbon buildup problems on direct-injected engines.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Aqueous Emulsion"
+    ],
+    [
+      "Color",
+      "",
+      "Cloudy Amber"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "pH",
+      "",
+      "9.5 +/- 0.5"
+    ],
+    [
+      "Specific Gravity @ 68°F (liquid portion)",
+      "D1298",
+      "0.96"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D1250",
+      "8.01"
+    ],
+    [
+      "Flash point °F, PMCC",
+      "D 93",
+      "150"
+    ],
+    [
+      "% VOC",
+      "",
+      "50"
+    ]
+  ],
+  "application": "Vehicle should be at operating temperature. Recommended Method: Follow instructions for use with #73400 EDR-3 Fuel Machine. Alternate Method: 1) Attach #74100 A.I.S. Tool to Air-Intake System at throttle body opening. 2) Pour Optimizer into canister of #72480 Deluxe Cleaner Application Tool II. 3) Attach outlet hose of Cleaner Application Tool to A.I.S. Tool. 4) Follow instructions for use with #72480 Deluxe Cleaner Application Tool II.",
+  "packaging": [
+    [
+      "16 oz",
+      "12 Cans",
+      "14.372 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "16502.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 393 px tall"
+  ]
+}

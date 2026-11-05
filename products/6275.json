@@ -1,0 +1,102 @@
+{
+  "item": "6275",
+  "name": "Pink Car Shampoo",
+  "category": "Automotive Shampoo",
+  "library_section": "Shampoos & Washes",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/6275.png",
+  "features": [
+    {
+      "text": "Removes dirt and grime from all exterior vehicle surfaces."
+    },
+    {
+      "text": "A dense foaming-formula that rinses easily without streaks."
+    },
+    {
+      "text": "Suspends dirt without scratching the surface."
+    }
+  ],
+  "ratings": [
+    "Foaming 8",
+    "Concentration 7"
+  ],
+  "description": "A viscous, highly concentrated product that produces a very-high-and lasting foam for use on cars, trucks, trailers, boats, and mobile homes.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Pink"
+    ],
+    [
+      "Odor",
+      "",
+      "Citrus"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.5"
+    ],
+    [
+      "RI",
+      "",
+      "~11.0"
+    ],
+    [
+      "pH",
+      "",
+      "~9.0"
+    ],
+    [
+      "Viscosity, Brookfield, cP",
+      "",
+      "~1,600"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "DIRECTIONS: FOR BEST RESULTS, SURFACE SHOULD BE COOL AND OUT OF DIRECT SUNLIGHT. 1) Use 1 part concentrate for 130 parts water (approximately 1-2 ounces product for each 1/2 - 1 gallon of water). Adjust dilution to desired strength for extremely dirty conditions. 2) Rinse vehicle exterior thoroughly. 3) Apply solution generously using a wash mitt. 4) Rinse well with clean water. 5) Wipe dry with a clean chamois or drying towel.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "37 lbs"
+    ],
+    [
+      "5 gal",
+      "1",
+      "47 lbs"
+    ],
+    [
+      "55 gal",
+      "1",
+      "495 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "6275.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Foaming - 8 Concentration - 7"
+  ]
+}

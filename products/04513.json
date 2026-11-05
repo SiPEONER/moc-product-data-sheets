@@ -1,0 +1,96 @@
+{
+  "item": "04513",
+  "name": "Asian Red/pink Super Long-life Coolant",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/04513.png",
+  "features": [
+    {
+      "text": "Protects against freeze-ups to -34° F"
+    },
+    {
+      "text": "Protects against summer boil-overs to 265° F"
+    },
+    {
+      "text": "Protects against rust & corrosion"
+    },
+    {
+      "text": "Protects all cooling system metals, including aluminum"
+    },
+    {
+      "text": "Compatible with Asian Vehicle PINK/RED coolant formulations"
+    },
+    {
+      "text": "5 year / 150,000 mile protection"
+    }
+  ],
+  "ratings": [],
+  "description": "A premium, ready-to-use 50/50 blend engine coolant specifically formulated to meet the unique demands of Asian makes and models requiring a red/pink Phosphate-Enhanced Organic Acid Technology (POAT) formula. This advanced long-life coolant is Silicate and Borate free, ensuring compatibility and long-lasting protection against rust and corrosion for all cooling system metals, including aluminum. With a service life of up to 150,000 miles or five (5) years, MOC’s super long-life coolant keeps Asian cooling systems running, cleaner, cooler and longer.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Fluorescent Red"
+    ],
+    [
+      "Odor",
+      "",
+      "Mild"
+    ],
+    [
+      "Specific Gravity @ 50/50°F",
+      "D1122",
+      "1.06 - 1.07"
+    ],
+    [
+      "Freezing point, 50% V/V",
+      "D1177",
+      "-34 °F / -37 °C"
+    ],
+    [
+      "Boiling point, 50% V/V",
+      "D1120",
+      "265 °F / 129 °C"
+    ],
+    [
+      "pH, 50% V/V",
+      "D1287",
+      "8.5"
+    ],
+    [
+      "Reserve Alkalinity @50%",
+      "D1121",
+      "4"
+    ],
+    [
+      "Ash, Wt %",
+      "D1119",
+      "1.4"
+    ],
+    [
+      "Silicon, ppm",
+      "",
+      "2"
+    ]
+  ],
+  "application": "Follow the vehicle's owner manual for instructions and dilution percentages before adding or changing antifreeze/ coolant. Note: Color may change and performance may be impacted if mixed with traditional green antifreeze /coolant.",
+  "packaging": [
+    [
+      "1 gal.",
+      "6",
+      "48 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "04513.pdf",
+    "old_rev": 1
+  },
+  "review": []
+}

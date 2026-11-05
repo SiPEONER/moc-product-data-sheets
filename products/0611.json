@@ -1,0 +1,87 @@
+{
+  "item": "0611",
+  "name": "Premium Synthetic ATF - Red",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0611.png",
+  "features": [
+    {
+      "text": "Superior oxidation stability."
+    },
+    {
+      "text": "Very good cold weather performance."
+    },
+    {
+      "text": "Improved shear stability."
+    },
+    {
+      "text": "Conditions seals and hoses."
+    }
+  ],
+  "ratings": [],
+  "description": "Formulated to provide wear and rust protection, lubricity, good flow properties, excellent high and low temperature performance as well as stringent anti-shudder capability. This fluid is suitable for use in Ford, General Motors, Chrysler ATF+4, Allison C4, Volkswagen #G052 162A2, Audi, Volvo, Toyota (T-IV), Lexus, Honda Z1, Hyundai, Nissan (Matic-J), Infiniti, BMW, Mercedes Benz, and Jaguar.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Oil"
+    ],
+    [
+      "Color",
+      "",
+      "Red"
+    ],
+    [
+      "Odor",
+      "",
+      "Petroleum"
+    ],
+    [
+      "Specific Gravity @ 68°F",
+      "D4052",
+      "~0.85"
+    ],
+    [
+      "Density, U.S. (lbs/gal) (Calculated)",
+      "",
+      "~7.09"
+    ],
+    [
+      "Viscosity, cSt @ 100°C",
+      "D445",
+      "~7"
+    ],
+    [
+      "Viscosity, cSt @ 40°C",
+      "D445",
+      "~38"
+    ],
+    [
+      "Viscosity Index",
+      "D 2270",
+      "> 147"
+    ]
+  ],
+  "application": "MOC® Premium Synthetic ATF (#0611) must be used according to equipment manufacturer’s recommendations. Do not use in transmissions which require CVT or Dexron VI fluid.",
+  "packaging": [
+    [
+      "1 gal.",
+      "4 Bottles",
+      "30 lbs."
+    ],
+    [
+      "3 gal.",
+      "2 Bottles",
+      "46 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0611.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 395 px tall"
+  ]
+}

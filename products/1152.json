@@ -1,0 +1,72 @@
+{
+  "item": "1152",
+  "name": "Gloss",
+  "category": "Automotive Protectant",
+  "library_section": "Aerosols & Service Chemicals",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/1152.png",
+  "features": [
+    {
+      "text": "Works on contact, no wiping required."
+    },
+    {
+      "text": "Pleasant, watermelon scent."
+    },
+    {
+      "text": "Great for those hard-to-reach areas."
+    },
+    {
+      "text": "Protect against future solar damage."
+    }
+  ],
+  "ratings": [],
+  "description": "Restores shine back to rubber, plastic, and vinyl parts in seconds. The custom tip sprays a fine aerosol mist to easily coat narrow trim pieces, window moldings, rubber coolant lines, and plastic engine covers with minimal overspray. UV blocking agents repel harmful sun rays that can break down and damage rubber, plastic, and vinyl trim pieces.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Organic Solvent Based Solution"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Specific Gravity @ 70°F (liquid portion)",
+      "D 1298",
+      "0.74"
+    ],
+    [
+      "Density, (lbs/gal) (liquid portion, calculated)",
+      "",
+      "6.18"
+    ],
+    [
+      "Flash Point (°F), Liquid Components",
+      "",
+      "<20"
+    ],
+    [
+      "% VOC",
+      "",
+      "95%"
+    ]
+  ],
+  "application": "DIRECTIONS: SHAKE WELL BEFORE USING! 1) Hold can upright, 8-10 inches from the surface. 2) Spray a thin, even coat onto the surface. 3) Allow product to dry for 1-2 minutes before any contact with the surface. Take care to protect painted plastic panels when applying gloss, as product “sling” can stain panels. Never apply product to steering wheels, accelerator pedals, brake pedals, clutch pedals, or where slick surfaces are not desired. For best results, surface should be clean and dry.",
+  "packaging": [
+    [
+      "12 oz.",
+      "12",
+      "14 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "1152.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 386 px tall"
+  ]
+}

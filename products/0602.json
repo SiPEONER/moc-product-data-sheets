@@ -1,0 +1,86 @@
+{
+  "item": "0602",
+  "name": "Ultra DOT 5.1 Brake Fluid",
+  "category": "Automotive Brake Fluid",
+  "library_section": "Additives & Fluids",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/0602.png",
+  "features": [
+    {
+      "text": "Fortified formula with special additives and esters for exceptional protection and moisture tolerance."
+    },
+    {
+      "text": "Extremely high-boiling point formula for superior performance. Dry ERBP: > 272°C (> 522°F), Wet ERBP: >186°C (>367°F)"
+    },
+    {
+      "text": "Exceeds DOT specifications and may be used in place of DOT 3 or 4 fluids for convenience and elevated performance."
+    },
+    {
+      "text": "Long-life, low-conductivity formula for the high demands of EV and HEV brake systems."
+    },
+    {
+      "text": "Low viscosity formula for optimal performance in advanced anti-locking brake systems (ABS)."
+    }
+  ],
+  "ratings": [],
+  "description": "A long-life, low-conductivity, non-silicone brake fluid for all types of hydraulic actuated brake and clutch systems in accordance with DOT 5.1, 4 and 3 specifications. Specially designed for anti-locking brake system (ABS), regenerative systems and the added demands of electric and hybrid vehicles. Ultra DOT 5.1 Brake Fluid is fully tested and certified to meet or exceed technical specifications including: FMVSS 116, SAE J1703, J1704, and ISO 4925 Class 7. IMPORTANT: DO NOT MIX WITH DOT 5 SILICONE-BASED BRAKE FLUID AND DO NOT USE IN SYSTEMS REQUIRING DOT 5 BRAKE FLUID.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear"
+    ],
+    [
+      "Color",
+      "",
+      "Light Amber"
+    ],
+    [
+      "Odor",
+      "",
+      "Mild"
+    ],
+    [
+      "Dry ERBP",
+      "FMVSS 116",
+      "~272°C (522°F)"
+    ],
+    [
+      "Wet ERBP",
+      "FMVSS 116",
+      "~186°C (367°F)"
+    ],
+    [
+      "Density, lbs/gal",
+      "FMVSS 116",
+      "~9.0"
+    ],
+    [
+      "Bkfld Vis. @ -40’C",
+      "FMVSS 116",
+      "< 900 cSt"
+    ]
+  ],
+  "application": "This product is to be used with a #98000 MOC® Pure Brake ® Brake Fluid Exchanger. Follow directions in the machine’s instruction manual for use of this product. Do not mix with silicone (DOT 5 silicone base) or mineral base fluids (LHM)",
+  "packaging": [
+    [
+      "32 oz.",
+      "12 Bottles",
+      "29.6 lbs."
+    ],
+    [
+      "53 oz.",
+      "4 Bottles",
+      "16.39 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0602.pdf",
+    "old_rev": 3
+  },
+  "review": [
+    "Spelling corrected from the old sheet: ERPB -> ERBP; SILCONE -> SILICONE; ◦ -> °",
+    "Spec label: the old sheet listed Dry ERBP twice; the ~186°C row is the wet value (matches the features), now Wet ERBP"
+  ]
+}

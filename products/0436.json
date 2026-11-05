@@ -1,0 +1,77 @@
+{
+  "item": "0436",
+  "name": "Diesel EGR System Cleaner",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/0436.png",
+  "features": [
+    {
+      "text": "Designed to restore engine performance."
+    },
+    {
+      "text": "Reduces harmful exhaust emissions."
+    },
+    {
+      "text": "Removes heavy deposits on the EGR valve, cooler and intake manifold."
+    },
+    {
+      "text": "Eliminates the need for disassembly and time- consuming manual cleaning or expensive replacement."
+    }
+  ],
+  "ratings": [],
+  "description": "EGR systems are continuously exposed to extreme temperatures, oil vapors from the engine and particles of unburned fuel that circulate back from the exhaust. This combination along with system designs and driving conditions can quickly create carbon deposits and fuel residue on the EGR valve, cooler and intake manifold. Diesel EGR System Cleaner is a powerful blend of solvents and detergents that quickly dissolves heavy carbon deposits that accumulate on the EGR valve, cooler and intake manifold. This advanced formula can restore proper exhaust recirculation and correct rough idle, stalling, increased fuel consumption and emissions problems.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Mobile Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Colorless"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Specific Gravity @ 68°F",
+      "D1298",
+      "0.91"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "",
+      "7.60"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "D 93",
+      "81"
+    ],
+    [
+      "% V.O.C",
+      "",
+      "99.0"
+    ]
+  ],
+  "application": "Diesel EGR System Cleaner is designed to be used with the MOC EDR-3 Fuel Machine #73400 and vehicle-specific adaptors to access and clean the EGR system. Follow instructions for use provided with the #73400 machine.",
+  "packaging": [
+    [
+      "16 oz.",
+      "12 Bottles",
+      "14.372 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0436.pdf",
+    "old_rev": 1
+  },
+  "review": [
+    "Bottle photo is only 416 px tall"
+  ]
+}

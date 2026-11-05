@@ -1,0 +1,89 @@
+{
+  "item": "5118",
+  "name": "V.L.R Concentrate",
+  "category": "Automotive Dressing",
+  "library_section": "Dressings & Protectants",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/5118.png",
+  "features": [
+    {
+      "text": "An all-purpose dressing for interior and exterior use."
+    },
+    {
+      "text": "Leaves a high shine on tires, vinyl, and plastic."
+    },
+    {
+      "text": "Part of the Color-Coded Reconditioning Program."
+    }
+  ],
+  "ratings": [
+    "Gloss 7",
+    "Durability 4"
+  ],
+  "description": "Formulated to treat vinyl, leather, and rubber surfaces, leaving a rich, natural appearance with beautiful shine. It helps protect surfaces from harsh chemical contaminants and UV rays, which can crack, dry, and discolor them. Use product on tires, rubber bumpers, dashboards, vinyl (armrests and tops), hoses, belts, door and window moldings, and many other automotive and marine surfaces.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous Liquid"
+    ],
+    [
+      "Color Odor",
+      "",
+      "White"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D1475",
+      "~8.3"
+    ],
+    [
+      "pH",
+      "E70",
+      "~7.0"
+    ],
+    [
+      "Viscosity, Brookfield, cPs",
+      "",
+      "≥ 30,000"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "SHAKE WELL BEFORE USE. TAKE CARE TO PROTECT PAINTED PLASTIC PANELS WHEN APPLYING ANY TIRE DRESSING, AS PRODUCT “SLING” CAN STAIN PANELS. NEVER APPLY PRODUCT TO STEERING WHEELS, ACCELERATOR PEDALS, BRAKE PEDALS, OR CLUTCH PEDALS. 1) Dilute product with up to 4 parts water. 2) Allow product to dry and wipe away excess (to prevent “sling”).",
+  "packaging": [
+    [
+      "5 gal",
+      "1 each",
+      "45 lbs"
+    ],
+    [
+      "55 gal",
+      "1 each",
+      "478 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "5118.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Gloss - 7 Durability - 4",
+    "Bottle photo is only 370 px tall",
+    "Name read by hand from the header artwork"
+  ]
+}

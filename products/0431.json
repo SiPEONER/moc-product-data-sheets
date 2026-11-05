@@ -1,0 +1,80 @@
+{
+  "item": "0431",
+  "name": "Dissolve GDI Intake Cleaner",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0431.png",
+  "features": [
+    {
+      "text": "Enhances fuel atomization for increased efficiency."
+    },
+    {
+      "text": "Designed to maximize both power and performance output."
+    },
+    {
+      "lead": "Versatile",
+      "text": "can be applied through multiple intake sources"
+    }
+  ],
+  "ratings": [],
+  "description": "DISSOLVE™ - GDI Intake Valve Cleaner is formulated to quickly dissolve heavy deposits from the intake valves and ports of gasoline direct injection (GDI) engines that are prone to excessive carbon buildup. Dissolve's highly concentrated blend of solvents and detergents can help restore performance, fuel economy and increase power. When used in conjunction with the EDR Fuel Service Machine, Dissolve has the added benefit of helping to lower exhaust emissions and will not harm oxygen sensors or catalytic converters when used as directed.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Solution, Organic Solvents"
+    ],
+    [
+      "Color",
+      "",
+      "Clear to Pale Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density (g/mL) @68 °F",
+      "D4052",
+      "0.91"
+    ],
+    [
+      "Density (lbs/gal), calculated @68 °F",
+      "",
+      "7.60"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      "≥280"
+    ],
+    [
+      "Flash Point (°F) (based on components)",
+      "",
+      "≥81"
+    ],
+    [
+      "% V.O.C.",
+      "",
+      "99"
+    ]
+  ],
+  "application": "Refer to Instructions provided with MOC's EDR - 3 & ADVANCED Fuel System Service Machines.",
+  "packaging": [
+    [
+      "10 oz.",
+      "12",
+      "13 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0431.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 383 px tall"
+  ]
+}

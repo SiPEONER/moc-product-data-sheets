@@ -1,0 +1,79 @@
+{
+  "item": "2110",
+  "name": "Magna Seal",
+  "category": "Automotive Waxes & Sealants",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/2110.png",
+  "features": [
+    {
+      "text": "Two liquid ounces can do an entire car."
+    },
+    {
+      "text": "Dries very quickly and is easily removed without streaks, leaving an outstanding gloss and protection."
+    },
+    {
+      "text": "This product leaves \"little-to-no\" powder."
+    }
+  ],
+  "ratings": [
+    "Abrasiveness 2",
+    "Gloss 8",
+    "Durability 6"
+  ],
+  "description": "A water-thin, one-step liquid wax. It is off-white in color and must be shaken before use, as it will separate on standing. Magna Seal TM has a slight solvent odor. This product can be used on clearcoat and conventional paints, as a one-step liquid wax, to clean, polish and protect.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Low Viscosity Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Off-White"
+    ],
+    [
+      "Odor",
+      "",
+      "Slight Solvent"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D1475",
+      "~ 8.10"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "Saturate an applicator pad and squeeze out excess. Apply by hand in an overlapping, circular motion. Allow to dry. Wipe off with a clean cloth. Can be removed with an orbital buffer after hand application.",
+  "packaging": [
+    [
+      "1 gal.",
+      "4",
+      "32 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "2110.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Abrasiveness - 2 Gloss - 8 Durability - 6",
+    "Bottle photo is only 379 px tall"
+  ]
+}

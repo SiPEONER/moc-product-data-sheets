@@ -1,0 +1,80 @@
+{
+  "item": "2334",
+  "name": "Fabric Seal Ultra",
+  "category": "Automotive Fabric Protector",
+  "library_section": "Dressings & Protectants",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/2334.png",
+  "features": [
+    {
+      "text": "Protects fabrics from stains caused by: water, milk, coffee, soda, ice cream, lotions and other liquids."
+    },
+    {
+      "text": "Safe on most fabric, suede and velour."
+    },
+    {
+      "text": "Low odor, solvent free formula."
+    },
+    {
+      "text": "Easy to use. For home, auto and marine use."
+    }
+  ],
+  "ratings": [],
+  "description": "Scientifically formulated to offer heavy-duty-soil and moisture-repellant protection. Fabric Seal Ultra contains the highest- quality resins and polymers available. It is designed to penetrate fabric, carpet and suede to form a water and stain- resistant coating. The treated material retains its natural appearance and feel.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Aqueous Emulsion"
+    ],
+    [
+      "Color",
+      "",
+      "Milky White"
+    ],
+    [
+      "Odor",
+      "Mild",
+      "Biodegradable - N/A"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 77°F",
+      "D1475",
+      "8.45"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "D93",
+      "≥ 212"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "Avoid freezing. If product freezes, thaw completely. Shake well before using. Apply to a clean, dry fabric. Before applying, test product on hidden area for compatibility. 1) Using a trigger sprayer 8 to 10 inches from fabric, mist product evenly onto one 2’ x 2’ section at a time. Ensure that all areas are completely coated with product. It is typical for the surface to appear darker due to wetness until the product completely dries. For carpet or thicker fabric, an upholstery brush may be used to work the product deep in the fiber while still wet to ensure more complete coverage. 2) Allow FABRIC SEAL ULTRA to dry to the touch before using the vehicle (approximately 2 hours). 3) Do not subject newly-treated areas to liquid or staining substances until product is completely cured (24 hours).",
+  "packaging": [
+    [
+      "1oz .",
+      "4",
+      "35 lbs."
+    ],
+    [
+      "5 ga l.",
+      "N/A",
+      "44 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "2334.pdf",
+    "old_rev": 3
+  },
+  "review": []
+}

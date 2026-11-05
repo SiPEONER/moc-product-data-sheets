@@ -1,0 +1,83 @@
+{
+  "item": "0433",
+  "name": "Restore Combustion Chamber Cleaner",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0433.png",
+  "features": [
+    {
+      "text": "Engineered to optimize engine efficiency and power."
+    },
+    {
+      "text": "Penetrates and eliminates stubborn carbon deposits."
+    },
+    {
+      "text": "Restores peak performance."
+    },
+    {
+      "text": "Enhances fuel economy."
+    }
+  ],
+  "ratings": [],
+  "description": "RESTORE™ - Combustion Chamber Cleaner is formulated to quickly dissolve heavy fuel deposits on injector tips, pistons and other combustion chamber surfaces in Gasoline Direct Inject (GDI) and other High-Output engines. Restore's powerful solvent blend can improve engine performance, reduce exhaust emissions and restore power. When used in conjunction with the EDR Fuel Service Machine, Restore will not harm oxygen sensors or catalytic converters when used as directed.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Mobile"
+    ],
+    [
+      "Color",
+      "",
+      "Clear, Light Brown"
+    ],
+    [
+      "Odor",
+      "",
+      "Amine"
+    ],
+    [
+      "Density (g/mL) @68 °F",
+      "D4052",
+      "0.84"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated @68 °F",
+      "",
+      "7.01"
+    ],
+    [
+      "Boiling Point (°F) (based on components)",
+      "",
+      ">185"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "",
+      "124"
+    ],
+    [
+      "% V.O.C.",
+      "",
+      "21.4"
+    ]
+  ],
+  "application": "Refer to Instructions provided with MOC's EDR - 3 & ADVANCED Fuel System Service Machines.",
+  "packaging": [
+    [
+      "10 oz.",
+      "12",
+      "17 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0433.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 385 px tall",
+    "Spelling corrected from the old sheet: dissolveheavy -> dissolve heavy"
+  ]
+}

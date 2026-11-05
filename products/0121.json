@@ -1,0 +1,97 @@
+{
+  "item": "0121",
+  "name": "Premium Engine Treatment",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0121.png",
+  "features": [
+    {
+      "text": "Significantly reduces friction and wear under extreme load by up to 80% (based on ASTM D2253 Falex test results)."
+    },
+    {
+      "text": "Reduces sludge and varnish."
+    },
+    {
+      "text": "Greatly improves engine oil's ability to resist oxidation breakdown (based on ASTM D4742 TFOUT tests)."
+    },
+    {
+      "text": "Protects vital engine parts during start-ups and new car break-in periods."
+    },
+    {
+      "text": "Compatible with both synthetic and regular oil, gas and diesel fuels, and turbo and supercharged engines."
+    }
+  ],
+  "description": "A concentrated blend of antioxidants, detergents, dispersants, and lubricants formulated to fortify all grades of engine oil. It provides superior long-lasting engine protection and helps maintain optimum performance for extended service life. MOC® Premium Engine Treatment enhances engine oil's ability to reduce friction and wear on internal engine components. Advanced antioxidants prevent oxidation and thickening of engine oil under even the most severe driving conditions. Special dispersants help keep piston ring belts, hydraulic lifters and other engine components clean and free of sludge or deposits. It is compatible with both synthetic and petroleum-based oils.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Brown"
+    ],
+    [
+      "Odor",
+      "",
+      "Hydrocarbon"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.89"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "7.42"
+    ],
+    [
+      "Viscosity, cSt @ 100°C",
+      "D445",
+      "~8.5"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "",
+      "≥248"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      "≥464"
+    ]
+  ],
+  "application": "Pour entire contents (11 fl. oz.) into crankcase with each oil change.",
+  "packaging": [
+    [
+      "11 fl. oz. (325 mL)",
+      "24",
+      "21 lbs."
+    ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Reduce Friction",
+    "description": "Enhances engine oil's ability to reduce friction and wear on internal engine components. Advanced antioxidants prevent oxidation and thickening of engine oil under even the most severe driving conditions. Special dispersants help keep piston ring belts, hydraulic lifters and other engine components clean and free of sludge or deposits. It is compatible with both synthetic and petroleum based oils.",
+    "benefits": [
+      "Helps reduce friction and wear.",
+      "Greatly improves engine oil's ability to resist oxidation breakdown.",
+      "Protects vital engine parts during start-ups.",
+      "Compatible with both synthetic and regular oil."
+    ],
+    "callout": "Compatible with ULV synthetic oils"
+  },
+  "ratings": [],
+  "source": {
+    "pdf": "designer concept 0121_Premium_Engine_Treatment.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Rebuilt from the designer concept (Rev003); bottle cut from the concept PDF"
+  ]
+}

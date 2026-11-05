@@ -1,0 +1,85 @@
+{
+  "item": "0136",
+  "name": "A/C Quiet Max",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "5.0",
+  "issued": "2026",
+  "image": "img/0136.png",
+  "features": [
+    {
+      "text": "Compatible with R-12, R-134a and R-1234yf refrigerant."
+    },
+    {
+      "text": "Compatible with and suitable for use in systems that contain ester, paraffin, PAO, POE and PAG oils."
+    },
+    {
+      "text": "Compatible with air-conditioning system components. (Based on Sealed Tube Test compliant with ASHRAE 97 standard)."
+    },
+    {
+      "text": "Helps prevent corrosion, icing, and acid formation by forming a barrier to moisture."
+    },
+    {
+      "text": "Contains a unique color dye for detecting leaks (under black light)."
+    }
+  ],
+  "ratings": [],
+  "description": "A universal lubricant for automotive air-conditioning systems that utilize R-134a, R-1234yf and R-12 refrigerant. The advanced formula is designed to lower operating temperature and wear, increase operational reliability, and reduce noise and energy consumption. Unlike other oils, A/C Quiet™ MAX is not hygroscopic and will not absorb moisture from the ambient air. Therefore, humidity-related problems such as icing on components or the formation of acids can be prevented with use of A/C Quiet™ MAX. It is scientifically designed to minimize the volume of oil that circulates with the refrigerant and maximize the amount that stays in the compressor where it is needed most.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Oil"
+    ],
+    [
+      "Color",
+      "",
+      "Amber"
+    ],
+    [
+      "Odor",
+      "",
+      "Characteristic"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.85"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "D1250",
+      "7.09"
+    ],
+    [
+      "Flash Point (°F) COC",
+      "ISO 2592",
+      "482"
+    ],
+    [
+      "Kinematic Viscosity, 40°C, cSt",
+      "DIN 51562",
+      "69"
+    ]
+  ],
+  "application": "A/C Quiet™ MAX (#01361 and #01368): Add appropriate amount of A/C Quiet™ MAx to an air-conditioner system using MOC® A/C Injector Tool #76004. Follow A/C system manufacturer’s instructions for charging of the system. Note: #01361 (2 oz.) is typically added if the refrigerant/oil level is low if the compressor is noisy and as a preventative maintenance step. Note: #01368 (8 oz.) Is typically added when installing a new A/C unit, retrofitting from R12 to R134a and to detect system leaks.",
+  "packaging": [
+    [
+      "01361 2 oz.",
+      "24",
+      "4 lbs."
+    ],
+    [
+      "01368 8 oz.",
+      "24",
+      "5.5 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0136.pdf",
+    "old_rev": 4
+  },
+  "review": [
+    "Name read by hand from the header artwork"
+  ]
+}

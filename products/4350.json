@@ -1,0 +1,92 @@
+{
+  "item": "4350",
+  "name": "Formula 5000",
+  "category": "Automotive Cleaner / Degreaser",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4350.png",
+  "features": [
+    {
+      "text": "Strong enough to remove tough grime and soil, but mild enough to clean interior surfaces."
+    },
+    {
+      "text": "Complies with VOC regulations."
+    },
+    {
+      "text": "Part of The Color-Coded Reconditioning Program."
+    }
+  ],
+  "ratings": [],
+  "description": "A powerful, non-acid tire & wheel cleaner designed to cling to both horizontal and vertical surfaces without dripping, keeping the cleaning power where you need it most. CLING quickly dissolves stubborn road grime, dirt and brake dust from all types of clear coated, factory painted, alloy and chrome wheels. This new non-caustic formula rinses clean without leaving spots or residue behind.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Low Viscosity Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Blue"
+    ],
+    [
+      "Odor",
+      "",
+      "Citrus"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.7"
+    ],
+    [
+      "pH",
+      "E 70",
+      "~13.0"
+    ],
+    [
+      "RI",
+      "",
+      "~17.0"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "DIRECTIONS: TEST PRODUCT ON AN INCONSPICUOUS AREA FOR COMPATIBILITY BEFORE USING ON ENTIRE SURFACE. ALWAYS DILUTE WITH AT LEAST 12 PARTS WATER TO 1 PART PRODUCT 1) Use only in diluted form. 2) Spray or wipe diluted solution onto surface to be cleaned. 3) If needed, scrub surface with a brush or mop. Do not allow product to dry on surface. 4) Rinse surface thoroughly with clean water.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "37 lbs."
+    ],
+    [
+      "5 gal",
+      "1",
+      "47 lbs."
+    ],
+    [
+      "5 gal",
+      "1",
+      "501 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4350.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

@@ -1,0 +1,95 @@
+{
+  "item": "4640",
+  "name": "Interior Clean & Shine",
+  "category": "Automotive Cleaner",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/4640.png",
+  "features": [
+    {
+      "text": "Save time and money."
+    },
+    {
+      "text": "Clean without damaging interior surfaces."
+    },
+    {
+      "text": "Protect interior from harmful UV rays."
+    },
+    {
+      "text": "Non-greasy formula."
+    }
+  ],
+  "ratings": [
+    "Cleaning 8",
+    "Shine 6"
+  ],
+  "description": "A premium water-based cleaner and protectant that rapidly removes dirt and grime from leather, vinyl, and plastic surfaces. Our 2 in 1 product not only restores the natural luster of a vehicle’s interior but also leaves behind a fresh scent and a subtle matte finish without any oily or greasy residue.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Aqueous emulsion"
+    ],
+    [
+      "Color",
+      "",
+      "Milky White"
+    ],
+    [
+      "Odor",
+      "",
+      "Minimal Clean"
+    ],
+    [
+      "Density, g/ml",
+      "D4052",
+      "0.998"
+    ],
+    [
+      "Density, lb/gl (calculated)",
+      "",
+      "8.328"
+    ],
+    [
+      "pH",
+      "E70",
+      "7.0-8.0"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "Shake Well Before Using. Always test product for compatibility on an inconspicuous area prior to applying to the entire surface. 1) Spray or wipe solution onto surface to be cleaned. 2) Scrub surface with a soft nylon brush, if needed. 3) Wipe clean with a clean, dry micro-fiber towel.",
+  "packaging": [
+    [
+      "1 gal.",
+      "4",
+      "37 lbs."
+    ],
+    [
+      "5 gal.",
+      "N/A",
+      "45 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4640.pdf",
+    "old_rev": 1
+  },
+  "review": [
+    "Has a Performance Ratings section: Cleaning - 8 Shine - 6"
+  ]
+}

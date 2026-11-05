@@ -1,0 +1,87 @@
+{
+  "item": "1043",
+  "name": "Throttle-body & Air-intake Cleaner",
+  "category": "Aerosols",
+  "library_section": "Aerosols & Service Chemicals",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/1043.png",
+  "features": [
+    {
+      "text": "Dissolves deposits that can cause rough idling, hard starting, stalling, and poor acceleration."
+    },
+    {
+      "text": "Quickly removes gum, varnish, sludge, carbon, and other deposits."
+    },
+    {
+      "lead": "Easy to use",
+      "text": "convenient aerosol with 360° spray-upside-down valve."
+    },
+    {
+      "lead": "Safe to use",
+      "text": "contains no fluorocarbons or chlorinated solvents."
+    },
+    {
+      "text": "Meets current V.O.C. Regulations set by California Air Resource Board (CARB) and Ozone Transport Commission (OTC)."
+    }
+  ],
+  "ratings": [],
+  "description": "A powerful solvent blend that will quickly remove gum, varnish, carbon and other deposits. It can improve engine performance by dissolving those deposits which build up and cause rough idling, hard starting, stalling and poor acceleration. It will clean the throttle valve, throttle body, idle air control valves, PCV valves and other parts of the air induction system that have deposit accumulation. The product will not harm oxygen sensors or catalytic converters. Part #10431 has a spray-anyway valve.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Mobile Liquid"
+    ],
+    [
+      "Color (liquid portion)",
+      "",
+      "Clear / Colorless"
+    ],
+    [
+      "Odor",
+      "",
+      "Acetone"
+    ],
+    [
+      "Specific Gravity @ 68°F (liquid portion)",
+      "D1298",
+      "~0.80"
+    ],
+    [
+      "Density, U.S. (lbs/gal)",
+      "D1250",
+      "~6.7"
+    ],
+    [
+      "Aerosol Flammability, NFPA 30B",
+      "D 93",
+      "Level 2 Aerosol"
+    ],
+    [
+      "% VOC",
+      "",
+      "9.2"
+    ],
+    [
+      "Can Pressure, psi",
+      "",
+      "≥ 95"
+    ]
+  ],
+  "application": "FOR THROTTLE-BODY & AIR-INTAKE: Remove air-intake boot. With engine off, spray generously onto open butterfly/throttle valve and throat areas. Remove valve and clean by spraying liberally. Replace valve. FOR LINKAGE: Spray all pivots and connections to remove any buildup that may cause sluggish operation. FOR PCV VALVE: Remove valve and insert extension tube into open ends while working the valve back and forth. Clean hose with air pressure and replace the assembly. DO NOT SPRAY ON PAINTED SURFACES, RUBBER, OR PLASTIC PARTS.",
+  "packaging": [
+    [
+      "4.5 / 12 oz.",
+      "24 / 12 cans",
+      "12 / 13 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "1043-1044.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 380 px tall"
+  ]
+}

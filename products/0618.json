@@ -1,0 +1,103 @@
+{
+  "item": "0618",
+  "name": "Tech Grade Power Steering Fluid",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0618.png",
+  "features": [
+    {
+      "text": "Reduces friction and heat that can wear out the pump, valves, and gears."
+    },
+    {
+      "text": "Highly resistant to breakdown due to shearing and system pressure (based on Sonic Shear test)."
+    },
+    {
+      "text": "Conditions seals and hoses to help prevent cracks and leaks."
+    },
+    {
+      "text": "Helps extend system life by reducing wear on internal components."
+    },
+    {
+      "text": "Helps reduce squeals and chatter due to foaming."
+    },
+    {
+      "text": "Outstanding cold weather performance. Avoids high viscosity at -40°C."
+    }
+  ],
+  "ratings": [],
+  "description": "A fortified power-steering fluid blend that utilizes a high-quality base fluid which ensures increased oxidation stability and outstanding low temperature performance. The combination of this base oil with a top-quality viscosity modifier ensures excellent resistance to breakdown due to excessive shearing and pressure in power-steering systems. The solution also contains additional components which provide detergency, wear protection, rust inhibition, seal protection and anti- foaming characteristics. The formula is suitable for use in place of O.E.M. power-steering fluids in Honda ® /Acura ®, Ford ®, GM ®, Chrysler ® and most vehicles. NOTE: Can be packaged and sold in combination with MOC® Power-Steering Fluid Conditioner #0115.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear"
+    ],
+    [
+      "Color",
+      "",
+      "Amber"
+    ],
+    [
+      "Odor",
+      "",
+      "Mild Petroleum"
+    ],
+    [
+      "Density, U.S. (g/ml) @ 68°F",
+      "D4052",
+      "0.85"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "",
+      "7.1"
+    ],
+    [
+      "Viscosity cSt @ 100°C",
+      "D445",
+      "~7"
+    ],
+    [
+      "Viscosity cSt @ 40°C",
+      "D445",
+      "~35"
+    ],
+    [
+      "Viscosity Index",
+      "D2270",
+      "~200"
+    ],
+    [
+      "Brookfield Viscosity cP @ -40°C",
+      "D2983",
+      "~13,000"
+    ],
+    [
+      "Boiling Point (°F) (based on components)",
+      "",
+      "≥ 599"
+    ],
+    [
+      "Flash Point (°F) (based on components)",
+      "",
+      "≥ 248"
+    ]
+  ],
+  "application": "Follow the MOC® Power-Steering Fluid Exchanger instructions to perform the exchange process. Dispose of used fluid in accordance with local, state and federal regulations. MOC® Tech Grade Power-Steering Service Fluid #0618 should only be used with a MOC® Power-Steering Fluid Exchanger.",
+  "packaging": [
+    [
+      "64 oz",
+      "4 Bottles",
+      "17 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0618.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 390 px tall"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "item": "1120",
+  "name": "Turboclean Cold-side Turbo Cleaner",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Aerosols & Service Chemicals",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/1120.png",
+  "features": [
+    {
+      "text": "Designed for gasoline and diesel turbocharged engines"
+    },
+    {
+      "text": "Removes turbine deposit buildup"
+    },
+    {
+      "text": "Restores turbo response and performance"
+    },
+    {
+      "text": "Improves fuel efficiency and lowers harmful emissions"
+    }
+  ],
+  "ratings": [],
+  "description": "Turbocharged engines operate under higher heat and stress, making them more prone to carbon buildup over time. These deposits can restrict airflow, reduce turbo efficiency, and shorten the life of critical engine components. MOC TurboClean removes harmful deposits from the cold side of turbocharger, internal engine components, fuel injectors and intake valves.",
+  "specs": [
+    [
+      "Appearance (liquid portion)",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color (liquid portion)",
+      "",
+      "Pale Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Specific Gravity @ 68°F",
+      "D4052",
+      "0.75"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "",
+      "6.18"
+    ],
+    [
+      "Aerosol Flammability, NFPA 30B",
+      "",
+      "Level 3 Aerosol"
+    ],
+    [
+      "Can Pressure, psi",
+      "",
+      "~85"
+    ],
+    [
+      "% V.O.C.",
+      "",
+      "< 74"
+    ]
+  ],
+  "application": "Directions: 1) Bring the engine up to normal operating temperature. 2) Shut the engine off. 3) Connect #75490 S-tool adaptor to the TurboClean spray actuator. Attach the S-tool spray tip to the air intake box and direct the nozzle toward the turbocharger inlet. Reinstall and secure the air intake box with the S-Tool in place. 4) Start the engine and use a pedal depressor to maintain approximately 1,500 RPM. 5) Spray MOC TURBOCLEAN ™ in short, controlled bursts into the cold side of the turbocharger. If engine RPM drops or the engine begins to stumble, stop spraying immediately. Allow engine speed to fully recover before continuing. 6) Once the can is fully depleted, briefly increase engine speed to clear any remaining product from the intake system and turbocharger. 7) Shut the engine off. Remove the S-Tool and reinstall the factory air intake box and any removed components.",
+  "packaging": [
+    [
+      "4.5 oz",
+      "24 Cans",
+      "10.7 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "1120.pdf",
+    "old_rev": 1
+  },
+  "review": [
+    "Bottle photo is only 373 px tall",
+    "Spelling corrected from the old sheet: approximatly -> approximately; facotry -> factory; inplace -> in place"
+  ]
+}

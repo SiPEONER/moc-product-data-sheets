@@ -1,0 +1,81 @@
+{
+  "item": "0112",
+  "name": "Fuel-injector Flush",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0112.png",
+  "features": [
+    {
+      "text": "Chemically cleans injectors on engine, avoiding the need for disassembly."
+    },
+    {
+      "text": "Product can be used in various air or pump-operated flush machines."
+    },
+    {
+      "text": "Does not have to be mixed with fuel."
+    },
+    {
+      "text": "Helps improve drivability."
+    },
+    {
+      "text": "Not harmful to catalytic converter or oxygen sensor."
+    }
+  ],
+  "ratings": [],
+  "description": "MOC® Fuel-Injector Flush contains powerful solvents and detergents that clean fuel injectors by removing harmful deposits that restrict fuel flow. It restores the spray pattern of the injector. The product is designed to be used with the MOC® Cleaner Application Tool (#72450 or #72460). It can also be introduced through injectors using any canister type air or pump flush machine. It is not harmful to fuel system components such as gaskets, hoses and O-rings, rubber components, and seals.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Dark Pink"
+    ],
+    [
+      "Odor",
+      "",
+      "Ammonia"
+    ],
+    [
+      "Density (g/ml)",
+      "D4052",
+      "0.83"
+    ],
+    [
+      "Density, U.S. (lbs/gal) calculated",
+      "",
+      "6.93"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "",
+      "≥55"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      "≥185"
+    ]
+  ],
+  "application": "Refer to instructions for use supplied with MOC® Cleaner Application Tool (#72450 or #72460).",
+  "packaging": [
+    [
+      "12 oz.",
+      "24",
+      "24 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0112.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 391 px tall",
+    "Spelling corrected from the old sheet: drivebility -> drivability"
+  ]
+}

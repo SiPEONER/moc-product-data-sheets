@@ -1,0 +1,92 @@
+{
+  "item": "0600",
+  "name": "Heavy-duty DOT 3 Brake Fluid",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0600.png",
+  "features": [
+    {
+      "text": "High-boiling point formula (ERBP of ~485°F)."
+    },
+    {
+      "text": "Exceeds DOT specifications for DOT 3 brake fluid (DOT minimum is 404°F)."
+    },
+    {
+      "text": "Two convenient sizes for use with fluid exchange equipment."
+    },
+    {
+      "text": "Excellent high-temperature protection and moisture resistance."
+    }
+  ],
+  "ratings": [],
+  "description": "A high quality product which meets and exceeds the DOT specifications for DOT 3 brake fluid.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Light Straw"
+    ],
+    [
+      "Odor",
+      "",
+      "Mild"
+    ],
+    [
+      "Specific Gravity @ 68°F",
+      "D4052",
+      "~1.04"
+    ],
+    [
+      "Density, U.S. (lbs/gal) (Calculated)",
+      "",
+      "~8.7"
+    ],
+    [
+      "Viscosity, cSt @ -40°C",
+      "SAE J-I703",
+      "~1,000"
+    ],
+    [
+      "Dry ERBP, °F",
+      "SAE J-I703",
+      "~490"
+    ],
+    [
+      "Wet ERBP, °F",
+      "SAE J-I703",
+      "~305"
+    ],
+    [
+      "% Water",
+      "D1209",
+      "<0.3"
+    ]
+  ],
+  "application": "This product is to be used with a #98000 MOC® Pure Brake™ Brake-Fluid Exchanger. Follow directions in the machine’s instruction manual for use of this product.",
+  "packaging": [
+    [
+      "32 oz.",
+      "12 Bottles",
+      "29.4 lbs."
+    ],
+    [
+      "53 oz.",
+      "4 Bottles",
+      "15.6 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0600.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 375 px tall"
+  ]
+}

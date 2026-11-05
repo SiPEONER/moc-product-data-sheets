@@ -1,0 +1,77 @@
+{
+  "item": "0438",
+  "name": "Ultra Shift LV",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/0438.png",
+  "features": [
+    {
+      "text": "Superior lubrication and protection for bearings and gears."
+    },
+    {
+      "text": "Helps prevent wear, pitting and corrosion under high-load conditions. Promotes excellent shift quality and synchronizer performance in manual transmissions."
+    },
+    {
+      "text": "Compatible with components such as bronze, brass, copper, and elastomer material."
+    }
+  ],
+  "ratings": [],
+  "description": "A full synthetic API GL-4 gear lubricant specially formulated for manual transmissions, transaxles, haldex units and transfer cases. It provides exceptional wear protection and resistance to mechanical shearing, has excellent low temperature fluidity and is safe for all steel, brass, and copper alloys. Ultra Shift LV may be effectively used in all vehicles where engine oil, ATF or GL-4 gear oil is specified for manual transmissions. Ultra Shift LV is recommended in applications where Ford XT-11-QDC, GM Auto Trak I and II, GM Versa Trak, GM Synchro- mesh, GM 12345349, GM T - Case Fluid 88861950, Mopar (04874464 | 05016796AB| 05016796AC | 05170055AB| 05179014AA | 68001758AA | 68089195AA | 68049954AA /AC), Motorcraft XL-12 |Mercedes Benz 900260315 | Land Rover LR048849 (TF 0753 / BOT 850), IYK500010 (175109) are specified.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow"
+    ],
+    [
+      "Density g/mL",
+      "D4052",
+      "0.83"
+    ],
+    [
+      "Density, lb/gal, calculated",
+      "",
+      "6.90"
+    ],
+    [
+      "Viscosity, cSt @ 100oC",
+      "D445",
+      "~7.0"
+    ],
+    [
+      "Viscosity, cSt @ 40°C",
+      "D445",
+      "~35.0"
+    ],
+    [
+      "Brookfield Viscosity @ -40°C, cP",
+      "D2983",
+      "~4600"
+    ]
+  ],
+  "application": "Use quantity in accordance with vehicle manufacturer’s recommendations.",
+  "packaging": [
+    [
+      "1 qt.",
+      "12",
+      "24 lbs."
+    ],
+    [
+      "16 gal.",
+      "1",
+      "125.8 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0438.pdf",
+    "old_rev": 3
+  },
+  "review": []
+}

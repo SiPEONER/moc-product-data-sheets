@@ -1,0 +1,85 @@
+{
+  "item": "3111",
+  "name": "Medium-duty Compound",
+  "category": "Automotive Buffing Compound",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/3111.png",
+  "features": [
+    {
+      "text": "Dries slowly, great “open” time, even with a high-speed buffer."
+    },
+    {
+      "text": "Easily “spurred” from the pad for quick clean-up."
+    },
+    {
+      "text": "Accidental “sling” can be easily removed with a dry cloth."
+    },
+    {
+      "text": "Generates very little powder and easily wipes clean."
+    }
+  ],
+  "ratings": [],
+  "description": "A semi-viscous, light brown, lotion type compound that can be used on conventional paints to remove scratches and light oxidation.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Semi-Viscous Cream"
+    ],
+    [
+      "Color",
+      "",
+      "Light Brown"
+    ],
+    [
+      "Odor",
+      "",
+      "Low Odor"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 77°F",
+      "D1475",
+      "~8.9"
+    ],
+    [
+      "Solids, %",
+      "E1868",
+      "~25"
+    ],
+    [
+      "Viscosity, Brookfield, cP",
+      "",
+      "~30,000"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "Pour Medium-Duty Liquid Compound into dispensing container (ketchup bottle). Squirt directly onto painted surface. Using buffer pad, distribute compound with light pressure over the surface to be treated. Turn buffer on and, using medium pressure, work product for desired results. Can be applied with applicator pad and worked by hand on small area. Recommended for use with a wool cutting pad. Not recommended for foam pads.",
+  "packaging": [
+    [
+      "1 gal.",
+      "4",
+      "39 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "3111.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

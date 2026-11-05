@@ -1,0 +1,87 @@
+{
+  "item": "0410",
+  "name": "Engine On",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0410.png",
+  "features": [
+    {
+      "text": "Solution is heated for maximum cleaning efficiency."
+    },
+    {
+      "text": "Flushes all lubricated parts and areas of the engine."
+    },
+    {
+      "text": "Contains no harsh chemicals and solvents."
+    },
+    {
+      "text": "Excellent for problematic Gasoline Direct Inject Engine deposits."
+    }
+  ],
+  "ratings": [],
+  "description": "A powerful blend of oils, dispersants and detergent cleaners that quickly soften, and dissolve accumulated oil sludge in the engine. This formula is specially designed to remove harmful fuel deposits that clog piston rings. The product cleans lifters, passageways, screens, and other internal engine components. Removal of engine sludge and piston deposits can improve compression, lower emissions, reduce metal wear and restore engine performance in one service. Designed to be used exclusively with MOC Engine-Flushing machines. Compatible with gasoline and diesel engines.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Oil"
+    ],
+    [
+      "Color",
+      "",
+      "Light Brown"
+    ],
+    [
+      "Odor",
+      "",
+      "Petroleum"
+    ],
+    [
+      "Density (g/ml) @ 68°F",
+      "D4052",
+      "~0.9"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "",
+      "~7.5"
+    ],
+    [
+      "Viscosity,cSt",
+      "D445",
+      "~6.0"
+    ],
+    [
+      "@ 40°C Boiling Point(°F)",
+      "",
+      "> 310"
+    ],
+    [
+      "Flash Point(°F)PMCC",
+      "D93",
+      "> 260"
+    ],
+    [
+      "% VOC",
+      "",
+      "93"
+    ]
+  ],
+  "application": "1.) Follow machine manufacturer’s instructions. 2.) Fill oil-flush machine with manufacturer’s specified amount of Engine Oil Power-Flushing Solution. Do not overfill. 3.) Refer to owner’s manual for further information.",
+  "packaging": [
+    [
+      "6 gal",
+      "N/A",
+      "48 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0410.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 381 px tall"
+  ]
+}

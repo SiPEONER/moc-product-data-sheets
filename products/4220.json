@@ -1,0 +1,99 @@
+{
+  "item": "4220",
+  "name": "Orange Degreaser",
+  "category": "Automotive Cleaner / Degreaser",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4220.png",
+  "features": [
+    {
+      "text": "Contains d-Limonene (orange-terpene)"
+    },
+    {
+      "text": "Biodegradable, VOC Complaint."
+    },
+    {
+      "text": "Quickly removes oil, grease, tar, brake dust and road film."
+    }
+  ],
+  "ratings": [],
+  "description": "An acid-free, non-corrosive, concentrated degreaser that removes dirt, grease, and grime. This citrus, oil-based degreaser can be used on car bodies, engines, floors, walls, carpeting, vinyl, tires, and wheels.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Semi-Viscous Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Orange"
+    ],
+    [
+      "Odor",
+      "",
+      "Citrus"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.5"
+    ],
+    [
+      "pH",
+      "E 70",
+      "~7.2"
+    ],
+    [
+      "RI",
+      "",
+      "~23.5"
+    ],
+    [
+      "Flash Point",
+      "D93",
+      "≥ 100° F"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "Light-Duty Cleaning: dilute 1:15 with water. Medium-Duty Cleaning: dilute 1:6 with water. Heavy-Duty Cleaning: dilute 1:3 with water. 1) Dilute with water and apply with spray bottle or sponge. 2) Spray or wipe diluted solution on surface to be cleaned. 3) If needed, scrub surface with a brush. 4) Rinse surface with clean water. Do not allow product to dry on surface.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "37 lbs."
+    ],
+    [
+      "5 gal",
+      "1",
+      "46 lbs."
+    ],
+    [
+      "5 gal",
+      "1",
+      "490 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4220.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Spelling corrected from the old sheet: D`Limonen -> d-Limonene"
+  ]
+}

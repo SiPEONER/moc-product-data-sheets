@@ -1,0 +1,90 @@
+{
+  "item": "0142",
+  "name": "Cool Off",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0142.png",
+  "features": [
+    {
+      "text": "Helps the cooling system dissipate heat more effectively."
+    },
+    {
+      "text": "Very effective at preventing excessive heat while towing, carrying heavy loads or operating in high temperatures."
+    },
+    {
+      "text": "Provides enhanced corrosion protection for metal components in the cooling system."
+    },
+    {
+      "text": "Compatible with rubber, metal, and plastic components in the cooling system."
+    },
+    {
+      "text": "Compatible with all types of antifreeze/coolant."
+    }
+  ],
+  "ratings": [],
+  "description": "A heavy-duty conditioner for the cooling system. It fortifies against corrosion and helps extend the service life of antifreeze/coolant. MOC® Cool Off™ provides improved heat-transfer properties, allowing cooler operation.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Bland, Mild Ammonia"
+    ],
+    [
+      "pH",
+      "D1287",
+      "9.5"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "1.06"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "8.85"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      ">212"
+    ],
+    [
+      "Flash Point (°F) Based on components",
+      "",
+      ">232"
+    ],
+    [
+      "VOC %",
+      "",
+      "5.00"
+    ]
+  ],
+  "application": "Shake well before using. 1. After a MOC® exchange process, add the entire contents of the container to the cooling system. If used between services, allow cooling system to cool before removing radiator cap to add product. 2. Replace radiator cap and allow vehicle to idle for approximately 10 minutes.",
+  "packaging": [
+    [
+      "12 oz.",
+      "24",
+      "22 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0142.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 390 px tall"
+  ]
+}

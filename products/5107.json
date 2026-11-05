@@ -1,0 +1,93 @@
+{
+  "item": "5107",
+  "name": "Leather Shield",
+  "category": "Automotive Dressing",
+  "library_section": "Dressings & Protectants",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/5107.png",
+  "features": [
+    {
+      "text": "Leather Shield repels moisture and prevents drying and cracking."
+    },
+    {
+      "text": "Restores and preserves the natural luster and softness of leather."
+    },
+    {
+      "text": "Protects against UltraViolet Light damage."
+    },
+    {
+      "text": "Long-lasting. non-greasy formula that contains mink oil and lanolin."
+    },
+    {
+      "text": "Can be used on new and old leather."
+    }
+  ],
+  "ratings": [
+    "Gloss 5",
+    "Durability 7"
+  ],
+  "description": "Leather Shield is a unique, lanolin-enriched, water-based lotion blended with natural moisturizers and fortified with mink oil to maintain the soft, pliable leather texture. Leather Shield replenishes oils, cleans surface dirt, protects against ultraviolet-light damage and helps preserve and return the supple feel, softness and natural luster of leather.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Off-White"
+    ],
+    [
+      "Odor",
+      "",
+      "New Leather"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 77°F",
+      "D1475",
+      "~8.0"
+    ],
+    [
+      "pH",
+      "E70",
+      "~7.5"
+    ],
+    [
+      "Viscosity, Brookfield, cP",
+      "",
+      "10,000"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "Pour Leather Shield onto a soft, clean cloth or sponge, and apply to leather in an overlapping, circular motion using medium pressure. Allow to penetrate and then buff dry using a soft clean cloth. Previously untreated leather may require additional application.",
+  "packaging": [
+    [
+      "14 oz.",
+      "12 Bottles",
+      "12.5 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "5107.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Gloss - 5 Durability - 7"
+  ]
+}

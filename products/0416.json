@@ -1,0 +1,87 @@
+{
+  "item": "0416",
+  "name": "Multi-vehicle Synthetic ATF-clear",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/0416.png",
+  "features": [
+    {
+      "text": "Highly resistant to shearing, oxidation and thermal breakdown."
+    },
+    {
+      "text": "Provides excellent flow properties at low temperatures and film protection at high temperatures."
+    },
+    {
+      "text": "Outstanding anti-wear properties to protect transmission parts."
+    },
+    {
+      "text": "Conditions seals and helps prevent leaks."
+    }
+  ],
+  "ratings": [],
+  "description": "A special blend of full synthetic base oils combined with a multi-functional additive system that provides superior anti- wear protection and performance in virtually all types of passenger and commercial automatic transmissions. It offers excellent high & low temperature fluidity, shear stability, seal protection and oxidation resistance. This premium formula may be used in place of synthetic fluids required or specified by a wide range of OEMs, including those used for extended drain and severe duty intervals. This product is designed to be used in conjunction with the MOC® ATF Fluid Exchanger #94500 and ATF Cleaner/Supplement Kit #01941. Multi-Vehicle Synthetic ATF-Clear is suitable for use in the following applications: • Audi/VW G-052-990-A2, G-052-162-A1, G055005 A1 • BMW 83220142516, 83229407807 • Ford XT-6-QSP • Jaguar JLM20238 • Mercedes Benz Sheet 236.11 • Peugeot Z000169756 • Porsche 99991754700 • Rolls Royce PL 31493PA • Shell M1375.4 • Voith DIWA, DIAWA.2, .3, .3E, .5 • ZF TE-ML-11B, 5671 090 170, 5671 090 255",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear"
+    ],
+    [
+      "Color",
+      "",
+      "Amber"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.83"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "6.93"
+    ],
+    [
+      "Viscosity @ 100°C, cSt",
+      "D445",
+      "~6"
+    ],
+    [
+      "Viscosity @ 40°C, cSt",
+      "D445",
+      "~32"
+    ],
+    [
+      "Viscosity Index, calculated",
+      "",
+      "~150"
+    ],
+    [
+      "Brookfield Viscosity @ -40°C, cPs",
+      "D97",
+      "<10,000"
+    ]
+  ],
+  "application": "Use in automatic transmissions according to equipment manufacturer’s recommendations. DO NOT use in transmissions that require CVT or Type F fluids.",
+  "packaging": [
+    [
+      "1 gal.",
+      "4",
+      "31 lbs."
+    ],
+    [
+      "55 gal.",
+      "1 Drum",
+      "403 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0416.pdf",
+    "old_rev": 3
+  },
+  "review": [
+    "Bottle photo is only 395 px tall"
+  ]
+}

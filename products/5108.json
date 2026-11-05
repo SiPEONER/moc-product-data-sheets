@@ -1,0 +1,92 @@
+{
+  "item": "5108",
+  "name": "Mega Blue",
+  "category": "Automotive Dressing",
+  "library_section": "Dressings & Protectants",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/5108.png",
+  "features": [
+    {
+      "text": "Protects and restores nonporous surfaces on vehicle exteriors."
+    },
+    {
+      "text": "Leaves a durable, water-repellent finish."
+    },
+    {
+      "text": "High silicone content for exceptional gloss on tires and trim. PERFORMANCE RATING - Gloss - 9 • Durability - 8"
+    }
+  ],
+  "ratings": [],
+  "description": "A fast-drying, solvent-based dressing that creates an ultra-high gloss and protective barrier on rubber, vinyl and plastic surfaces such as exterior trim, tires, and molding.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "- Mobile Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "- Light Blue"
+    ],
+    [
+      "Odor",
+      "",
+      "-Watermelon"
+    ],
+    [
+      "Specific Gravity @ 68°F",
+      "D4052",
+      "0.79"
+    ],
+    [
+      "Density, U.S. (lbs/gal) (calculated)",
+      "",
+      "6.6"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "D-93",
+      "~42"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "No"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "Exterior Trim: 1.) Spray product on sponge applicator pad. 2.) Apply product to vinyl, plastic and rubber surfaces with pad. 3.) Allow to dry, or wipe dry with clean towel. Tires: 1.) Prior to applying product, tire surface should be clean, dry a free of any debris. 2.) Either spray product on sponge applicator pad and wipe on tire or using a trigger sprayer, apply a fine mist to the surface. 3.) Allow product to thoroughly dry and wipe off excess product before moving vehicle. Important: Improper application of solvent-based dressing on tires may result in \"sling\" of excess product, which can stain adjacent painted surfaces. Always wipe excess product from tires.",
+  "packaging": [
+    [
+      "1 gal.",
+      "4",
+      "30 lbs."
+    ],
+    [
+      "5 gal.",
+      "1",
+      "36 lbs."
+    ],
+    [
+      "55 gal.",
+      "1",
+      "385 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "5108.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

@@ -1,0 +1,81 @@
+{
+  "item": "0105",
+  "name": "Diesel Fuel Conditioner",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0105.png",
+  "features": [
+    {
+      "text": "Formulated for all diesel fuel systems, including high pressure common-rail designs."
+    },
+    {
+      "lead": "Cleans dirty injectors",
+      "text": "corrects problems that cause restricted spray patterns, poor fuel atomization, incomplete combustion and excessive emissions."
+    },
+    {
+      "text": "Adds lubricity to reduce fuel-pump & injector wear caused by ULSD fuel."
+    },
+    {
+      "text": "Raises the cetane number of diesel fuel for maximum horsepower, increased fuel economy and improved starting ability."
+    },
+    {
+      "text": "Reduces smoke and engine knocking."
+    }
+  ],
+  "ratings": [],
+  "description": "An advanced formula that removes deposits from fuel injectors, increases cetane levels and lubricates to restore horsepower, performance and fuel economy. It is designed to clean all types of heavy-and light-duty, off-road and marine diesel engines, including modern high-pressure common-rail designs. Excellent for use with ultra-lowsulfur diesel fuel (ULSD). Compatible with biodiesel and all types of exhaust emission systems, including diesel particulate filter (DPFs).",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Non-aqueous solution"
+    ],
+    [
+      "Color",
+      "",
+      "Clear light yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Petroleum"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.84"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "7.00"
+    ],
+    [
+      "Flash Point (°F) Based on components",
+      "",
+      "149"
+    ],
+    [
+      "% VOC",
+      "",
+      "97"
+    ]
+  ],
+  "application": "Add contents to the fuel tank at time of fill up. One 12 ounce bottle treats up to 20 gallons of fuel. For tools, equipment or recreational vehicles with 2 or 4 cycle engines, add ½ to 1 ounce of product per gallon of fuel.",
+  "packaging": [
+    [
+      "12 oz.",
+      "24",
+      "18 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0105.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 391 px tall"
+  ]
+}

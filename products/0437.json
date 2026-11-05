@@ -1,0 +1,77 @@
+{
+  "item": "0437",
+  "name": "Cat & O2 Sensor Cleaner",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/0437.png",
+  "features": [
+    {
+      "text": "Can Improve Engine Performance"
+    },
+    {
+      "text": "Helps Keep Oxygen Sensor Clean"
+    },
+    {
+      "text": "Can Reduce Harmful Emissions"
+    },
+    {
+      "text": "Can Restore Fuel Efficiency & Engine Performance"
+    }
+  ],
+  "ratings": [],
+  "description": "Formulated to effectively remove oil deposits and unburned fuel particles from the catalytic convertor and oxygen sensor. Over time, soot and carbon deposits can build up in the exhaust system increasing fuel consumption & harmful emissions.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Colorless"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density (g/ml)",
+      "D4052",
+      "0.81"
+    ],
+    [
+      "Density, U.S. (lbs/gal) calculated",
+      "",
+      "6.73"
+    ],
+    [
+      "Flash Point (°F / °C ) based on components",
+      "",
+      "≥ 52 / 11"
+    ],
+    [
+      "VOC %",
+      "",
+      "~ 97"
+    ]
+  ],
+  "application": "DIRECTIONS Add contents to fuel tank to treat up to 18 gallons of gasoline. Do not attach any emissions analysis equipment to the exhaust until after the cleaning process. Start engine and allow it to reach operating temperature. Engine should be running with the emergency brake engaged and the transmission out of gear or in “Park.” Leave engine running while adding CAT Converter & O2 Sensor Cleaner to fuel tank. Allow vehicle to run for 15 minutes before turning off engine.",
+  "packaging": [
+    [
+      "10 oz.",
+      "24",
+      "15.4 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0437.pdf",
+    "old_rev": 1
+  },
+  "review": [
+    "Spelling corrected from the old sheet: componets -> components"
+  ]
+}

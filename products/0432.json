@@ -1,0 +1,86 @@
+{
+  "item": "0432",
+  "name": "Enhance Fuel System Cleaner",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0432.png",
+  "features": [
+    {
+      "text": "Can restores engine performance, power and fuel economy in one tankful."
+    },
+    {
+      "text": "Cleans stubborn combustion chamber and injector deposits."
+    },
+    {
+      "text": "Compatible with fuel system components, including oxygen sensors and catalytic converters."
+    },
+    {
+      "lead": "Versatile",
+      "text": "can be used in all types of gasoline."
+    },
+    {
+      "text": "Designed for Modern GDI & High-Output Engines."
+    }
+  ],
+  "ratings": [],
+  "description": "ENHANCE™ - Fuel System Cleaner is a super-concentrated tank additive with the most advanced detergent technology available for rapid \"one-tank\" clean-up of the most severe and hard-to-remove fuel deposits. Enhance effectively cleans combustion chambers, removes carbon from intake valves and restores proper flow in fuel injectors. It is specially designed to remove severe deposits typically found in Gas Direct Inject (GDI) and other modern high-output engines.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Petroleum Distillates"
+    ],
+    [
+      "Color",
+      "",
+      "Clear, Colorless"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density (g/mL) @68 °F",
+      "D4052",
+      "0.87"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated @68 °F",
+      "",
+      "7.26"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      "≥311"
+    ],
+    [
+      "Flash Point (°F) (based on components)",
+      "",
+      "111"
+    ],
+    [
+      "% V.O.C.",
+      "",
+      "28.5"
+    ]
+  ],
+  "application": "Pour entire contents of bottle into fuel tank. Caution: make sure tank has a minimum of eight gallons of gas. Less dilution may cause erratically-running engine during the cleaning cycle.",
+  "packaging": [
+    [
+      "16 oz.",
+      "12 Bottles",
+      "14 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0432.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 392 px tall"
+  ]
+}

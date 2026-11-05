@@ -1,0 +1,85 @@
+{
+  "item": "0657",
+  "name": "Advanced Engine Treatment",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0657.png",
+  "features": [
+    {
+      "text": "Significantly reduces friction and improves load bearing ability by 80%(based on ASTM Test D3233A)."
+    },
+    {
+      "text": "Reduces sludge and varnish. Detergents and dispersants chemically combine with solid-combustion debris, preventing this debris from creating deposits on engine parts."
+    },
+    {
+      "text": "Greatly improves engine oil's ability to resist oxidation breakdown. (Based on ASTM D4742 TFOUT tests)"
+    },
+    {
+      "text": "Protects vital engine parts between extended oil changes up to 10,000 miles."
+    },
+    {
+      "text": "Compatible with gas, diesel, turbo and supercharged engines. Both synthetic and regular oil."
+    }
+  ],
+  "ratings": [],
+  "description": "Advanced Engine Treatment #0657 is designed to fortify motor oil and protect lubricated parts of the engine between extended oil-change intervals common on modern vehicles. This full-synthetic formula contains advanced antioxidants, dispersants and lubricants that provide long-lasting protection and maintain oil performance. MOC® Advanced Engine Treatment neutralizes acids, prevents sludge, reduces friction, stabilizes viscosity, and helps disperse soot buildup.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Oil"
+    ],
+    [
+      "Color",
+      "",
+      "Amber"
+    ],
+    [
+      "Odor",
+      "",
+      "Petroleum"
+    ],
+    [
+      "Density (g/mL) @68 °F",
+      "D4250",
+      "0.84"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated @68 °F",
+      "",
+      "7.01"
+    ],
+    [
+      "Viscosity,cSt @ 100°C",
+      "D445",
+      "7.2"
+    ],
+    [
+      "Flash Point (°F) Based on components",
+      "",
+      "≥302"
+    ],
+    [
+      "Boiling Point (°F) Based on components",
+      "",
+      "≥777"
+    ]
+  ],
+  "application": "Pour entire contents (12 oz.) into crankcase after or between an oil change.",
+  "packaging": [
+    [
+      "12 oz.",
+      "24",
+      "19.14 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0657.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 380 px tall"
+  ]
+}

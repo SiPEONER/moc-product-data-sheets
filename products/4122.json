@@ -1,0 +1,74 @@
+{
+  "item": "4122",
+  "name": "Universal Prep Solvent",
+  "category": "Automotive Degreaser / Solvent",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4122.png",
+  "features": [
+    {
+      "text": "Has no adverse effect on paint when used as directed."
+    },
+    {
+      "text": "Dries quickly, leaving a clean surface without residue."
+    }
+  ],
+  "ratings": [],
+  "description": "A solvent cleaner formulated to remove grease, tar, oil and other residue from exterior surfaces. Removes adhesive residue left behind after the removal of masking tape, stickers and pin striping. Designed for use in areas governed by SCAQMD RULE 1171. Note: not designed for use on vinyl, fabric or leather.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Colorless"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~6.6"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "DIRECTIONS: USE ONLY IN A WELL-VENTILATED AREA. DO NOT RUB ON FRESHLY PAINTED SURFACES. AS WITH ANY REMOVER, TEST PRODUCT FOR COMPATIBILITY ON AN INCONSPICUOUS AREA BEFORE APPLYING TO ENTIRE SURFACE. 1) Saturate clean, soft cloth with product. 2) Lightly rub area until residue is removed. 3) Wipe dry with a clean, dry towel.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "31 lbs."
+    ],
+    [
+      "5 gal",
+      "1",
+      "37 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4122.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

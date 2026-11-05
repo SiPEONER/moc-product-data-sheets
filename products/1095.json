@@ -1,0 +1,82 @@
+{
+  "item": "1095",
+  "name": "Mass Air-flow Sensor Cleaner",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Aerosols & Service Chemicals",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/1095.png",
+  "features": [
+    {
+      "text": "Removes deposits that can cause rough idling, poor acceleration and fuel economy."
+    },
+    {
+      "text": "Can avoid the need for replacement of the MAFS."
+    },
+    {
+      "text": "Contains no fluorocarbons or chlorinated solvents; will not harm wires, rubber or plastic housing."
+    },
+    {
+      "text": "Meets current V.O.C. Regulations set by California Air Resource Board (CARB) and Ozone Transport Commission (OTC)."
+    }
+  ],
+  "ratings": [],
+  "description": "A powerful solvent blend that will quickly remove deposits from the sensor surfaces. Fuel Injected vehicles rely on input from the Mass Air Flow Sensor (“MAFS”) to detect the amount of air flowing into the engine. Deposit buildup on the sensor can negatively impact control of air and fuel ratios, resulting in a rough idle, poor throttle response and reduced fuel economy. Mass Air-Flow Sensor Cleaner is a quick and effective solution for cleaning the hotwires, thermistor and other components without damage to the wires, rubber or plastic housing.",
+  "specs": [
+    [
+      "Appearance (liquid portion)",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color (liquid portion)",
+      "",
+      "Pale Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Specific Gravity @ 68°F",
+      "D4052",
+      "0.75"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "",
+      "6.18"
+    ],
+    [
+      "Aerosol Flammability, NFPA 30B",
+      "",
+      "Level 3 Aerosol"
+    ],
+    [
+      "Can Pressure, psi",
+      "",
+      "~85"
+    ],
+    [
+      "% V.O.C.",
+      "",
+      "< 74"
+    ]
+  ],
+  "application": "1. With the engine off and cool, unplug the MAFS wire harness and remove the housing. 2. Place a shop towel or rag under the MAFS housing to catch any run-off. 3. With the extension tube attached to the nozzle, spray the hot wires or hot plate and thermistor inside the housing making sure all sides, wires and connectors are also cleaned. 4. Allow MAFS surfaces to air dry completely before reinstalling. 5. After installation, immediately start vehicle and allow to idle 3-5 minutes before test driving.",
+  "packaging": [
+    [
+      "4.5 oz",
+      "24 Bottles",
+      "10.7 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "1095.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 395 px tall"
+  ]
+}

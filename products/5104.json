@@ -1,0 +1,83 @@
+{
+  "item": "5104",
+  "name": "Bumper Shine",
+  "category": "Automotive Dressing",
+  "library_section": "Dressings & Protectants",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/5104.png",
+  "features": [
+    {
+      "text": "Restores and treats faded bumpers and trim."
+    },
+    {
+      "lead": "VOC",
+      "text": "compliant formula is non-staining, long-lasting and water-resistant."
+    },
+    {
+      "text": "Protects against UV damage."
+    }
+  ],
+  "ratings": [
+    "Gloss 9",
+    "Durability 10"
+  ],
+  "description": "Designed to restore faded bumpers, exterior molding, and exterior trim. It leaves a long-lasting, glossy finish on dull, chalky, and faded surfaces.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Clear, Colorless"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~7.9"
+    ],
+    [
+      "RI",
+      "",
+      "~45"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "SHAKE WELL BEFORE USE. TAKE CARE TO PROTECT PAINTED PLASTIC PANELS WHEN APPLYING ANY DRESSING, AS PRODUCT “SLING” CAN STAIN PANELS. NEVER APPLY PRODUCT TO STEERING WHEELS, ACCELERATOR PEDALS, BRAKE PEDALS, OR CLUTCH PEDALS. Apply directly on a sponge pad and rub into the faded bumper, molding or trim. Use product sparingly; a little goes a long way. 1) Apply product to a lint-free applicator sponge and allow it to soak in. 2) Wipe surface well to clean, restore color and gloss. 3) Allow product to penetrate surface. 4) Wipe off excess with a lint-free cloth.",
+  "packaging": [
+    [
+      "32 oz.",
+      "12 Bottles",
+      "26 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "5104.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Gloss - 9 Durability - 10"
+  ]
+}

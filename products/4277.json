@@ -1,0 +1,82 @@
+{
+  "item": "4277",
+  "name": "Whitewall Concentrate",
+  "category": "Automotive Cleaner / Degreaser",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4277.png",
+  "features": [
+    {
+      "text": "Use to clean the toughest jobs."
+    },
+    {
+      "text": "Returns dingy side walls to bright-white original look."
+    },
+    {
+      "text": "Removes color film from new tires."
+    }
+  ],
+  "ratings": [],
+  "description": "An aggressive, water-based cleaning compound designed specifically to remove the most stubborn coatings, dirt, and stains from whitewall tires.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Low Viscosity Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Low Odor"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.9"
+    ],
+    [
+      "pH",
+      "E 70",
+      "~13.5"
+    ],
+    [
+      "RI",
+      "",
+      "~22"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "DIRECTIONS: TEST PRODUCT ON AN INCONSPICUOUS AREA FOR COMPATIBILITY PRIOR TO USING ON ENTIRE SURFACE. AVOID CONTACT WITH ALUMINUM, MAGNESIUM, AND PAINTED SURFACES, AS SPOTTING OR DAMAGE MAY OCCUR. ALWAYS USE IN DILUTED FORM. AVOID CONTACT WITH HUBCAPS AND RIMS. 1) Dilute product according to chart below. 2) Spray or wipe diluted solution directly onto area to be cleaned. 3) If needed, scrub surface with a brush. Do not allow product to dry on surface. 4) Rinse surface thoroughly with clean water. TYPICAL DILUTION RATIOS WITH WATER: Light Duty: 15 parts water to 1 part product. Medium Duty: 6 parts water to 1 part product. Heavy Duty: 2 parts water to 1 part product.",
+  "packaging": [
+    [
+      "5 gal",
+      "1",
+      "47 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4277.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

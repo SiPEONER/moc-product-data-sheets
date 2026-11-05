@@ -1,0 +1,90 @@
+{
+  "item": "2140",
+  "name": "Magna Bright",
+  "category": "Automotive Wax & Polish",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/2140.png",
+  "features": [
+    {
+      "text": "Seals and brightens all surfaces."
+    },
+    {
+      "text": "Low dust formula"
+    },
+    {
+      "lead": "Versatile",
+      "text": "easy application by hand or high speed and orbital buffers."
+    }
+  ],
+  "ratings": [
+    "Abrasiveness 5",
+    "Gloss 7",
+    "Durability 5"
+  ],
+  "description": "A one-step polish for use on clearcoat and conventional paints. It removes light oxidation, cleans, polishes and protects. Magna Bright ™ is a thick cream with a peach color.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous cream"
+    ],
+    [
+      "Color",
+      "",
+      "Orange/Peach"
+    ],
+    [
+      "Odor",
+      "",
+      "Peach"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D1475",
+      "~8.39"
+    ],
+    [
+      "Solids, %",
+      "E1868",
+      "~18"
+    ],
+    [
+      "Brookfield Viscosity,cPs",
+      "",
+      "20,000"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "Hand Use: Dampen a clean cloth or applicator and spread Magna Bright ™ on cloth or vehicle surface. Apply product using even pressure and circular motion. Allow to dry. Use a clean towel to wipe clean. Machine Use: Squirt Magna Bright™ onto vehicle surface. For best results, use an all wool finish pad. Apply medium to heavy pressure at first, then gradually ease up until polish dries and develops a gloss. For extended protection and additional gloss, apply a finish wax as a final operation. Can be used with all-wool and foam pads.",
+  "packaging": [
+    [
+      "1 gal.",
+      "4",
+      "36 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "2140.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Abrasiveness - 5 Gloss - 7 Durability - 5",
+    "Bottle photo is only 384 px tall"
+  ]
+}

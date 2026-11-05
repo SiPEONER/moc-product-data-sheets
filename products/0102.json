@@ -1,0 +1,75 @@
+{
+  "item": "0102",
+  "name": "Universal Fuel Conditioner",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0102.png",
+  "features": [
+    {
+      "lead": "Controls Deposits",
+      "text": "prevents fuel system deposits."
+    },
+    {
+      "text": "Cleans fuel injectors."
+    },
+    {
+      "lead": "Stabilizes fuel",
+      "text": "improves storage stability."
+    },
+    {
+      "text": "Inhibits gum, varnish, and oxidation from forming."
+    },
+    {
+      "text": "Can be used on gasoline and diesel engines."
+    }
+  ],
+  "ratings": [],
+  "description": "A fuel treatment for both gasoline and diesel vehicles. The concentrated formula contains a blend of fuel stabilizers and deposit control additives. Fuel system deposits can impact acceleration, mileage and overall engine performance. Universal Fuel Conditioner contains special detergents that are designed to remove harmful injector buildup and prevent deposits in the fuel system.",
+  "specs": [
+    [
+      "Color",
+      "",
+      "Clear, Colorless"
+    ],
+    [
+      "Odor",
+      "",
+      "Amine"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.82"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "6.84"
+    ],
+    [
+      "Flash Point (°F) based on components",
+      "",
+      "≥ 111"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      ">422"
+    ]
+  ],
+  "application": "Pour entire contents of bottle into fuel tank. Caution: make sure tank has a minimum of five gallons of gas. One 8 ounce bottle treats up to 20 gallons of fuel.",
+  "packaging": [
+    [
+      "8 oz.",
+      "24",
+      "10.32 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0102.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

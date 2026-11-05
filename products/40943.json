@@ -1,0 +1,83 @@
+{
+  "item": "40943",
+  "name": "Water Spot Remover - Gel",
+  "category": "Exterior Cleaner",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/40943.png",
+  "features": [
+    {
+      "text": "Removes hard water spots & mineral deposits."
+    },
+    {
+      "text": "Safe for use on painted surfaces, chrome, glass, and plastics."
+    },
+    {
+      "text": "Strong but safe acidic formula."
+    },
+    {
+      "text": "Easy-to-use gel formula clings to surfaces for effective stain removal."
+    }
+  ],
+  "ratings": [],
+  "description": "Water Spot Remover: Mild Acid Gel quickly eliminates alkaline water mineral stains from paintwork, glass, and polished metal surfaces. Its mild, safe acidic formula neutralizes stubborn water spots without damaging your vehicle's finish. This easy-to-use, spray-on solution preps surfaces for waxing and ceramic sealants. Free from harmful chemicals like ammonium bifluoride and hydrofluoric acid.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear"
+    ],
+    [
+      "Color",
+      "",
+      "Light Brown"
+    ],
+    [
+      "Odor",
+      "",
+      "Bubble Gum"
+    ],
+    [
+      "Relative Density (g/mL)",
+      "",
+      "1.11 - 1.16"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "9.3 - 9.67"
+    ],
+    [
+      "Viscosity,cSt @ 100°C",
+      "",
+      "2200"
+    ],
+    [
+      "PH",
+      "",
+      "1"
+    ],
+    [
+      "Brix",
+      "",
+      "55"
+    ]
+  ],
+  "application": "DIRECTIONS: Shake well before use! Avoid applying to hot surfaces. 1. Working one small section at a time, apply a quarter-sized amount of product onto a clean microfiber towel. 2) Using firm, even pressure, rub the product into the surface in a circular motion. 3) Allow product to dwell for 3-5 minutes. 4) Rinse treated area thoroughly with cool water. FOR BEST RESULTS and long-term protection, follow with a high-quality wax or ceramic coating.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "40.8"
+    ]
+  ],
+  "source": {
+    "pdf": "40943.pdf",
+    "old_rev": 1
+  },
+  "review": [
+    "Bottle photo is only 769 px tall",
+    "Spelling corrected from the old sheet: Denisity -> Density"
+  ]
+}

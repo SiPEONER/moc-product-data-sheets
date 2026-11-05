@@ -1,0 +1,96 @@
+{
+  "item": "5111",
+  "name": "Tire & Trim Dressing",
+  "category": "Automotive Dressing",
+  "library_section": "Dressings & Protectants",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/5111.png",
+  "features": [
+    {
+      "text": "A solvent-based formula that leaves a glossy finish."
+    },
+    {
+      "text": "Protects and shines tires, trim and other exterior surfaces.V.O.C. compliant and contains no solvents."
+    },
+    {
+      "text": "Restores rubber and plastic surfaces dulled by UV damage."
+    },
+    {
+      "text": "Color-coded compliant packaging"
+    }
+  ],
+  "ratings": [
+    "Gloss 7",
+    "Durability 7"
+  ],
+  "description": "An all-purpose, solvent-based dressing that creates a high gloss and protective barrier on rubber, vinyl and plastic surfaces such as exterior trim, tires, and molding.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Solvent-based Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Medium Blue"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density, g/ml @ 68°F",
+      "D4502",
+      "0.79"
+    ],
+    [
+      "Density, U.S. (lbs/gal), (Calculated)",
+      "",
+      "6.65"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "D93",
+      "106"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "No"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "Exterior Trim: 1.) Spray product on sponge applicator pad. 2.) Apply product to vinyl, plastic and rubber surfaces with pad. 3.) Allow to dry, or wipe dry with clean towel. Tires: 1.) Prior to applying product, tire surface should be clean, dry a free of any debris. 2.) Either spray product on sponge applicator pad and wipe on tire or using a trigger sprayer, apply a fine mist to the surface. 3.) Allow product to thoroughly dry and wipe off excess product before moving vehicle. Important: Improper application of solvent-based dressing on tires may result in \"sling\" of excess product, which can stain adjacent painted surfaces. Always wipe excess product from tires.",
+  "packaging": [
+    [
+      "5 gal.",
+      "N/A",
+      "36.7 lbs."
+    ],
+    [
+      "55 gal.",
+      "N/A",
+      "406 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "5111.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Gloss - 7 Durability - 7",
+    "Bottle photo is only 892 px tall"
+  ]
+}

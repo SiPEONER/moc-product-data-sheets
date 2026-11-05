@@ -1,0 +1,90 @@
+{
+  "item": "2230",
+  "name": "Paint Sealant",
+  "category": "Automotive Waxes & Sealants",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/2230.png",
+  "features": [
+    {
+      "text": "Can be applied by hand or with a polisher."
+    },
+    {
+      "text": "May also be removed by an orbital buffer."
+    },
+    {
+      "text": "Contains fluoropolymer protectors and P.T.F.E.™."
+    },
+    {
+      "text": "the finest gloss and lasting protection on all finishes."
+    }
+  ],
+  "ratings": [],
+  "description": "A lotion protectant formulated with a blend of resins, fluoropolymers and U.V. inhibitors to create an extremely durable barrier on painted surfaces. Protects paint against sun, oxidation, salt and adhesion of tar, insects and bird droppings. Recommended to used as part of a vehicles protection process",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous Cream"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Low Solvent"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D1475",
+      "~8.3"
+    ],
+    [
+      "% Solids",
+      "",
+      "~20"
+    ],
+    [
+      "Brookfield Viscosity,CP",
+      "",
+      "~150,000"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "The vehicle’s exterior painted surfaces should be clean, dry and free of contaminants, overspray, coatings or adhesives before applying Paint Sealant #2230. For best results, do not apply in direct sunlight. Hand Use: Apply product to the center of the applicator sponge. Hold sponge to the painted surface with light to medium pressure. In small sections (2’x2’), apply product by buffing the surface in an overlapping pattern. Repeat the application in adjacent 2’x2” sections until the entire vehicle’s painted surface is coated. As the pad becomes dry during the application process, apply more product as needed. Allow product to dry to a haze (approximately 15 to 20 minutes.) Machine Use: Apply product to the center of the foam finishing pad. Hold pad to the painted surface with light to medium pressure. Turn on the dual-action polisher. In small sections (2’x2’), apply product by buffing the surface in an overlapping pattern. Repeat the application in adjacent 2’x2” sections until the entire vehicle’s painted surface is coated. As the pad becomes dry during the application process, apply more product as needed. Allow product to dry to a haze (approximately 15 to 20 minutes.) Removal: Remove sealant residue and buff the surface with am orbital polisher or microfiber towel by hand until residue and streaks disappear",
+  "packaging": [
+    [
+      "8 oz (kit only #28001)",
+      "12",
+      "6.5 lbs."
+    ],
+    [
+      "1 ga l.",
+      "4",
+      "36.4 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "2230.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

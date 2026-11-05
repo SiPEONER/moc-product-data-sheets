@@ -1,0 +1,93 @@
+{
+  "item": "06114",
+  "name": "All-season Washer Solvent",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Glass Care",
+  "rev": "1.0",
+  "issued": "2026",
+  "image": "img/06114.png",
+  "features": [
+    {
+      "text": "Dissolves road film, dirt and bugs."
+    },
+    {
+      "text": "Leaves windshields bright & shiny-clean."
+    },
+    {
+      "text": "Protects to below zero (0°F)."
+    },
+    {
+      "text": "Prevents reservoirs and washer-fluid lines from freezing and breaking."
+    },
+    {
+      "text": "Will not harm car finishes, paint, metal, or rubber."
+    }
+  ],
+  "ratings": [],
+  "description": "Quickly removes road film, mud and bugs from the windshield. It leaves no streaks or smears and will not harm car finish, paint, metal or rubber. All-Season Washer Solvent™ is designed to protect against the freezing and cracking of washer fluid lines and reservoirs. This product protects to below zero degrees Fahrenheit. NOT FOR SALE IN CALIFORNIA",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Light Blue"
+    ],
+    [
+      "Odor",
+      "",
+      "Alcohol"
+    ],
+    [
+      "Specific Gravity @ 68°F",
+      "D4052",
+      "0.80"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "Calculated",
+      "6.70"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "D93",
+      "54"
+    ],
+    [
+      "Freezing Point: Dilution",
+      "",
+      ""
+    ],
+    [
+      "1 part solvent to 4 parts water",
+      "",
+      "~0 °F (-17°C)"
+    ],
+    [
+      "1 part solvent to 8 parts water",
+      "",
+      "~20 °F (-7 °C)"
+    ],
+    [
+      "1 part solvent to 15 parts water",
+      "",
+      ">20 °F (-4 °C)"
+    ]
+  ],
+  "application": "Add contents to washer reservoir. Fill reservoir with proper amount of water: 1 part All-Season Washer Solvent™ to 4 parts water (protects down to 0°F) or 1 part All-Season Washer Solvent™ to 8 parts water (protects down to 20°F) in warmer climates; 1 part All- Season Washer Solvent™ to 15 parts or up to one gallon of water may be added.",
+  "packaging": [
+    [
+      "12 oz.",
+      "24",
+      "18 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "6114.pdf",
+    "old_rev": 0
+  },
+  "review": []
+}

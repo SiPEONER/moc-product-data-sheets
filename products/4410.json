@@ -1,0 +1,86 @@
+{
+  "item": "4410",
+  "name": "Bug-B-Gone",
+  "category": "Automotive Cleaner / Degreaser",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4410.png",
+  "features": [
+    {
+      "text": "Fast, easy application."
+    },
+    {
+      "text": "Softens bumper \"splatter-matter\" for easy removal."
+    }
+  ],
+  "ratings": [],
+  "description": "A concentrated cleaner formulated to quickly loosen and dissolve insect and hard-to-remove residue from exterior vehicles surfaces. Designed not to streak painted or metal surfaces.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Orange"
+    ],
+    [
+      "Odor",
+      "",
+      "Slight Ammonia"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.3"
+    ],
+    [
+      "pH",
+      "E 70",
+      "~11.0"
+    ],
+    [
+      "RI",
+      "",
+      "~12.0"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "DIRECTIONS: SURFACE SHOULD BE COOL AND OUT OF DIRECT SUNLIGHT. TEST PRODUCT ON AN INCONSPICUOUS AREA FOR COMPATIBILITY BEFORE USING IT ON THE ENTIRE SURFACE. Dilution: Always dilute with at least 2 parts water to 1 part product. 1) Spray or wipe on affected area and allow product to remain on surface for 1-2 minutes. 2) Wipe off bug splatter with a clean towel. For stubborn residue, scrub area with a bug sponge or soft brush. 3) Rinse area thoroughly with water.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "36 lbs."
+    ],
+    [
+      "5 gal",
+      "N/A",
+      "45 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4410.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Name read by hand from the header artwork"
+  ]
+}

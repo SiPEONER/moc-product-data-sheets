@@ -1,0 +1,69 @@
+{
+  "item": "4108",
+  "name": "Resolv Adhesive Remover",
+  "category": "Automotive Degreaser / Solvent",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4108.png",
+  "features": [
+    {
+      "text": "Safe for paint & plastic"
+    },
+    {
+      "text": "Easy to use, fast working"
+    },
+    {
+      "text": "Great for removing window sticker glue"
+    }
+  ],
+  "ratings": [],
+  "description": "A petroleum-based, low-V.O.C. solvent designed to remove adhesive residue from a variety of substrates including cured paint, metal, plastic and chrome.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Clear Straw"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~0.8"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (Calculated)",
+      "",
+      "~6.6"
+    ],
+    [
+      "Flash Point (oF) PMCC",
+      "D93",
+      "94"
+    ]
+  ],
+  "application": "DIRECTIONS: 1. Spray directly to contaminated surface or apply with a wiping cloth/towel to dissolve and remove non- curing adhesives. For hard-to-remove residue, allow product to dwell on surface before wiping off. To do so, saturate a towel and place directly on the contaminated surface for approximately two minutes allowing the cleaner to dissolve the residue. 2. Inspect the area to determine if additional cleaning is required, if so repeat step one. If additional cleaning is not required finish by wiping the surface with a clean, dry towel to remove any residual cleaner. Note: test in an inconspicuous area prior to full application to confirm compatibility.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "31 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4108.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Name read by hand from the header artwork"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "item": "6276",
+  "name": "Wash N Wax",
+  "category": "Automotive Shampoo",
+  "library_section": "Shampoos & Washes",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/6276.png",
+  "features": [
+    {
+      "text": "A super thick, highly concentrated liquid soap."
+    },
+    {
+      "text": "Thick dense foam lifts dirt from the surface of the vehicle."
+    },
+    {
+      "text": "Contains real wax that leaves a luster to the paint."
+    }
+  ],
+  "ratings": [
+    "Foaming 9",
+    "Concentration 9"
+  ],
+  "description": "A high-foaming car shampoo combined with wax that gently cleans a vehicle's exterior while leaving a shiny finish. The mild formula removes dirt, road film and other surface contaminants without stripping any existing wax finish.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "RED"
+    ],
+    [
+      "Odor",
+      "",
+      "Cherry"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.6"
+    ],
+    [
+      "RI",
+      "",
+      "~16"
+    ],
+    [
+      "pH",
+      "E70",
+      "~9.0"
+    ],
+    [
+      "Viscosity, Brookfield, cP",
+      "",
+      "4,000"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "DIRECTIONS: FOR BEST RESULTS, SURFACE SHOULD BE COOL AND OUT OF DIRECT SUNLIGHT. 1) Dilute 2 to 4 ounces of product with 1 gallon of water. 2) Rinse exterior of vehicle thoroughly. 3) Apply diluted solution generously with a wash mitt, sponge, or soft cloth. 4) Rinse well with clean water. 5) Thoroughly dry vehicle with either a clean chamois or clean, soft towel. As with any car polish, wax or sealant, pre-test on an inconspicuous area prior to applying to entire section.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "37 lbs"
+    ],
+    [
+      "5 gal",
+      "1",
+      "47 lbs"
+    ],
+    [
+      "55 gal",
+      "1",
+      "495 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "6276.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Foaming - 9 Concentration - 9",
+    "Bottle photo is only 373 px tall"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "item": "28062",
+  "name": "Precise Finish",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/28062.png",
+  "features": [
+    {
+      "text": "Removes minor swirl marks, holograms and micro marring"
+    },
+    {
+      "text": "Produces a smooth, high clarity, high gloss finish"
+    },
+    {
+      "text": "Ideal final step prior to waxes, sealants or coatings"
+    },
+    {
+      "text": "Balanced micro abrasive blend for professional finishing"
+    },
+    {
+      "text": "No residue, no dusting, long working time"
+    },
+    {
+      "lead": "100% body shop safe",
+      "text": "no silicones, fillers or waxes"
+    }
+  ],
+  "ratings": [],
+  "description": "PRECISE ™ FINISH is a unique balance of abrasives and cleaners to remove any minor paint imperfections such as swirl marks, holograms, and minor surface imperfections. PRECISE ™ FINISH is the last step in the paint correction process before any additional paint protection products are applied. PRECISE ™ FINISH is body shop safe and does not contain silicone, wax, or fillers.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Banana"
+    ],
+    [
+      "Density (g/ml)",
+      "D1475",
+      "~9.3"
+    ],
+    [
+      "Viscosity, cPs",
+      "",
+      "`31,500"
+    ]
+  ],
+  "application": "Directions: For use by hand or with a DA Polisher. Apply product directly to a cool surface or a foam applicator. Work product until it is dry. Wipe off excess material with a clean microfiber towel. Formulated to be used with foams pads. DA Orbitals - use 70337 MF finish or 70327 foam finish pads",
+  "packaging": [
+    [
+      "32 oz.",
+      "6",
+      "16 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "2806.pdf",
+    "old_rev": 1
+  },
+  "review": []
+}

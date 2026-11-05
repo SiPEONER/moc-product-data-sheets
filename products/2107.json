@@ -1,0 +1,96 @@
+{
+  "item": "2107",
+  "name": "Body Gloss",
+  "category": "Automotive Waxes & Sealants",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/2107.png",
+  "features": [
+    {
+      "text": "Polishes paint, glass, chrome and tires."
+    },
+    {
+      "text": "Body Gloss™ is a \"must\" product for your showroom vehicles. Restores rubber and plastic surfaces dulled by UV damage."
+    },
+    {
+      "text": "Also used as a lubricant for Miracle Clay #31231 and other paint-preparation clay bars"
+    },
+    {
+      "text": "Body Shop safe and VOC compliant"
+    }
+  ],
+  "ratings": [
+    "Abrasiveness 0",
+    "Gloss 6",
+    "Durability 2"
+  ],
+  "description": "A pink, ready-to-use solution with a pleasant cherry scent. Removes fingerprints, dust and smudges from paint, metal and glass surfaces of the vehicle. The perfect spray-and-wipe showroom polish.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Aqueous Solution"
+    ],
+    [
+      "Color",
+      "",
+      "Pink Opaque"
+    ],
+    [
+      "Odor",
+      "",
+      "Cherry"
+    ],
+    [
+      "Density, g/ml @ 68°F",
+      "D1475",
+      "8.36"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "",
+      "N/A"
+    ],
+    [
+      "pH",
+      "",
+      "5.0 - 6.0"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "Apply Body Gloss™ sparingly to surface with a trigger sprayer. Polish immediately with a soft cloth or towel. Not recommended for heavily-soiled surfaces.",
+  "packaging": [
+    [
+      "1 gal.",
+      "4",
+      "35.6 lbs."
+    ],
+    [
+      "5 gal.",
+      "N/A",
+      "44.5 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "2107.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Abrasiveness - 0 Gloss - 6 Durability - 2"
+  ]
+}

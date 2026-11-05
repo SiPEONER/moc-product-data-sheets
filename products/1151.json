@@ -1,0 +1,70 @@
+{
+  "item": "1151",
+  "name": "Spray N' Gloss",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Aerosols & Service Chemicals",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/1151.png",
+  "features": [
+    {
+      "text": "Convenient for hard-to-reach surfaces such as air vents, dashboard, and under the hood."
+    },
+    {
+      "text": "Leaves a fast drying, even coating."
+    },
+    {
+      "text": "Contains resins for a durable, long-lasting finish."
+    },
+    {
+      "text": "Formulated with an anti-static agent to reduce dust attraction."
+    }
+  ],
+  "ratings": [],
+  "description": "A fast, easy way to coat and shine dull or faded plastic, and vinyl. It provides a clear, non-staining, non-greasy coating that also helps repel dust on automotive and marine surfaces. Spray n’ Gloss™ excels at hiding wax marks and white hazing on automotive trim.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Organic Solvent Based Solution"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Specific Gravity @ 70°F (liquid portion)",
+      "D 1298",
+      "0.74"
+    ],
+    [
+      "Density, (lbs/gal) (liquid portion, calculated)",
+      "",
+      "6.18"
+    ],
+    [
+      "Flash Point (°F), Liquid Components",
+      "",
+      "<20"
+    ],
+    [
+      "% VOC",
+      "",
+      "95%"
+    ]
+  ],
+  "application": "Take care to protect painted plastic panels when applying Spray n’ Gloss™, as product “sling” can stain panels. Never apply product to steering wheels, accelerator pedals, brake pedals, clutch pedals, or where slick surfaces are not desired. For best results, surface should be clean and dry. Shake well before using. 1) Hold can upright, 8-10 inches from the surface. 2) Spray a thin, even coat onto the surface. 3) Allow product to dry for 1-2 minutes before any contact with the surface.",
+  "packaging": [
+    [
+      "9 oz.",
+      "12 cans",
+      "10 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "1151.pdf",
+    "old_rev": 1
+  },
+  "review": []
+}

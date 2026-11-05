@@ -1,0 +1,99 @@
+{
+  "item": "4140",
+  "name": "Purple Stuff",
+  "category": "Automotive Cleaner / Degreaser",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4140.png",
+  "features": [
+    {
+      "text": "High-foaming cleaner that cleans concrete and degreases non-aluminum engines."
+    },
+    {
+      "text": "An excellent all-around cleaner when diluted properly."
+    },
+    {
+      "text": "Reduces the number of products needed in a shop."
+    }
+  ],
+  "ratings": [],
+  "description": "A hot-type degreaser and floor cleaner well-suited for the toughest jobs. It works well on engines, tires, and floors.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Purple"
+    ],
+    [
+      "Odor",
+      "",
+      ""
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "1.04"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "",
+      "~8.7"
+    ],
+    [
+      "pH",
+      "E 70",
+      "≥ 13.0"
+    ],
+    [
+      "RI",
+      "",
+      "~18"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "Directions: Test product on an inconspicuous area for compatibility before using on entire surface. Avoid prolonged contact with aluminum, magnesium and painted surfaces. Can cause spotting or damage. Dilution: Always dilute with at least 12 parts water to 1 part product. 1) Use only in diluted form. 2) Spray or wipe diluted solution onto surface to be cleaned. 3) If needed, scrub surface with a brush or mop. Do not allow product to dry on surface. 4) Rinse surface thoroughly with water.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "38 lbs."
+    ],
+    [
+      "5 gal",
+      "N/A",
+      "47 lbs."
+    ],
+    [
+      "55 gal",
+      "N/A",
+      "500 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4140.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Spelling corrected from the old sheet: Biodegradeable -> Biodegradable"
+  ]
+}

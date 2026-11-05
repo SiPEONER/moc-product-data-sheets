@@ -1,0 +1,79 @@
+{
+  "item": "1038",
+  "name": "Brake & Parts Wash",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Aerosols & Service Chemicals",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/1038.png",
+  "features": [
+    {
+      "lead": "Versatile",
+      "text": "may be used on brake drums, flywheels, brake pads, disc brake pads, brake linings, brake cylinders, clutch plates, pressure plates and transmission parts."
+    },
+    {
+      "lead": "Effective",
+      "text": "quickly dissolves grease, dirt, oil, brake fluid and other contaminants."
+    },
+    {
+      "lead": "Helps reduce time and labor costs",
+      "text": "cleans brake units without disassembling them."
+    },
+    {
+      "text": "Surfaces are left dry and clean."
+    },
+    {
+      "text": "Non-chlorinated"
+    }
+  ],
+  "ratings": [],
+  "description": "A non-chlorinated spray that quickly dissolves grease, dirt, oil, brake fluid and other residue that form on brake mechanisms. This product may be used on brake linings, disc brake pads, brake drums, brake cylinders, clutch plates, pressure plates, flywheels and transmission parts. It may be applied to brake units without disassembling them. Also, MOC® Brake and Parts Cleaner will eliminate contaminants that can cause disc-brake squeal. It does not contain chlorine, carbon tetrachloride or silicone (Note: protect rubber parts from over spray). WARNING EXTREMELY FLAMMABLE. - This product is not for sale or use in California or OTC states.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Compressed Gas - Organic Solution"
+    ],
+    [
+      "Color",
+      "",
+      "Clear, Colorless"
+    ],
+    [
+      "Odor",
+      "",
+      "Aromatic Solvent"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (liquid portion)",
+      "D4052",
+      "0.75"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "",
+      "6.26"
+    ],
+    [
+      "Flammability, NFPA 30B",
+      "",
+      "Level 3 Aerosol"
+    ]
+  ],
+  "application": "Cover all rubber and painted surfaces. Do not spray on, or allow to drip on hot surfaces. Hold can upright and 6-8 inches from surface to be cleaned. To remove brake fluid, grease, oil and other contaminants from brake or clutch parts, spray parts liberally and allow to run off. Air dry or wipe excess with an absorbent cloth. On extremely dirty parts, it may be necessary to repeat above operation.",
+  "packaging": [
+    [
+      "13 oz",
+      "12 Cans",
+      "15 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "1038.pdf",
+    "old_rev": 3
+  },
+  "review": [
+    "Name check: header reads \"BRAKE & PARTS WASH\", description says \"Brake and Parts Cleaner\"",
+    "Bottle photo is only 392 px tall"
+  ]
+}

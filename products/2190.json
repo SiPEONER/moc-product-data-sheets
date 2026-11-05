@@ -1,0 +1,88 @@
+{
+  "item": "2190",
+  "name": "Reflection",
+  "category": "Automotive Waxes & Sealants",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/2190.png",
+  "features": [
+    {
+      "text": "Low dust formula"
+    },
+    {
+      "lead": "Clean",
+      "text": "polish - protect"
+    },
+    {
+      "text": "Easy application and removal"
+    },
+    {
+      "text": "Swirl free finish in just one simple step"
+    }
+  ],
+  "ratings": [],
+  "description": "A versatile all-in-one polish & protectant that leaves a durable, bright finish on painted surfaces. Specially formulated with advanced polishing agents to remove swirl marks, light scratches, and mild paint imperfections. Reflection is dust free and easy to use either by hand, rotary, dual or forced action machines.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous Cream"
+    ],
+    [
+      "Color",
+      "",
+      "Lime green"
+    ],
+    [
+      "Odor",
+      "",
+      "Pina Colada"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D1475",
+      "~8.8"
+    ],
+    [
+      "Solids, %",
+      "E1868",
+      "~26"
+    ],
+    [
+      "Viscosity, Brookfield, cPs",
+      "",
+      "~20,000"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "Directions: For best results, use our BLACKSPEED long-throw polisher (#70339) and microfiber cutting (#70336) or microfiber polishing (#70337) pads. Please note : vehicle should be clean, cool, and out of direct sunlight. If necessary, clay vehicle surface prior to polishing. Light scratches & swirl marks: 1) apply 4 to 5 dime-sized drops of product directly to finishing pad. 2) set polisher at medium to high speed (4000–6000 opm). 3) using mild pressure, buff a 2’x2’ section of the painted surface side to side and then up and down in overlapping passes. 4) wipe off any remaining residue using a clean microfiber towel. Medium to mild scratches & imperfections: 1) apply 4 to 5 dime-sized drops of product directly to a correction pad. 2) set polisher at medium to high speed (4000–6000 opm). 3) using mild pressure, buff a 2’x2’ section of the painted surface side to side and then up and down in overlapping passes. 4) wipe off any remaining residue using a clean microfiber towel. 5) apply 4 to 5 dime-sized drops of product directly to a finishing pad. 6) repeat steps 1 and 3 until the surface has a defect-free, high-gloss finish.",
+  "packaging": [
+    [
+      "1 quart",
+      "6",
+      "15 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "2190.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 391 px tall"
+  ]
+}

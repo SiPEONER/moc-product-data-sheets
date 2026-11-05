@@ -1,0 +1,82 @@
+{
+  "item": "4095",
+  "name": "H.D. Water Spot Remover",
+  "category": "Automotive Acid Cleaner",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4095.png",
+  "features": [
+    {
+      "text": "Fast-acting and strong acid formula that dissolves the most stubborn water spots."
+    },
+    {
+      "text": "Concentrated formula is highly dilutable."
+    },
+    {
+      "text": "Helps avoid time-consuming buffing."
+    }
+  ],
+  "ratings": [],
+  "description": "A concentrated, acid-based cleaner designed to remove the most stubborn hard-water spots and mineral deposits from painted and chrome surfaces. It quickly dissolves deposits left from sprinklers, acid rain and other surface contaminants.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Aqueous acid solution"
+    ],
+    [
+      "Color",
+      "",
+      "Pink"
+    ],
+    [
+      "Odor",
+      "",
+      "Acidic"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.43"
+    ],
+    [
+      "pH",
+      "E70",
+      "~1"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "Always wear rubber gloves, a chemical resistant apron, and eye protection when using this product. Always test product on an inconspicuous area for compatibility before applying to entire surface to be cleaned. Avoid contact with aluminum and magnesium. Do not apply product to surface in direct sunlight. Surface should be cool. Avoid contact with glass, as frosting or etching may occur. 1) Dilute 1 part product with 4 to 10 parts water. Mix this solution in a polyethylene or plastic container. Product may corrode metal container. 2) Wipe solution on surface to be cleaned. A light scrubbing action with a cloth, sponge or brush will help the process. 3) Allow product to remain for 1-2 minutes. Do not allow product to dry on surface. Remove residual cleaner with car shampoo and water. 4) Rinse surface with clean water and dry. NOTE: If this product does not remove the spots, chemical etching has occurred and buffing or sanding is required.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "36.6lbs."
+    ],
+    [
+      "5 gal",
+      "1",
+      "44.95 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4095.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

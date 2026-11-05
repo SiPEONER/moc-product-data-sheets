@@ -1,0 +1,64 @@
+{
+  "item": "4172",
+  "name": "Fallout Gel",
+  "category": "Automotive Acid Cleaner",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4172.png",
+  "features": [
+    {
+      "text": "Effectively removes industrial fallout."
+    },
+    {
+      "text": "Safely removes calcium, magnesium and iron (from hard water)."
+    }
+  ],
+  "ratings": [],
+  "description": "A ready-to-use, thick, clinging solution designed to remove surface fallout, rust, water-spots and other debris. This product stays where you put it. Fallout Gel cannot wander and collect in an unwanted area.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous Liquid"
+    ],
+    [
+      "Color Odor",
+      "",
+      "Beige"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.6"
+    ],
+    [
+      "pH",
+      "E 70",
+      "~1.0"
+    ],
+    [
+      "RI",
+      "",
+      "~9.5"
+    ],
+    [
+      "Viscosity, Brookfield, cP",
+      "",
+      "≥ 20,000"
+    ]
+  ],
+  "application": "SHAKE WELL BEFORE USING. Surface must be cool and out of direct sunlight. Avoid contact with plastics, rubber, and chrome-plated parts. Always wear rubber gloves when handling this product to avoid skin absorption. 1) Apply liberal coating to small sections of affected area. Light rubbing may help break fallout loose. 2) Allow product to remain on surface for 10 to 15 minutes. 3) Wash area with auto shampoo and water. Make sure FALLOUT GEL™ is removed completely. 4) Rinse surface with clean water.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "38 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4172.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

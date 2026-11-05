@@ -1,0 +1,85 @@
+{
+  "item": "0140",
+  "name": "Quiet Brakes",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0140.png",
+  "features": [
+    {
+      "text": "Helps eliminate brake squeal, brake vibration, and drag."
+    },
+    {
+      "lead": "Versatile",
+      "text": "may be used on brake drums, cylinders, linings, pads, disc, fly wheels, clutch plates."
+    },
+    {
+      "text": "Fast-drying formula"
+    }
+  ],
+  "ratings": [],
+  "description": "Helps eliminate brake squeal at the surface between the brake pads and rotors or the brake shoes and drums. This unique compound bonds to the friction surfaces. The product fills uneven areas to create a surface that avoids annoying vibrations and brake squeal, especially during the new pad break-in period. Use MOC® Quiet Brakes™ with all disc, drum, domestic and imported brake systems.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Colloidal Dispersion"
+    ],
+    [
+      "Color",
+      "",
+      "Black"
+    ],
+    [
+      "Odor",
+      "",
+      "Sweet"
+    ],
+    [
+      "% Solids",
+      "",
+      "6"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.83"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "6.93"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      ">177"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "",
+      "60"
+    ],
+    [
+      "% VOC",
+      "",
+      "94"
+    ]
+  ],
+  "application": "SHAKE WELL BEFORE USING. 1. Clean brake parts, pads, or shoes with a MOC® Brake Cleaner (#1038 or #1012). If applying product to a used pad, remove glazing with emery cloth. Allow brake pads to dry completely before applying MOC® Quiet Brakes™. 2. Apply a single, thin coat of MOC® Quiet Brakes™ to the entire friction side of the brake pad by squeezing the bottle and gliding the applicator tip along the surface. 3. Allow coated surfaces to dry completely. Do not wipe off. Dry time is approximately 10-15 minutes and may vary depending on temperature and humidity. Note: The entire contents of the bottle may not be needed depending on the size of the brake pads. 4. When coated surfaces are completely dry, install brakes. Important: Test brakes after installation. Before driving, the brake pads must be “broken-in” by applying the brakes 5-6 times at low speed, burnishing MOC® Quiet Brakes™ into the friction surfaces.",
+  "packaging": [
+    [
+      "1 oz.",
+      "24",
+      "4 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0140.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 370 px tall"
+  ]
+}

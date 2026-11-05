@@ -1,0 +1,86 @@
+{
+  "item": "6726",
+  "name": "Ultra Car Shampoo Concentrate",
+  "category": "Automotive Shampoo",
+  "library_section": "Shampoos & Washes",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/6726.png",
+  "features": [
+    {
+      "text": "A dense, foaming formula that rinses easily without streaks."
+    },
+    {
+      "text": "Biodegradable."
+    },
+    {
+      "text": "Suspends dirt without scratching the surface."
+    },
+    {
+      "text": "Can be used with a proportioning or a pressure- washer system."
+    }
+  ],
+  "ratings": [
+    "Foaming 9",
+    "Concentration 10"
+  ],
+  "description": "A high-foaming car wash for use on cars, trucks, trailers, boats and other vehicles. Do not mix with other products as they may not be compatible and could result in unsatisfactory performance.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "PINK"
+    ],
+    [
+      "Odor",
+      "",
+      "Soapy"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "8.60"
+    ],
+    [
+      "pH",
+      "E 70",
+      "8.5 - 9.5"
+    ],
+    [
+      "RI",
+      "",
+      "18.5 - 21"
+    ],
+    [
+      "Viscosity, Brookfield, cP",
+      "",
+      "26"
+    ]
+  ],
+  "application": "MIXING INSTRUCTIONS: Option 1: Dilution by proportioner. Remove cap, create a hole in the center of the cap or secure cap/draw tube assembly from MOC Recon Cabinet system. Place draw tube of the proportioner into the container. Set dilution ratio on proportioner to desired concentration. Operate proportioner per manufacturer’s instructions. Option 2: Transfer entire contents to a clean empty 55-gallon drum. Fill drum with filtered water until full. Stir contents until uniform. Apply secondary label LB6726S to drum.",
+  "packaging": [
+    [
+      "5 gal",
+      "1",
+      "48 lbs"
+    ],
+    [
+      "55 gal",
+      "1",
+      "56 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "6726.pdf",
+    "old_rev": 3
+  },
+  "review": [
+    "Has a Performance Ratings section: Foaming - 9 Concentration - 10",
+    "Bottle photo is only 374 px tall"
+  ]
+}

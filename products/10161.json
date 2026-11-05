@@ -1,0 +1,70 @@
+{
+  "item": "10161",
+  "name": "PLP Penetrant Lube",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Aerosols & Service Chemicals",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/10161.png",
+  "features": [
+    {
+      "text": "Protects against corrosion"
+    },
+    {
+      "text": "Displaces water and moisture"
+    },
+    {
+      "text": "Penetrates and frees rusted parts"
+    },
+    {
+      "text": "Stop squeaks on the trunk, hood, and door hinges"
+    }
+  ],
+  "ratings": [],
+  "description": "PLP Penetrant Lube has a fast-acting penetrating formula that frees rusted nuts, bolts, and other parts. This versatile product displaces moisture, forms a protective coating and prevents the formation of rust on metal surfaces. PLP leaves a lubricating film to reduce sticking, wear and squeaks in moving parts. Industrial uses: lubricates and prevents rust on machine parts and equipment. May be used for easy assembly and disassembly. Automotive uses: penetrates rusted intake-manifold bolts, heat risers, exhaust systems, wheel lug nuts, suspension bolts, and control linkages. Displaces water and moisture from electrical contacts, connections and distributors.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Transparent Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density, U.S. (lbs/gal)",
+      "",
+      "~7.01"
+    ],
+    [
+      "% VOC",
+      "",
+      "24"
+    ],
+    [
+      "Can Pressure, psi",
+      "",
+      "~98"
+    ]
+  ],
+  "application": "NOT FOR SALE OR USE IN CALIFORNIA OR OTC STATES Directions: Shake Well Before Using For hard-to-reach areas, use extension tube. To penetrate: spray freely on frozen parts, tap lightly, allow a few minutes to penetrate. On heavily rusted parts, it may be necessary to repeat the application. To prevent rust and corrosion: spray all parts regularly to maintain a barrier. To displace moisture: spray parts or surfaces, wait a few minutes and wipe off with a clean cloth. To lubricate: spray parts or surfaces liberally.",
+  "packaging": [
+    [
+      "10 oz.",
+      "12",
+      "8 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "10161.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

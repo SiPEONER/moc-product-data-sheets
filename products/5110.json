@@ -1,0 +1,95 @@
+{
+  "item": "5110",
+  "name": "Shine N' Guard",
+  "category": "Automotive Dressing",
+  "library_section": "Dressings & Protectants",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/5110.png",
+  "features": [
+    {
+      "text": "Restores rubber, vinyl and plastic on both interior and exterior surfaces."
+    },
+    {
+      "text": "Has a pleasant cherry scent."
+    },
+    {
+      "text": "V.O.C. compliant and contains no solvents."
+    },
+    {
+      "text": "Safe to use on engines."
+    }
+  ],
+  "ratings": [
+    "Gloss 8",
+    "Durability 4"
+  ],
+  "description": "A lasting, high-gloss that creates a \"like new\" universal, water-based, silicone protectorant. This product has a long-lasting high gloss that gives a \"like new\" appearance. Shine n’ Guard ® protects, beautifies and restores tires, vinyl, rubber and leather.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Aqueous emulsion"
+    ],
+    [
+      "Color",
+      "",
+      "Milky White"
+    ],
+    [
+      "Odor",
+      "",
+      "Cherry"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 60°F",
+      "D1475",
+      "8.26"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "D93",
+      "N/A"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "Dilute up to 1 part product to 4 parts water depending on desired shine. • Tires: Evenly spray, brush or wipe on a clean, dry tire. Allow to set until product turns from a milky to clear, glossy appearance. • Vinyl, Rubber and Plastic: Apply product to surface with a clean towel or sponge. Allow to set and wipe away excess product. • Engines: Spray entire engine evenly. Wipe surfaces with a clean, soft cloth to remove excess product. Warning: Excess product should be wiped from tires to prevent \"sling\" and possible staining of adjacent painted-plastic surface from residue on the tires.",
+  "packaging": [
+    [
+      "1 gal.",
+      "4",
+      "36 lbs."
+    ],
+    [
+      "5 gal.",
+      "N/A",
+      "45 lbs."
+    ],
+    [
+      "55 gal.",
+      "N/A",
+      "476 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "5110.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Gloss - 8 Durability - 4"
+  ]
+}

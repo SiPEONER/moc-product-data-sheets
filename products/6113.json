@@ -1,0 +1,85 @@
+{
+  "item": "6113",
+  "name": "Windshield Washer Solvent",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Glass Care",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/6113.png",
+  "features": [
+    {
+      "text": "Quickly dissolves dirt, grime, road film and bug-matter."
+    },
+    {
+      "text": "Leaves Windshield Bright & Clean"
+    },
+    {
+      "text": "Formulated to prevent streaking."
+    },
+    {
+      "text": "One bottle can be diluted to fill most windshield washer reservoirs."
+    },
+    {
+      "text": "Low V.O.C. at diluted strength."
+    }
+  ],
+  "ratings": [],
+  "description": "SPECIALLY FORMULATED TO: (1) quickly dissolve dirt, grime, road film, and bug-matter; and (2) leave the windshield bright and shiny-clean without any streaks. It is designed not harm the paint, metal or rubber surfaces of a vehicle. Not intended for applications in which freeze-resistant is required.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Light Blue"
+    ],
+    [
+      "Odor",
+      "",
+      "Alcohol-Ether"
+    ],
+    [
+      "Specific Gravity @ 68°F",
+      "D4052",
+      "0.99"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "",
+      "8.26"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      ">149"
+    ],
+    [
+      "Flash Point (°F) (based on components)",
+      "",
+      ">100"
+    ]
+  ],
+  "application": "Premix 1 part concentrate to at least 12 parts of water (preferably filtered or deionized) and then add to the reservoir.",
+  "packaging": [
+    [
+      "8 oz.",
+      "24",
+      "14.5 lbs."
+    ],
+    [
+      "5 gals.",
+      "1",
+      "44.5 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "6113.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 392 px tall"
+  ]
+}

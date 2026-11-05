@@ -1,0 +1,88 @@
+{
+  "item": "2200",
+  "name": "Finish Plus",
+  "category": "Automotive Wax & Polish",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/2200.png",
+  "features": [
+    {
+      "text": "Great for metallic, black, red and deep-tone paints."
+    },
+    {
+      "text": "Use by hand, machine, or orbital buffer."
+    },
+    {
+      "text": "Leaves a high shine and long lasting protection"
+    }
+  ],
+  "ratings": [
+    "Abrasiveness 2",
+    "Gloss 8",
+    "Durability 6"
+  ],
+  "description": "A very thick, purple, cream finish wax for all painted surfaces (clearcoat and conventional). It fills scratches and removes swirls, while leaving an amazing gloss.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous cream"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Banana"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 77°F",
+      "D1475",
+      "~8.4"
+    ],
+    [
+      "% Solids",
+      "",
+      "~ 21"
+    ],
+    [
+      "Viscosity, Brookfield, cP",
+      "",
+      "≥ 180,000"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "Hand Use: Apply Finish Plus™ with a wax applicator, or clean cloth, using an overlapping circular motion. Allow product to dry completely. After product is completely dry, wipe off with a clean towel, or polish with an orbital buffer. Machine Use: For best results, use an all-wool finish pad or foam pad.",
+  "packaging": [
+    [
+      "1 gal.",
+      "4",
+      "35 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "2200.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Abrasiveness - 2 Gloss - 8 Durability - 6"
+  ]
+}

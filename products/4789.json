@@ -1,0 +1,92 @@
+{
+  "item": "4789",
+  "name": "Ultra Wheel Cleaner",
+  "category": "Exterior Cleaner",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/4789.png",
+  "features": [
+    {
+      "text": "A powerful cleaner for all types of wheels."
+    },
+    {
+      "text": "Quickly dissolves tough brake dust, dirt and grime."
+    },
+    {
+      "text": "A great alternative to acid-based wheel cleaners."
+    }
+  ],
+  "ratings": [
+    "Concentration 8"
+  ],
+  "description": "A powerful cleaner designed to remove stubborn brake dust, grease, dirt and stains from wheels, rims, and hubcaps. Contains no acids. Use caution on aluminum, magnesium, or anodized wheels. Test on a small inconspicuous area before using on entire surface. Do not mix with other products as they may not be compatible and could result in unsatisfactory performance.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear"
+    ],
+    [
+      "Color Odor",
+      "",
+      "Green"
+    ],
+    [
+      "Density, U.S. (lbs/gal)",
+      "D4052",
+      "1.09"
+    ],
+    [
+      "Density, U.S. (lbs/gal)",
+      "",
+      "9.06"
+    ],
+    [
+      "PH",
+      "",
+      "12.5 - 13.5"
+    ],
+    [
+      "Boiling Point",
+      "Based on Components",
+      "≥ 0°C / 32 °F"
+    ],
+    [
+      "Flash Point",
+      "Based on Components",
+      "> 99 °C / 210.2°F"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "MIXING INSTRUCTIONS: Option 1: Dilution by proportioner. Remove cap, create a hole in the center of the cap or secure cap/draw tube assembly from MOC Recon Cabinet system. Place draw tube of the proportioner into the container. Set dilution ratio on proportioner to desired concentration. Operate proportioner per manufacturer’s instructions. Option 2: Transfer entire contents to a clean empty 55-gallon drum. Fill drum with filtered water until full. Stir contents until uniform. Apply secondary label LB4736S to drum. Dilute further as needed for final use and concentration.",
+  "packaging": [
+    [
+      "5 gal",
+      "1 each",
+      "48.96 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "4789.pdf",
+    "old_rev": 1
+  },
+  "review": [
+    "Has a Performance Ratings section: Concentration - 8",
+    "Bottle photo is only 359 px tall"
+  ]
+}

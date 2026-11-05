@@ -1,0 +1,81 @@
+{
+  "item": "0133",
+  "name": "A/C Quiet",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0133.png",
+  "features": [
+    {
+      "text": "Compatible with R-12 and R-134a refrigerant."
+    },
+    {
+      "text": "Compatible with mineral ester, paraffin, and PAG oils."
+    },
+    {
+      "text": "Compatible with air-conditioning system components."
+    },
+    {
+      "text": "Helps prevent rust and corrosion by neutralizing acids and encapsulating moisture."
+    },
+    {
+      "text": "Helps reduce wear and noise in the A/C compressor."
+    }
+  ],
+  "ratings": [],
+  "description": "A highly effective ester-based oil lubricant for automotive air-conditioning systems. This lubricant performs four key functions: 1. It lubricates the entire air-conditioner system, including the compressor. 2. It helps prevent acid from forming and inhibits corrosion. 3. It encapsulates moisture and keeps it from damaging internal parts. 4. It contains a special color dye for leak detection (under black light). Note: A/C Quiet™ should be added to a system after an A/C service, to quiet a noisy compressor, if refrigerant/oil level is low, as a preventative maintenance step and to detect system leaks.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Fluorescent Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Mild"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.96"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "D1250",
+      "8.04"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "D92",
+      "355"
+    ]
+  ],
+  "application": "A/C Quiet™ (#0133 and #0134): Add appropriate amount of A/C Quiet™ to an air-conditioner system using MOC® A/C Quiet™ Injector Tool #76004. Follow A/C system manufacturer’s instructions for charging of the system. Note: #01331 (2 oz.) is typically added if the refrigerant/oil level is low if the compressor is noisy and as a preventative maintenance step. Note: #01341 (8 oz.) Is typically added when installing a new A/C unit, retrofitting from R12 to R134a after using MOC® A/C Flush #01321, and to detect system leaks.",
+  "packaging": [
+    [
+      "01331 2 oz.",
+      "24",
+      "4 lbs."
+    ],
+    [
+      "01334 8 oz.",
+      "24",
+      "13 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0133-0134.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 384 px tall",
+    "Spelling corrected from the old sheet: moise is the -> noise in the"
+  ]
+}

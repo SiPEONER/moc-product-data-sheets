@@ -1,0 +1,97 @@
+{
+  "item": "0604",
+  "name": "Power Steering Flush Solution",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0604.png",
+  "features": [
+    {
+      "text": "Reduces friction and heat that can wear out the pump, valves, and gears."
+    },
+    {
+      "text": "Enhanced resistance to breakdown due to shearing and system pressure."
+    },
+    {
+      "text": "Conditions seals and hoses to help prevent cracks and leaks."
+    },
+    {
+      "text": "Extends system life by reducing wear on internal components."
+    }
+  ],
+  "ratings": [],
+  "description": "Designed to remove harmful system deposits and impurities. Use it prior to one of the MOC® Power-Steering Service Solutions to help remove depleted fluid and contaminants. Use only in conjunction with a MOC® Power- Steering Fluid Exchanger.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear"
+    ],
+    [
+      "Color",
+      "",
+      "Amber"
+    ],
+    [
+      "Odor",
+      "",
+      "Mild Petroleum"
+    ],
+    [
+      "Specific Gravity @ 68°F",
+      "D1298",
+      "0.85"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D1250",
+      "7.1"
+    ],
+    [
+      "Viscosity cSt @ 100°C",
+      "D445",
+      "~7"
+    ],
+    [
+      "Viscosity cSt @ 40°C",
+      "D445",
+      "~35"
+    ],
+    [
+      "Viscosity Index",
+      "D2270",
+      "~200"
+    ],
+    [
+      "Brookfield Viscosity cP @ -40°C",
+      "D2983",
+      "~13,000"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      "≥ 599"
+    ],
+    [
+      "Flash Point (°F) (based on components)",
+      "",
+      "≥ 248"
+    ]
+  ],
+  "application": "Follow the MOC® Power-Steering Fluid Exchanger instructions to perform the exchange process. Dispose of used fluid in accordance with local, state and federal regulations. MOC® Power-Steering Flush Solution #0604 should only be used with a MOC® Power-Steering Fluid Exchanger.",
+  "packaging": [
+    [
+      "64 oz",
+      "4 Bottles",
+      "17 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0604.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 397 px tall"
+  ]
+}

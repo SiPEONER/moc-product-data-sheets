@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>{{ docno }} // {{ p.name }} // Product Ad Sheet</title>
+<style>
+/*
+  MOC Product Ad Sheet, master template (MOC-PAS).
+  Same family as the Product Data Sheet (MOC-PDS): black band with the box logo
+  tucked into the corner, item stamp, bottle across the band edge, numbered
+  section heads, black footer band. The ad leads with one claim set huge.
+  US Letter, one page. Binary palette only; the bottle is the one colour element.
+  Montserrat 400/700/900: headlines -0.01em, caps labels 0.10em, body 0.
+*/
+@font-face { font-family: "Montserrat"; font-weight: 400; src: url("{{ fonts.regular }}") format("woff2"); }
+@font-face { font-family: "Montserrat"; font-weight: 700; src: url("{{ fonts.bold }}") format("woff2"); }
+@font-face { font-family: "Montserrat"; font-weight: 900; src: url("{{ fonts.black }}") format("woff2"); }
+
+@page { size: 8.5in 11in; margin: 0; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { background: #ffffff; color: #000000; }
+body { font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif; -webkit-print-color-adjust: exact; print-color-adjust: exact; -webkit-font-smoothing: antialiased; }
+.page { position: relative; width: 8.5in; height: 11in; overflow: hidden; display: flex; flex-direction: column; background: #ffffff; }
+.screen .page { margin: 24px auto; outline: 2px solid #000000; }
+.micro { font-size: 7.5pt; line-height: 1.3; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; }
+.micro-reg { font-weight: 400; }
+
+/* ---------- Band: the claim ---------- */
+.band { background: #000000; color: #ffffff; height: 5.35in; padding: 0.45in 0.7in 0; position: relative; flex: none; }
+.band .cat { font-weight: 900; }
+.band .type { margin-top: 3pt; }
+.logo { position: absolute; top: 0.25in; right: 0.25in; width: 0.5in; height: auto; display: block; }
+.claim {
+  margin-top: 0.62in; max-width: 4.7in;
+  font-weight: 900; font-size: 74pt; line-height: 0.9; letter-spacing: -0.01em; text-transform: uppercase;
+}
+.ident { position: absolute; left: 0.7in; bottom: 0.42in; display: flex; align-items: center; gap: 12pt; max-width: 4.6in; }
+.stamp {
+  flex: none; border: 2px solid #ffffff;
+  /* Optically centred, same as the data sheet stamp, scaled to 12pt. */
+  padding: 5px 9.8px 5.7px 11.6px;
+  font-weight: 900; font-size: 12pt; letter-spacing: 0.1em; line-height: 1;
+}
+.pname { font-weight: 900; font-size: 15pt; line-height: 1.05; letter-spacing: -0.01em; text-transform: uppercase; }
+
+/* ---------- Bottle: bigger than on the data sheet, same corner ---------- */
+.photo { position: absolute; top: 1.55in; right: 0.62in; width: 2.2in; height: 5.75in; display: flex; justify-content: center; }
+.photo img { height: 100%; width: auto; display: block; }
+.photo.ph { border: 2px dashed #000000; background: #ffffff; align-items: center; padding: 8pt; text-align: center; }
+
+/* ---------- Body ---------- */
+.body { padding: 0.36in 0 0 0.7in; flex: 1; display: flex; flex-direction: column; gap: 16pt; width: 5.4in; }
+.h { font-weight: 900; font-size: 8pt; line-height: 1.2; letter-spacing: 0.1em; text-transform: uppercase; border-bottom: 2px solid #000000; padding-bottom: 5pt; margin-bottom: 9pt; }
+.copy { font-size: 10pt; line-height: 1.5; }
+.copy p { text-wrap: pretty; }
+.benefits ul { list-style: none; display: flex; flex-direction: column; gap: 5pt; }
+.benefits li { position: relative; padding-left: 15pt; font-weight: 700; font-size: 10.5pt; line-height: 1.35; }
+.benefits li::before { content: "+"; position: absolute; left: 0; top: 0; font-weight: 900; }
+
+/* Optional call-out under the bottle: a solid stamp, never a starburst. */
+.callout {
+  position: absolute; right: 0.62in; top: 7.55in; width: 2.2in;
+  background: #000000; color: #ffffff; padding: 9pt 10pt 8pt; text-align: center;
+  font-weight: 900; font-size: 8.5pt; line-height: 1.3; letter-spacing: 0.1em; text-transform: uppercase;
+}
+
+/* ---------- Footer band: slogan + address ---------- */
+.foot { background: #000000; color: #ffffff; flex: none; height: 0.74in; padding: 0 0.7in; display: flex; align-items: center; justify-content: space-between; gap: 12pt; margin-top: 14pt; }
+.foot .slogan { font-weight: 900; font-size: 11pt; letter-spacing: -0.01em; white-space: nowrap; }
+.foot .micro { font-size: 6.5pt; white-space: nowrap; }
+.foot .addr p + p { margin-top: 4pt; }
+.foot .docno { font-size: 7.5pt; font-weight: 900; }
+</style>
+</head>
+<body class="{{ 'screen' if screen else '' }}">
+<div class="page">
+  <header class="band">
+    <p class="micro cat">{{ p.category }}</p>
+    <p class="micro micro-reg type">Product Information</p>
+    <img class="logo" src="{{ logo }}" alt="MOC Products">
+    <h1 class="claim">{{ a.headline }}</h1>
+    <div class="ident">
+      <p class="stamp">#{{ p.item }}</p>
+      <p class="pname">{{ p.name }}</p>
+    </div>
+  </header>
+
+  {% if p.image %}
+  <div class="photo"><img src="{{ p.image }}" alt="{{ p.name }}"></div>
+  {% else %}
+  <div class="photo ph"><p class="micro">Product photo<br><br>PNG cutout<br>1,200 px tall</p></div>
+  {% endif %}
+  {% if a.callout %}<p class="callout">{{ a.callout }}</p>{% endif %}
+
+  <main class="body">
+    <section class="copy">
+      <h2 class="h">01 // About</h2>
+      <p>{{ a.description }}</p>
+    </section>
+    <section class="benefits">
+      <h2 class="h">02 // Product Benefits</h2>
+      <ul>
+        {% for b in a.benefits %}<li>{{ b }}</li>{% endfor %}
+      </ul>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <div class="addr">
+      <p class="slogan">One Partner. One Invoice. One Solution.</p>
+      <p class="micro micro-reg">12306 Montague Street // Pacoima, CA 91331-2279 // 800.266.9226 // mocproducts.com</p>
+    </div>
+    <p class="micro docno">{{ docno }} // Rev {{ a.rev }}</p>
+  </footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,80 @@
+{
+  "item": "4359",
+  "name": "Heavy-duty Liquid Cleaner",
+  "category": "Automotive Cleaner / Degreaser",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/4359.png",
+  "features": [
+    {
+      "text": "Cleans concrete and painted floors."
+    },
+    {
+      "text": "Removes transportation coating."
+    },
+    {
+      "text": "Cleans exterior and interior automotive surfaces."
+    },
+    {
+      "text": "Non-caustic formula."
+    }
+  ],
+  "ratings": [],
+  "description": "A versatile cleaner that works great as a floor-cleaner, transportation-coating remover and all-purpose cleaner/degreaser. This fast-acting formula removes grease and grime from concrete or painted floors, engines, tires, rims, plastic, and vinyl.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color Odor",
+      "",
+      "Pink"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.8"
+    ],
+    [
+      "RI",
+      "",
+      "~24"
+    ],
+    [
+      "pH",
+      "E70",
+      "~13.0"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "Floors: dilute 1:10 to 1:30 with water. Transportation Coating: dilute 1:2 to 1:10 with water. General Cleaning: dilute 1:4 to 1:30 with water. 1) Dilute product with water according to chart above. 2) Apply solution to surface with a mop, brush or sponge. 3) Allow product to remain on surface for 1-5 minutes 4) Rinse and clean with water. Test product on an inconspicuous area for compatibility before using it on the entire surface. Avoid prolonged contact with aluminum, magnesium, and painted surfaces. Can cause spotting or damage, always use in diluted form.",
+  "packaging": [
+    [
+      "55 gal",
+      "1",
+      "506 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "4359.pdf",
+    "old_rev": 3
+  },
+  "review": []
+}

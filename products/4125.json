@@ -1,0 +1,92 @@
+{
+  "item": "4125",
+  "name": "Cleans All",
+  "category": "Automotive Degreaser / Cleaner",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/4125.png",
+  "features": [
+    {
+      "text": "Highly effective on carpeting, upholstery, vinyl trim, door panels, and headliners."
+    },
+    {
+      "text": "Removes dirt and grime from vinyl tops, painted surfaces, wheels, and tires."
+    },
+    {
+      "text": "Safe for most surfaces unaffected by water."
+    }
+  ],
+  "ratings": [],
+  "description": "A versatile cleaner that quickly and easily dissolves grease, dirt, fingerprints, tar, and other stains. Effective on hard surfaces, such as glass, chrome, tile, plastics, walls, and woodwork. In automotive applications, Cleans All™ works well on vinyl tops, wheels, tires, dashboards, interior upholstery, floor mats, and engine parts.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Low Viscosity Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Pink"
+    ],
+    [
+      "Odor",
+      "",
+      "Citrus"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.7"
+    ],
+    [
+      "pH",
+      "E 70",
+      "~13.0"
+    ],
+    [
+      "RI",
+      "",
+      "~14"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "Directions: Avoid contact with mag-aluminum wheels and painted surfaces. First test on an inconspicuous area to ensure the surface is resistant to staining and spotting. Always dilute with at least 10 parts water to 1 part product, 1) use only in diluted form. 2) apply to surface with damp cloth, sponge, or trigger spray. 3) wipe clean. In some cases, rinsing with water is not necessary. However, on floors, ovens, engines, or other heavily soiled surfaces, allow product to penetrate grease, dirt and stains for a few minutes, agitating with a brush if needed and rinse with water.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "38 lbs."
+    ],
+    [
+      "5 gal",
+      "1",
+      "45 lbs."
+    ],
+    [
+      "55 gal",
+      "1",
+      "502 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4125.pdf",
+    "old_rev": 3
+  },
+  "review": []
+}

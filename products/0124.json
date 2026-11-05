@@ -1,0 +1,86 @@
+{
+  "item": "0124",
+  "name": "Multi-clean MAX",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0124.png",
+  "features": [
+    {
+      "lead": "Versatile",
+      "text": "removes engine sludge and fuel deposits."
+    },
+    {
+      "text": "Excellent for problematic Gasoline Direct Injection engines."
+    },
+    {
+      "text": "Designed for gasoline and diesel engines."
+    },
+    {
+      "text": "Improves compression and reduces oil dilution (blow-by) through removal of piston deposits."
+    },
+    {
+      "text": "Reduces contamination and darkening of new fluid after and oil change."
+    }
+  ],
+  "ratings": [],
+  "description": "MOC® MULTI-CLEAN™ MAX #01241 is a powerful dispersant-based cleaner that quickly softens, and dissolves accumulated oil sludge in the engine. In addition, this formula is specially designed to remove harmful fuel deposits that clog piston rings. MULTI- CLEAN ™ MAX also cleans lifters, passageways, screens, and other internal engine components.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Colorless"
+    ],
+    [
+      "Odor",
+      "",
+      "Slightly Pine"
+    ],
+    [
+      "Specific Gravity @ 68°F",
+      "D4052",
+      ".840"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D1250",
+      "7.01"
+    ],
+    [
+      "Boiling Point(°F)",
+      "",
+      "≥363"
+    ],
+    [
+      "Flash Point(°F)(based on components)",
+      "D93",
+      "182"
+    ]
+  ],
+  "application": "Engine: Make sure oil is at proper level and engine is at operating temperature. 1.) Before performing an oil and filter change, add MULTI-CLEAN™ MAX to crankcase. Let car run at idle for 15 minutes. Do not rev engine or drive car. 2.) Drain oil and perform an oil and filter change according to manufacturer’s recommendations.",
+  "packaging": [
+    [
+      "11 oz.",
+      "24",
+      "18 lbs."
+    ],
+    [
+      "32 oz.",
+      "12",
+      "22 llbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0124.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 395 px tall"
+  ]
+}

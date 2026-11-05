@@ -1,0 +1,85 @@
+{
+  "item": "0444",
+  "name": "Advanced Cooling System Protection",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/0444.png",
+  "features": [
+    {
+      "text": "Compatible with all reservoir style cooling systems that use Ethylene Glycol based coolant"
+    },
+    {
+      "text": "Fortifies and extends service life of new coolant"
+    },
+    {
+      "text": "Lowers metal loss to less then 1 mg"
+    },
+    {
+      "text": "Can help regulate EV Battery Temperatures"
+    },
+    {
+      "text": "Can be used in HEV, EV and ICE cooling systems."
+    }
+  ],
+  "ratings": [],
+  "description": "Designed to fortify coolants used in hybrid-electrical vehicles (HEV) and battery electrical vehicles (BEV) with advanced corrosion inhibitors. It is formulated for use in all types of ethylene glycol based, low-conductivity coolants used in indirect cooling systems.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Neutral"
+    ],
+    [
+      "pH",
+      "D1475",
+      "~9.5"
+    ],
+    [
+      "Specific Gravity, (g/ml) @ 68°F",
+      "",
+      "~1.07"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "",
+      "~8.9"
+    ],
+    [
+      "Boiling Point(°F)",
+      "",
+      ">212"
+    ],
+    [
+      "Flash Point(°F)(based on components)",
+      "",
+      ">232"
+    ]
+  ],
+  "application": "SHAKE WELL! If used between services, allow cooling system to cool before removing radiator or reservoir cap to add product. 1) Remove radiator or reservoir cap and add entire contents of container to cooling system. 2) Replace radiator or reservoir cap & allow vehicle to idle for 10-15 minutes.",
+  "packaging": [
+    [
+      "10 oz.",
+      "24",
+      "20 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0444.pdf",
+    "old_rev": 3
+  },
+  "review": [
+    "Spelling corrected from the old sheet: coolings systems -> cooling systems"
+  ]
+}

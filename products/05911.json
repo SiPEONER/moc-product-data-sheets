@@ -1,0 +1,105 @@
+{
+  "item": "05911",
+  "name": "Pre-treatment & Deodorizing Solution",
+  "category": "Automotive Deodorizer",
+  "library_section": "Additives & Fluids",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/05911.png",
+  "features": [
+    {
+      "text": "10 to 15 minutes to complete service."
+    },
+    {
+      "text": "Fog penetrates hard to reach spaces."
+    },
+    {
+      "text": "Removes musty odors and smells that cling to interior surfaces."
+    }
+  ],
+  "ratings": [],
+  "description": "The Airborne Defense Fogger reaches throughout the vehicle’s interior, penetrating hidden spaces to eliminate odors safely and effectively. The dense fog removes pet, food, and those musty odors and smells that cling to surfaces, air vents, interior cracks and crevices.",
+  "specs": [
+    [
+      "Fresh Pre-Treat - Test",
+      "",
+      "ASTM Method Typical Results"
+    ],
+    [
+      "Appearance",
+      "",
+      "Cloudy"
+    ],
+    [
+      "Color",
+      "",
+      "Colorless"
+    ],
+    [
+      "Odor",
+      "",
+      "Fruity"
+    ],
+    [
+      "Density, U.S. lb/gal @ 68F",
+      "D4052",
+      "8.34"
+    ],
+    [
+      "pH",
+      "E70",
+      "4.0"
+    ],
+    [
+      "Fresh Solution - Test",
+      "",
+      "ASTM Method Typical Results"
+    ],
+    [
+      "Appearance",
+      "",
+      "Cloudy"
+    ],
+    [
+      "Color",
+      "",
+      "Colorless"
+    ],
+    [
+      "Odor",
+      "",
+      "Fruity"
+    ],
+    [
+      "Density, U.S. lb/gal @ 68F",
+      "D4052",
+      "8.34"
+    ],
+    [
+      "pH",
+      "E70",
+      "4.0"
+    ]
+  ],
+  "application": "CLICK HERE OR SCAN QR CODE TO DOWNLOAD INSTRUCTIONS.",
+  "packaging": [
+    [
+      "4 oz. Part # : 06401",
+      "",
+      ""
+    ],
+    [
+      "10 ml. Part # : 06301",
+      "",
+      "7 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "05911.pdf",
+    "old_rev": 1
+  },
+  "review": [
+    "Packaging also says: Case Qty: 12",
+    "Bottle photo is only 391 px tall"
+  ]
+}

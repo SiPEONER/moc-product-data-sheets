@@ -1,0 +1,75 @@
+{
+  "item": "0426",
+  "name": "Synthetic DCT Fluid",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/0426.png",
+  "features": [
+    {
+      "text": "Highly resistant to shear, oxidation, and thermal breakdown."
+    },
+    {
+      "text": "Excellent flow properties at low temperatures"
+    },
+    {
+      "text": "Outstanding film protection at high temperatures."
+    },
+    {
+      "text": "Anti-wear properties protect internal parts."
+    },
+    {
+      "text": "Full Synthetic, PAO-based formula."
+    }
+  ],
+  "ratings": [],
+  "description": "An advanced lubricant designed to provide superior component protection and enhanced service reliability when used in wet dual clutch transmissions (DCT) and direct-shift gearboxes (DSG). Synthetic DCT Fluid is specially formulated for maximum shear stability, oxidation resistance and wear prevention while maintaining essential frictional properties for bearings, synchronizers and wet clutches. Meets or exceeds the performance criteria for a wide range of DCT and DSG fluids and is designed for use in Audi ®, BMW ®, Ford ®, Mercedes-Benz ®, Porsche ®, VW ®, Volvo ®, GM ®, Hyundai ® D8LF1/ D8F48W (8 speed) and more!",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear Oil"
+    ],
+    [
+      "Color",
+      "",
+      "Light Amber"
+    ],
+    [
+      "Density (g/mL) @68 °F",
+      "D4052",
+      "0.84"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "",
+      "7.00"
+    ],
+    [
+      "Viscosity @ 100°C, cSt",
+      "D445",
+      "7.0"
+    ],
+    [
+      "Viscosity @ -40°C, cP",
+      "D2983",
+      "6,000"
+    ]
+  ],
+  "application": "Use in DCT or DSG transmissions according to equipment manufacturer’s recommendations. DO NOT use in CVT, traditional step-shift transmissions or Nissan transmissions that require GTR fluid.",
+  "packaging": [
+    [
+      "1 quart",
+      "12 Bottles",
+      "24.5 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0426.pdf",
+    "old_rev": 3
+  },
+  "review": [
+    "Bottle photo is only 391 px tall"
+  ]
+}

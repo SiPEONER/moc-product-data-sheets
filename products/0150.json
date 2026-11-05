@@ -1,0 +1,74 @@
+{
+  "item": "0150",
+  "name": "Battery Cleaner & Leak Detector",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0150.png",
+  "features": [
+    {
+      "text": "Versatile 3-in-1 product: detects, neutralizes, and cleans acid and corrosion buildup."
+    },
+    {
+      "text": "Protects battery terminals, cables, and carriers."
+    },
+    {
+      "text": "Can restore charging power and lengthen battery life."
+    }
+  ],
+  "ratings": [],
+  "description": "A liquid compound designed to detect, neutralize and remove acid and corrosion from terminals, cables and carriers. The product turns from red to clear to indicate the presence of acid or a leak around the terminal. Designed for use with Battery Terminal Protectors, Part #01301.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Aqueous solution"
+    ],
+    [
+      "Color",
+      "",
+      "Dark Red, Purple"
+    ],
+    [
+      "Odor",
+      "",
+      "Detergent"
+    ],
+    [
+      "pH",
+      "D1287",
+      "9.8 - 10.1"
+    ],
+    [
+      "Specific Gravity @ 68°F",
+      "D1298",
+      "1.02"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "",
+      "8.51"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      "≥ 212"
+    ]
+  ],
+  "application": "SHAKE WELL BEFORE USING. MAKE SURE CELL COVERS ARE SEALED TIGHTLY. 1.) Apply product to terminals, cables and surrounding area. Allow product to dwell for several minutes. If acid is detected, the product will turn from red to clear. 2.) Scrub terminal areas with a nonmetallic brush to avoid sparks. 3.) Rinse treated area with water or wipe clean with a towel. 4) Install MOC® Battery Terminal Protector Pads.",
+  "packaging": [
+    [
+      "2 oz.",
+      "24",
+      "4.14 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0150.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 380 px tall"
+  ]
+}

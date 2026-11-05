@@ -1,0 +1,82 @@
+{
+  "item": "6155",
+  "name": "Malodor Air Freshener",
+  "category": "Deodorants - Air Freshener",
+  "library_section": "Odor Control",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/6155.png",
+  "features": [
+    {
+      "text": "Long-lasting, odor counteractants that leave a pleasant scent."
+    },
+    {
+      "text": "Can be diluted for use in extractor machines"
+    },
+    {
+      "text": "Spray full-strength on carpets, under the dash, and under seats."
+    }
+  ],
+  "ratings": [
+    "Concentration 8"
+  ],
+  "description": "A pleasant, long-lasting solution that knocks out offensive odors, leaving a clean, fresh scent.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Blue"
+    ],
+    [
+      "Odor",
+      "",
+      "Clean, Fresh"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.3"
+    ],
+    [
+      "RI",
+      "",
+      "~6.5"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "DIRECTIONS: Mix 2-5 ounces with each gallon of floor-cleaning solution or interior shampoo; OR Spray full-strength on carpets, under dash, and under seats.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "36 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "6155.pdf",
+    "old_rev": 1
+  },
+  "review": [
+    "Has a Performance Ratings section: Concentration - 8",
+    "Bottle photo is only 397 px tall"
+  ]
+}

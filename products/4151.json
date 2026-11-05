@@ -1,0 +1,87 @@
+{
+  "item": "4151",
+  "name": "Nzyme",
+  "category": "Automotive Cleaner / Degreaser",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4151.png",
+  "features": [
+    {
+      "text": "Excellent as a spot remover and pretreatment for carpets."
+    },
+    {
+      "text": "Neutralizes odor-causing organic matter."
+    },
+    {
+      "text": "All-natural, environmentally responsible, and biodegradable."
+    }
+  ],
+  "ratings": [],
+  "description": "A bioenzymatic cleaner that quickly eliminates soils, stains, and malodors from carpets, upholstery, textiles, vinyl, leather, and synthetic surfaces. Works great as a spot remover or pretreatment on carpets and upholstery prior to cleaning. Nzyme™ is an environmentally safe way to deodorize and cleanout RV holding tanks & portable sanitation units.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Light Amber"
+    ],
+    [
+      "Odor",
+      "",
+      "Fresh"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.4"
+    ],
+    [
+      "pH",
+      "E 70",
+      "~6.0"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "Directions: Before use, test for colorfastness on a small, inconspicuous area. Light-Duty Cleaning: dilute 1:8 with water. Heavy-Duty Cleaning: dilute 1:4 with water. Extractor Machine: dilute 1:25 with water. 1) Thoroughly vacuum area to be treated. 2) Brush fabric with upholstery brush to separate fibers. 3) Lightly spray product on fabric to be cleaned and allow to dwell for several minutes. 4) Agitate with upholstery brush, cleaning entire panel. 5) Towel dry, then thoroughly vacuum area cleaned. RV holding tanks & portable sanitation units: BLACK TANK: (1) Fill toilet with approximately 2 gallons of water. (2) Add 6 oz. Nzyme™ per 10 gallons of tank capacity and flush. (3) Add approximately 2 gallons of water to toilet and flush again (repeat steps 1 - 3 as needed.) Remember, the more water you use with each flush the less smells you are likely to have. (4) Open black tank valve and dump tank contents following the standard dump procedures. GREY TANK: mix 4 parts water with 1 part nzyme™ in sink or shower and wash down the drain. *Not recommended for cold weather storage.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "37 lbs."
+    ],
+    [
+      "5 gal",
+      "1",
+      "45 lbs."
+    ],
+    [
+      "5 gal",
+      "1",
+      "484 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4151.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

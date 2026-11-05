@@ -1,0 +1,85 @@
+{
+  "item": "6284",
+  "name": "Waxy Wash",
+  "category": "Automotive Shampoo",
+  "library_section": "Shampoos & Washes",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/6284.png",
+  "features": [
+    {
+      "text": "A concentrated liquid soap"
+    },
+    {
+      "text": "Leaves a waxy feel on the surface"
+    },
+    {
+      "text": "Thin enough for proportioner and tunnel use."
+    },
+    {
+      "text": "Color-coded compliant Packaging."
+    }
+  ],
+  "ratings": [
+    "Foaming 7",
+    "Concentration 5"
+  ],
+  "description": "A high-foam shampoo that lifts and removes dirt, road-film, and other contaminants from vehicle exterior. Cleans without removing existing wax and leaves a rich, renewed wax-like shine.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow/ Green"
+    ],
+    [
+      "Odor",
+      "",
+      "Soapy"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.60"
+    ],
+    [
+      "pH",
+      "E 70",
+      "~9.4"
+    ],
+    [
+      "RI",
+      "",
+      "~12.4"
+    ],
+    [
+      "Viscosity, Brookfield, cP",
+      "",
+      "~1750"
+    ]
+  ],
+  "application": "Surface should be cool and out of direct sunlight. Dilute 2-4 oz. with each gallon of cold water. Wet vehicle thoroughly and apply Waxy Wash to entire vehicle with a wash mitt, sponge, or soft cloth. Rinse well and dry vehicle with a clean chamois or soft towel.",
+  "packaging": [
+    [
+      "5 gal.",
+      "N/A",
+      "46.06 lbs"
+    ],
+    [
+      "55 gal.",
+      "N/A",
+      "495.01 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "6284.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Foaming - 7 Concentration - 5"
+  ]
+}

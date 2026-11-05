@@ -1,0 +1,84 @@
+{
+  "item": "0415",
+  "name": "Ultra Shift",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0415.png",
+  "features": [
+    {
+      "text": "Superior lubrication and protection for bearings and gears."
+    },
+    {
+      "text": "Helps prevent wear, pitting and corrosion under high-load conditions. Promotes excellent shift quality and synchronizer performance in manual transmissions."
+    },
+    {
+      "text": "Compatible with manual transmission components such as bronze, brass, copper, and elastomer material."
+    }
+  ],
+  "ratings": [],
+  "description": "A full synthetic gear lubricant specially formulated for a wide range of manual transmissions, transaxles, and transfer cases. The combination of high-quality base oils and a multi-functional additive system in Ultra Shift™ provides superior anti-wear protection, shear stability and low temperature fluidity. This premium formula may be effectively used in all domestic and foreign vehicles where GL-4 gear oil or ATF is specified by the vehicle manufacturer. Ultra Shift™ is recommended in applications where GM ® Part #12345349, GM ® Auto Trak II Part #1237508, Toyota LF 75W 08885-81080, Ford ® Part #D80Z19C547A & ESRY 19C547, Chrysler ® Part #4773167, or Mercedes Benz ® Part #900260315 are specified.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Sulfur"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.83"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "6.9"
+    ],
+    [
+      "Viscosity @ 100°C, cSt",
+      "D445",
+      "~9.7"
+    ],
+    [
+      "Viscosity @ 40°C, cSt",
+      "D445",
+      "~49"
+    ],
+    [
+      "Flash Point °F (PMCC)",
+      "D93",
+      ">211"
+    ],
+    [
+      "Brookfield Viscosity @ -40°C, cPs",
+      "D2983",
+      "21,795"
+    ]
+  ],
+  "application": "Use quantity in accordance with vehicle manufacturer’s recommendations.",
+  "packaging": [
+    [
+      "1 qt.",
+      "12",
+      "24 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0415.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 692 px tall"
+  ]
+}

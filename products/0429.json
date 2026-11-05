@@ -1,0 +1,90 @@
+{
+  "item": "0429",
+  "name": "MTF Manual Transmission Fluid",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0429.png",
+  "features": [
+    {
+      "text": "Maintains fluidity at low temperatures."
+    },
+    {
+      "text": "Prevents rust and fluid oxidation."
+    },
+    {
+      "text": "Compatible with components containing copper."
+    },
+    {
+      "text": "Extended service life."
+    },
+    {
+      "text": "Excellent film protection at high temperatures."
+    }
+  ],
+  "ratings": [],
+  "description": "A full synthetic, SAE 75W-90 GL-4 gear oil for use in a wide range of manual transmissions and transaxles requiring a GL-4 lubricant. It contains a premium multi-functional additive package with high-quality base stock that provide excellent low temperature fluidity, extreme pressure performance and high temperature protection. Special inhibitors and additives are included to provide compatibility with copper containing alloys and protect against corrosion. It can be used in applications that call for General Motors Part# 12345371.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Sulfur"
+    ],
+    [
+      "Density (g/mL) @68 °F",
+      "D4052",
+      "0.84"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated @68 °F",
+      "",
+      "7.01"
+    ],
+    [
+      "Viscosity @ 100°C, cSt",
+      "D445",
+      "~15.0"
+    ],
+    [
+      "Viscosity, cSt @ 40°C",
+      "D445",
+      "65.6"
+    ],
+    [
+      "Viscosity Index",
+      "D2270",
+      "~240"
+    ],
+    [
+      "Brookfield Viscosity @ -40°C, cP",
+      "D2983",
+      "~27,000"
+    ]
+  ],
+  "application": "Use quantity in accordance with vehicle manufacturer’s recommendations.",
+  "packaging": [
+    [
+      "32 OZ.",
+      "12",
+      "24 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0429.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 389 px tall"
+  ]
+}

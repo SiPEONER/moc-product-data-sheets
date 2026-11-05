@@ -1,0 +1,80 @@
+{
+  "item": "0442",
+  "name": "Boost",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/0442.png",
+  "features": [
+    {
+      "text": "Protects and keeps fuel fresh for an extended period."
+    },
+    {
+      "text": "Antioxidants & special lubricants protect against corrosion and moisture damage."
+    },
+    {
+      "text": "Can restore performance, power, and fuel efficiency."
+    },
+    {
+      "text": "Dissolves stubborn combustion chamber, intake, and injector carbon deposits."
+    }
+  ],
+  "ratings": [],
+  "description": "Created specifically to give the latest hybrid engines the extra attention they need to perform at their best. Adding BOOST Fuel Stabilizer to the fuel tank can keep gasoline fresh, and prevent corrosion, moisture damage, and carbon deposits while it restores power, performance, and fuel efficiency.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Petroleum Distillates"
+    ],
+    [
+      "Color",
+      "",
+      "Clear, Colorless"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density, U.S. (g/ml) @ 68°F",
+      "D4052",
+      "~0.86"
+    ],
+    [
+      "Density, U.S. (lbs./gal) @ 68°F (calculated)",
+      "",
+      "~7.2"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      "≥311"
+    ],
+    [
+      "Flash Point (°F) (based on components)",
+      "",
+      "~111"
+    ],
+    [
+      "% V.O.C.",
+      "",
+      "28.5"
+    ]
+  ],
+  "application": "Pour entire contents of bottle into fuel tank. Caution: make sure tank has a minimum of eight gallons of gas. Less dilution may cause erratically-running engine during the cleaning cycle.",
+  "packaging": [
+    [
+      "10 oz.",
+      "24 Bottles",
+      "12 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0442.pdf",
+    "old_rev": 3
+  },
+  "review": []
+}

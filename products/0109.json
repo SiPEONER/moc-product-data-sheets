@@ -1,0 +1,77 @@
+{
+  "item": "0109",
+  "name": "Cooling-system Fast Flush",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0109.png",
+  "features": [
+    {
+      "text": "Non-acid."
+    },
+    {
+      "text": "Requires no neutralizer."
+    },
+    {
+      "text": "Highly effective at removing scale and sediment from system surfaces."
+    },
+    {
+      "text": "Can be used on radiator plastic and aluminum components."
+    }
+  ],
+  "ratings": [],
+  "description": "A powerful, convenient, one-step radiator and cooling-system cleaner. It is formulated to quickly breakdown and suspend rust, scale, and sediment. This non-acid-base product needs no neutralizer and is compatible with plastic and aluminum.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Colorless to pale yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Mild"
+    ],
+    [
+      "pH",
+      "",
+      "7-7.5"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "1.06"
+    ],
+    [
+      "'Density, U.S. (lbs/gal), calculated",
+      "",
+      "8.87"
+    ],
+    [
+      "Boiling Point(°F)",
+      "",
+      ">212"
+    ]
+  ],
+  "application": "Allow system to cool before removing radiator cap. 1) Remove radiator cap. 2) Pour Fast Flush into radiator. 3) Replace radiator cap. 4) Run engine at operating temperature for ten to fifteen minutes. 5) Flush system with a MOC® Coolant Exchanger Machine. Refer to the machine's instructions for additional details and information.",
+  "packaging": [
+    [
+      "8 oz.",
+      "24",
+      "16 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0109.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 386 px tall"
+  ]
+}

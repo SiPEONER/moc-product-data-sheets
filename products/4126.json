@@ -1,0 +1,102 @@
+{
+  "item": "4126",
+  "name": "A.P.C All-purpose Cleaner",
+  "category": "Automotive Cleaner / Degreaser",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4126.png",
+  "features": [
+    {
+      "text": "Cleans grease, grime and soil from exterior and interior surfaces."
+    },
+    {
+      "text": "Complies with VOC regulations."
+    },
+    {
+      "text": "Color-Coded compliant packaging."
+    },
+    {
+      "text": "Reduces the number of products needed in a shop."
+    }
+  ],
+  "ratings": [],
+  "description": "A general purpose cleaner designed to clean a wide variety of vehicle surfaces. This concentrated formula cleans grease, grime and soil from exterior and interior surfaces. A single product that does it all and reduces the numbers of products needed in a shop.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Orange"
+    ],
+    [
+      "Odor",
+      "",
+      "Citrus"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "1.05"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (Calculated)",
+      "",
+      "~8.8"
+    ],
+    [
+      "pH",
+      "E 70",
+      "~14"
+    ],
+    [
+      "RI",
+      "",
+      "~16"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "Application: Always test diluted product for spotting or damage on an inconspicuous area before using on an entire surface. Dilution: Always dilute with at least 12 parts water to 1 part product. 1) Spray or wipe diluted product on surface to be cleaned. 2) Scrub surface with a brush or towel. Do not allow product to dry on the surface. 3) For exterior areas, pressure rinse surface thoroughly. For interior hard surfaces, dry area completely with a clean towel. For carpet and upholstery, towel dry and vacuum area.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "38 lbs."
+    ],
+    [
+      "5 gal",
+      "N/A",
+      "48 lbs."
+    ],
+    [
+      "55 gal",
+      "N/A",
+      "507 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4126.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 373 px tall"
+  ]
+}

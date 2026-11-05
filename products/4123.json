@@ -1,0 +1,89 @@
+{
+  "item": "4123",
+  "name": "Purple Wire Wheel Cleaner",
+  "category": "Automotive Cleaner / Degreaser",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/4123.png",
+  "features": [
+    {
+      "text": "A concentrated acid-based wheel cleaner."
+    },
+    {
+      "text": "Quickly removes dirt, rust, brake dust, and corrosion without scrubbing."
+    },
+    {
+      "text": "Works on metal, coated, and plastic wheels."
+    }
+  ],
+  "ratings": [],
+  "description": "A concentrated acid-based wheel cleaner specially designed to remove dirt, brake dust, rust, corrosion, road tar, and film from metal, coated, and plastic wheels. Cleans and brightens chrome spokes of wire wheels. Color- coded complaint packaging reduces confusion and product misuse. Contains hydrofluoric acid. Please read safety precautions before use.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Aqueous Acidic Solution"
+    ],
+    [
+      "Color",
+      "",
+      "Purple"
+    ],
+    [
+      "Odor",
+      "",
+      "Acidic"
+    ],
+    [
+      "Relative Density (g/mL)",
+      "",
+      "1.15"
+    ],
+    [
+      "Relative Density (lb/gal)",
+      "",
+      "9.6"
+    ],
+    [
+      "Melting point/freezing point",
+      "",
+      "-2°C / 29°F"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      "> 93°C / 200°F"
+    ],
+    [
+      "pH",
+      "",
+      "<2"
+    ]
+  ],
+  "application": "DIRECTIONS: USE ONLY AS DIRECTED. AVOID CONTACT WITH ALUMINUM, MAGNESIUM, GLASS AND PAINTED SURFACES AS FROSTING, ETCHING OR DAMAGE MAY OCCUR. Always wear rubber gloves, boots, chemically resistant apron, eye protection and face shield when using this product. Do not apply product to surface in direct sunlight. Surface should be cool. 1) Dilute 1 part product with 4-10 parts water in a polyethylene or plastic container. Continued contact with metallic containers will cause corrosion. 2) Spray diluted solution onto surface to be cleaned, lightly brush working from the bottom up. 3) Allow product to remain on surface 1-2 minutes. Do not allow product to dry on surface. Remove residual cleaner with car shampoo and water. 4) Rinse surface thoroughly. NOTE: For extreme cases, a stronger solution or a second application may be necessary.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "40.8 lbs."
+    ],
+    [
+      "5 gal",
+      "N/A",
+      "50.5 lbs."
+    ],
+    [
+      "55 gal",
+      "N/A",
+      "545.5 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4123.pdf",
+    "old_rev": 1
+  },
+  "review": [
+    "Bottle photo is only 394 px tall"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "item": "5128",
+  "name": "Knockout Dressing",
+  "category": "Automotive Dressing",
+  "library_section": "Dressings & Protectants",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/5128.png",
+  "features": [
+    {
+      "text": "A ready-to-use water-based dressing for rubber, vinyl and plastic."
+    },
+    {
+      "text": "The outstanding floral fragrance is pleasing for the user and also aids in deodorization of vehicle interiors."
+    },
+    {
+      "text": "This product is the industry standard for universal, water- based dressing."
+    }
+  ],
+  "ratings": [
+    "Gloss 7",
+    "Durability 3"
+  ],
+  "description": "Knockout Dressing™ is a universal, water-based, silicone-protectant. This product is bright white in color and has a clean, floral aroma. Knockout Dressing™ protects, beautifies and restores tires, vinyl, rubber and leather.",
+  "specs": [
+    [
+      "Appearance",
+      "Aqueous emulsion",
+      "Body Shop Safe"
+    ],
+    [
+      "Color",
+      "Milky White",
+      "VOC Compliant"
+    ],
+    [
+      "Odor",
+      "Floral",
+      "Biodegradable"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 60°F",
+      "D1250",
+      "8.32 lbs/gal"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "D 93",
+      "N/A"
+    ]
+  ],
+  "application": "Spray evenly on a clean, dry tire. Do not wipe. Allow to dry thoroughly until dressing turns from white, milky look to a black shiny surface. On other surfaces, apply dressing with a clean cloth. Allow to dry and wipe off excess. Warning: As a tire dressing, excess product should be wiped from surface to prevent “sling,” which can stain some painted-plastic surfaces.",
+  "packaging": [
+    [
+      "1 gal.",
+      "4 Bottles",
+      "34.4 lbs"
+    ],
+    [
+      "5 gal.",
+      "N/A",
+      "45.2 lbs"
+    ],
+    [
+      "55 gal.",
+      "N/A",
+      "479.1 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "5128.pdf",
+    "old_rev": 1
+  },
+  "review": [
+    "Has a Performance Ratings section: Gloss - 7 Durability - 3",
+    "Spelling corrected from the old sheet: Dressiing -> Dressing"
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "item": "5100",
+  "name": "High-shine Dressing",
+  "category": "Automotive Dressing",
+  "library_section": "Dressings & Protectants",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/5100.png",
+  "features": [
+    {
+      "text": "Protects tires, vinyl and rubber."
+    },
+    {
+      "text": "Long-lasting, water-resistant, silicone-based formula."
+    },
+    {
+      "lead": "Versatile",
+      "text": "can be diluted for economy or used undiluted for maximum protection."
+    }
+  ],
+  "ratings": [
+    "Gloss 9",
+    "Durability 4"
+  ],
+  "description": "A concentrated silicone, high gloss, water-based protectant. It has a rich banana aroma and is a bright-white color. This versatile dressing is ideal for interior and exterior hard surfaces, such as tires, vinyl, rubber, and trim pieces.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Aqueous emulsion"
+    ],
+    [
+      "Color",
+      "",
+      "Milky White"
+    ],
+    [
+      "Odor",
+      "",
+      "Banana"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "0.99"
+    ],
+    [
+      "Density, U.S. (lbs/gal), (Calculated)",
+      "",
+      "8.3"
+    ],
+    [
+      "pH",
+      "",
+      "6.5"
+    ],
+    [
+      "Viscosity, Brookfield, cPs",
+      "",
+      "~1,500"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "Shake well before use. Take care to protect painted plastic pans when applying any tire dressing. As product \"sling\" can stain panels, never apply product to steering wheels, accelerator pedals, brake pedals, or clutch pedals. Surface should be clean and dry. 1.) Apply product with a trigger sprayer, sponge, or brush until there is complete coverage. 2.) Allow product to dry and wipe away excess (to prevent \"sling\").",
+  "packaging": [
+    [
+      "1 gal.",
+      "4",
+      "36 lbs."
+    ],
+    [
+      "5 gal.",
+      "N/A",
+      "45 lbs."
+    ],
+    [
+      "55 gal.",
+      "N/A",
+      "478 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "5100.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Gloss - 9 Durability - 4",
+    "Spelling corrected from the old sheet: waterbased -> water-based"
+  ]
+}

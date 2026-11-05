@@ -1,0 +1,83 @@
+{
+  "item": "1065",
+  "name": "Odor-B-Gone Fogger",
+  "category": "Aerosols",
+  "library_section": "Aerosols & Service Chemicals",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/1065.png",
+  "features": [
+    {
+      "text": "Neutralizes odors on contact! Odors are eliminated, not masked."
+    },
+    {
+      "lead": "Fast, easy and reliable application",
+      "text": "takes approximately 10 minutes."
+    },
+    {
+      "text": "Treats hard-to-reach areas of the A/C system."
+    },
+    {
+      "lead": "Versatile and economical",
+      "text": "one can treats both the A/C system and interior surfaces."
+    },
+    {
+      "text": "Neutralizes contaminants that can cause health problems."
+    }
+  ],
+  "ratings": [],
+  "description": "A special blend that quickly neutralizes odors that form in the evaporator core, housing of air-conditioner systems, and vehicle interiors. This effective formula works in two ways. First, it has strong positively-charged molecules that combat the negative charge of bacteria and other odor-causing material at the source. Second, any existing odor molecules are encapsulated and rendered odorless by this advanced technology. It eliminates odors caused by mold, mildew, bacteria, pets, smoke and other contaminants. This product is equally effective at removing odors from interior surfaces such as seats, headliners and carpet.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Colorless"
+    ],
+    [
+      "Odor",
+      "",
+      "Fresh"
+    ],
+    [
+      "Specific Gravity @68°F (liquid portion)",
+      "D1298",
+      "0.9"
+    ],
+    [
+      "Density, U.S. @ 68°F, (lbs/gal)",
+      "D1250",
+      "7.5"
+    ],
+    [
+      "Flammability, NFPA 30B",
+      "",
+      "Level 3 Aerosol"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "Start vehicle. Note: For best results, remove any clutter or material before application and stand floor mats on end so the product can make contact with all the interior surfaces. Remove the cabin filter before application and reinstall or replace afterwards. Turn on HVAC system and run fan on “high” in recirculation mode. Roll up all windows. Place a towel near a central location on the floorboard (near middle rear seat). Place can on towel in upright position. Press actuator down and into “locked” position. Exit vehicle and close all doors. Allow product to circulate in vehicle for 10 minutes. Open doors, turn off vehicle and allow vehicle to vent for 5 minutes. Check for any residual wetness on surfaces around the can or headliner and wipe excess with a clean towel.",
+  "packaging": [
+    [
+      "5 oz.",
+      "12 CANS",
+      "4 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "1065.pdf",
+    "old_rev": 3
+  },
+  "review": [
+    "Bottle photo is only 377 px tall",
+    "Name read by hand from the header artwork"
+  ]
+}

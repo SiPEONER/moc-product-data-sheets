@@ -1,0 +1,84 @@
+{
+  "item": "0126",
+  "name": "Fuel Induction System Cleaner",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0126.png",
+  "features": [
+    {
+      "text": "Chemically cleans injectors, combustion chambers and intake valves ruling out the need for disassembly."
+    },
+    {
+      "lead": "Versatile",
+      "text": "may be applied through the fuel rail or vacuum source for maximum flexibility and performance."
+    },
+    {
+      "text": "Contains no alcohol."
+    },
+    {
+      "text": "Will not harm oxygen sensors or catalytic converters."
+    }
+  ],
+  "ratings": [],
+  "description": "A powerful blend of cleaning agents that remove accumulated deposits from intake valves, ports and combustion chambers. When applied through the MOC® Universal Induction Tool #72172, MOC® Fuel-Induction System Cleaner removes harmful deposits from the combustion chambers and intake system. When applied through the fuel rail, using the MOC® Cleaner Application Tool #75600, MOC® Fuel-Induction System Cleaner removes harmful deposits from the fuel injectors. The product will not harm seals, oxygen sensors or catalytic converters. The formula contains no alcohol.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Aromatic Solvent"
+    ],
+    [
+      "Density (g/ml)",
+      "D4052",
+      "0.85"
+    ],
+    [
+      "Density, U.S. (lbs/gal) calculated flash",
+      "",
+      "7.09"
+    ],
+    [
+      "Flash Point (°F) based on components",
+      "",
+      "≥50"
+    ],
+    [
+      "Boiling Point (°F) based on components",
+      "",
+      "≥185"
+    ],
+    [
+      "% VOC",
+      "",
+      "95.4"
+    ]
+  ],
+  "application": "Through Fuel Rail: Use product in conjunction with the MOC® Cleaner Application Tool #75600. Follow procedures for use found in the instruction manual for the MOC® Cleaner Application Tool. through Vacuum Source: Pour contents into bottle reservoir of the MOC® Universal Induction Tool #72175. Secure valve cap to bottle reservoir. Attach outlet hose of tool to an intake vacuum source. Turn engine on. Set rpm at approximately 1500. Open flow valve so that product evacuates in 8-10 minutes. When the reservoir bottle is empty, turn off the engine. Disconnect outlet hose and replace vacuum hose. Drive vehicle for 5 minutes to remove residual product from the fuel system.",
+  "packaging": [
+    [
+      "12 oz.",
+      "24",
+      "19 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0126.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Name check: header reads \"FUEL INDUCTION SYSTEM CLEANER\", description says \"Fuel-Induction System Cleaner\"",
+    "Bottle photo is only 390 px tall"
+  ]
+}

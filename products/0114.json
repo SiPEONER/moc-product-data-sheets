@@ -1,0 +1,92 @@
+{
+  "item": "0114",
+  "name": "Extreme-pressure Lubricant",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0114.png",
+  "features": [
+    {
+      "text": "Concentrated anti-wear formula."
+    },
+    {
+      "text": "Contains corrosion and oxidation inhibitors."
+    },
+    {
+      "text": "Improves gear oil's anti-scoring capabilities."
+    },
+    {
+      "text": "Helps reduce bearing and gear noises."
+    },
+    {
+      "text": "Easy-to-use squeeze bottle with spout."
+    },
+    {
+      "text": "Helps extend service life and cut maintenance costs."
+    },
+    {
+      "text": "Compatible with all grades of gear oil"
+    }
+  ],
+  "ratings": [],
+  "description": "A multiuse concentrate designed to improve lubricant film thickness and reduce wear on gear surfaces that experience frictional conditions. This product is designed for use in all types of manual automotive transmissions, gear boxes, and differentials. Extreme-Pressure Lubricant helps to smooth shifting, reduce wear, and noise, and improve thermal stability. Ideal as an assembly lubricant. This product is recommended to be used with MOC® Gear Guard™ #0148 gear oil.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear & Bright"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Petroleum"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.87"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "7.26"
+    ],
+    [
+      "Viscosity,cSt @ 100°C",
+      "D445",
+      "~17"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      ">300"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "D93",
+      ">210"
+    ]
+  ],
+  "application": "Add a minimum of 10% of Extreme-Pressure Lubricant by volume to gear oil. Add treated gear lubricant to vehicle. Do not overfill system. For best results, use Extreme-Pressure Lubricant with MOC® Gear Guard™ #0148 gear oil. Product may be added between services or as needed..",
+  "packaging": [
+    [
+      "6 oz.",
+      "12 Tubes",
+      "7 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0114.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 353 px tall",
+    "Spelling corrected from the old sheet: Denisty -> Density"
+  ]
+}

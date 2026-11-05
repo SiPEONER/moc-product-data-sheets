@@ -1,0 +1,84 @@
+{
+  "item": "3100",
+  "name": "Magna Buff",
+  "category": "Automotive Buffing Compound",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/3100.png",
+  "features": [
+    {
+      "text": "Designed for use on base-coat/clearcoat finishes."
+    },
+    {
+      "text": "Repairs factory-paint imperfections."
+    },
+    {
+      "text": "Excellent for removing wet-sanding marks on new paint."
+    }
+  ],
+  "ratings": [],
+  "description": "A semi-viscous, cream designed specifically as a buffing compound for basecoat clearcoat systems and is body shop safe. It removes heavy scratches, blemishes, and factory-paint defects on basecoat clearcoat painted finishes. For best results, Magna Buff® should be followed with a glaze.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Blue"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D1475",
+      "~9.0"
+    ],
+    [
+      "Solids, %",
+      "E1868",
+      "~25"
+    ],
+    [
+      "Viscosity, Brookfield, cPs",
+      "",
+      "~30,000"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "Directions: For best results, surface should be clean, cool and out of direct sunlight. Shake container well before using. Note: applying excessive pressure while buffing may lead to \"burning\" or permanent damage to the paint. Hand use: Apply a generous amount of Magna Buff ® onto a soft cloth and apply to small sections of paint using medium pressure in an overlapping, Circular motion until scratches and blemishes disappear. Machine use: Apply Magna Buff ® to the painted Surface and buff while product is wet using a High-speed polisher and wool pad (do not exceed 2000 rpm) or flex polisher and foam pad (speed: 6). Repeat until surface imperfections are removed",
+  "packaging": [
+    [
+      "1 gal.",
+      "4",
+      "39 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "3100.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Name read by hand from the header artwork"
+  ]
+}

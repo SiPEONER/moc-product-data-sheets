@@ -1,0 +1,85 @@
+{
+  "item": "0421",
+  "name": "Synthetic High-performance ULV ATF",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "8.0",
+  "issued": "2026",
+  "image": "img/0421.png",
+  "features": [
+    {
+      "text": "Highly resistant to shear, oxidation and thermal breakdown."
+    },
+    {
+      "text": "Provides excellent flow properties at low temperatures and film protection at high temperatures."
+    },
+    {
+      "text": "Outstanding anti-wear properties to protect transmission parts."
+    },
+    {
+      "text": "Premium, full synthetic formula."
+    }
+  ],
+  "ratings": [],
+  "description": "An advanced lubricant designed to provide superior component protection and enhanced service reliability when used in high performance or 8, 9 & 10 speed transmissions. Synthetic ATF HP is specially formulated for maximum high & low temp stability, oxidation resistance and wear prevention, while maintaining essential frictional and shifting properties. This premium, PAO-based formula meets or exceeds the performance criteria for a wide range of AT fluids and may be used in place of synthetic fluids specified by several vehicle manufacturers, including GM ® Dex HP (19417577, 8L45/90, 10L80/90) GM ® Dex ULV (19352619), Honda ® 2.0, Mopar ® 8 & 9 Speed ATF, Ford Mercon ® ULV ATF, VOLVO ® (31492172), Mazda ® A7 and Nissan Matic P & R (please note the Matic fluids are amber in color)",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Oil"
+    ],
+    [
+      "Color",
+      "",
+      "Red"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.84"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "6.99"
+    ],
+    [
+      "Viscosity @ 100°C, cSt",
+      "D445",
+      "4.1 - 4.8"
+    ],
+    [
+      "Viscosity @ 40°C, cSt",
+      "D445",
+      "~20.0l"
+    ],
+    [
+      "Viscosity @ -40°C, cP",
+      "D2983",
+      "~6000"
+    ],
+    [
+      "Flash Point, COC°C",
+      "D92",
+      "~182"
+    ]
+  ],
+  "application": "Use in automatic transmissions according to equipment manufacturer’s recommendations. DO NOT use in transmissions that require CVT or Type F fluids.",
+  "packaging": [
+    [
+      "1 quart",
+      "12 Bottles",
+      "24.5 lbs."
+    ],
+    [
+      "1 gal",
+      "4 Bottles",
+      "31 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0421.pdf",
+    "old_rev": 7
+  },
+  "review": []
+}

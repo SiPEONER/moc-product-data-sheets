@@ -1,0 +1,92 @@
+{
+  "item": "9956",
+  "name": "Extractor Shampoo",
+  "category": "Deodorants - Air Freshener",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/9956.png",
+  "features": [
+    {
+      "text": "Effectively cleans carpet, upholstery, vinyl, leather, and plastic."
+    },
+    {
+      "text": "Cleans heavily soiled surfaces with ease."
+    },
+    {
+      "text": "Dries without leaving a residue."
+    }
+  ],
+  "ratings": [],
+  "description": "A concentrated shampoo used in extractor machines for general carpet and upholstery cleaning. Can also be used as a pre-spot treatment.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Blue"
+    ],
+    [
+      "Odor",
+      "",
+      "Clean"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.9"
+    ],
+    [
+      "RI",
+      "",
+      "~14"
+    ],
+    [
+      "pH",
+      "E70",
+      "~9.0"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "DIRECTIONS: AS WITH ANY CLEANER, TEST PRODUCT ON AN INCONSPICUOUS AREA FOR COMPATIBILITY. EXTRACTOR MACHINE: 1) Dilute 1 part product with 10 to 30 parts water. 2) Use mixture according to extractor-machine directions. 3) After extraction process, wipe cleaned areas with a dry, clean towel to remove excess moisture. GENERAL CLEANING: 1) Dilute 1 part product with 6 to 9 parts water. 2) Spray or wipe on soiled surface. 3) Allow product to penetrate approximately 2-3 minutes. Agitation with a brush may be needed for heavily soiled areas. 4) Wipe surface with a dry, clean towel to remove any residue. PRE-TREAT: 1) Dilute 1 part product with 6 parts water. 2) Spray on soiled surface. 3) Allow product to penetrate approximately 5-10 minutes. Agitation with a brush may be needed for heavily soiled areas.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "36 lbs"
+    ],
+    [
+      "5 gal",
+      "1",
+      "48 lbs"
+    ],
+    [
+      "55 gal",
+      "1",
+      "512 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "9956.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

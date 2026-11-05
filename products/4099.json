@@ -1,0 +1,77 @@
+{
+  "item": "4099",
+  "name": "Water Spot Remover",
+  "category": "Automotive Acid Cleaner",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/4099.png",
+  "features": [
+    {
+      "text": "An effective cleaner that quickly removes mineral deposits from exterior vehicle surfaces."
+    },
+    {
+      "text": "A fast-acting formula yet, it contains no hydrofluoric acid."
+    },
+    {
+      "text": "Helps avoid time-consuming buffing."
+    }
+  ],
+  "ratings": [],
+  "description": "An effective cleaner that quickly removes mineral deposits from exterior vehicle surfaces. A fast-acting formula yet, it contains no hydrofluoric acid. Helps avoid time-consuming buffing.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Pink"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.9"
+    ],
+    [
+      "pH",
+      "E70",
+      "~2.0"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "DIRECTIONS: ALWAYS TEST PRODUCT ON AN INCONSPICUOUS AREA FOR COMPATIBILITY BEFORE APPLYING TO ENTIRE SURFACE TO BE CLEANED. AVOID CONTACT WITH ALUMINUM AND MAGNESIUM. DO NOT APPLY PRODUCT TO SURFACE IN DIRECT SUNLIGHT. SURFACE SHOULD BE COOL. 1) Product can be used undiluted for heavy-duty jobs or up to 4 parts water to 1 part product depending or severity of the water spots. 2) Wipe solution on surface to be cleaned. A light scrubbing action with a cloth, sponge, or brush will help the process. 3) Allow product to remain for 2-3 minutes. Do not allow product to dry on surface. Remove residual cleaner with car shampoo and water. 4) Rinse surface with clean water and dry.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "38 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4099.pdf",
+    "old_rev": 3
+  },
+  "review": []
+}

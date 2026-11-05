@@ -1,0 +1,97 @@
+{
+  "item": "4289",
+  "name": "Custom Wheel Cleaner",
+  "category": "Automotive Cleaner / Degreaser",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4289.png",
+  "features": [
+    {
+      "text": "A powerful cleaner for all types of wheels."
+    },
+    {
+      "text": "Won’t chemically mill metal or polished surfaces."
+    },
+    {
+      "text": "Quickly dissolves tough brake dust and grime."
+    },
+    {
+      "text": "A great alternative to acid-based wheel cleaners."
+    }
+  ],
+  "ratings": [],
+  "description": "An easy way to clean all types of wheels and hubcaps. Specially formulated cleaning agents penetrate hard-to-reach places to dissolve brake dust, grease, dirt, and stains. Just spray on and hose off! It does not contain any acid that might dull or pit aluminum, magnesium, wire, plastic, chrome, painted, or anodized wheels and hubcaps.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Green"
+    ],
+    [
+      "Odor",
+      "",
+      "Odorless"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.9"
+    ],
+    [
+      "pH",
+      "E 70",
+      "~13.5"
+    ],
+    [
+      "RI",
+      "",
+      "~13.0"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "DIRECTIONS: TEST PRODUCT ON AN INCONSPICUOUS AREA FOR COMPATIBILITY BEFORE USING ON ENTIRE SURFACE. WHEELS SHOULD BE COOL, DRY, AND OUT OF DIRECT SUNLIGHT. 1) Dilute 1 to 1 with water for normal cleaning jobs. Use undiluted for tough jobs. 2) Saturate entire wheel with product and allow to soak into wheel for approximately 1-2 minutes. Do not allow cleaner to dry on surface. 3) Rinse thoroughly with water. (Extremely dirty wheels may require a second application and agitation with a brush.) 4) Dry with a soft, clean towel to prevent water spots.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "38 lbs."
+    ],
+    [
+      "5 gal",
+      "1",
+      "48 lbs."
+    ],
+    [
+      "55 gal",
+      "1",
+      "512 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4289.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 380 px tall"
+  ]
+}

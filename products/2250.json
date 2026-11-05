@@ -1,0 +1,92 @@
+{
+  "item": "2250",
+  "name": "Metal Brite",
+  "category": "Automotive Wax & Polish",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/2250.png",
+  "features": [
+    {
+      "text": "Cleans • Polishes • Protects"
+    },
+    {
+      "text": "Protects metal from corrosion and tarnish."
+    },
+    {
+      "text": "Multiuse for aviation, auto, marine and home."
+    },
+    {
+      "text": "Meets Boeing & Douglas Aircraft requirements."
+    }
+  ],
+  "ratings": [
+    "Abrasiveness 2",
+    "Gloss 8",
+    "Durability 6"
+  ],
+  "description": "A semiviscous, white cream that is a true metal-treatment. It deep cleans, using gentle, nonabrasive material. This product helps protect metal from corrosion and tarnishing for an amazing end result. Metal Brite ® can be used on chrome, aluminum, brass, copper, stainless steel, gold, silver, pewter, magnesium, fiberglass and tile.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Semi-Viscous cream"
+    ],
+    [
+      "Color",
+      "",
+      "White"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 77°F",
+      "D1475",
+      "~9.5"
+    ],
+    [
+      "% Solids",
+      "E1868",
+      "~ 35"
+    ],
+    [
+      "Brookfield Viscosity,CP",
+      "",
+      "30,000"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "No"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "Shake before using. 1.) Surface should be dry and clean. 2.) Apply a generous amount of Metal Brite® to a clean cloth or towel. 3.) Rub polish onto metal surface (black residue is a normal sign of deep cleaning) and continue rubbing until surface is clean. 4.) Buff off residue with a second clean cloth or towel. 5.) Continue to buff until glossy surface appears. Note : Not recommended for anodized or thinly plated metal surfaces.",
+  "packaging": [
+    [
+      "1 pint",
+      "12",
+      "16 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "2250.pdf",
+    "old_rev": 3
+  },
+  "review": [
+    "Has a Performance Ratings section: Abrasiveness - 2 Gloss - 8 Durability - 6",
+    "Bottle photo is only 394 px tall"
+  ]
+}

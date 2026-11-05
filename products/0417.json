@@ -1,0 +1,97 @@
+{
+  "item": "0417",
+  "name": "Multi-vehicle Synthetic CVT Fluid",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0417.png",
+  "features": [
+    {
+      "text": "Highly resistant to shearing, oxidation and thermal breakdown."
+    },
+    {
+      "text": "Provides excellent flow properties at low temperatures and film protection at high temperatures."
+    },
+    {
+      "text": "Outstanding anti-wear properties to protect transmission parts."
+    },
+    {
+      "text": "Meets the friction and anti-shutter requirements of both belt and chain type CVT."
+    }
+  ],
+  "ratings": [],
+  "description": "A premium blend of additives to ensure superior component protection and enhanced service reliability. In order to meet the performance needs of a wide variety of CVT systems, this product has been specially designed to provide optimal metal-to-metal friction, anti-shudder durability and shear stability. It protects against wear and is fortified to provide unsurpassed oxidation stability. This product may be used in both chain and belt-type CVT. It is not recommended for use in standard automatic transmissions or as a replacement for ATF. Multi-Vehicle Synthetic CVT Fluid is suitable for use in the following applications: Audi/VW ® (TL 52180; G 052 180/516) Chain | Toyota (TC, FE*) Belt | Ford ® (CVT30 / Mercon ® C) Chain | Hyundai ® / Kia (SP-CVT-1) Belt Subaru ® (Lineartronic K0425, CV-30, HT, e-CVTF, i-CVTF) Chain | Suzuki ® (TC / NS-2 / CVT Green 1 & 2*) Belt | Honda ® (HMMF, HCF-2) Belt | Dodge ® / Jeep ® (NS-2 / CVTF+4) Belt | Nissan ® (NS-1, NS-2, NS-3*) Belt | GM ® /Saturn ® (DEX-CVT) Belt | Mitsubishi ® (CVTF-J1 / J-4*) Belt | Ford ® (CVT23) Belt | Mini Cooper ® (EZL 799A) Belt | Mercedes Benz ® (236.20) Belt",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear Oil"
+    ],
+    [
+      "Color",
+      "",
+      "Amber"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.83"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "",
+      "~7.1"
+    ],
+    [
+      "Viscosity @ 100° C, cSt",
+      "D445",
+      "~ 7.0"
+    ],
+    [
+      "Viscosity, @ 40° C, cSt",
+      "D445",
+      "~ 33.5"
+    ],
+    [
+      "Viscosity Index",
+      "",
+      "~180"
+    ],
+    [
+      "Brookfield Viscosity @ -40° C, cPs",
+      "D2983",
+      "~21,700"
+    ],
+    [
+      "Flash Point (°F) (based on components)",
+      "",
+      "≥ 266"
+    ]
+  ],
+  "application": "Use in continuously variable transmissions according to equipment manufacturer’s recommendations. DO NOT use in standard automatic transmissions or Hybrid CVT units (Toyota® and Ford® .) These units require a specific ATF.",
+  "packaging": [
+    [
+      "1 qt.",
+      "12",
+      "24 lbs."
+    ],
+    [
+      "1 gal.",
+      "4",
+      "32 lbs."
+    ],
+    [
+      "5 qt.",
+      "3",
+      "30 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0417.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 386 px tall"
+  ]
+}

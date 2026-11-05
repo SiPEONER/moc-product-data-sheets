@@ -1,0 +1,105 @@
+{
+  "item": "2170",
+  "name": "Banana Wax",
+  "category": "Automotive Waxes & Sealants",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/2170.png",
+  "features": [
+    {
+      "text": "Great on dark colors."
+    },
+    {
+      "text": "Leaves no powder residue."
+    },
+    {
+      "text": "Very easy to rub off, even in direct sunlight."
+    },
+    {
+      "text": "Produces a deep gloss."
+    },
+    {
+      "text": "Provides protection against surface contaminants and UV damage."
+    }
+  ],
+  "ratings": [
+    "Abrasiveness 2",
+    "Gloss 8",
+    "Durability 7"
+  ],
+  "description": "A high-gloss, easy-to-use cream wax. The advanced formula combines natural carnauba wax, polishing agents and resins to create a deep “wet-look” shine on painted surfaces. It fills in fine scratches and swirl marks, while providing a durable finish. Banana Wax ® is designed for use on all types of paints, including clearcoat, enamel, metallic, and lacquer.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Viscous cream"
+    ],
+    [
+      "Color",
+      "",
+      "Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Banana"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 77°F",
+      "D1475",
+      "8.2"
+    ],
+    [
+      "Flash Point (°F) PMCC",
+      "D93",
+      "113"
+    ],
+    [
+      "% Solids",
+      "",
+      "~ 20%"
+    ],
+    [
+      "Brookfield Viscosity,CP",
+      "",
+      "~ 35K"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "No"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "By Hand: Using an applicator pad, apply product evenly to surface using an overlapping, circular motion. Allow product to dry to a haze. Remove residue with a clean, dry polishing cloth or microfiber towel. Orbital or DA Buffer: In small sections (2'x2'), apply product evenly to the surface with a moist polishing bonnet or foam pad in an overlapping pattern. Allow product to dry to a haze. Remove residue with a clean, dry bonnet or microfiber towel.",
+  "packaging": [
+    [
+      "1 qt .",
+      "12",
+      "27 lbs."
+    ],
+    [
+      "1 gal.",
+      "4",
+      "35 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "2170.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Abrasiveness - 2 Gloss - 8 Durability - 7",
+    "Bottle photo is only 351 px tall"
+  ]
+}

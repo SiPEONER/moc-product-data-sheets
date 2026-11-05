@@ -1,0 +1,74 @@
+{
+  "item": "4171",
+  "name": "RTU Fallout Remover",
+  "category": "Automotive Acid Cleaner",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4171.png",
+  "features": [
+    {
+      "text": "Effectively removes industrial fallout."
+    },
+    {
+      "text": "Safely removes calcium, magnesium and iron (from hard water)."
+    },
+    {
+      "text": "Hassle free, ready-to-use formula."
+    }
+  ],
+  "ratings": [],
+  "description": "A ready-to-use, water-thin, crystal-clear solution designed to remove surface fallout, rust, water-spots and other debris. This product is highly concentrated and offers true economy, power and effectiveness.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Low Viscosity Liquid"
+    ],
+    [
+      "Color Odor",
+      "",
+      "Colorless"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~8.6"
+    ],
+    [
+      "pH",
+      "E 70",
+      "~1.0"
+    ],
+    [
+      "RI",
+      "",
+      "~7"
+    ]
+  ],
+  "application": "Caution: Avoid contact with plastic, rubber, or chrome trim. If contact occurs, simply rinse area with soapy water. Using rubber gloves, apply solution liberally, and cover surface of vehicle. Let dry 5-10 minutes and vehicle will take on a frosted appearance. Using a wash mitt soaked in solution, scrub vehicle to remove fallout. Wash vehicle with soap and rinse well. Chamois dry if desired.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "38 lbs."
+    ],
+    [
+      "5 gal",
+      "N/A",
+      "46 lbs."
+    ],
+    [
+      "55 gal",
+      "N/A",
+      "495 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4171.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 390 px tall"
+  ]
+}

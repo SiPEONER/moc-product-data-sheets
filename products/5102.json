@@ -1,0 +1,78 @@
+{
+  "item": "5102",
+  "name": "Fast Gloss",
+  "category": "Automotive Dressing",
+  "library_section": "Dressings & Protectants",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/5102.png",
+  "features": [
+    {
+      "text": "Leaves a glossy, water-resistant coating on tires & exterior trim."
+    },
+    {
+      "text": "Quick-dry formula reduces runs and product “sling.”"
+    },
+    {
+      "text": "Restores faded rubber and protects against UV damage."
+    }
+  ],
+  "ratings": [
+    "Gloss 8",
+    "Durability 7"
+  ],
+  "description": "A fast-drying, solvent based, silicone tire dressing. Fast Gloss™ leaves a gloss protection on tires and exterior trim. It is crystal-clear and has a solvent odor. This product is not recommended for interior use due to its volatile and slippery properties.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Color Less"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "0.77"
+    ],
+    [
+      "Density, U.S. (lbs/gal)@ 68°F (calculated)",
+      "",
+      "~6.4"
+    ]
+  ],
+  "application": "Using a trigger sprayer, carefully apply a fine mist to the surface or, with a damp sponge, wipe down the surface. Remove excess product from surfaces with a soft, clean cloth (if insufficient time for total drying, wiping the surface with a cloth can aid in preventing “sling”). Warning: “Sling” can stain some painted-plastic surfaces around the wheel wells.",
+  "packaging": [
+    [
+      "1 gal.",
+      "4 Bottles",
+      "29 lbs."
+    ],
+    [
+      "5 gal.",
+      "N/A",
+      "36 lbs."
+    ],
+    [
+      "55 gal.",
+      "N/A",
+      "400 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "5102.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Has a Performance Ratings section: Gloss - 8 Durability - 7",
+    "Bottle photo is only 865 px tall"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "item": "4107",
+  "name": "Adhesive Remover",
+  "category": "Automotive Degreaser / Solvent",
+  "library_section": "Cleaners & Degreasers",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/4107.png",
+  "features": [
+    {
+      "text": "Has no adverse effect on paint when used as directed."
+    },
+    {
+      "text": "Caution should be taken on new paint."
+    },
+    {
+      "text": "Wipes away clean, will not gum-up."
+    },
+    {
+      "text": "Dries quickly, leaving a clean surface without residue."
+    }
+  ],
+  "ratings": [],
+  "description": "A clear, highly aromatic solvent formulated to remove adhesive left behind from masking-tape removal. It works fast and dries quickly. Caution: Liquid and vapor are flammable.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Colorless"
+    ],
+    [
+      "Odor",
+      "",
+      "Solvent"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F",
+      "D4052",
+      "~6.8"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "No"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "No"
+    ]
+  ],
+  "application": "1.) Use only in well-ventilated areas. 2.) Saturate clean cloth with remover. 3.) Use brisk motion and remove. 4.) Wipe dry with a clean rag. 5.) Be careful on new paint; may damage paint or plastic.",
+  "packaging": [
+    [
+      "1 gal",
+      "4",
+      "30 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "4107.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}

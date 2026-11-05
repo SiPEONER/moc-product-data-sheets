@@ -1,0 +1,107 @@
+{
+  "item": "6746",
+  "name": "Ultra Glass Cleaner",
+  "category": "Glass Cleaner",
+  "library_section": "Glass Care",
+  "rev": "2.0",
+  "issued": "2026",
+  "image": "img/6746.png",
+  "features": [
+    {
+      "text": "Contains no ammonia."
+    },
+    {
+      "text": "Removes dirt, grime, smoke film, fingerprints."
+    },
+    {
+      "text": "Leaves an unbeatable streak-free shine."
+    }
+  ],
+  "ratings": [
+    "Concentration 8"
+  ],
+  "description": "A concentrated, VOC-compliant glass cleaner that removes dust, grime, film and fingerprints from glass, mirrors, and chrome without streaks. Contains no ammonia.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear"
+    ],
+    [
+      "Color Odor",
+      "",
+      "Blue"
+    ],
+    [
+      "Density, U.S. (lbs/gal)",
+      "D4052",
+      "0.865"
+    ],
+    [
+      "Density, U.S. (lbs/gal)",
+      "",
+      "7.22"
+    ],
+    [
+      "PH",
+      "E70",
+      "11.5 - 12.5"
+    ],
+    [
+      "RI",
+      "",
+      "27 - 29"
+    ],
+    [
+      "Melting Point",
+      "Based on Components",
+      "≤ -89°C / -128°F"
+    ],
+    [
+      "Boiling Point",
+      "Based on Components",
+      "≥ 82°C / 180 °F"
+    ],
+    [
+      "Flash Point",
+      "Based on Components",
+      "≥ 18 °C / 65°F"
+    ],
+    [
+      "VOC Content (%)",
+      "",
+      "76"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Compliant",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "MIXING INSTRUCTIONS: Option 1: Dilution by proportioner. Remove cap, create a hole in the center of the cap or secure cap/draw tube assembly from MOC Recon Cabinet system. Place draw tube of the proportioner into the container. Set dilution ratio on proportioner to desired concentration. Operate proportioner per manufacturer’s instructions. Option 2: Transfer desired amount of product to a clean empty 55-gallon container. Fill container with filtered water until full. Apply secondary label LB6746S to drum",
+  "packaging": [
+    [
+      "5 gal",
+      "1 each",
+      "39.4 lbs"
+    ]
+  ],
+  "source": {
+    "pdf": "6746.pdf",
+    "old_rev": 1
+  },
+  "review": [
+    "Has a Performance Ratings section: Concentration - 8",
+    "Bottle photo is only 372 px tall"
+  ]
+}

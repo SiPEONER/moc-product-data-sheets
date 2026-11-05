@@ -1,0 +1,77 @@
+{
+  "item": "3102",
+  "name": "Precision Compound",
+  "category": "Automotive Buffing Compound",
+  "library_section": "Waxes, Polishes & Compounds",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/3102.png",
+  "features": [
+    {
+      "text": "Can be used on clearcoat finishes."
+    },
+    {
+      "text": "Excellent for removing wet-sanding marks."
+    },
+    {
+      "text": "Body shop safe.."
+    }
+  ],
+  "ratings": [],
+  "description": "A semi-viscous cream designed to remove scratches, blemishes, oxidation, and wet-sanding marks (1000-2000 grit). It leaves a polished look to the surface and can be used on clearcoat, enamel, and lacquer paints.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Semi-Viscous Cream"
+    ],
+    [
+      "Color Odor",
+      "",
+      "White"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 77°F",
+      "D1475",
+      "~9.5"
+    ],
+    [
+      "Solids, %",
+      "E1868",
+      "~30"
+    ],
+    [
+      "Viscosity, Brookfield, cP",
+      "",
+      "17,000"
+    ],
+    [
+      "Body Shop Safe",
+      "",
+      "Yes"
+    ],
+    [
+      "VOC Complaint",
+      "",
+      "Yes"
+    ],
+    [
+      "Biodegradable",
+      "",
+      "Yes"
+    ]
+  ],
+  "application": "Directions: For best results, surface should be clean, cool and out of direct sunlight. Shake container well before using. 1) Clean and dry the vehicle’s surface. 2) Pour product onto painted surfaces. 3) Using a buffer set between 1500-2200 rpm, buff paint using a MOC® wool or foam cutting pad. 4) Buff with medium pressure to avoid burning or wearing through the painted surfaces. If product slings onto an adjacent panel, remove compound residue with a damp cloth before continuing.",
+  "packaging": [
+    [
+      "1 gal.",
+      "4",
+      "40 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "3102.pdf",
+    "old_rev": 3
+  },
+  "review": []
+}

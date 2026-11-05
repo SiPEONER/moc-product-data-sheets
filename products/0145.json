@@ -1,0 +1,100 @@
+{
+  "item": "0145",
+  "name": "Advanced Diesel Treatment",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0145.png",
+  "features": [
+    {
+      "text": "Cleans fuel injectors (excellent results in the DW-10 test)."
+    },
+    {
+      "text": "Protects fuel system from rust and corrosion."
+    },
+    {
+      "lead": "Lubricity improver",
+      "text": "excellent for use with ultra-low-sulfur diesel fuel (ULSD)."
+    },
+    {
+      "text": "Contains cetane improvers for increased fuel economy."
+    },
+    {
+      "text": "Helps reduce exhaust smoke and diesel knock."
+    },
+    {
+      "text": "All-weather formula promotes fuel flow in cold weather conditions."
+    },
+    {
+      "text": "Compatible with all types of exhaust emissions systems, including diesel particulate filters (DPF)."
+    },
+    {
+      "text": "Designed for use with all types of diesel fuel including biodiesel."
+    }
+  ],
+  "ratings": [],
+  "description": "A complete diesel additive designed to improve engine performance in all weather conditions. It removes deposits from fuel injectors, increases cetane levels and lubricates system components to prevent scuffing. This all-weather formula contains pour-point depressants and prevents wax and gelling in freezing conditions. A.D.T. restores horsepower, performance and fuel economy while reducing exhaust smoke and engine knock. It is designed to clean all types of heavy and light-duty, off-road, and marine diesel engines, including modern high-pressure common-rail designs.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Hazy"
+    ],
+    [
+      "Color",
+      "",
+      "Light Yellow"
+    ],
+    [
+      "Odor",
+      "",
+      "Petroleum"
+    ],
+    [
+      "Density (g/mL)",
+      "D4052",
+      "0.85"
+    ],
+    [
+      "Density, U.S. (lbs/gal), calculated",
+      "D1250",
+      "7.09"
+    ],
+    [
+      "Boiling Point (°F) (based on components)",
+      "",
+      "≥212"
+    ],
+    [
+      "Flash Point (°F) (based on components)",
+      "",
+      "≥149"
+    ],
+    [
+      "VOC %",
+      "",
+      "24"
+    ]
+  ],
+  "application": "Pour entire contents into fuel tank. Treats 10 to 30 gallons of diesel fuel.",
+  "packaging": [
+    [
+      "12 oz.",
+      "24",
+      "19 lbs."
+    ],
+    [
+      "32 oz.",
+      "12",
+      "21 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0145.pdf",
+    "old_rev": 2
+  },
+  "review": [
+    "Bottle photo is only 398 px tall"
+  ]
+}

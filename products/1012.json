@@ -1,0 +1,77 @@
+{
+  "item": "1012",
+  "name": "Brake Wash",
+  "category": "Aerosols",
+  "library_section": "Aerosols & Service Chemicals",
+  "rev": "4.0",
+  "issued": "2026",
+  "image": "img/1012.png",
+  "features": [
+    {
+      "text": "Cleans quickly, thoroughly, and economically."
+    },
+    {
+      "text": "Quickly dissolves grease, dirt, oil, brake fluid and other contaminants."
+    },
+    {
+      "text": "Contains no chlorinated compounds, fluorocarbons, carbon tetrachloride or silicone."
+    },
+    {
+      "text": "Low V.O.C. Formula."
+    }
+  ],
+  "ratings": [],
+  "description": "A non-chlorinated spray that quickly dissolves grease, dirt, oil, brake fluid and other residue that form on brake mechanisms. This product may be used on brake linings, disc brake pads, brake drums, brake cylinders, clutch plates, pressure plates, flywheels and transmission parts. It may be applied to brake units without disassembling them. Also, MOC® Brake Wash will eliminate contaminants that may cause disc-brake squeal. It does not contain chlorine, carbon tetrachloride or silicone (Note: protect rubber parts from overspray). This product complies with regulations of C.A.R.B., O.T.C. states and SCQMD 1171. WARNING: EXTREMELY FLAMMABLE.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear Liquid"
+    ],
+    [
+      "Color",
+      "",
+      "Clear"
+    ],
+    [
+      "Odor",
+      "",
+      "Hydrocarbon"
+    ],
+    [
+      "Density, U.S. (g/ml) @ 68F",
+      "D4052",
+      "0.79"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "",
+      "6.56"
+    ],
+    [
+      "Flash Point °F, PMCC (based on components)",
+      "",
+      "-0.4"
+    ],
+    [
+      "% VOC",
+      "",
+      "<3%"
+    ]
+  ],
+  "application": "Cover all rubber and painted surfaces. Do not spray on, or allow to drip on hot surfaces. Hold can upright and 6-8 inches from surface to be cleaned. To remove brake fluid, grease, oil and other contaminants from brake or clutch parts, spray parts liberally and allow to run off. Air dry or wipe excess with an absorbent cloth. On extremely dirty parts, it may be necessary to repeat application.",
+  "packaging": [
+    [
+      "13 oz.",
+      "12 cans",
+      "14.4 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "1012.pdf",
+    "old_rev": 3
+  },
+  "review": [
+    "Bottle photo is only 378 px tall"
+  ]
+}

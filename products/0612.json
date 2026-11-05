@@ -1,0 +1,98 @@
+{
+  "item": "0612",
+  "name": "Ultima Synthetic Power Steering Fluid",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/0612.png",
+  "features": [
+    {
+      "text": "Outstanding cold weather performance."
+    },
+    {
+      "text": "Highly resistant to breakdown due to shearing and load (Based on 40 min. Sonic Shear test)"
+    },
+    {
+      "text": "Conditions seals and hoses to help prevent cracks and leaks."
+    },
+    {
+      "text": "Helps extend system life by reducing wear on internal components."
+    },
+    {
+      "text": "Superb oxidation stability."
+    }
+  ],
+  "ratings": [],
+  "description": "A fully formulation that utilizes polyalphaolefins (PAO) base fluids to ensure outstanding oxidation stability, excellent low temperature performance and shear stability. The product provides excellent detergency, wear protection, rust inhibition, and seal protection. MOC Ultima Power-Steering Solution replaces Pentosin® #CHF 11S and is suitable for use in place of VW #G004000M2, Audi® #G002000, VW® #G002000, BMW® PS, #81-11-1-468-041 Rolls Royce®/Bentley® #RH5000, Jaguar® #HSMO, Porsche® #000.043.203.33, Volvo® #1161529, Citroen® #LDS 997969, Mercedes Benz® Q1320001 and Mopar® #05142893AA, 05127381AB, 68065924AA, 68088485AA and other fully-synthetic power steering fluids.",
+  "specs": [
+    [
+      "Appearance",
+      "",
+      "Clear"
+    ],
+    [
+      "Color",
+      "",
+      "Green"
+    ],
+    [
+      "Odor",
+      "",
+      "Petroleum"
+    ],
+    [
+      "Specific Gravity @ 68°F",
+      "D1298",
+      "0.83"
+    ],
+    [
+      "Density, U.S. (lbs/gal) @ 68°F (calculated)",
+      "",
+      "7.0"
+    ],
+    [
+      "Viscosity @ 100°C, cSt",
+      "D445",
+      "~7"
+    ],
+    [
+      "Viscosity @ 40°C, cSt",
+      "D445",
+      "~30"
+    ],
+    [
+      "Viscosity Index",
+      "D2270",
+      "221"
+    ],
+    [
+      "Brookfield Viscosity @ -40° C, cPs",
+      "D2983",
+      "580"
+    ],
+    [
+      "Boiling Point (°F)",
+      "",
+      ">400"
+    ],
+    [
+      "Phosphorus Content, ppm (calculated)",
+      "",
+      "~90"
+    ]
+  ],
+  "application": "MOC® Ultima Power-Steering Solution (#0612) should be used with a MOC® Power-Steering Fluid Exchanger. 1. Follow MOC® Power- Steering Fluid Exchanger instructions to perform the exchange process. 2. Dispose of the used fluid in accordance with local and federal regulations.",
+  "packaging": [
+    [
+      "64 oz.",
+      "4 Bottles",
+      "14 lbs."
+    ]
+  ],
+  "source": {
+    "pdf": "0612.pdf",
+    "old_rev": 2
+  },
+  "review": []
+}
