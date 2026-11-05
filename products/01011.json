@@ -1,0 +1,35 @@
+{
+  "item": "01011",
+  "name": "Motor Oil Conditioner",
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Engine Treatments",
+  "rev": "3.0",
+  "issued": "2026",
+  "image": "img/01011.png",
+  "features": [
+    { "lead": "Improves Performance", "text": "specially formulated to reduce friction and wear." },
+    { "lead": "Effective", "text": "protects new engines during break-in and start-up." },
+    { "lead": "Reduces Friction", "text": "increases lubricating power of oil." },
+    { "lead": "Helps Keep Engines Clean", "text": "contains dispersants and detergents to help prevent sludge deposits." },
+    { "lead": "Versatile", "text": "can be used in all types of internal-combustion engines." },
+    { "lead": "Compatibility", "text": "designed for use in conventional and synthetic oils." },
+    { "text": "Contains no solvents or chlorinated materials." }
+  ],
+  "description": "Scientifically formulated to increase performance by reducing friction and wear. MOC® Motor Oil Conditioner contains dispersants and detergents to help prevent sludge buildup. The product is carried by motor oil to where it lubricates internal parts to create a low-friction surface. This reduction in friction can protect new engines during break-in and start-ups. It may be used in all internal-combustion engines, including rotary and diesel.",
+  "specs": [
+    ["Appearance", "", "Oil"],
+    ["Color", "", "Brown"],
+    ["Odor", "", "Petroleum"],
+    ["Specific Gravity", "D1298", "0.88"],
+    ["Density, U.S. (lbs/gal) @ 68°F, calculated", "", "7.32"],
+    ["Viscosity, cSt @ 100°C", "D445", "~4"],
+    ["Boiling Point (°F)", "D1120", ">400"],
+    ["Flash Point (°F), based on components", "D93", ">248"]
+  ],
+  "application": "Pour entire contents into crankcase with each oil change.",
+  "packaging": [
+    ["Fill", "11 fl. oz. (325 mL)"],
+    ["Case Quantity", "24"],
+    ["Case Weight", "21 lbs."]
+  ]
+}

@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>{{ docno }} // {{ p.name }}</title>
+<style>
+/*
+  MOC Product Data Sheet, master template (MOC-PDS).
+  Built on the MOC-BSM-001 sheet system, same family as the Training Library
+  (MOC-VT) and the Phase One Apparel Guide (MOC-APPAREL-001).
+  US Letter, one page. Binary palette only (#000000, #FFFFFF); the product
+  photo is the one full-colour element. Montserrat 400/700/900 (external
+  audience, MOC-BSM-001 section 03). Tracking: headlines -0.01em, caps labels
+  0.10em, body 0.
+*/
+@font-face { font-family: "Montserrat"; font-weight: 400; src: url("{{ fonts.regular }}") format("woff2"); }
+@font-face { font-family: "Montserrat"; font-weight: 700; src: url("{{ fonts.bold }}") format("woff2"); }
+@font-face { font-family: "Montserrat"; font-weight: 900; src: url("{{ fonts.black }}") format("woff2"); }
+
+@page { size: 8.5in 11in; margin: 0; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { background: #ffffff; color: #000000; }
+body {
+  font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+  -webkit-print-color-adjust: exact; print-color-adjust: exact;
+  -webkit-font-smoothing: antialiased;
+}
+.page {
+  position: relative; width: 8.5in; height: 11in; overflow: hidden;
+  display: flex; flex-direction: column; background: #ffffff;
+}
+.screen .page { margin: 24px auto; outline: 2px solid #000000; }
+
+/* Caps labels: 0.10em, always. */
+.micro { font-size: 7.5pt; line-height: 1.3; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; }
+.micro-reg { font-weight: 400; }
+
+/* ---------- Header band ---------- */
+.band { background: #000000; color: #ffffff; height: 3.02in; padding: 0.45in 0.7in 0; position: relative; flex: none; }
+.band .cat { font-weight: 900; }
+.band .type { margin-top: 3pt; }
+/* Box logo tucked into the corner: same 0.25in from the top and the right edge (designer sample). */
+.logo { position: absolute; top: 0.25in; right: 0.25in; width: 0.5in; height: auto; display: block; }
+.stamp {
+  display: inline-block; margin-top: 0.36in;
+  /* Optically centred: Montserrat figures sit low in their line box, and the 0.10em
+     tracking adds space after the last figure, so the padding is uneven on purpose. */
+  border: 2px solid #ffffff; padding: 6.25px 12.2px 7.1px 14.45px;
+  font-weight: 900; font-size: 15pt; letter-spacing: 0.1em; line-height: 1;
+}
+.title {
+  margin-top: 11pt; max-width: 5.1in;
+  font-weight: 900; font-size: 34pt; line-height: 0.98; letter-spacing: -0.01em; text-transform: uppercase;
+  text-wrap: balance;
+}
+
+/* ---------- Product photo: straddles the band, like the designer's concept ---------- */
+.photo { position: absolute; top: 1.98in; right: 0.66in; width: 1.42in; height: 3.72in; display: flex; justify-content: center; }
+.photo img { height: 100%; width: auto; display: block; }
+.photo.ph { border: 2px dashed #000000; background: #ffffff; align-items: center; padding: 8pt; text-align: center; }
+
+/* ---------- Body ---------- */
+.body { padding: 0.28in 0.7in 0; flex: 1; display: flex; flex-direction: column; gap: 13pt; }
+.h {
+  font-weight: 900; font-size: 8pt; letter-spacing: 0.1em; text-transform: uppercase;
+  border-bottom: 2px solid #000000; padding-bottom: 5pt; margin-bottom: 8pt;
+  line-height: 1.2; /* fixed, so heads in .copy and plain sections draw their rules at the same height */
+}
+.copy { font-size: 9.25pt; line-height: 1.5; }
+.copy p { text-wrap: pretty; }
+/* Features always clear the photo: band 3.02in + body pad 0.28in + this = photo bottom (5.70in). */
+.features { max-width: 5.05in; min-height: 2.24in; }
+.features ul { list-style: none; display: flex; flex-direction: column; gap: 3.5pt; }
+.features li { position: relative; padding-left: 13pt; }
+.features li::before { content: "+"; position: absolute; left: 0; top: 0; font-weight: 900; }
+.features b { font-weight: 700; }
+
+.cols { display: grid; grid-template-columns: 1fr 2.38in; gap: 0.36in; align-items: start; }
+table { width: 100%; border-collapse: collapse; font-size: 8.75pt; line-height: 1.3; }
+th { text-align: left; font-weight: 700; font-size: 7pt; letter-spacing: 0.1em; text-transform: uppercase; padding: 0 6pt 5pt 0; border-bottom: 2px solid #000000; vertical-align: bottom; }
+td { padding: 3.6pt 6pt 3.1pt 0; border-bottom: 1px solid #000000; vertical-align: top; }
+tr:last-child td { border-bottom: 2px solid #000000; }
+th:nth-child(2), td:nth-child(2) { width: 1.12in; white-space: nowrap; }
+th:nth-child(3), td:nth-child(3) { width: 1.1in; font-weight: 700; padding-right: 0; }
+.kv { width: 100%; }
+.kv > div { display: flex; justify-content: space-between; gap: 12pt; padding: 3.6pt 0 3.1pt; border-bottom: 1px solid #000000; font-size: 8.75pt; line-height: 1.3; }
+.kv > div:last-child { border-bottom: 2px solid #000000; }
+.kv .k { font-weight: 700; }
+.kv .v { text-align: right; }
+.side > section + section { margin-top: 13pt; }
+.todo { border: 1.5px dashed #000000; padding: 1pt 4pt 0; font-weight: 700; }
+
+/* ---------- Footer band ---------- */
+.foot { background: #000000; color: #ffffff; flex: none; height: 0.52in; padding: 0 0.7in; display: flex; align-items: center; justify-content: space-between; gap: 12pt; margin-top: 14pt; }
+.foot .micro { font-size: 6.5pt; white-space: nowrap; }
+.foot .addr p + p { margin-top: 2pt; }
+.foot .docno { font-size: 7.5pt; font-weight: 900; }
+</style>
+</head>
+<body class="{{ 'screen' if screen else '' }}">
+<div class="page">
+  <header class="band">
+    <p class="micro cat">{{ p.category }}</p>
+    <p class="micro micro-reg type">Product Performance &amp; Data Sheet</p>
+    <img class="logo" src="{{ logo }}" alt="MOC Products">
+    <p class="stamp">#{{ p.item }}</p>
+    <h1 class="title">{{ p.name }}</h1>
+  </header>
+
+  {% if p.image %}
+  <div class="photo"><img src="{{ p.image }}" alt="{{ p.name }}, {{ p.packaging[0][1] if p.packaging else '' }}"></div>
+  {% else %}
+  <div class="photo ph"><p class="micro">Product photo<br><br>PNG cutout<br>1,200 px tall</p></div>
+  {% endif %}
+
+  <main class="body">
+    <section class="features copy">
+      <h2 class="h">01 // Outstanding Features</h2>
+      <ul>
+        {% for f in p.features %}
+        <li>{% if f.lead %}<b>{{ f.lead }}</b> // {% endif %}{{ f.text }}</li>
+        {% endfor %}
+      </ul>
+    </section>
+
+    <section class="copy">
+      <h2 class="h">02 // Description</h2>
+      <p>{{ p.description }}</p>
+    </section>
+
+    <div class="cols">
+      <section>
+        <h2 class="h">03 // Specifications</h2>
+        <table>
+          <thead><tr><th>Test</th><th>ASTM Method</th><th>Typical Results</th></tr></thead>
+          <tbody>
+            {% for t, m, r in p.specs %}
+            <tr><td>{{ t }}</td><td>{{ m or 'N/A' }}</td><td>{{ r }}</td></tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </section>
+      <div class="side">
+        <section class="copy">
+          <h2 class="h">04 // Application</h2>
+          <p>{{ p.application }}</p>
+        </section>
+        <section>
+          <h2 class="h">05 // Packaging</h2>
+          <div class="kv">
+            {% for k, v in p.packaging %}
+            <div><span class="k">{{ k }}</span><span class="v">{{ v }}</span></div>
+            {% endfor %}
+          </div>
+        </section>
+      </div>
+    </div>
+  </main>
+
+  <footer class="foot">
+    <div class="addr"><p class="micro micro-reg">MOC Products // 12306 Montague Street // Pacoima, CA 91331-2279</p><p class="micro micro-reg">800.266.9226 // mocproducts.com // &copy; {{ p.issued }} MOC Products</p></div>
+    <p class="micro docno">{{ docno }} // Rev {{ p.rev }}</p>
+  </footer>
+</div>
+</body>
+</html>
