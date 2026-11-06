@@ -91,7 +91,7 @@ After the sheets, the build writes the public library site to `web/`: one card p
 ## Template rules
 
 - **Page:** US Letter, one page, 0.7 in side margins. Black band at the top, black footer band.
-- **Type:** Montserrat 400, 700 and 900 only. Product name 34 pt Black, uppercase, -0.01em. Caps labels 0.10em. Body 9.25 pt, tracking 0.
+- **Type:** Montserrat 400, 700 and 900 only. Product name 34 pt Black, uppercase, -0.01em, two lines at most (the build widens the line while it clears the bottle, then steps down to 30, 27 or 24 pt). Caps labels 0.10em. Body 9.25 pt, tracking 0.
 - **Color:** #000000 and #FFFFFF only. The bottle render is the one full-color element.
 - **Logo:** box logo, knockout, 0.5 in wide, 0.25 in from the top and right edges.
 - **Doc number:** `MOC-PDS-<item> // REV x.y` in the footer. Revisions continue the old count (Rev003 = REV 3.0).
