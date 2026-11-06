@@ -23,6 +23,13 @@ TEMPLATE_ITEM = "00000"
 # Keep search engines out until the site is approved for launch; set to False then.
 NOINDEX = True
 SCALES = (1, 0.96, 0.92, 0.89, 0.86)
+# Product name on the data sheet: two lines at most. Designer measure first, then a wider
+# measure (still clear of the bottle), then smaller sizes. (width in, size pt)
+NAME_FIT = {cp: [(w, pt) for pt in sizes for w in (5.1, 5.45, 5.8)]
+            for cp, sizes in ((False, (34, 30, 27, 24)), (True, (28, 26, 24)))}
+# Lines in the name, and how far its text runs into the bottle (photo drawn at its own width).
+NAME_LINES = "(() => { const g = document.createRange(); g.selectNodeContents(document.querySelector('.title')); return new Set([...g.getClientRects()].filter(r => r.width > 0).map(r => Math.round(r.top))).size; })()"
+NAME_CLEAR = "(() => { const i = document.querySelector('.photo img'); if (!i) return 0; const b = i.getBoundingClientRect(); const g = document.createRange(); g.selectNodeContents(document.querySelector('.title')); let r = -1e9; for (const x of g.getClientRects()) if (x.width > 0 && x.bottom > b.top) r = Math.max(r, x.right - b.left + 14); return r; })()"
 CLAIMS = (1, 0.9, 0.81, 0.7, 0.62, 0.55)  # 74pt down to 41pt, for one long word
 # Order of the library sections on the site (any other section follows, A to Z).
 SECTION_ORDER = ["Additives & Fluids", "Aerosols & Service Chemicals", "Cleaners & Degreasers", "Shampoos & Washes",
@@ -49,6 +56,7 @@ DOCS = {
         code="PDS", label="Data Sheets", page="index.html", template="template.html",
         rev=lambda p: p["rev"],
         checks={
+            "the product name runs to the band edge": "(() => { const t = document.querySelector('.title').getBoundingClientRect(), b = document.querySelector('.band').getBoundingClientRect(); return t.bottom - (b.bottom - 20); })()",
             "the description runs under the photo": "(() => document.querySelector('.photo').getBoundingClientRect().bottom - document.querySelectorAll('.h')[1].getBoundingClientRect().top)()",
         },
     ),
@@ -150,10 +158,24 @@ def main(only):
                     # Ads: the claim steps down first (74pt to 41pt), then the running text.
                     # Then a narrower text column, for jugs and kits that are wider than a bottle.
                     tries = [("standard", nw, False, sc, c) for nw in (False, True) for sc in SCALES for c in CLAIMS]
+                names = {}
+                if kind == "pds":
+                    for cp in (False, True):
+                        for w, pt in NAME_FIT[cp]:
+                            ctx.update(scale=1, layout="standard", compact=cp, two_specs=False, claim=1, narrow=False, name_w=w, name_pt=pt)
+                            page.set_content(tpl.render(screen=False, **ctx), wait_until="load")
+                            page.evaluate("document.fonts.ready")
+                            if page.evaluate(NAME_LINES) <= 2 and page.evaluate(NAME_CLEAR) <= 0:
+                                break
+                        else:
+                            w, pt = NAME_FIT[cp][-3]  # smallest size at the designer measure
+                        names[cp] = (w, pt)
                 for lay, compact, two_specs, scale, claim in tries:
                     narrow = compact if kind == "pas" else False
                     compact = compact if kind == "pds" else False
                     ctx.update(scale=scale, layout=lay, compact=compact, two_specs=two_specs, claim=claim, narrow=narrow)
+                    if kind == "pds":
+                        ctx.update(name_w=names[compact][0], name_pt=names[compact][1])
                     page.set_content(tpl.render(screen=False, **ctx), wait_until="load")
                     page.evaluate("document.fonts.ready")
                     problems = []
@@ -170,7 +192,7 @@ def main(only):
                 page.pdf(path=str(OUT / f"{base}.pdf"), width="8.5in", height="11in", print_background=True, prefer_css_page_size=True)
                 page.screenshot(path=str(OUT / f"{base}.png"), clip={"x": 0, "y": 0, "width": 816, "height": 1056})
                 page.close()
-                fitted = (" (narrow column)" if ctx.get("narrow") else "") + (f" (claim at {ctx['claim']:.0%})" if ctx.get("claim", 1) < 1 else "") + {"wide": " (wide application)", "two": " (2 pages)"}.get(ctx["layout"], "") + (" (compact)" if ctx.get("compact") else "") + (f" (text at {ctx['scale']:.0%})" if ctx["scale"] < 1 else "")
+                fitted = (f" (name {ctx['name_pt']}pt)" if kind == "pds" and ctx.get("name_pt") not in (34, 28) else "") + (" (wide name)" if kind == "pds" and ctx.get("name_w", 5.1) > 5.1 and ctx.get("name_pt") in (34, 28) else "") + (" (narrow column)" if ctx.get("narrow") else "") + (f" (claim at {ctx['claim']:.0%})" if ctx.get("claim", 1) < 1 else "") + {"wide": " (wide application)", "two": " (2 pages)"}.get(ctx["layout"], "") + (" (compact)" if ctx.get("compact") else "") + (f" (text at {ctx['scale']:.0%})" if ctx["scale"] < 1 else "")
                 print(f"{base}: " + ("OK" + fitted if not problems else "FAIL: " + "; ".join(problems)))
                 if problems:
                     failed.append(base)

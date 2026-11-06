@@ -48,9 +48,10 @@ body {
   border: 2px solid #ffffff; padding: 6.25px 12.2px 7.1px 14.45px;
   font-weight: 900; font-size: 15pt; letter-spacing: 0.1em; line-height: 1;
 }
+/* Two lines at most: build.py widens the measure, then steps the size down (34pt to 24pt) for long names. */
 .title {
-  margin-top: 11pt; max-width: 5.1in;
-  font-weight: 900; font-size: 34pt; line-height: 0.98; letter-spacing: -0.01em; text-transform: uppercase;
+  margin-top: 11pt; max-width: var(--nw, 5.1in);
+  font-weight: 900; font-size: var(--nt, 34pt); line-height: 0.98; letter-spacing: -0.01em; text-transform: uppercase;
   text-wrap: balance;
 }
 
@@ -111,7 +112,7 @@ tr:last-child td { border-bottom: 2px solid #000000; }
 /* Compact header: shorter band, smaller title and bottle, for sheets with a lot of copy. */
 .compact .band { height: 2.42in; }
 .compact .stamp { margin-top: 0.22in; font-size: 13pt; padding: 5.4px 10.7px 6.2px 12.6px; }
-.compact .title { font-size: 28pt; margin-top: 9pt; }
+.compact .title { font-size: var(--nt, 28pt); margin-top: 9pt; }
 .compact .photo { top: 1.5in; height: 3.25in; width: 1.3in; }
 .compact .features { min-height: 2.05in; } /* 2.42 + 0.28 + 2.05 = 4.75in, the bottle bottom */
 .todo { border: 1.5px dashed #000000; padding: 1pt 4pt 0; font-weight: 700; }
@@ -124,7 +125,7 @@ tr:last-child td { border-bottom: 2px solid #000000; }
 </style>
 </head>
 <body class="{{ 'screen' if screen else '' }}">
-<div class="page{{ ' compact' if compact }}" style="--s: {{ scale|default(1) }}">
+<div class="page{{ ' compact' if compact }}" style="--s: {{ scale|default(1) }}{% if name_pt %}; --nt: {{ name_pt }}pt; --nw: {{ name_w }}in{% endif %}">
   <header class="band">
     <p class="micro cat">{{ p.category }}</p>
     <p class="micro micro-reg type">Product Performance &amp; Data Sheet</p>
