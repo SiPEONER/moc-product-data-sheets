@@ -5,7 +5,7 @@
   "library_section": "Additives & Fluids",
   "rev": "3.0",
   "issued": "2026",
-  "image": "img/0150.png",
+  "image": "img/labels/0150.png",
   "features": [
     {
       "text": "Versatile 3-in-1 product: detects, neutralizes, and cleans acid and corrosion buildup."
@@ -70,5 +70,10 @@
   },
   "review": [
     "Bottle photo is only 380 px tall"
-  ]
+  ],
+  "photo": {
+    "kind": "label",
+    "label_source": "New Logo Project/0150/LB0150S_REV007.ai",
+    "bottle": "img/0150.png"
+  }
 }

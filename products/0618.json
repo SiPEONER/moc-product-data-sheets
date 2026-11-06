@@ -5,7 +5,7 @@
   "library_section": "Additives & Fluids",
   "rev": "3.0",
   "issued": "2026",
-  "image": "img/0618.png",
+  "image": "img/labels/0618.png",
   "features": [
     {
       "text": "Reduces friction and heat that can wear out the pump, valves, and gears."
@@ -99,5 +99,10 @@
   },
   "review": [
     "Bottle photo is only 390 px tall"
-  ]
+  ],
+  "photo": {
+    "kind": "label",
+    "label_source": "New Logo Project/0618/06181/LB06181_REV008.ai",
+    "bottle": "img/0618.png"
+  }
 }

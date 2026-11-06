@@ -5,7 +5,7 @@
   "library_section": "Additives & Fluids",
   "rev": "4.0",
   "issued": "2026",
-  "image": "img/0427.png",
+  "image": "img/labels/0427.png",
   "features": [
     {
       "text": "Superior lubrication and protection for bearings and gears."
@@ -92,5 +92,10 @@
   },
   "review": [
     "Bottle photo is only 384 px tall"
-  ]
+  ],
+  "photo": {
+    "kind": "label",
+    "label_source": "New Logo Project/0427/04271/LB04271F_REV006.ai",
+    "bottle": "img/0427.png"
+  }
 }

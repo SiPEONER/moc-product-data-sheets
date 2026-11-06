@@ -58,6 +58,9 @@ body {
 /* ---------- Product photo: straddles the band, like the designer's concept ---------- */
 .photo { position: absolute; top: 1.98in; right: 0.66in; width: 1.42in; height: 3.72in; display: flex; justify-content: center; }
 .photo img { height: 100%; width: auto; display: block; }
+/* Flat label art (package types with no bottle template): a card across the band edge, hairline keyline. */
+.photo.label { top: 1.98in; height: 2.9in; width: 1.85in; align-items: center; }
+.photo.label img { width: auto; height: auto; max-width: 100%; max-height: 100%; box-shadow: 0 0 0 0.75pt #000000; }
 .photo.ph { border: 2px dashed #000000; background: #ffffff; align-items: center; padding: 8pt; text-align: center; }
 
 /* ---------- Body ---------- */
@@ -114,6 +117,7 @@ tr:last-child td { border-bottom: 2px solid #000000; }
 .compact .stamp { margin-top: 0.22in; font-size: 13pt; padding: 5.4px 10.7px 6.2px 12.6px; }
 .compact .title { font-size: var(--nt, 28pt); margin-top: 9pt; }
 .compact .photo { top: 1.5in; height: 3.25in; width: 1.3in; }
+.compact .photo.label { top: 1.5in; height: 2.6in; width: 1.75in; }
 .compact .features { min-height: 2.05in; } /* 2.42 + 0.28 + 2.05 = 4.75in, the bottle bottom */
 .todo { border: 1.5px dashed #000000; padding: 1pt 4pt 0; font-weight: 700; }
 
@@ -135,7 +139,7 @@ tr:last-child td { border-bottom: 2px solid #000000; }
   </header>
 
   {% if p.image %}
-  <div class="photo"><img src="{{ p.image }}" alt="{{ p.name }}"></div>
+  <div class="photo{{ ' label' if (p.photo or {}).kind == 'label' }}"><img src="{{ p.image }}" alt="{{ p.name }}"></div>
   {% else %}
   <div class="photo ph"><p class="micro">Product photo<br><br>PNG cutout<br>1,200 px tall</p></div>
   {% endif %}

@@ -48,6 +48,9 @@ body { font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif; -webkit-p
 .photo { position: absolute; top: 1.55in; right: 0.62in; width: 2.2in; height: 5.75in; display: flex; justify-content: center; }
 /* Tall bottles fill the height; jugs and kits fit the width and sit on the same baseline. */
 .photo img { height: 100%; width: 100%; object-fit: contain; object-position: center bottom; display: block; }
+/* Flat label art: sits across the band edge, keyline, bottom-aligned like the bottles. */
+.photo.label { top: 3.55in; height: 3.3in; align-items: flex-end; }
+.photo.label img { width: auto; height: auto; max-width: 100%; max-height: 100%; box-shadow: 0 0 0 0.75pt #000000; }
 .photo.ph { border: 2px dashed #000000; background: #ffffff; align-items: center; padding: 8pt; text-align: center; }
 
 /* ---------- Body ---------- */
@@ -94,7 +97,7 @@ body { font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif; -webkit-p
 
   {% set photo = a.image or p.image %}
   {% if photo %}
-  <div class="photo"><img src="{{ photo }}" alt="{{ p.name }}"></div>
+  <div class="photo{{ ' label' if (p.photo or {}).kind == 'label' and not a.image }}"><img src="{{ photo }}" alt="{{ p.name }}"></div>
   {% else %}
   <div class="photo ph"><p class="micro">Product photo<br><br>PNG cutout<br>1,200 px tall</p></div>
   {% endif %}

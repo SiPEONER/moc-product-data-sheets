@@ -4,7 +4,7 @@
   "pds": false,
   "category": "Aerosols",
   "library_section": "Aerosols & Service Chemicals",
-  "image": "img/10507.png",
+  "image": "img/labels/10507.png",
   "image_px": 387,
   "ad": {
     "rev": "1.0",
@@ -29,5 +29,10 @@
   },
   "review": [
     "Ad only: no product data sheet found for this item"
-  ]
+  ],
+  "photo": {
+    "kind": "label",
+    "label_source": "New Logo Project/1050/10507 - QUEST/LB10507S_REV007 LBH035.ai",
+    "bottle": "img/10507.png"
+  }
 }

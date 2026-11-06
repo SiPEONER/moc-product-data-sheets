@@ -5,7 +5,7 @@
   "library_section": "Additives & Fluids",
   "rev": "3.0",
   "issued": "2026",
-  "image": "img/0133.png",
+  "image": "img/labels/0133.png",
   "features": [
     {
       "text": "Compatible with R-12 and R-134a refrigerant."
@@ -77,5 +77,10 @@
   "review": [
     "Bottle photo is only 384 px tall",
     "Spelling corrected from the old sheet: moise is the -> noise in the"
-  ]
+  ],
+  "photo": {
+    "kind": "label",
+    "label_source": "New Logo Project/0133/LB01331_REV005 new template.ai",
+    "bottle": "img/0133.png"
+  }
 }

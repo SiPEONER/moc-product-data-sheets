@@ -5,7 +5,7 @@
   "library_section": "Cleaners & Degreasers",
   "rev": "3.0",
   "issued": "2026",
-  "image": "img/4108.png",
+  "image": "img/labels/4108.png",
   "features": [
     {
       "text": "Safe for paint & plastic"
@@ -83,5 +83,10 @@
       "Other text on the old ad (call-out or part numbers?): adhesive remover #41083 | DIRECTIONS: | 1. Spray directly to contaminated surface or apply with a wiping cloth/towel to dissolve | and remove non-curing adhesives. For hard-to-remove residue, allow product to dwell on | surface before wiping off. To do so, saturate a towel and place directly on the contaminated | surface for approximately two minutes allowing the cleaner to dissolve the residue.",
       "Ad headline set by hand from the old artwork"
     ]
+  },
+  "photo": {
+    "kind": "label",
+    "label_source": "New Logo Project/4108/LB4108S_REV001.ai",
+    "bottle": "img/4108.png"
   }
 }

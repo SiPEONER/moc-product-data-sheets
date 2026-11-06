@@ -4,7 +4,7 @@
   "pds": false,
   "category": "Automotive Cleaner / Degreaser",
   "library_section": "Cleaners & Degreasers",
-  "image": "img/43552.png",
+  "image": "img/labels/43552.png",
   "image_px": 1037,
   "ad": {
     "rev": "1.0",
@@ -29,6 +29,9 @@
   ],
   "photo": {
     "source": "PPD photos/0 - New Logo/4355/43552.png",
-    "px": 1800
+    "px": 1800,
+    "kind": "label",
+    "label_source": "New Logo Project/4355/43552/LB43552_REV004.ai",
+    "bottle": "img/43552.png"
   }
 }
