@@ -74,5 +74,21 @@
     "pdf": "1090.pdf",
     "old_rev": 3
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Remove Contaminants",
+    "description": "A specially formulated blend of solvents designed to dissolve, disperse, and remove contaminants and other organic material from a variety of surfaces. This non-chlorinated, CFC-free formula dries quickly and does not leave a residue or oily film behind.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Can avoid the need for disassembly of parts.",
+      "Not for sale or use in California and OTC states.",
+      "Contains no fluorocarbons or chlorinated solvents.",
+      "Removes built-up contaminants and debris quickly and easily."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Dissolve It/Dissolve-it.pdf",
+    "review": []
+  }
 }

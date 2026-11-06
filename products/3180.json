@@ -82,5 +82,23 @@
     "pdf": "3180.pdf",
     "old_rev": 3
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Remove Scratches",
+    "description": "Contains micro abrasives and polishing agents that quickly remove scratches, oxidation and defects from painted surfaces. MP Pro Series Correction™ Crème is specially formulated for use with DA Random-Orbital Polishers to create fast, swirl-free results with minimal dust and clean up. Designed for use with MP Pro Series microfiber or foam cutting pads.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Fast scratch & oxidation removal without swirls.",
+      "No sling, no dust: easy clean-up.",
+      "Leaves a deep long-lasting shine.",
+      "Formulated for DA Random: Orbital Polishers."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "MP 2- Step/Correction-AD-01.21.26.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): CLEANER COMPOUND #31802 | SCAN FOR PRODUCT DEMO"
+    ]
+  }
 }

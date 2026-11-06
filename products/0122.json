@@ -86,5 +86,21 @@
   },
   "review": [
     "Bottle photo is only 380 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Reduce Friction",
+    "description": "Designed to fortify oil in modern high-output diesel engines that are subject to extreme pressure and temperatures. Diesel Engine Treatment contains advanced antioxidants, dispersants, and lubricants that provide long-lasting protection and maintain oil performance .",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Helps reduce friction and wear.",
+      "Greatly improves engine oil’s ability to resist oxidation breakdown.",
+      "Protects vital engine parts during start-ups.",
+      "Compatible with both synthetic and regular oil."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Premium Diesel Engine Treatment/Premium-Diesel-Engine-Treatment-AD-03.26.25.pdf",
+    "review": []
+  }
 }

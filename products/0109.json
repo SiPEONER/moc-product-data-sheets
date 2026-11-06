@@ -73,5 +73,21 @@
   },
   "review": [
     "Bottle photo is only 386 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Remove Rust & Scale",
+    "description": "A powerful, convenient, one-step radiator and cooling-system cleaner. It is formulated to quickly breakdown and suspend rust, scale, and sediment. This non-acid-base product needs no neutralizer and is compatible with plastic and aluminum.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Non-acid.",
+      "Requires no neutralizer.",
+      "Highly effective at removing scale and sediment from system surfaces.",
+      "Can be used on radiator plastic and aluminum components."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Fast-Flush/Fast-Flush-AD-07.21.25.pdf",
+    "review": []
+  }
 }

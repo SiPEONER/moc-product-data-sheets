@@ -1,0 +1,31 @@
+{
+  "item": "69773",
+  "name": "Green Stuff Hand Cleaner",
+  "pds": false,
+  "category": "Automotive Cleaner / Degreaser",
+  "library_section": "Cleaners & Degreasers",
+  "image": "img/69773.png",
+  "image_px": 398,
+  "ad": {
+    "rev": "1.0",
+    "headline": "Fresh Lemon Scent",
+    "description": "Grease happens and Green Stuff™ is made to handle it. This heavy-duty formula combines natural pumice and petroleum distillates to cut through grease and grime fast, while aloe vera and lanolin leave hands feeling clean and smooth.",
+    "benefits_label": "Customer Benefits",
+    "benefits": [
+      "Cuts through heavy grease and grime",
+      "Gentle on skin",
+      "Leaves hands clean, not dry or irritated",
+      "Ideal for professional automotive environments"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Green Stuff/Green-Stuff-02.12.26.pdf",
+    "review": []
+  },
+  "source": {
+    "ad_pdf": "Green Stuff/Green-Stuff-02.12.26.pdf"
+  },
+  "review": [
+    "Ad only: no product data sheet found for this item"
+  ]
+}

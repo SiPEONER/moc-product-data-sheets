@@ -62,5 +62,29 @@
     "pdf": "0449.pdf",
     "old_rev": 1
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Improve Fuel Quality",
+    "description": "A concentrated, dual-purpose fuel treatment that contains powerful octane boosting additives that reduce knocking and pinging while improving engine performance, throttle response and horsepower. Thrust Octane Booster features top-tier detergents that clean fuel injectors, intake valves, and combustion chambers, making it especially effective on high-performance and turbocharged engines. Compatible with all gasoline fuel types including ethanol blends up to E85.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Raises Octane Rating to improve acceleration and overall drivability.",
+      "Reduces Engine Knock caused by today’s lower-quality fuels.",
+      "Cleans Fuel System with detergents that help reduce carbon buildup.",
+      "Maximizes Fuel Efficiency by ensuring a more complete burn.",
+      "Compatible with All Gasoline Engines, including turbocharged and supercharged."
+    ],
+    "callout": "",
+    "footnotes": [
+      "Depending on the quality of fuel, Thrust Octane Booster can increase octane levels up to 3 numbers or 30 points.",
+      "When used as directed Thrust Octane Booster is safe for types of fuel systems."
+    ],
+    "source": "Thrust/Thrust-Octane-Booster-AD09.30.25.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): PLEASE NOTE:",
+      "Ad footnotes set by hand from the old artwork",
+      "Ad benefits set by hand from the old artwork"
+    ]
+  }
 }

@@ -73,5 +73,21 @@
     "pdf": "0438.pdf",
     "old_rev": 3
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Wear Protection",
+    "description": "A full synthetic API GL-4 gear lubricant specially formulated for manual transmissions, transaxles, haldex units and transfer cases. It provides exceptional wear protection and resistance to mechanical shearing, has excellent low temperature fluidity and is safe for all steel, brass, and copper alloys. Ultra Shift LV may be effectively used in all vehicles where engine oil, ATF or GL-4 gear oil is specified for manual transmissions.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Superior lubrication and protection for bearings and gears.",
+      "Helps prevent wear, pitting and corrosion under high-load conditions.",
+      "Promotes excellent shift quality and synchronizer performance in manual transmissions.",
+      "Compatible with components such as bronze, brass, copper, and elastomer material."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Ultra-shift-LV/Ultra-Shift-LV-AD-01.23.24.pdf",
+    "review": []
+  }
 }

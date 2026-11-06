@@ -92,5 +92,23 @@
   "review": [
     "Bottle photo is only 369 px tall",
     "Spelling corrected from the old sheet: ERPB -> ERBP; ◦ -> °"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "High Performance",
+    "description": "A premium, high boiling point brake fluid designed for vehicles with disc or drum brakes and wherever a DOT 4 fluid is recommended in both domestic and foreign vehicles. Meets or exceeds DOT Vehicle Safety Standard.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Extremely high-boiling point formula Dry ERBP: > 262°C (> 503°F), Wet ERBP: >175°C (>346°F)",
+      "Exceeds DOT specifications for DOT 4 brake fluid, (DOT minimum is 446°F).",
+      "Excellent high-temperature protection and moisture resistance.",
+      "Product can be mixed with other DOT 3 or DOT 4 products."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "DOT 4 Brake Fluid/DOT-4-Brake-Fluid-AD-07.21.25.pdf",
+    "review": [
+      "Ad spelling corrected: ERPB -> ERBP; ◦ -> °"
+    ]
+  }
 }

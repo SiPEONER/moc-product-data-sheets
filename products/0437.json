@@ -73,5 +73,23 @@
   },
   "review": [
     "Spelling corrected from the old sheet: componets -> components"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Optimize Efficiency",
+    "description": "Formulated to effectively remove oil deposits and unburned fuel particles from the catalytic convertor and oxygen sensor. Over time, soot and carbon deposits can build-up in the exhaust system increasing fuel consumption & harmful emissions.\n\nAdd MOC’s CAT Convertor & O2 Sensor Cleaner to a full fuel tank of fuel to optimize the efficiency of your engine today.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Can Improve Engine Performance",
+      "Helps Keep Oxygen Sensor Clean",
+      "Can Reduce Harmful Emissions",
+      "Can Restore Fuel Efficiency & Engine Performance"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "CAT Convertor 02 Sensor Cleaner/CAT & O2 Sensor Cleaner-07.23.25.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): #04371"
+    ]
+  }
 }

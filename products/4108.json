@@ -65,5 +65,23 @@
   },
   "review": [
     "Name read by hand from the header artwork"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Low VOCs",
+    "description": "A Low-V.O.C, petroleum-based solvent designed to remove exterior adhesive residue, wax, and light tar deposits from a variety of substrates including cured paint, metal, plastic, and chrome.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Leaves no residue",
+      "Easy to use, fast working",
+      "Great for removing exterior protection wrap"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Resolv - Adhesive Remover/Resolv-AD-07.23.25.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): adhesive remover #41083 | DIRECTIONS: | 1. Spray directly to contaminated surface or apply with a wiping cloth/towel to dissolve | and remove non-curing adhesives. For hard-to-remove residue, allow product to dwell on | surface before wiping off. To do so, saturate a towel and place directly on the contaminated | surface for approximately two minutes allowing the cleaner to dissolve the residue.",
+      "Ad headline set by hand from the old artwork"
+    ]
+  }
 }

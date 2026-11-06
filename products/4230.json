@@ -80,5 +80,24 @@
   },
   "review": [
     "Bottle photo is only 376 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Optimal Adhesion",
+    "description": "Specifically formulated to clean and prep exterior vehicle surfaces prior to applying Moc Armour Ceramic Coating. The grease-cutting surfactants and solvents quickly dissolve oils; remove wax, silicone and other contaminants that might inhabit optimal adhesion of the coating. This promotes a stronger bond, resulting in longer and more durable paint protection.\n\nOnce the paint correction process has been completed, all exterior painted surfaces must be properly cleaned prior to applying MOC Armour Ceramic Coating. 1) Spray a heavy coating of Pryme - Surface Prep onto the surface. 2) Allow solution to sit for 10-15 seconds and wipe clean (rotate towels to ensure proper removal of product). 3) Repeat steps 1 and 2 over the entire vehicle. 4) Inspect all surfaces thoroughly before applying Armour Ceramic Coating.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Simply spray on & wipe off",
+      "Allows ceramic coating to bond better",
+      "Removes waxes, oils, and polishing residue",
+      "Use on paint, plastic, and chrome surfaces"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "MP Pryme/Pryme-Surface-Spray-032625.pdf",
+    "review": [
+      "Directions left off the ad (11 characters): they belong on the data sheet",
+      "Ad spelling corrected: DIRECTIONS : -> Directions:"
+    ]
+  }
 }

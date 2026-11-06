@@ -1,0 +1,34 @@
+{
+  "item": "1810",
+  "name": "Trueco Interior",
+  "pds": false,
+  "category": "Automotive Cleaner / Degreaser",
+  "library_section": "Cleaners & Degreasers",
+  "image": "img/1810.png",
+  "image_px": 296,
+  "ad": {
+    "rev": "1.0",
+    "headline": "Superior Performance",
+    "description": "A concentrated cleaner that quickly removes grease, grime, and dirt from the vehicle’s carpet, leather, upholstery, fabric, and vinyl surfaces. Can be used in both hot and cold carpet extraction equipment, as well as Tornador Interior Cleaning Tools. Trueco Interior Cleaner is all-natural, non-toxic and biodegradable. Great alternative to hazardous, caustic cleaners and products.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Non-Toxic, Non-Hazardous and Biodegradable!",
+      "Safe on all automotive surfaces.",
+      "Quickly removes grease, grime and dirt. EPA Registered"
+    ],
+    "callout": "1 // 5 // 55 gal",
+    "footnotes": [],
+    "source": "Trueco Interior/Trueco-Interior-AD-03.06.24.pdf",
+    "review": [
+      "Moved to the call-out: 1 / 5 / 55 gal",
+      "Directions left off the ad (641 characters): they belong on the data sheet",
+      "Ad spelling corrected: dirt.EPA -> dirt. EPA; uphlstery -> upholstery"
+    ]
+  },
+  "source": {
+    "ad_pdf": "Trueco Interior/Trueco-Interior-AD-03.06.24.pdf"
+  },
+  "review": [
+    "Ad only: no product data sheet found for this item"
+  ]
+}

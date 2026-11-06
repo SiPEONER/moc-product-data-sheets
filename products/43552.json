@@ -1,0 +1,30 @@
+{
+  "item": "43552",
+  "name": "Floor Powder",
+  "pds": false,
+  "category": "Automotive Cleaner / Degreaser",
+  "library_section": "Cleaners & Degreasers",
+  "image": "img/43552.png",
+  "image_px": 1037,
+  "ad": {
+    "rev": "1.0",
+    "headline": "Remove Grime",
+    "description": "A heavy-duty cleaning powder that dissolves, loosens, and suspends heavy embedded soils and allows them to be rinsed away. Dissolves completely in water and will not leave a powdery residue. Use anywhere concrete or a hard surface should be cleaned.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Powder formula quickly penetrates grease and oil.",
+      "Removes dirt and grime from garage and shop floors.",
+      "Dissolves quickly in water and will not leave a powdery residue."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Floor Powder/Floor Powder-ad03.27.24.pdf",
+    "review": []
+  },
+  "source": {
+    "ad_pdf": "Floor Powder/Floor Powder-ad03.27.24.pdf"
+  },
+  "review": [
+    "Ad only: no product data sheet found for this item"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "item": "10071",
+  "name": "Foaming Glass Cleaner",
+  "pds": false,
+  "category": "Aerosols",
+  "library_section": "Aerosols & Service Chemicals",
+  "image": "img/10071.png",
+  "image_px": 379,
+  "ad": {
+    "rev": "1.0",
+    "headline": "Streak Free",
+    "description": "A premium foaming glass and hard-surface cleaner that removes dirt, grease, smudges, fingerprints, and other stubborn deposits from windows, glass, windshields, mirrors, and chrome. Excellent for a quick touch-up on vehicles in dealer showrooms.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Ammonia, solvent, and alcohol free.",
+      "Deep cleaning, Streak-free formula.",
+      "Cleans windshields, mirrors, & windows.",
+      "All-natural, biodegradable, eco-friendly.",
+      "Non-flammable formula."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Glass Cleaner/Glass-Cleaner-Ad-06.04.25.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): #10071"
+    ]
+  },
+  "source": {
+    "ad_pdf": "Glass Cleaner/Glass-Cleaner-Ad-06.04.25.pdf"
+  },
+  "review": [
+    "Ad only: no product data sheet found for this item"
+  ]
+}

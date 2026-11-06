@@ -81,5 +81,22 @@
   },
   "review": [
     "Bottle photo is only 370 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Smooth & Silent",
+    "description": "Designed to reduce brake squeal, vibration, and drag to prevent the vibrations that cause unwanted noise. Specially formulated to fill in the microscopic imperfections between brake pads, rotors, brake shoes and/or drums. Fast- drying and compatible with all domestic and imported brake systems. Quiet Brakes™ delivers quieter performance and driving confidence, especially during the critical new brake pad break-in period.",
+    "benefits_label": "Service Benefits",
+    "benefits": [
+      "Fast-drying formula",
+      "Compatible with all disc and drum brake systems",
+      "Works on domestic and imported vehicles",
+      "Helps eliminate brake squeal, vibration, and drag",
+      "Promotes quieter, smoother brake performance during pad break-in"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Quiet Brakes/Quiet Brakes - 08.12.26.pdf",
+    "review": []
+  }
 }

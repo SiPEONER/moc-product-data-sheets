@@ -96,5 +96,21 @@
   },
   "review": [
     "Bottle photo is only 398 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Restore Power",
+    "description": "An all‑weather diesel additive that cleans fuel injectors, increases cetane, and lubricates critical components to protect against wear. Its cold‑weather formula prevents wax and fuel gelling while restoring horsepower, improving fuel economy, and reducing smoke and engine knock in light and heavy‑duty diesel engines.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "All-weather formula.",
+      "Protects against corrosion.",
+      "Helps reduce exhaust smoke and diesel knock.",
+      "Compatible with all types of exhaust emissions systems, including diesel particulate filters (DPF)."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Advanced Diesel Treatment/Advanced Diesel Treatment AD 01.08.26.pdf",
+    "review": []
+  }
 }

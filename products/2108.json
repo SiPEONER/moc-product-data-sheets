@@ -88,5 +88,24 @@
   },
   "review": [
     "Bottle photo is only 372 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Durable & Hydrophobic",
+    "description": "A specialized blend of anti-static and ceramic agents designed to produce a water beading, brilliant, long-lasting shine. MP Surface® uses a combination of UV filters and stabilizers to guard against harmful UV rays and environmental contaminants such as brake dust, dirt, dust, and industrial fallout. Surface® bonds with vehicles clear coat to create a durable, hydrophobic surface, and it’s safe for all vehicle surfaces, including wheels and trim.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Sio2 ceramic detailing spray.",
+      "Safe for all vehicle surfaces.",
+      "Enhances Gloss, Depth, & Shine.",
+      "Extends the protection of aaxes & sealants.",
+      "Protects against UV rays, and contamination."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "MP Surface/Surface-AD-07.23.25.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): detailing spray #21083"
+    ]
+  }
 }

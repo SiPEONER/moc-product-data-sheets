@@ -62,5 +62,27 @@
     "pdf": "1075.pdf",
     "old_rev": 1
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Remove Soot And Ash",
+    "description": "A non-flammable formula specifically designed to quickly and efficiently eliminate particulates, carbon and other deposits in dirty diesel particulate filters (DPF), without the need to dismantle or remove the filter.\n\nDiesel Particulate Filters (DPFs) are designed to trap and remove soot from diesel engine exhaust, helping to reduce emissions. However, certain driving habits can lead to excessive soot buildup, causing the filter to become clogged.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Restores filter absorption and flow.",
+      "Allows forced regeneration after clogging.",
+      "Non-flammable, ash-free, residue-free formulation.",
+      "Removes soot and ash deposits from blocked filters.",
+      "Can restore power, fuel economy and extend service life.",
+      "No need to remove the particulate filter from the vehicle.",
+      "Faster and more cost-effective method than disassembly.",
+      "Ideal for vehicles in limp mode or after a failed regeneration process."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "DPF Cleaner/DPF-Cleaner-09.22.25.pdf",
+    "review": [
+      "Ad spelling corrected: photo label removed from a benefit: on process. HOSE INCLUDED"
+    ]
+  }
 }

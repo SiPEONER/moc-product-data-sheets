@@ -68,5 +68,25 @@
     "pdf": "2806.pdf",
     "old_rev": 1
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Maximize Gloss",
+    "description": "Precise™ Finish perfects the surface, delivering maximum gloss and clarity as the final step before protection is applied.\n\n100% body shop safe: no silicones, fillers or waxes",
+    "benefits_label": "Performance Benefits",
+    "benefits": [
+      "Removes minor swirl marks, holograms and micro marring",
+      "Produces a smooth, high clarity, high gloss finish",
+      "Ideal final step prior to waxes, sealants or coatings",
+      "Balanced micro abrasive blend for professional finishing",
+      "No residue, no dusting, long working time",
+      "DA Orbitals - use 70337 MF finish or 70327 foam finish pads"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Precise/Precise Finish - 04.28.26.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): Pull Cap | Included | PN - 70337 PN - 70327"
+    ]
+  }
 }

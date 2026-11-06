@@ -79,5 +79,22 @@
   "review": [
     "Bottle photo is only 373 px tall",
     "Spelling corrected from the old sheet: approximatly -> approximately; facotry -> factory; inplace -> in place"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Restore Horsepower",
+    "description": "TurboClean is specially formulated to remove carbon buildup from the cold-side of the turbocharger and intake system. Its power solvents quickly dissolve harmful deposits and varnish, improving acceleration, throttle response, and fuel efficiency. Safe for both gasoline and diesel engines.",
+    "benefits_label": "Service Benefits",
+    "benefits": [
+      "Cleans turbocharger without dismantling",
+      "Restores power and performance",
+      "Enhances fuel efficiency",
+      "Easy to use spray application",
+      "Prevents costly repairs"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "TurboClean/TurboClean-04.10.26.pdf",
+    "review": []
+  }
 }

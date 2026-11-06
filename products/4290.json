@@ -91,5 +91,24 @@
     "pdf": "4290.pdf",
     "old_rev": 2
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Acid Free",
+    "description": "A powerful, non-acid tire & wheel cleaner designed to cling to both horizontal and vertical surfaces without dripping, keeping the cleaning power where you need it most. CLING quickly dissolves stubborn road grime, dirt and brake dust from all types of clear coated, factory painted, alloy and chrome wheels. This new non- caustic formula rinses clean without leaving spots or residue behind. Saves your recon department time and money by having to rely on only one-wheel cleaner to get the job done.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Safe for all wheel types.",
+      "Restores a brilliant shine to all wheels.",
+      "A powerful non-acid wheel & tire cleaner.",
+      "Removes debris with little to no agitation.",
+      "Breakdowns and removes stuck on dirt and debris."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "MP Cling/Cling-AD-07.23.25.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): wheel & tire cleaner #42903"
+    ]
+  }
 }

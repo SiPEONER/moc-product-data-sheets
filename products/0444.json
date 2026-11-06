@@ -81,5 +81,24 @@
   },
   "review": [
     "Spelling corrected from the old sheet: coolings systems -> cooling systems"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Maximize Performance",
+    "description": "Designed to fortify coolants used in hybrid-electrical vehicles (HEV) and battery electrical vehicles (BEV) with advanced corrosion inhibitors. It is formulated for use in all types of ethylene glycol based, low-conductivity coolants used in indirect cooling systems.\n\nStandard factory-fill coolant, on average, can allow up to 5 mg of metal loss and still meet OEM requirements . When adding MP Protect™ after a service, metal loss can be lowered to less than 1 mg, fortifying and extending the service life of new coolant.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Advanced protection for EV Coolants.",
+      "Compatible with all types of coolant when used in indirect cooling systems.",
+      "Fortifies and extends service life of new coolant.",
+      "Lowers metal loss to less than 1 mg.",
+      "Can help regulate EV Battery Temperatures."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "EV Protect - EV Cooling/Protect-AD-01.15.25.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): #04441"
+    ]
+  }
 }

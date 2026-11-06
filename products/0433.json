@@ -79,5 +79,24 @@
   "review": [
     "Bottle photo is only 385 px tall",
     "Spelling corrected from the old sheet: dissolveheavy -> dissolve heavy"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Restore Performance",
+    "description": "A high performance blend of solvents and detergents formulated to quickly soften and dissolve heavy deposits on injector tips and other chamber surfaces of Mordern GDI, Hybrid & High-Output engines that are prone to excessive carbon build-up.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Engineered to optimize engine efficiency and power.",
+      "Penetrates and eliminates stubborn carbon deposits.",
+      "Restores peak performance.",
+      "Enhances fuel economy."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Restore-10oz/Restore-10oz-12.4.23.pdf",
+    "review": [
+      "The old ad prints no item number: item matched by name",
+      "Other text on the old ad (call-out or part numbers?): Advanced COMBUSTION CHAMBER cleaner - #04337 | BEFORE SERVICE AFTER SERVICE"
+    ]
+  }
 }

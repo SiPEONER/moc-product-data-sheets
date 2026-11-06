@@ -79,5 +79,21 @@
   "review": [
     "Bottle photo is only 769 px tall",
     "Spelling corrected from the old sheet: Denisity -> Density"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Spot-free Shine",
+    "description": "Water Spot Remover: Mild Acid Gel quickly eliminates alkaline water mineral stains from paintwork, glass, and polished metal surfaces. Its mild, safe acidic formula neutralizes stubborn water spots without damaging your vehicle’s finish. This easy-to-use, spray-on solution preps surfaces for waxing and ceramic sealants. Free from harmful chemicals like ammonium bifluoride and hydrofluoric acid.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Removes hard water spots & mineral deposits.",
+      "Safe for use on painted surfaces, chrome, glass, and plastics.",
+      "Strong but safe acidic formula.",
+      "Easy-to-use gel formula clings to surfaces for effective stain removal."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "water spot - Gel/Water Spot GEL - 04.3.26.pdf",
+    "review": []
+  }
 }

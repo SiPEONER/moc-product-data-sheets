@@ -1,0 +1,32 @@
+{
+  "item": "70367",
+  "name": "Premium Copper Grease",
+  "pds": false,
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "image": "img/70367.png",
+  "image_px": 257,
+  "ad": {
+    "rev": "1.0",
+    "headline": "Resist Corrosion",
+    "description": "Creates a protective shield against rust, oxidation, and various types of corrosion, extending the life of brake components. Premium copper grease works effectively in both high and low-temperature conditions, making it an ideal lubricant for brake shims and contact points between pads and hardware, ensuring optimal performance.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Withstands heavy loads and high speeds.",
+      "Good adhesion, anticorrosion, anti-oxidation.",
+      "Excellent high-temperature protection and moisture resistance."
+    ],
+    "callout": "Best applied with Part #70368 Horse Hair Brush",
+    "footnotes": [],
+    "source": "Copper Grease/Copper-Grease-02.20.25.pdf",
+    "review": [
+      "Moved to the call-out: Best applied with - Part #70368 Horse Hair Brush"
+    ]
+  },
+  "source": {
+    "ad_pdf": "Copper Grease/Copper-Grease-02.20.25.pdf"
+  },
+  "review": [
+    "Ad only: no product data sheet found for this item"
+  ]
+}

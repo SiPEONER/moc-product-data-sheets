@@ -91,5 +91,21 @@
     "pdf": "0656.pdf",
     "old_rev": 1
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "High Performance",
+    "description": "Enhances engine oil’s ability to reduce friction and wear on internal engine components. Advanced antioxidants prevent oxidation and thickening of engine oil under even the most severe driving conditions. Special dispersants help keep piston ring belts, hydraulic lifters and other engine components clean and free of sludge or deposits. It is compatible with both synthetic and petroleum based oils.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Helps reduce friction and wear.",
+      "Greatly improves engine oil’s ability to resist oxidation breakdown.",
+      "Protects vital engine parts during start-ups.",
+      "Compatible with both synthetic and regular oil."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "HP Motor Oil Conditioner/HP-Motor-Oil-Conditioner-07.31.25.pdf",
+    "review": []
+  }
 }

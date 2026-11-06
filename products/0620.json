@@ -65,5 +65,23 @@
     "pdf": "0620.pdf",
     "old_rev": 2
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Vehicle A/C System",
+    "description": "ArcticBlast™ is formulated to expand the operating capability of refrigerant and enhance the system’s ability to dissipate heat. It is designed to provide colder air, faster cooling, lower system load or power draw, and lower fuel consumption based on a more efficient A/C system. The appreciable benefits consist of greater occupant comfort and a more efficient and less costly system to operate.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Proven to lower vent outlet temperatures and cool interiors faster than untreated systems.",
+      "Reduces load/drag on the engine for improved system efficiency.",
+      "Proven to reduce fuel consumption as measured in gallons per hour when the A/C is on.",
+      "Year-round benefits in warm and cold weather."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Arctic Blast/Arctic Blast AD Sheet-08.6.26.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): Hot R Cold T | Faster defrost in the winter Colder vent temps in the summer | Compatible with R134a, R-1234yf refrigerants and ND-OIL 11 (Specialized dielectric electric compressor oil)"
+    ]
+  }
 }

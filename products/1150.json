@@ -74,5 +74,21 @@
     "pdf": "1150.pdf",
     "old_rev": 2
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Remove Dirt & Stains",
+    "description": "Quickly dissolves grease, dirt, soil, fingerprints, and other oily stains, while leaving behind a fresh scent. This special dry foam contains gentle cleaners that allow soiled areas to be cleaned safely with minimal dampness",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Cleans soiled vinyl, leather, plastic, and cloth.",
+      "Excellent for carpet.",
+      "Foam gently lifts away dirt and grime.",
+      "Minimizes dry time compared to a liquid product."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Foaming Fabric/Foaming-Fabric-Cleaner-07.23.25.pdf",
+    "review": []
+  }
 }

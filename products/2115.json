@@ -88,5 +88,21 @@
   },
   "review": [
     "Spelling corrected from the old sheet: streakfree -> streak-free"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Streak Free",
+    "description": "A revolutionary formula that combines the power of advanced nano and hydrophobic polymers with the richness of natural waxes. This dynamic fusion eliminates dust, grime, fingerprints, and stubborn bug residues, leaving a superior high-gloss, water repelling shine. Simply spray and wipe with a clean micofiber towel for a streak-free, long-lasting finish.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Ideal for fast and easy new car delivery.",
+      "Clean, polish, and protect in minutes not hours.",
+      "Glass, wheel and vinyl graphics compatible.",
+      "Available in 1 and 5 gallon containers."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "MP Nano Liquid/Nano-spraywax-06.04.25.pdf",
+    "review": []
+  }
 }

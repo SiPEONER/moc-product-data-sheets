@@ -83,5 +83,23 @@
     "pdf": "4151.pdf",
     "old_rev": 2
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Neutralizes Odors",
+    "description": "A bio-enzymatic cleaner that quickly eliminates soils, stains and malodors from carpets, upholstery, textiles, vinyl, leather and synthetic surfaces. Works great as a spot remover or pre-treatment on carpet and upholstery prior to cleaning. Contains Natural enzymes that breakdown and digest organic odors and stains such as blood, vomit, urine, coffee, milk oil, grease and many more. NZYME™ is an environmentally safe way to dedorize and cleanout RV holding tanks & portable sanitation units .",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Safely removes stubborn stains.",
+      "Neutralizes odor-causing organic matter.",
+      "Highly concentrated, economical formula.",
+      "PRE-TREAT carpet and upholstery prior to cleaning."
+    ],
+    "callout": "Concentrated gallon #41513 // foaming aerosol #14151",
+    "footnotes": [],
+    "source": "MP Nzyme/nzyme-Ad-01.21.26.pdf",
+    "review": [
+      "Moved to the call-out: Concentrated gallon #41513 | foaming aerosol #14151"
+    ]
+  }
 }

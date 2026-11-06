@@ -82,5 +82,21 @@
     "pdf": "0129.pdf",
     "old_rev": 2
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Removes Fuel Moisture",
+    "description": "MOC® Premium Fuel Guard™ is a remarkable alcohol-free formula which removes moisture from the fuel system by suspending water and gasoline together. MOC® Premium Fuel Guard™ helps prevent rust and corrosion from forming on fuel system components.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Removes water from fuel system.",
+      "Helps prevent rust & corrosion build up.",
+      "Cleans fuel system deposits.",
+      "Effective in gasoline and diesel fuels."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "PREMIUM FUEL GUARD/Premium-Fuel-Guard-AD-10.23.25.pdf",
+    "review": []
+  }
 }

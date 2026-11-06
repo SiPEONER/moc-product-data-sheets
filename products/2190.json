@@ -84,5 +84,24 @@
   },
   "review": [
     "Bottle photo is only 391 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "All-in-One",
+    "description": "A versatile all-in-one polish & protectant that leaves a durable, bright finish on painted surfaces. Specially formulated with advanced polishing agents to remove swirl marks, light scratches, and mild paint imperfections. Reflection is dust free and easy to use either by hand, rotary, dual or forced action machines.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Low Dust Formula",
+      "Clean - Polish - Protect",
+      "Easy application and removal",
+      "Swirl free finish in just one simple step"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "MP Reflection/Reflection-AD-07.23.25.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): clean polish protect #21902",
+      "Ad spelling corrected: All-in- One -> All-in-One"
+    ]
+  }
 }

@@ -79,5 +79,21 @@
     "pdf": "0147.pdf",
     "old_rev": 1
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Wear Protection",
+    "description": "A multigrade synthetic (polyalphaolefin), A.P.I. GL-5 rated gear oil formulated to SAE 75W-85 viscosity. It is a premium extreme-pressure lubricant designed for use in axle applications requiring limited-slip performance but can also be used in conventional differentials. MOC® Gear Guard™ Plus SAE 75W-85 is a versatile product that can be used in place of SAE 75W, SAE 80, SAE 85 oils and eliminates the need for a supplemental friction modifier. and thermal stability protection.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Superior lubrication and protection for bearings and gears.",
+      "Helps prevent wear, pitting and corrosion under high-load conditions.",
+      "Promotes excellent shift quality and synchronizer performance in manual transmissions.",
+      "Meets stringent industry standards, including API GL-5, MT-1, MILL 2105 D-E, 2105E and SAE J2360 specifications"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Gear Guard-75W-85/GG Plus - 75W-85-01.15.25.pdf",
+    "review": []
+  }
 }

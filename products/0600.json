@@ -88,5 +88,20 @@
   },
   "review": [
     "Bottle photo is only 375 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Heavy Duty",
+    "description": "A high-quality, high boiling point brake fluid designed for vehicles with disc or drum brakes and wherever a DOT 3 fluid is recommended in both domestic and foreign vehicles. Meets or exceeds DOT Vehicle Safety Standard.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "High-boiling point formula (ERBP of ~485°F).",
+      "Exceeds DOT specifications for DOT 3 brake fluid, (DOT minimum is 404°F).",
+      "Excellent high-temperature protection and moisture resistance."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "DOT 3 Brake Fluid/DOT-3-Brake-Fluid-AD-07.21.25.pdf",
+    "review": []
+  }
 }

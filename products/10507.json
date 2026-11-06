@@ -1,0 +1,33 @@
+{
+  "item": "10507",
+  "name": "Fresh A/C",
+  "pds": false,
+  "category": "Aerosols",
+  "library_section": "Aerosols & Service Chemicals",
+  "image": "img/10507.png",
+  "image_px": 387,
+  "ad": {
+    "rev": "1.0",
+    "headline": "Odor Neutralizer",
+    "description": "Specially formulated to remove foul, musty odors quickly and effectively from automobile air conditioning systems. It will freshen foul-smelling systems by killing odor-producing organisms. Powerful deodorizers keep the automobile interiors smelling fresh and clean.\n\nBy cleansing the system, problems such as breathing discomfort and eye irritations may be avoided when the occupant turns on the air conditioner. It is not just for A/C odors; it works equally well to control odors in the heating system during cold seasons.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Attacks odors on contact.",
+      "Disinfectants, cleans, and deodorizes A/C Systems.",
+      "Easy to Use: No application tools needed.",
+      "EPA Registered"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Fresh AC/Fresh-AC-AD-06.04.25.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): CLICK OR SCAN FOR PRODUCT DEMO"
+    ]
+  },
+  "source": {
+    "ad_pdf": "Fresh AC/Fresh-AC-AD-06.04.25.pdf"
+  },
+  "review": [
+    "Ad only: no product data sheet found for this item"
+  ]
+}

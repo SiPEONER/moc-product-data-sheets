@@ -86,5 +86,22 @@
   },
   "review": [
     "Bottle photo is only 571 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Enhanced Protection",
+    "description": "A concentrated additive that provides complete protection for the entire cooling system. It protects the cooling system in four different ways. It contains a concentrated blend of corrosion inhibitors, anti-foaming agents, pump lubricants and sealing compounds. This product contains a unique corrosion and rust inhibitor that enhances protection of iron, aluminum, copper, and solder surfaces. Cooling System Multi-Treatment™ is designed to fortify and extend the service life of antifreeze and is compatible with all types of coolant.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Eliminates the need to use 2 or 3 different products.",
+      "Compatible with all types of coolant",
+      "Proven to increase corrosion inhibiting performance of treated coolant.",
+      "Increases protection of water pump and reduces potential damage to pump surfaces.",
+      "Sealing compounds help stop minor leaks and seal cracks in the radiator and block."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "CS-Multi-Treatment/CS-Multi-Treatment-AD-07.21.25.pdf",
+    "review": []
+  }
 }

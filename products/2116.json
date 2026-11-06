@@ -80,5 +80,24 @@
   },
   "review": [
     "Bottle photo is only 282 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "High Gloss",
+    "description": "Designed to provide years of protection against a variety of environmental hazards, including dirt, grime, industrial fallout, bird droppings, UV light, and more. The advanced ceramic nanotechnology bonds to a vehicle’s paint surface like an extra layer of clear coat, creating a durable, high gloss, swirl resistant, hydrophobic surface. Armour will prevent dirt, water spots and contaminants from adhering to paint, extending paint life and will change the way you care for your vehicle.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Deep Brilliant Shine.",
+      "Extreme water sheeting.",
+      "Chemical and Swirl Resistant.",
+      "Self-Cleaning, resists dust and dirt."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "MP Armour/Armour-AD-07.23.25.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): durable ceramic coating #21161"
+    ],
+    "image": "img/2116-ad.png"
+  }
 }

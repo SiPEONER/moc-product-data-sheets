@@ -82,5 +82,23 @@
   },
   "review": [
     "Bottle photo is only 395 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Dissolve Sludge",
+    "description": "A powerful dispersant-based cleaner that quickly softens and dissolves accumulated oil sludge in the engine. This specialized formula targets and removes harmful fuel deposits that can clog piston rings. MULTI-CLEAN™ MAX efficiently cleans lifters, passageways, screens, and other internal engine components.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Removes engine sludge and fuel deposits.",
+      "Excellent for problematic Gasoline Direct Injection (GDI) engines.",
+      "Designed for gasoline and diesel engines.",
+      "Improves compression and reduces oil dilution (blow-by)."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Multi-Clean MAX/Multi-CleanMax QR-AD-07.21.25.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): SCAN FOR | PRODUCT DEMO"
+    ]
+  }
 }

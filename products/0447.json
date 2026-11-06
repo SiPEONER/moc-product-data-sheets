@@ -78,5 +78,20 @@
   },
   "review": [
     "Bottle photo is only 862 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Universal Formula",
+    "description": "An advanced transmission lubricant designed to provide superior component protection and enhanced service reliability when used in high performance or 8, 9 & 10 speed transmissions. Synthetic ATF HP is specially formulated for maximum high & low temp stability, oxidation resistance and wear prevention, while maintaining essential frictional and shifting properties.\n\nThis premium, PAO-based formula meets or exceeds the performance criteria for a wide range of AT fluids and may be used in place of synthetic fluids specified by several vehicle manufacturers.\n\nThe formula is suitable for use in GM® Dex HP (8L45 / 90, 10L80 / 90), GM ® Dex ULV (19352619), Honda ® 2.0, Mopar® 8 & 9 Speed ATF, Mercon ® ULV ATF, Nissan ® Matic P & R.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Full Synthetic, PAO-based formula.",
+      "Provides excellent flow properties at low temperatures.",
+      "Highly resistant to shear, oxidation and thermal breakdown."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "HP ATF - Clear/ATF HP Clear-04.14.25.pdf",
+    "review": []
+  }
 }

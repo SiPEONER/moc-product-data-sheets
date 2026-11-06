@@ -69,5 +69,22 @@
     "pdf": "1097.pdf",
     "old_rev": 1
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Charge Optimization",
+    "description": "A non-flammable cleaner specifically formulated to ensure the optimal performance of electric and hybrid vehicle charge ports and charging cables. MP ® Charge Port Cleaner’s powerful cleaning agents quickly break down and remove dirt, dust, and grime that can impede charging efficiency. This service can ensure optimal connection of the power contacts to promote a more efficient battery recharge.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Non-Flammable / Non-Corrosive.",
+      "Promotes a consistent charging experience.",
+      "Safely cleans charge ports without corrosive chemicals.",
+      "Formulated for use on electric and hybrid vehicle charge ports.",
+      "Removes dust, grime, and residue for optimal charging performance."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "EV Charge Port Cleaner/Charge-Port-Cleaner-10.27.25.pdf",
+    "review": []
+  }
 }

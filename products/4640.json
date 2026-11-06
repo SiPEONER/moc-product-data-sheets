@@ -91,5 +91,23 @@
   },
   "review": [
     "Has a Performance Ratings section: Cleaning - 8 Shine - 6"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Restore Luster",
+    "description": "A premium water-based cleaner and protectant that rapidly removes dirt and grime from leather, vinyl, and plastic surfaces. Our 2 in 1 product not only restores the natural luster of a vehicle’s interior but also leaves behind a fresh scent and a subtle matte finish without any oily or greasy residue.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Save time and money",
+      "Clean without damaging interior surfaces",
+      "Protect interior from harmful UV rays",
+      "Non-greasy formula"
+    ],
+    "callout": "1 // 5 GAL",
+    "footnotes": [],
+    "source": "Interior Clean & Shine/Interior-C&S-AD-07.23.25.pdf",
+    "review": [
+      "Moved to the call-out: 1/5 GAL."
+    ]
+  }
 }

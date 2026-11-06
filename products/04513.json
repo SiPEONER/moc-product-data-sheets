@@ -92,5 +92,25 @@
     "pdf": "04513.pdf",
     "old_rev": 1
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Long-lasting Protection",
+    "description": "A premium, ready-to-use 50/50 blend engine coolant specifically formulated to meet the unique demands of Asian makes and models requiring a red/pink Phosphate-Enhanced Organic Acid Technology (POAT) formula.\n\nThis advanced long-life coolant is Silicate and Borate free, ensuring compatibility and long-lasting protection against rust and corrosion for all cooling system metals, including aluminum. With a service life of up to 150,000 miles or five (5) years, MOC’s super long-life coolant keeps Asian cooling systems running, cleaner, cooler and longer.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "5 year / 150,000 mile protection",
+      "Protects against rust & corrosion",
+      "Protects against freeze-ups to -34° F",
+      "Protects against summer boil-overs to 265° F",
+      "Protects all cooling system metals, including aluminum",
+      "Compatible with Asian Vehicle PINK/RED coolant formulations"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Asian Red-Pink Coolant/Pink Super long-life Coolant-11.10.25.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): ASIAN RED/PINK COOLANT"
+    ]
+  }
 }

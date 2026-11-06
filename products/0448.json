@@ -78,5 +78,22 @@
   },
   "review": [
     "Bottle photo is only 371 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Restore Atomization",
+    "description": "Given the growing popularity of GDI (Gasoline Direct Injection) technology and the need for accurate pressure and fuel spray patterns.\n\nGDI Fuel Injector Cleaner is formulated to quickly dissolve stubborn fuel deposits that restrict fuel flow. GDI Fuel Injector Cleaner restores fuel spray patterns, proper fuel atomization, engine efficiency and will not harm fuel system components.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Designed for all GDI systems",
+      "Cleans injector passageways and nozzle",
+      "Helps reduce emissions",
+      "Can help improve driveability"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "GDI Fuel Injector Cleaner/GDI-Fuel-Injector-Cleaning-02.13.25.pdf",
+    "review": [],
+    "image": "img/0448-ad.png"
+  }
 }

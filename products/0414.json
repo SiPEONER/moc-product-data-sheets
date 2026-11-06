@@ -85,5 +85,22 @@
   },
   "review": [
     "Bottle photo is only 380 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Superior Protection",
+    "description": "A multi-grade synthetic (polyalphaolefin), A.P.I. GL-5 rated, hypoid gear oil formulated to SAE 75W-90 viscosity. A versatile extreme-pressure lubricant designed for use in conventional differentials, limited-slip differentials, and manual transmissions. Can be used in place of SAE 75W-85, SAE 80W-90, or SAE 90 gear oils.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Superior lubrication and protection for bearings and gears.",
+      "Helps prevent wear, pitting and corrosion under high-load conditions.",
+      "Excellent fluidity in extreme temperatures.",
+      "Reduces gear noise and increases driveline efficiency.",
+      "Meets stringent industry standards, including API GL-5, MT-1 and SAE J2360 specs."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Gear Guard-75-90-07.21.25/Gear-Guard-75-90-AD-07.21.25.pdf",
+    "review": []
+  }
 }

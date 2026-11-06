@@ -1,0 +1,31 @@
+{
+  "item": "01581",
+  "name": "Brake System Silicone",
+  "pds": false,
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Additives & Fluids",
+  "image": "img/01581.png",
+  "image_px": 385,
+  "ad": {
+    "rev": "1.0",
+    "headline": "Prevent Seizing",
+    "description": "A silicone based lubricant that protects rubber and plastic gears with excellent water repellency., Unaffected by extreme temperatures from -40°F to 500°F. Prevents drying and cracking. Recommended by major brake installer chains, fleets, and brake manufacturers.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Maximizes brake efficiency.",
+      "Resists moisture and will not washout.",
+      "Prevents seizing, galling, rust, and corrosion of components.",
+      "Lubricates and protects caliper pins, sleeves, bushings, and pistons."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Brake System Silicone/Brake-System-Silicone-02.12.25.pdf",
+    "review": []
+  },
+  "source": {
+    "ad_pdf": "Brake System Silicone/Brake-System-Silicone-02.12.25.pdf"
+  },
+  "review": [
+    "Ad only: no product data sheet found for this item"
+  ]
+}

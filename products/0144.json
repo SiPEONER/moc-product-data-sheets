@@ -89,5 +89,25 @@
   },
   "review": [
     "Bottle photo is only 391 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Reduce Emissions",
+    "description": "Contains powerful cleaning agents and detergents designed to clean diesel fuel injectors and combustion chambers. By removing carbon and gum deposits, fuel flow and spray patterns are improved. The result is increased power, performance, and reduced emissions and smoke.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Quickly and easily cleans injectors (DW10 test).",
+      "Lubricates fuel components while it cleans.",
+      "Compatible with all fuel-system components.",
+      "Helps stop diesel knock.",
+      "Helps reduce exhaust emissions and smoke.",
+      "Helps cure performance problems due to poor spray patterns and deposit buildup."
+    ],
+    "callout": "Available in 12 and 32 oz. bottles",
+    "footnotes": [],
+    "source": "Diesel Purge/Diesel-Purge-AD-07.21.25.pdf",
+    "review": [
+      "Moved to the call-out: Available in 12 and 32 oz. bottles."
+    ]
+  }
 }

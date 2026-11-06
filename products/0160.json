@@ -70,5 +70,22 @@
   },
   "review": [
     "Bottle photo is only 573 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Rodent Deterrent",
+    "description": "Formulated with essential oils that deliver a smell and taste developed to deter mice, rats, and other rodents from burrowing into a vehicle’s engine compartment and undercarriage. The heat of a recently used vehicle can last up to 24 hours, making it an inviting place for various rodents to seek warmth and begin nesting. By applying BANISH to these areas, a barrier is created to help keep away rodents and their offspring.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Developed to prevent rodent entry, nesting, and foraging.",
+      "Easy and fast application",
+      "Contains natural ingredients"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Banish/Banish-Rodent-Deterrent-got rodents-AD-04.26.26.pdf",
+    "review": [
+      "Ad headline set by hand from the old artwork"
+    ]
+  }
 }

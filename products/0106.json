@@ -86,5 +86,23 @@
   },
   "review": [
     "Bottle photo is only 378 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Lower Emissions",
+    "description": "Fuel system deposits such as carbon can quickly build up on intake valves, fuel injectors and combustion chambers during normal operation of your vehicle. A highly concentrated supplement is added to the fuel system. This multi-purpose detergent cleans fuel injectors, intake valves and combustion chambers.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Cleans injector tips for better fuel flow.",
+      "Improves performance and driveability",
+      "Will not harm fuel system components, including catalytic converter.",
+      "Can be used in all types of fuel."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Fuel System Treatment/Fuel-System-Treatment-AD-05.07.24.pdf",
+    "review": [
+      "Ad spelling corrected: photo label removed from a benefit: es of fuel. BEFORE AFTER"
+    ]
+  }
 }

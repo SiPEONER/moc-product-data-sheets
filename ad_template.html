@@ -32,7 +32,8 @@ body { font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif; -webkit-p
 .logo { position: absolute; top: 0.25in; right: 0.25in; width: 0.5in; height: auto; display: block; }
 .claim {
   margin-top: 0.62in; max-width: 4.7in;
-  font-weight: 900; font-size: 74pt; line-height: 0.9; letter-spacing: -0.01em; text-transform: uppercase;
+  /* 74pt as designed; the build steps it down for long claims (--c). */
+  font-weight: 900; font-size: calc(74pt * var(--c, 1)); line-height: 0.9; letter-spacing: -0.01em; text-transform: uppercase;
 }
 .ident { position: absolute; left: 0.7in; bottom: 0.42in; display: flex; align-items: center; gap: 12pt; max-width: 4.6in; }
 .stamp {
@@ -45,16 +46,22 @@ body { font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif; -webkit-p
 
 /* ---------- Bottle: bigger than on the data sheet, same corner ---------- */
 .photo { position: absolute; top: 1.55in; right: 0.62in; width: 2.2in; height: 5.75in; display: flex; justify-content: center; }
-.photo img { height: 100%; width: auto; display: block; }
+/* Tall bottles fill the height; jugs and kits fit the width and sit on the same baseline. */
+.photo img { height: 100%; width: 100%; object-fit: contain; object-position: center bottom; display: block; }
 .photo.ph { border: 2px dashed #000000; background: #ffffff; align-items: center; padding: 8pt; text-align: center; }
 
 /* ---------- Body ---------- */
 .body { padding: 0.36in 0 0 0.7in; flex: 1; display: flex; flex-direction: column; gap: 16pt; width: 5.4in; }
+.narrow .body { width: 4.78in; }
 .h { font-weight: 900; font-size: 8pt; line-height: 1.2; letter-spacing: 0.1em; text-transform: uppercase; border-bottom: 2px solid #000000; padding-bottom: 5pt; margin-bottom: 9pt; }
-.copy { font-size: 10pt; line-height: 1.5; }
+.page { --s: 1; }
+.copy { font-size: calc(10pt * var(--s)); line-height: 1.5; }
 .copy p { text-wrap: pretty; }
-.benefits ul { list-style: none; display: flex; flex-direction: column; gap: 5pt; }
-.benefits li { position: relative; padding-left: 15pt; font-weight: 700; font-size: 10.5pt; line-height: 1.35; }
+.copy p + p { margin-top: calc(7pt * var(--s)); }
+.benefits ul { list-style: none; display: flex; flex-direction: column; gap: calc(5pt * var(--s)); }
+.fine { margin-top: auto; font-size: 6.5pt; line-height: 1.4; }
+.fine p + p { margin-top: 2pt; }
+.benefits li { position: relative; padding-left: 15pt; font-weight: 700; font-size: calc(10.5pt * var(--s)); line-height: 1.35; }
 .benefits li::before { content: "+"; position: absolute; left: 0; top: 0; font-weight: 900; }
 
 /* Optional call-out under the bottle: a solid stamp, never a starburst. */
@@ -73,7 +80,7 @@ body { font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif; -webkit-p
 </style>
 </head>
 <body class="{{ 'screen' if screen else '' }}">
-<div class="page">
+<div class="page{{ ' narrow' if narrow else '' }}" style="--s: {{ scale|default(1) }}; --c: {{ claim|default(1) }}">
   <header class="band">
     <p class="micro cat">{{ p.category }}</p>
     <p class="micro micro-reg type">Product Information</p>
@@ -85,8 +92,9 @@ body { font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif; -webkit-p
     </div>
   </header>
 
-  {% if p.image %}
-  <div class="photo"><img src="{{ p.image }}" alt="{{ p.name }}"></div>
+  {% set photo = a.image or p.image %}
+  {% if photo %}
+  <div class="photo"><img src="{{ photo }}" alt="{{ p.name }}"></div>
   {% else %}
   <div class="photo ph"><p class="micro">Product photo<br><br>PNG cutout<br>1,200 px tall</p></div>
   {% endif %}
@@ -95,14 +103,15 @@ body { font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif; -webkit-p
   <main class="body">
     <section class="copy">
       <h2 class="h">01 // About</h2>
-      <p>{{ a.description }}</p>
+      {% for para in a.description.split("\n\n") %}<p>{{ para }}</p>{% endfor %}
     </section>
     <section class="benefits">
-      <h2 class="h">02 // Product Benefits</h2>
+      <h2 class="h">02 // {{ a.benefits_label or "Product Benefits" }}</h2>
       <ul>
         {% for b in a.benefits %}<li>{{ b }}</li>{% endfor %}
       </ul>
     </section>
+    {% if a.footnotes %}<section class="fine">{% for n in a.footnotes %}<p>{{ n }}</p>{% endfor %}</section>{% endif %}
   </main>
 
   <footer class="foot">

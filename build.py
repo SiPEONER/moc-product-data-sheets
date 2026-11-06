@@ -23,9 +23,16 @@ TEMPLATE_ITEM = "00000"
 # Keep search engines out until the site is approved for launch; set to False then.
 NOINDEX = True
 SCALES = (1, 0.96, 0.92, 0.89, 0.86)
+CLAIMS = (1, 0.9, 0.81, 0.7, 0.62, 0.55)  # 74pt down to 41pt, for one long word
 # Order of the library sections on the site (any other section follows, A to Z).
 SECTION_ORDER = ["Additives & Fluids", "Aerosols & Service Chemicals", "Cleaners & Degreasers", "Shampoos & Washes",
                  "Waxes, Polishes & Compounds", "Dressings & Protectants", "Glass Care", "Odor Control"]
+
+# The picture as drawn inside the photo box (object-fit: contain, bottom-aligned), not the box itself.
+DRAWN = """(() => { const i = document.querySelector('.photo img'); if (!i || !i.naturalWidth) return null;
+  const B = i.getBoundingClientRect(), k = Math.min(B.width / i.naturalWidth, B.height / i.naturalHeight);
+  const w = i.naturalWidth * k, h = i.naturalHeight * k;
+  return { left: B.left + (B.width - w) / 2, top: B.bottom - h, bottom: B.bottom }; })"""
 
 # Footer must stay on the page and its text inside the side margins.
 FOOT_CHECK = """(() => { let worst = 0;
@@ -50,8 +57,11 @@ DOCS = {
         rev=lambda p: p["ad"]["rev"],
         checks={
             # Widest the claim may run before it meets the bottle neck: 5.95 in.
-            "the headline runs into the bottle": "(() => { const g = document.createRange(); g.selectNodeContents(document.querySelector('.claim')); let r = 0; for (const b of g.getClientRects()) r = Math.max(r, b.right); return r - 571; })()",
+            # Widest the claim may run: 5.95 in, and never into the drawn bottle.
+            "the headline runs into the bottle": "(() => { const g = document.createRange(); g.selectNodeContents(document.querySelector('.claim')); const d = DRAWN(); let r = -1e9; for (const b of g.getClientRects()) { r = Math.max(r, b.right - 571); if (d && b.bottom > d.top) r = Math.max(r, b.right - d.left + 8); } return r; })()",
             "the headline runs into the product name": "(() => document.querySelector('.claim').getBoundingClientRect().bottom - document.querySelector('.ident').getBoundingClientRect().top + 12)()",
+            # The drawn picture inside its box (object-fit: contain, bottom-aligned), not the box itself.
+            "the copy runs into the bottle": "(() => { const d = DRAWN(); if (!d) return 0; const g = document.createRange(); g.selectNodeContents(document.querySelector('.body')); let r = -1e9; for (const x of g.getClientRects()) if (x.bottom > d.top && x.top < d.bottom && x.width > 0) r = Math.max(r, x.right - d.left + 6); return r; })()",
             "the call-out runs into the footer": "(() => { const c = document.querySelector('.callout'); return c ? c.getBoundingClientRect().bottom - document.querySelector('.foot').getBoundingClientRect().top + 12 : 0; })()",
         },
     ),
@@ -98,7 +108,8 @@ def steps(text):
 
 
 def has(kind, p):
-    return kind == "pds" or bool(p.get("ad"))
+    """Every product has a data sheet unless it is ad-only ("pds": false); an ad sheet when it has an "ad" block."""
+    return p.get("pds", True) if kind == "pds" else bool(p.get("ad"))
 
 
 def main(only):
@@ -117,6 +128,8 @@ def main(only):
             p = json.loads(path.read_text())
             if p.get("image"):
                 p["image"] = data_uri(p["image"])
+            if p.get("ad", {}).get("image"):
+                p["ad"]["image"] = data_uri(p["ad"]["image"])
             for kind, d in DOCS.items():
                 if not has(kind, p):
                     continue
@@ -132,15 +145,20 @@ def main(only):
                     tries = [(lay, False, False, sc) for lay in ("standard", "wide") for sc in SCALES]
                     tries += [(lay, True, False, sc) for lay in ("standard", "wide") for sc in SCALES]
                     tries += [("two", False, ts, sc) for ts in (False, True) for sc in (1, 0.96, 0.92)]
+                    tries = [(lay, compact, ts, sc, 1) for lay, compact, ts, sc in tries]
                 else:
-                    tries = [("standard", False, False, sc) for sc in SCALES]
-                for lay, compact, two_specs, scale in tries:
-                    ctx.update(scale=scale, layout=lay, compact=compact, two_specs=two_specs)
+                    # Ads: the claim steps down first (74pt to 41pt), then the running text.
+                    # Then a narrower text column, for jugs and kits that are wider than a bottle.
+                    tries = [("standard", nw, False, sc, c) for nw in (False, True) for sc in SCALES for c in CLAIMS]
+                for lay, compact, two_specs, scale, claim in tries:
+                    narrow = compact if kind == "pas" else False
+                    compact = compact if kind == "pds" else False
+                    ctx.update(scale=scale, layout=lay, compact=compact, two_specs=two_specs, claim=claim, narrow=narrow)
                     page.set_content(tpl.render(screen=False, **ctx), wait_until="load")
                     page.evaluate("document.fonts.ready")
                     problems = []
                     for what, js in d["checks"].items():
-                        v = page.evaluate(js)
+                        v = page.evaluate(js.replace("DRAWN()", DRAWN + "()"))
                         if v > 0.5:
                             problems.append(f"{what} by {v:.0f}px")
                     v = page.evaluate(FOOT_CHECK)
@@ -152,7 +170,7 @@ def main(only):
                 page.pdf(path=str(OUT / f"{base}.pdf"), width="8.5in", height="11in", print_background=True, prefer_css_page_size=True)
                 page.screenshot(path=str(OUT / f"{base}.png"), clip={"x": 0, "y": 0, "width": 816, "height": 1056})
                 page.close()
-                fitted = {"wide": " (wide application)", "two": " (2 pages)"}.get(ctx["layout"], "") + (" (compact)" if ctx.get("compact") else "") + (f" (text at {ctx['scale']:.0%})" if ctx["scale"] < 1 else "")
+                fitted = (" (narrow column)" if ctx.get("narrow") else "") + (f" (claim at {ctx['claim']:.0%})" if ctx.get("claim", 1) < 1 else "") + {"wide": " (wide application)", "two": " (2 pages)"}.get(ctx["layout"], "") + (" (compact)" if ctx.get("compact") else "") + (f" (text at {ctx['scale']:.0%})" if ctx["scale"] < 1 else "")
                 print(f"{base}: " + ("OK" + fitted if not problems else "FAIL: " + "; ".join(problems)))
                 if problems:
                     failed.append(base)

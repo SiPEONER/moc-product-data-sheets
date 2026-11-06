@@ -1,0 +1,31 @@
+{
+  "item": "51502",
+  "name": "Refresh Trim Restorer",
+  "pds": false,
+  "category": "Automotive Dressing",
+  "library_section": "Dressings & Protectants",
+  "image": "img/51502.png",
+  "image_px": 1378,
+  "ad": {
+    "rev": "1.0",
+    "headline": "Restore & Protect",
+    "description": "Bring back that deep, rich black appearance to all non-painted exterior plastic, vinyl and rubber surfaces. Formulated to restore faded, weathered trim to its original, showroom-new appearance. The non-greasy formula dries quickly and will not streak when treated surfaces get wet. Shake well and apply a dime-sized drop trim restorer to a clean, cool surface using a microfiber foam applicator pad.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Restores Faded Trim.",
+      "Long-Lasting, Hybrid Ceramic Protection.",
+      "Non-Greasy, Quick-Drying Formula.",
+      "Simply apply and wipe off for that showroom look."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Refresh/Refresh-AD-01.15.25.pdf",
+    "review": []
+  },
+  "source": {
+    "ad_pdf": "Refresh/Refresh-AD-01.15.25.pdf"
+  },
+  "review": [
+    "Ad only: no product data sheet found for this item"
+  ]
+}

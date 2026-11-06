@@ -1,0 +1,35 @@
+{
+  "item": "62941",
+  "name": "Vision Enhancement Kit",
+  "pds": false,
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Glass Care",
+  "image": "img/62941.png",
+  "image_px": 898,
+  "ad": {
+    "rev": "1.0",
+    "headline": "Improve Vision",
+    "description": "The new and improved Vision Glass Treatment forms a chemical bond with your windshield, creating a hydrophobic surface that repels water. Its anti-static ceramic polymers adhere to clean, dry glass - making it ideal for windshields and other exterior glass surfaces. Vision Glass Treatment remains highly effective even after months of everyday driving, standing up to harsh conditions like heavy rain, snow, car washes, glass cleaners, and salt spray.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Great for EV / HEV front, side, and backup cameras.",
+      "Repels rain for improved vision.",
+      "Enables easier clearing of ice, snow, and dirt.",
+      "Reduces glare of oncoming vehicle lights.",
+      "Helps reduce mineral deposits.",
+      "Allows for easy removal of bugs and bird droppings."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "MP Vision/Vision-Kit-Ad-10.27.25.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): #62941"
+    ]
+  },
+  "source": {
+    "ad_pdf": "MP Vision/Vision-Kit-Ad-10.27.25.pdf"
+  },
+  "review": [
+    "Ad only: no product data sheet found for this item"
+  ]
+}

@@ -69,5 +69,23 @@
   },
   "review": [
     "Bottle photo is only 889 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "All Weather",
+    "description": "This heavy-duty product clings to gears, open bearings and sliding metal-to-metal surfaces while providing superior lubricity and anti-rust barriers. White lithium grease is long-lasting and will not run, wash off, or freeze.\n\nAUTOMOTIVE USES: lubricates doors, hood, trunk latches and hinges, gear shift mechanisms, speedometer cables, distributor cams, seat tracks, battery terminals, and retracting antennas. SHOP USES: lubricates doors channels, fans, machinery, pulleys, and industrial equipment.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Convenient “No-Drip” formula clings to surfaces.",
+      "Long-lasting, heat, and water-resistant formula. Working Temperature (0°F to 300°F).",
+      "Prevents rust and corrosion."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "White Lithium Grease/White-Lithium-Grease-AD-07.23.25.pdf",
+    "review": [
+      "Ad description set by hand from the old artwork"
+    ],
+    "image": "img/1049-ad.png"
+  }
 }

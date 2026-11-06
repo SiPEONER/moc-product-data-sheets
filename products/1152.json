@@ -68,5 +68,23 @@
   },
   "review": [
     "Bottle photo is only 386 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Maximum Shine",
+    "description": "Restores shine back to rubber, plastic, and vinyl parts in seconds. The custom tip sprays a fine aerosol mist to easily coat thin low-profile accessories, narrow trim pieces, window moldings, rubber coolant lines, and plastic engine covers with minimal overspray. The fine atomized formula stays where it sprays for maximum new shine with minimal product waste. GLOSS comes blended with UV blocking agents that repel harmful sun rays that can break down and damage rubber, plastic and vinyl trim pieces.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "No wiping required",
+      "Works on contact",
+      "Pleasant, watermelon scent",
+      "Great for those hard-to-reach areas",
+      "Protect against future solar damage"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "MP Gloss/Gloss-ad-01.17.25.pdf",
+    "review": [],
+    "image": "img/1152-ad.png"
+  }
 }

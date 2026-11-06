@@ -82,5 +82,23 @@
     "pdf": "2180.pdf",
     "old_rev": 2
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Polish & Protect",
+    "description": "A versatile finishing wax that cleans, polishes and protects, leaving a durable high-gloss finish on painted surfaces. MP Pro Series Perfection™ Finish Wax is specially formulated for use with DA Random-Orbital Polishers to remove light scratches, oxidation and swirl marks without dust or residue to clean up. Designed for use with MP Pro Series microfiber or foam finishing pads .",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Fast scratch & oxidation removal without swirls.",
+      "No sling, no dust: easy clean-up.",
+      "Leaves a deep long-lasting shine.",
+      "Formulated for DA Random: Orbital Polishers."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "MP 2- Step/Perfection-AD-01.21.26.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): finishing wax #21802 | SCAN FOR PRODUCT DEMO"
+    ]
+  }
 }

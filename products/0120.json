@@ -77,5 +77,21 @@
   "review": [
     "Bottle photo is only 391 px tall",
     "Spelling corrected from the old sheet: componets -> components"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Remove Varnish",
+    "description": "A powerful solvent blend that will quickly remove gum, varnish, carbon and other deposits from the throttle-valve, throttle-body, idle-air control valves, PCV valves, plenum and other parts of the air-induction system. It can improve engine performance by dissolving those deposits which build up and cause rough idling, hard starting, stalling, and poor acceleration. As a result of its cleaning process, harmful exhaust emissions can be significantly reduced.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Dissolves gum and varnish deposits that cause rough idle.",
+      "Reduces harmful exhaust emissions.",
+      "Improves engine performance.",
+      "Will not harm oxygen sensors or catalytic converters."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Double Clean/Double Clean-AD-07.23.25.pdf",
+    "review": []
+  }
 }

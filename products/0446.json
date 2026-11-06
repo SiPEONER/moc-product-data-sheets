@@ -82,5 +82,22 @@
   "review": [
     "Bottle photo is only 395 px tall",
     "Name read by hand from the header artwork"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Smoother Shifting",
+    "description": "A concentrated protectant designed to fortify and extend the service life of Automatic Transmisison Fluid. A blend of synthetic base oils and additives that improve fluid oxidation stability, conditions seals to prevent leaks, slows sludge and varnish formation, and helps control transmission shudder.\n\nSHYFT is poured into the transmission after a MOC® Automatic Transmission Fluid Exchange or a transmission drain and refill service. NOT COMPATIBLE WITH CVT TRANSMISSIONS.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Extends fluid life",
+      "Eliminates transmission fluid foaming and oxidation",
+      "Reduces wear throughout the transmission",
+      "Provides for smoother shifting",
+      "Designed for use in the newest generation of ATF (Dexron III, Mercon V, Chrysler, Toyota WS & Allison C-4)."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Shyft/Shyft-ATF-Additive-1.2.24.pdf",
+    "review": []
+  }
 }

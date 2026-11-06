@@ -81,5 +81,22 @@
   },
   "review": [
     "Name check: header reads \"PREMIUM ATF SUPPLEMENT\", description says \"Automatic Transmission Fluid Exchanger\""
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Improve Stability",
+    "description": "A concentrated conditioner designed to fortify and extend the service life of ATF. This blend of synthetic base oils and additives improves fluid oxidation stability, conditions seals to prevent leaks, slows sludge and varnish formation, and helps control transmission shudder. Premium ATF Supplement is poured into the transmission after a MOC® Automatic Transmission Fluid Exchanger has completed its exchange cycle.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "A highly concentrated formula that helps extend the life of automatic transmission fluid by improving oxidation stability. (ASTM D4742 TFOUT)",
+      "Helps prevent sludge and varnish formation.",
+      "Helps keep seals soft and pliable.",
+      "A “universal” product designed for use in the newest generation of ATF fluids.",
+      "Contains a special shudder guard additive."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Premium ATF Supplement/Premium-ATF-Supplement-AD-07.23.25.pdf",
+    "review": []
+  }
 }

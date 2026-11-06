@@ -82,5 +82,23 @@
     "pdf": "04503.pdf",
     "old_rev": 2
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Extended Life",
+    "description": "A premix, 50/50 blend coolant with a premium ethylene glycol base and a high-performance anti-corrosion additives. The Hybrid Organic Acid Technology (HOAT) formulation is silicate and borate free. Additionally, our universal extended life coolant is designed to protect all cooling system metals for 5 Years / 150,000 miles. It also meets the protection requirements for American, and Asian cars and light trucks, including GM (Dexcool). The versatile formula will mix with all coolant / antifreeze formulations.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Protects against freeze-ups down to -34° F",
+      "Protects against summer boil-overs up to 265° F",
+      "Protects against rust & corrosion",
+      "Protects cooling system metals, including aluminum",
+      "Compatible with other Coolant/Antifreeze formulations",
+      "5 year / 150,000 mile protection"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Universal Coolant/Extended-Life-Coolant-AD-11.18.24.pdf",
+    "review": []
+  }
 }

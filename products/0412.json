@@ -84,5 +84,22 @@
   },
   "review": [
     "Spelling corrected from the old sheet: compenents -> components"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Remove Sludge",
+    "description": "An effective blend of detergents and dispersants which quickly and safely remove accumulated sludge and other deposits that would otherwise be left behind in an engine after a normal oil change. If not removed, this “carryover” debris can contaminate new oil and continue to build sludge deposits. When used in an engine prior to an oil change, this product removes sludge deposits from lifters, rings, lands, rocker arms and other internal components. This product does not contain harmful solvents. It may be used in gasoline, diesel, and rotary engines.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Contains an anti-friction additive to help prevent dry starts.",
+      "Helps remove harmful deposits and contaminants.",
+      "Helps clean valve lifters, ring lands and rocker arms.",
+      "Can improve fluid circulation.",
+      "Cleans sludge, gum, and varnish."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Engine Flush Solution/Engine Flush Solution - 04.23.26.pdf",
+    "review": []
+  }
 }

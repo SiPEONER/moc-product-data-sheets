@@ -101,5 +101,23 @@
   "review": [
     "Has a Performance Ratings section: Abrasiveness - 2 Gloss - 8 Durability - 7",
     "Bottle photo is only 351 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Smooth Finish",
+    "description": "Leaves a deep “wet look” shine with no streaks or smudges. Contains carnauba wax and resins that provide great protection and a smooth finish like no other. Can be applied in direct sunlight.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Contains Natural Carnauba",
+      "Protects against fading & discoloring",
+      "Leaves a deep wet-look shine",
+      "Designed for all types of paint"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Banana Wax/Banana Wax AD-03.26.25.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): BANANA WAX"
+    ]
+  }
 }

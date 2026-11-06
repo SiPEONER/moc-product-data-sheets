@@ -66,5 +66,21 @@
     "pdf": "10161.pdf",
     "old_rev": 2
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Protect & Lubricate",
+    "description": "PLP penetrating lubricant penetrates stuck parts, protects metal from rust and corrosion, and displaces moisture. PLP lubricates between small spaces to keep moving parts like wheels, hinges, chains and gears moving smoothly.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Loosens rusted parts.",
+      "Protects against corrosion.",
+      "Frees sticky, frozen or rusted metal parts.",
+      "Lubricates moving parts such as hinges and gears."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "PLP Lube/PLP-Protectant-Lube-02.20.25.pdf",
+    "review": []
+  }
 }

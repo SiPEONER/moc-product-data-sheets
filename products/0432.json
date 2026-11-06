@@ -82,5 +82,24 @@
   },
   "review": [
     "Bottle photo is only 392 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Advanced Detergents",
+    "description": "Today’s GDI, hybrid and high-output engines are extremely sensitive to deposit build-up on fuel injectors, intake valves and combustion chambers. Even small amounts of deposits from inconsistent fuel quality and daily driving conditions can quickly reduce fuel economy, impact engine performance, and create drivability issues.\n\nENHANCE® - Fuel System Cleaner is a fast-acting deposit remover that cleans combustion chambers, intake valves and restores flow in fuel injectors. Enhance your vehicle’s power, economy, and performance today!",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "CLEANS THE ENTIRE FUEL SYSTEM.",
+      "COMPATIBILE WITH ALL TYPES OF FUEL.",
+      "DESIGNED FOR MODERN GDI, HYBRID & HIGH-OUTPUT ENGINES.",
+      "CAN CORRECT DEPOSIT-RELATED PERFORMANCE PROBLEMS.",
+      "RAPID “ONE-TANK” CLEAN-UP OF THE MOST SEVERE DEPOSITS."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Enhance/Enhance-AD-01.21.26.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): FUEL SYSTEM CLEANER #04321 | COUNTER DISPLAY #82834"
+    ]
+  }
 }

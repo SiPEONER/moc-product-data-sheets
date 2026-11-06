@@ -99,5 +99,20 @@
   "review": [
     "Has a Performance Ratings section: Foaming - 9 Concentration - 9",
     "Bottle photo is only 373 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "High Foaming",
+    "description": "A high-foaming car shampoo combined with wax that gently cleans a vehicle’s exterior while leaving a shiny finish. The mild formula removes dirt, road film and other surface contaminants without stripping any existing wax finish.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "A super thick, highly concentrated liquid soap.",
+      "Creates a thick dense foam that lifts dirt from the surface of the vehicle.",
+      "Contains real wax that leaves a luster to the paint."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Wash n Wax/washnwax-Ad-07.23.25.pdf",
+    "review": []
+  }
 }

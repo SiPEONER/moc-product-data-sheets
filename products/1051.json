@@ -61,5 +61,23 @@
   },
   "review": [
     "Spelling corrected from the old sheet: Evaporator Cileaner -> Evaporator Cleaner"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Low Foam Clean & Deodorize",
+    "description": "A specially formulated, low-foam cleaner designed to quickly remove odor-causing buildup from the evaporator core and housing of automotive HVAC systems. Its low-foam formula dissipates quickly, helping reduce cleanup time and allowing the HVAC system to return to service sooner. Cone-Style Applicator: Designed for direct injection into the vehicle’s HVAC evaporator system, either through the cabin air-filter area or through the evaporator drain tube.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Removes contaminants from the surface of the evaporator core.",
+      "Can improve the flow of air.",
+      "Increase the efficiency of the air-conditioning system.",
+      "Patented process for removing built-up contaminants."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "AC Evaporator Core-low foam 10511/Evap Core Cleaner-LOW FOAM 08.24.26.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): Dirty Evaporator Unique Foaming Quick & Easy! | Core Action"
+    ]
+  }
 }

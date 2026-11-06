@@ -72,5 +72,24 @@
   },
   "review": [
     "Bottle photo is only 381 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Prevent Corrosion",
+    "description": "While Ethanol blended fuels may lower emissions or have less environmental impact, there are side effects to the use of ethanol in E10, E85 or other blended fuels. They include system corrosion, oxidation and deposit formation. Because ethanol absorbs water it can be highly corrosive to some metal surfaces, meaning it can damage certain fuel- system components. Additionally, ethanol commonly replaces other gasoline components which act as fuel stabilizers. As a result, These fuels contain ethanol can oxidize quicker and may form gum or varnish at a faster rate.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Prevents fuel system deposits",
+      "Cleans fuel injectors",
+      "Improves storage stability by inhibiting oxidation.",
+      "Can be used in tools, equipment, or recreational vehicles with 2 or 4-cycle engines."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "E-shield/E-Shield-Ad-05.07.24.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): For fuels made with ethanol #01071",
+      "Ad spelling corrected: Corroision -> Corrosion; photo label removed from a benefit: oxidation. BEFORE AFTER"
+    ]
+  }
 }

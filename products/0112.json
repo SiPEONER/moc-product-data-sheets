@@ -77,5 +77,23 @@
   "review": [
     "Bottle photo is only 391 px tall",
     "Spelling corrected from the old sheet: drivebility -> drivability"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Restore Spray Patterns",
+    "description": "Packed with powerful solvents and detergents that clean fuel injectors by removing harmful deposits that can restrict fuel flow. It restores the spray pattern of the injector. Will not harm fuel system components such as gaskets, hoses and o-rings, rubber components, and seals.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Chemically cleans injectors on the engine, avoiding the need for disassembly.",
+      "Does not have to be mixed with fuel.",
+      "Helps improve drivability.",
+      "Will not harm oxygen sensors or catalytic converters when used as directed."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Fuel Injector Flush/Fuel-Injector-Flush-AD-02.06.26.pdf",
+    "review": [
+      "Ad spelling corrected: photo label removed from a benefit: AFTER used as directed."
+    ]
+  }
 }

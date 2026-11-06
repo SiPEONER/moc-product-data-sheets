@@ -79,5 +79,24 @@
   "review": [
     "Bottle photo is only 377 px tall",
     "Name read by hand from the header artwork"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Vehicle Odor Treatment",
+    "description": "ODOR-B-GONE™ Fogger is a special blend formulated to neutralize odors that form in the evaporator core, air-conditioner housing, and vehicle interiors. This formula effectively combats the negative charge of bacteria and other odor- causing material at the source. Odors caused by mold, bacteria, pets, smoke and other containments are encapsulated and rendered odorless by the advanced technology of ODOR-B-GONE™ Fogger.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Odors are eliminated, not masked",
+      "Fast, easy, and reliable application",
+      "Versatile and economical–treats A/C system and interior surfaces simultaneously",
+      "Neutralizes contaminants that can cause health problems"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Odor-B-Gone Fogger_10651/Odor-B-Gone_Fogger-07.17.25.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): Dense fog permeates interior surfaces & leaves your | car smelling like new!"
+    ],
+    "image": "img/1065-ad.png"
+  }
 }

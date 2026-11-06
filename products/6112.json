@@ -65,5 +65,21 @@
   },
   "review": [
     "Bottle photo is only 371 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Dissolve Dirt & Grime",
+    "description": "Clean Tabs™ are concentrated windshield washer tablets that quickly dissolve in water to form windshield washer fluid that offers excellent detergency, controlled foam and a deep blue color. Once diluted, this fluid quickly dissolves dirt, grime, road film, and bug-matter while leaving the windshield bright and streak-free. It contains no alcohol or solvents and is compatible with paint or rubber surfaces of a vehicle.\n\nNote: This product is not resistant to freezing in diluted form and is not intended for use in colder climates.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Economical: One tablet makes 1 gallon of fluid.",
+      "Zero V.O.C formula (when added to water only).",
+      "Designed not to build up in vehicle lines and spray tips.",
+      "Saves money on shipping and space in storage or on shelves."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Clean Tabs/Clean Tabs-ad-04.14.25.pdf",
+    "review": []
+  }
 }

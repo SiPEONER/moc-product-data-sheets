@@ -91,5 +91,21 @@
   },
   "review": [
     "Has a Performance Ratings section: Gloss - 8 Durability - 4"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Restore & Protect",
+    "description": "A universal, water-based, silicone dressing that protects, beautifies, and restores interior and exterior automotive surfaces. Excellent gloss for tires and affords superior protection for vinyl, rubber, and leather.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Protects vinyl, rubber, and leather",
+      "Restores to a like-new finish",
+      "Provides UVA & UVB protection",
+      "Safe for interior & exterior use"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Shine n’ Guard/Shine-n-Guard-03.26.25.pdf",
+    "review": []
+  }
 }

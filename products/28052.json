@@ -68,5 +68,25 @@
     "pdf": "2805.pdf",
     "old_rev": 1
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Swirl Removal",
+    "description": "Designed to refine compounding marks while further removing light defects, Precise™ Clean bridges the gap between restoring and finishing. 100% body shop safe: no silicones, fillers or waxes",
+    "benefits_label": "Performance Benefits",
+    "benefits": [
+      "Removes compound haze, swirl marks and holograms",
+      "Eliminates P2000 grit and finer sanding scratches",
+      "Targets light oxidation and surface imperfections",
+      "Controlled abrasive breakdown for smooth, uniform results",
+      "No dusting, no sticking, extended work time",
+      "DA Orbitals - use 70336 MF cut / polish or 70326 foam polish pads"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Precise/Precise Clean - 04.28.26.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): Pull Cap | Included | PN - 70336 PN - 70326"
+    ]
+  }
 }

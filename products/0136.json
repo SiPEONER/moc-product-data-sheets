@@ -81,5 +81,23 @@
   },
   "review": [
     "Name read by hand from the header artwork"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Reduce Noise",
+    "description": "A universal lubricant for automotive air-conditioning systems that utilize R-134a, R-1234yf, and R-12 refrigerant. The advanced formula is designed to lower operating temperature and wear, increase operational reliability, and reduce noise and energy consumption. Unlike other oils, A/C Quiet™ MAX is not hygroscopic and will not absorb moisture from the ambient air.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Lubricates the entire air-conditioner system, including the compressor.",
+      "Compatible with R-12, R-134a, and R-1234yf refrigerant",
+      "Helps prevent acid from forming and inhibits corrosion.",
+      "Helps prevent corrosion, icing, and acid formation by forming a barrier to moisture.",
+      "Contains a unique color dye for detecting leaks (under black light).",
+      "Available in two sizes - 2 oz. and 8 oz."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "AC QUIET MAX/AC-QUIET-Max-AD-12.13.24.pdf",
+    "review": []
+  }
 }

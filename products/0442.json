@@ -76,5 +76,21 @@
     "pdf": "0442.pdf",
     "old_rev": 3
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Restore Power",
+    "description": "Created specifically to give the latest hybrid engines the extra attention they need to perform at their best.\n\nDue to the unique operation and design, hybrid electric engines are extremely sensitive to carbon deposits that can build up in the fuel system. Even small amounts of deposits can increase harmful emissions, decrease fuel economy, and reduce engine power.\n\nAdding BOOST Fuel Stabilizer to the fuel tank can keep gasoline fresh, and prevent corrosion, moisture damage, and carbon deposits while it restores power, performance, and fuel efficiency.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Protects and keeps fuel fresh for an extended period.",
+      "Contains antioxidants & lubricants to protect against corrosion and moisture damage.",
+      "Can restore performance, power and fuel efficiency.",
+      "Dissolves stubborn combustion chamber, intake, and injector carbon deposits."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Boost/Boost-AD-07.29.25.pdf",
+    "review": []
+  }
 }

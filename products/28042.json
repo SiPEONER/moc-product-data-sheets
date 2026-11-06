@@ -68,5 +68,25 @@
     "pdf": "2804.pdf",
     "old_rev": 1
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Remove Surface Defects",
+    "description": "Formulated to aggressively correct while finishing clean, Precise™ Cut removes severe surface defects while maintaining long working time and excellent control. 100% body shop safe: no silicones, fillers or waxes",
+    "benefits_label": "Performance Benefits",
+    "benefits": [
+      "Removes P1000 grit and finer sanding scratches and surface defects",
+      "Effective on newer, harder to buff clear coats",
+      "Advanced micro abrasive technology for a controlled, consistent cut",
+      "No sticking, no dusting, no film residue",
+      "Extended work cycle reduces rework and pad loading",
+      "DA Orbitals - use 70300 wool or 70325 foam cutting pads"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Precise/Precise Cut - 04.28.26.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): Pull Cap | Included | PN - 70300 PN - 70325"
+    ]
+  }
 }

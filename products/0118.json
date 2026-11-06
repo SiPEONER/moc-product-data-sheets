@@ -70,5 +70,20 @@
   },
   "review": [
     "Name check: header reads \"PREMIUM ATF CLEANER\", description says \"Automatic Transmission Fluid Exchanger. This product\""
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Remove Varnish",
+    "description": "An effective blend of cleaners and dispersants that quickly remove and suspend accumulated deposits from the valve body, filter-screen, and other system components. This product is poured into the transmission through the dipstick tube prior to activating the MOC® Automatic Transmission Fluid Exchanger.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Helps suspend varnish, sludge and contaminants from the transmission system and housing, allowing for easier, more complete evacuation of contaminants during the fluid exchange process.",
+      "Compatible with rubber seals and other system components.",
+      "Prepares the torque converter, pump, ATF cooler and fluid lines for new ATF."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Premium ATF Cleaner/Premium-ATF-Cleaner-AD-07.23.25.pdf",
+    "review": []
+  }
 }

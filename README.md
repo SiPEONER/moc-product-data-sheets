@@ -5,11 +5,13 @@ Master templates and build kit for every MOC Products data sheet and ad sheet. S
 ## Documents
 
 - **MOC-PDS, Product Data Sheet** (`template.html`): the technical sheet. Built for every product.
-- **MOC-PAS, Product Ad Sheet** (`ad_template.html`): the one-page sales sheet. Built for every product whose data file has an `"ad"` block.
+- **MOC-PAS, Product Ad Sheet** (`ad_template.html`): the one-page sales sheet. Built for every product whose data file has an `"ad"` block. A product sold from an ad alone has `"pds": false` and gets no data sheet.
 
 ## Fitting long sheets
 
 The build tries, in order, until a sheet fits: the standard layout; smaller running text (down to 8 pt, never below); Application full width under the description; a compact header (shorter band and bottle); two pages, with long instructions (and, if needed, Specifications) on page 2 under a slim band. The log says which one each sheet used.
+
+Ad sheets step the claim down first (74 pt to 41 pt), then the running text, then narrow the text column for jugs and kits that are wider than a bottle. Ad sheets stay one page.
 
 ## Migrating the old sheets (done 2026-11-05, 215 products)
 
@@ -18,6 +20,16 @@ python3 tools/extract_ppd.py <old PDFs> --out drafts --img img   # read each old
 python3 tools/promote.py                                        # drafts -> products/*.json (names, sections, spelling)
 python3 build.py
 ```
+
+Ad sheets (done 2026-11-05):
+
+```
+python3 tools/extract_ad.py <old ad PDFs> --out drafts_ad --img img_ad   # claim, name, copy, benefits, fine print, photo
+python3 tools/promote_ad.py                                            # match to the data sheet, newest ad wins
+python3 build.py
+```
+
+`tools/promote_ad.py` lists the old ads set aside (service menus, service kits and programs: not single-product ads), the ads matched by hand (no item number printed), and the names of ad-only products.
 
 `tools/promote.py` holds the hand-checked names, the library sections (by item-number range), and the spelling corrections; each correction is logged in the product's `review` list. Product claims and figures are never edited by the scripts.
 
@@ -63,7 +75,8 @@ After the sheets, the build writes the public library site to `web/`: one card p
 | `application` | One or two sentences |
 | `packaging` | One row per size: `[fill, case quantity, case weight]` |
 | `ratings` | Optional performance ratings, e.g. `["Gloss 8", "Durability 4"]` |
-| `ad` | Optional ad sheet block: `headline`, `description`, `benefits`, `callout`, `rev` |
+| `ad` | Optional ad sheet block: `headline` (the claim), `description` (paragraphs split by a blank line), `benefits_label` (e.g. Performance Benefits), `benefits`, `footnotes` (fine print for starred claims), `callout`, `image` (optional ad photo), `rev` |
+| `pds` | `false` for an ad-only product (no data sheet) |
 | `source`, `review` | Where the data came from, and what still needs a product expert's check |
 
 ## Files
@@ -73,7 +86,7 @@ After the sheets, the build writes the public library site to `web/`: one card p
 - `img/`: bottle images. The two current ones are stand-ins cut from the concept PDF (about 390 px wide); they will be replaced by rendered bottles with the label art applied.
 - `web/`: the public library site (generated; Vercel deploys this folder)
 
-`out/` (working files), `site/` (the internal review page), `drafts/` (extraction output) and `review/` (the product-expert review list) are kept out of git; they live in the build kit in Andy's MOC-BRAND-STYLE-GUIDE folder.
+`out/` (working files), `site/` (the internal review page), `drafts/`, `drafts_ad/`, `img_ad/` (extraction output) and `review/` (the product-expert review list) are kept out of git; they live in the build kit in Andy's MOC-BRAND-STYLE-GUIDE folder.
 
 ## Template rules
 

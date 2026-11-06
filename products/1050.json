@@ -74,5 +74,24 @@
   },
   "review": [
     "Bottle photo is only 416 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Odor Treatment",
+    "description": "MOC® A/C Odor Treatment is a special blend of odor neutralizers that quickly eliminates odor-producing organisms that grow in the evaporator core and housing of air-conditioner systems. By cleansing the system, problems such as breathing discomfort and eye irritations may be avoided when the occupant turns on the air-conditioner. It is not just for A/C odors; it works equally well to control odors in the heating system during cold seasons.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Immediately attacks odors on contact",
+      "Easy application: Saves time",
+      "Odors are eliminated, not masked.",
+      "Non-ozone depleting: Contains no CFCs"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "AC Odor Treatment_10501/AC Odor Treatment-07.17.25.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): Cleanses A/C system of contaminants that can | cause problems when blown onto occupants."
+    ],
+    "image": "img/1050-ad.png"
+  }
 }

@@ -76,5 +76,21 @@
     "pdf": "0501.pdf",
     "old_rev": 2
   },
-  "review": []
+  "review": [],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Reduce Friction",
+    "description": "Motor Oil Supplement neutralizes acids, prevents sludge, reduces friction, stabilizes viscosity, and helps disperse soot buildup. Designed to fortify motor oil and protect lubricated parts of the engine between extended oil-change intervals common on modern vehicles. This full-synthetic formula contains advanced antioxidants, dispersants and lubricants that provide long-lasting protection and maintain oil performance.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Protects vital engine parts between oil changes.",
+      "Significantly reduces friction and improves load bearing ability.",
+      "Compatible with gas, diesel, turbo, and supercharged engines.",
+      "Reduces sludge and varnish."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Motor Oil Supplement/Motor Oil Supplement_12.6.23.pdf",
+    "review": []
+  }
 }

@@ -76,5 +76,22 @@
   },
   "review": [
     "Bottle photo is only 383 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Dissolve Severe Carbon",
+    "description": "Dissolve ™ contains the highest concentration of aminie-based detergents and powerful solvents formulated to rapidly dissolve carbon build-up on intake valves, runners, and ports of GDI, Hybrid and high-output engines that are prone to rapid accumulation of performance-robbing deposits.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Enhances fuel atomization for increased efficiency.",
+      "Designed to maximize both power and performance output.",
+      "Versatile: can be applied through multiple intake sources"
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Dissolve - 10oz/Dissolve-10oz-1.26.24.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): BEFORE SERVICE AFTER SERVICE"
+    ]
+  }
 }

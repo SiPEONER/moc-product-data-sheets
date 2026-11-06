@@ -1,0 +1,36 @@
+{
+  "item": "63005",
+  "name": "Tri-Foam Shampoo & Drying Agent",
+  "pds": false,
+  "category": "Automotive Shampoo",
+  "library_section": "Shampoos & Washes",
+  "image": "img/63005.png",
+  "image_px": 530,
+  "ad": {
+    "rev": "1.0",
+    "headline": "Tunnel Solutions",
+    "description": "Super concentrated foam brush and body shampoos that produce a thick, rich foam that provides excellent coverage and maximum surface cling. Formulated for all types of car wash facilities and paint finishes.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Brilliant color foam.",
+      "Hard water tolerant.",
+      "Penetrates and loosens dirt and debris.",
+      "Rinses freely to help prevent streaking.",
+      "High-pressure system compatibility."
+    ],
+    "callout": "TRI-FOAM GOLD // TRI-FOAM AGUA // TRI-FOAM ROSE",
+    "footnotes": [],
+    "source": "Tri-Foam/Triple-Foam-AD-11.18.24.pdf",
+    "review": [
+      "The old ad prints no item number: item matched by name",
+      "Other text on the old ad (call-out or part numbers?): #63015 #63025 #63035 | AVAILABLE SIZES DILUTION RATES | 5 & 30 GAL CONTAINERS 300 : 1 ~ 500 : 1 | DRYING AGENT | #63005",
+      "Moved to the call-out: TRI-FOAM GOLD TRI-FOAM AGUA TRI-FOAM ROSE"
+    ]
+  },
+  "source": {
+    "ad_pdf": "Tri-Foam/Triple-Foam-AD-11.18.24.pdf"
+  },
+  "review": [
+    "Ad only: no product data sheet found for this item"
+  ]
+}

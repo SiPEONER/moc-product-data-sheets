@@ -82,5 +82,23 @@
   "review": [
     "Spelling corrected from the old sheet: ERPB -> ERBP; SILCONE -> SILICONE; ◦ -> °",
     "Spec label: the old sheet listed Dry ERBP twice; the ~186°C row is the wet value (matches the features), now Wet ERBP"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Low Conductivity",
+    "description": "A long-life, low-conductivity, non-silicone brake fluid for all types of hydraulic actuated brake and clutch systems in accordance with DOT 5.1, DOT 4 -LV, DOT 4, and DOT 3 specifications. Specially designed for anti-locking brake system (ABS), regenerative systems and the added demands of electric and hybrid vehicles. Ultra DOT 5.1 Brake Fluid is fully tested and certified to meet or exceed technical specifications including: FMVSS 116, SAE J1703, J1704, and ISO 4925 Class 7.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Extremely high-boiling point formula Dry ERBP: > 272°C (> 522°F), Wet ERBP: >186°C (>367°F)",
+      "Long-life, low-conductivity formula for the high demands of EV and HEV brake systems.",
+      "Product can be mixed with other DOT 3, DOT 4, DOT 4-LV fluids.",
+      "Low viscosity formula for optimal performance in advanced anti-locking brake systems (ABS)."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "DOT 5.1-Brake Fluid/DOT-5.1-Brake-Fluid-AD-07.21.25.pdf",
+    "review": [
+      "Ad spelling corrected: ERPB -> ERBP; ◦ -> °"
+    ]
+  }
 }

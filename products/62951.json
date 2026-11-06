@@ -1,0 +1,34 @@
+{
+  "item": "62951",
+  "name": "Vision Glass Treatment",
+  "pds": false,
+  "category": "Automotive Additives & Lubricants",
+  "library_section": "Glass Care",
+  "image": "img/62951.png",
+  "image_px": 507,
+  "ad": {
+    "rev": "1.0",
+    "headline": "See Clearly",
+    "description": "Vision Glass Treatment forms a chemical bond with the windshield causing the glass to become hydrophobic. Water will bead and easily shed off the glass and improve vision in the rain, day and night. The anti-static ceramic polymers adhere to a clean, dry windshield or any exterior glass surface, and remain highly effective after months of normal use, including heavy rain and snow, car washing, glass cleaning and salt spray.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Repels rain for improved vision.",
+      "Enables easier clearing of ice, snow, and dirt.",
+      "Reduces glare of oncoming vehicle lights.",
+      "Helps reduce mineral deposits.",
+      "Allows for easy removal of bugs and bird droppings."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "Raincoat/Vision GT-AD-09.16.25.pdf",
+    "review": [
+      "Other text on the old ad (call-out or part numbers?): #62951"
+    ]
+  },
+  "source": {
+    "ad_pdf": "Raincoat/Vision GT-AD-09.16.25.pdf"
+  },
+  "review": [
+    "Ad only: no product data sheet found for this item"
+  ]
+}

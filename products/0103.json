@@ -78,5 +78,21 @@
   },
   "review": [
     "Bottle photo is only 387 px tall"
-  ]
+  ],
+  "ad": {
+    "rev": "1.0",
+    "headline": "Fortify ATF Fluid",
+    "description": "Contains a special detergent additive package that fortifies automatic transmission fluid against oxidation, acid formation, and breakdown due to thermal stress.\n\nDesigned for use in the newest generation of transmission fluid, including G.M., Dex, Ford Mercon, Chrysler, Nissan, Toyota, Hyundai, Kia, Subaru and many other manufacturers.",
+    "benefits_label": "Product Benefits",
+    "benefits": [
+      "Helps fortify ATF against oxidation and acid formation.",
+      "Keeps seals soft and pliable.",
+      "Prevents the formation of sludge and varnish.",
+      "Contains shear-resistant viscosity stabilizers to help maintain smooth shifting."
+    ],
+    "callout": "",
+    "footnotes": [],
+    "source": "ATF Fluid Conditioner/ATF-Fluid-Conditioner-05.30.25.pdf",
+    "review": []
+  }
 }
