@@ -95,5 +95,9 @@
     "review": [
       "Ad spelling corrected: photo label removed from a benefit: AFTER used as directed."
     ]
+  },
+  "photo": {
+    "upscaled": "EDSR x4",
+    "px": 1564
   }
 }

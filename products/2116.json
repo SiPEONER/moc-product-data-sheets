@@ -97,7 +97,10 @@
     "source": "MP Armour/Armour-AD-07.23.25.pdf",
     "review": [
       "Other text on the old ad (call-out or part numbers?): durable ceramic coating #21161"
-    ],
-    "image": "img/2116-ad.png"
+    ]
+  },
+  "photo": {
+    "source": "AD Sheets/MP Armour/armour-1-masked.png",
+    "px": 1793
   }
 }

@@ -33,6 +33,16 @@ python3 build.py
 
 `tools/promote.py` holds the hand-checked names, the library sections (by item-number range), and the spelling corrections; each correction is logged in the product's `review` list. Product claims and figures are never edited by the scripts.
 
+## Product photos
+
+```
+python3 tools/photos.py swap picks.json   # put better cutouts in img/ (records the source in "photo")
+python3 tools/photos.py normalize         # trim every photo to the product, cap at 1,800 px
+python3 tools/upscale.py                  # 4x sharpen photos still under 900 px (stopgap until renders)
+```
+
+Use only photos with the current MP label: most masters in the per-item folders of PPD photos carry the old M&C label; the "0 - New Logo" folder is current. Each product file's `photo` says where its photo came from and whether it was upscaled.
+
 ## How it works
 
 One layout (`template.html`) plus one data file per product (`products/<item>.json`). `build.py` fills the layout with each data file and writes three files per product to `out/`:
@@ -77,6 +87,7 @@ After the sheets, the build writes the public library site to `web/`: one card p
 | `ratings` | Optional performance ratings, e.g. `["Gloss 8", "Durability 4"]` |
 | `ad` | Optional ad sheet block: `headline` (the claim), `description` (paragraphs split by a blank line), `benefits_label` (e.g. Performance Benefits), `benefits`, `footnotes` (fine print for starred claims), `callout`, `image` (optional ad photo), `rev` |
 | `pds` | `false` for an ad-only product (no data sheet) |
+| `photo` | Where the photo came from (`source`), its height (`px`), and `upscaled` when it was sharpened from a low-res original |
 | `source`, `review` | Where the data came from, and what still needs a product expert's check |
 
 ## Files

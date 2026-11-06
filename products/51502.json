@@ -27,5 +27,9 @@
   },
   "review": [
     "Ad only: no product data sheet found for this item"
-  ]
+  ],
+  "photo": {
+    "source": "AD Sheets/Refresh/51502.png",
+    "px": 1800
+  }
 }

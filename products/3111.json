@@ -81,5 +81,9 @@
     "pdf": "3111.pdf",
     "old_rev": 2
   },
-  "review": []
+  "review": [],
+  "photo": {
+    "source": "PPD photos/0 - New Logo/3111/31113.png",
+    "px": 1800
+  }
 }

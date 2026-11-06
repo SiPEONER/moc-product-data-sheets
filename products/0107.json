@@ -91,5 +91,9 @@
       "Other text on the old ad (call-out or part numbers?): For fuels made with ethanol #01071",
       "Ad spelling corrected: Corroision -> Corrosion; photo label removed from a benefit: oxidation. BEFORE AFTER"
     ]
+  },
+  "photo": {
+    "upscaled": "EDSR x4",
+    "px": 1524
   }
 }

@@ -88,5 +88,9 @@
   "review": [
     "Bottle photo is only 353 px tall",
     "Spelling corrected from the old sheet: Denisty -> Density"
-  ]
+  ],
+  "photo": {
+    "upscaled": "EDSR x4",
+    "px": 1412
+  }
 }

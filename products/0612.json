@@ -94,5 +94,9 @@
     "pdf": "0612.pdf",
     "old_rev": 2
   },
-  "review": []
+  "review": [],
+  "photo": {
+    "source": "PPD photos/0 - New Logo/0612/06121 w-path.png",
+    "px": 1800
+  }
 }

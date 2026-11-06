@@ -80,5 +80,9 @@
   },
   "review": [
     "Name read by hand from the header artwork"
-  ]
+  ],
+  "photo": {
+    "source": "PPD photos/0 - New Logo/3100/31003.png",
+    "px": 1800
+  }
 }

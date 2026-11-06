@@ -85,7 +85,10 @@
     "source": "White Lithium Grease/White-Lithium-Grease-AD-07.23.25.pdf",
     "review": [
       "Ad description set by hand from the old artwork"
-    ],
-    "image": "img/1049-ad.png"
+    ]
+  },
+  "photo": {
+    "source": "AD Sheets/White Lithium Grease/10491.png",
+    "px": 1800
   }
 }

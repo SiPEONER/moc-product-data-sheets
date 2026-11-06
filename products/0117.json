@@ -80,5 +80,10 @@
   },
   "review": [
     "Bottle photo is only 387 px tall"
-  ]
+  ],
+  "photo": {
+    "source": "PPD photos/0 - New Logo/0117/01171.psd",
+    "px": 1800,
+    "upscaled": "EDSR x4"
+  }
 }

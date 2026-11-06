@@ -94,5 +94,9 @@
   "review": [
     "Bottle photo is only 366 px tall",
     "Name read by hand from the header artwork"
-  ]
+  ],
+  "photo": {
+    "source": "PPD photos/0 - New Logo/2430/24303.png",
+    "px": 1567
+  }
 }

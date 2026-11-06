@@ -92,5 +92,9 @@
   "review": [
     "Has a Performance Ratings section: Gloss - 7 Durability - 7",
     "Bottle photo is only 892 px tall"
-  ]
+  ],
+  "photo": {
+    "source": "PPD photos/0 - New Logo/5111/51115.png",
+    "px": 1800
+  }
 }

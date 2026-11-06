@@ -76,5 +76,9 @@
     "pdf": "2334.pdf",
     "old_rev": 3
   },
-  "review": []
+  "review": [],
+  "photo": {
+    "source": "PPD photos/0 - New Logo/2334/23343.png",
+    "px": 1800
+  }
 }

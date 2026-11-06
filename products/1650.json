@@ -76,5 +76,9 @@
   },
   "review": [
     "Bottle photo is only 397 px tall"
-  ]
+  ],
+  "photo": {
+    "source": "photo from the old ad sheet: AD Sheets (Optimizer ad)",
+    "px": 1800
+  }
 }

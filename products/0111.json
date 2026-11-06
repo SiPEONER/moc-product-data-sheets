@@ -75,5 +75,9 @@
   },
   "review": [
     "Bottle photo is only 395 px tall"
-  ]
+  ],
+  "photo": {
+    "upscaled": "EDSR x4",
+    "px": 1580
+  }
 }

@@ -100,5 +100,9 @@
   "review": [
     "Has a Performance Ratings section: Gloss - 9 Durability - 4",
     "Spelling corrected from the old sheet: waterbased -> water-based"
-  ]
+  ],
+  "photo": {
+    "source": "PPD photos/0 - New Logo/5100/51003.png",
+    "px": 1800
+  }
 }

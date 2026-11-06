@@ -104,5 +104,9 @@
     "review": [
       "Ad spelling corrected: photo label removed from a benefit: es of fuel. BEFORE AFTER"
     ]
+  },
+  "photo": {
+    "upscaled": "EDSR x4",
+    "px": 1512
   }
 }

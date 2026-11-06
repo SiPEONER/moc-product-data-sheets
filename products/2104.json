@@ -65,5 +65,9 @@
   "review": [
     "Has a Performance Ratings section: Abrasiveness - 5 Gloss - 8 Durability - 6",
     "Spelling corrected from the old sheet: matallic -> metallic"
-  ]
+  ],
+  "photo": {
+    "source": "PPD photos/21043/21043.png",
+    "px": 1800
+  }
 }

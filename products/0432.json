@@ -101,5 +101,9 @@
     "review": [
       "Other text on the old ad (call-out or part numbers?): FUEL SYSTEM CLEANER #04321 | COUNTER DISPLAY #82834"
     ]
+  },
+  "photo": {
+    "source": "PPD photos/0 - New Logo/0432/04321.png",
+    "px": 1800
   }
 }

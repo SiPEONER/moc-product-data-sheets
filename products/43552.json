@@ -26,5 +26,9 @@
   },
   "review": [
     "Ad only: no product data sheet found for this item"
-  ]
+  ],
+  "photo": {
+    "source": "PPD photos/0 - New Logo/4355/43552.png",
+    "px": 1800
+  }
 }

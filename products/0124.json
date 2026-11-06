@@ -100,5 +100,9 @@
     "review": [
       "Other text on the old ad (call-out or part numbers?): SCAN FOR | PRODUCT DEMO"
     ]
+  },
+  "photo": {
+    "upscaled": "EDSR x4",
+    "px": 1580
   }
 }

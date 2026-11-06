@@ -86,5 +86,9 @@
     "pdf": "2230.pdf",
     "old_rev": 2
   },
-  "review": []
+  "review": [],
+  "photo": {
+    "source": "PPD photos/0 - New Logo/2230/22303.png",
+    "px": 1800
+  }
 }

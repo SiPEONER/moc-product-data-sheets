@@ -107,5 +107,9 @@
     "review": [
       "Ad spelling corrected: photo label removed from a benefit: converter. BEFORE AFTER"
     ]
+  },
+  "photo": {
+    "upscaled": "EDSR x4",
+    "px": 1524
   }
 }
