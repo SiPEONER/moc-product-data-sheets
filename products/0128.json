@@ -79,5 +79,9 @@
     "pdf": "0128.pdf",
     "old_rev": 3
   },
-  "review": []
+  "review": [],
+  "photo": {
+    "source": "New label render (Product label redesign chat), incoming-photos/0128.png",
+    "px": 1800
+  }
 }

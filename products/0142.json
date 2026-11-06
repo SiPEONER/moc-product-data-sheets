@@ -86,5 +86,9 @@
   },
   "review": [
     "Bottle photo is only 390 px tall"
-  ]
+  ],
+  "photo": {
+    "source": "New label render (Product label redesign chat), incoming-photos/0142.png",
+    "px": 1800
+  }
 }

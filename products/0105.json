@@ -79,7 +79,7 @@
     "Bottle photo is only 391 px tall"
   ],
   "photo": {
-    "upscaled": "EDSR x4",
-    "px": 1564
+    "source": "New label render (Product label redesign chat), incoming-photos/0105.png",
+    "px": 1800
   }
 }
