@@ -41,7 +41,9 @@ python3 tools/photos.py normalize         # trim every photo to the product, cap
 python3 tools/upscale.py                  # 4x sharpen photos still under 900 px (stopgap until renders)
 ```
 
-Package types 08 to 24 (see `package-types.csv` in the project notes) show the flat front label instead of a bottle: the newest print file from the New Logo Project folder, cropped to the front panel, saved to `img/labels/<item>.png`, with `photo.kind` set to `label` (the sheet then draws it as a keylined card across the band edge). Types 01 to 07 wait for the Photoshop bottle templates.
+Package types 08 to 24 (see `package-types.csv` in the project notes) show the flat front label instead of a bottle: the newest print file from the New Logo Project folder, cropped to the front panel, saved to `img/labels/<item>.png`, with `photo.kind` set to `label` (the sheet then draws it as a keylined card across the band edge). Types 01 to 07 get new-label renders (additive bottles, 1 gal jugs and 5 gal pails done; aerosols, quarts and Pro Series rounds to come).
+
+New-label renders come from the "Product label redesign" chat through `incoming-photos/` on Andy's computer. A plain `<item>.png` is the product's default image. A size suffix (`<item>_5gal.png`, later `_55gal`, `_32oz`, `_13oz`) is the image for that size only: it is stored as `img/sizes/<item>_<size>.png` and recorded in the product file under `photo_sizes`; it becomes the main photo (with `photo.package` set) only when the product has no new-label default image. On the data sheet, photos are drawn full height but capped at 2.24 in wide (2.12 in compact), so wide packages such as pails stop at the right margin.
 
 Use only photos with the current MP label: most masters in the per-item folders of PPD photos carry the old M&C label; the "0 - New Logo" folder is current. Each product file's `photo` says where its photo came from and whether it was upscaled.
 
