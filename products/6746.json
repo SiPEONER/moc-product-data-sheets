@@ -103,5 +103,17 @@
   "review": [
     "Has a Performance Ratings section: Concentration - 8",
     "Bottle photo is only 372 px tall"
-  ]
+  ],
+  "photo_sizes": {
+    "5gal": {
+      "image": "img/sizes/6746_5gal.png",
+      "source": "New label render F1 5 gal pail (Product label redesign chat), incoming-photos/6746_5gal.png",
+      "px": 1800
+    }
+  },
+  "photo": {
+    "source": "New label render F1 5 gal pail (Product label redesign chat), incoming-photos/6746_5gal.png",
+    "px": 1800,
+    "package": "5gal"
+  }
 }

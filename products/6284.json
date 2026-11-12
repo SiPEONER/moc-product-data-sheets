@@ -83,7 +83,15 @@
     "Has a Performance Ratings section: Foaming - 7 Concentration - 5"
   ],
   "photo": {
-    "source": "PPD photos/0 - New Logo/6284/62845.png",
-    "px": 1800
+    "source": "New label render F1 5 gal pail (Product label redesign chat), incoming-photos/6284_5gal.png",
+    "px": 1800,
+    "package": "5gal"
+  },
+  "photo_sizes": {
+    "5gal": {
+      "image": "img/sizes/6284_5gal.png",
+      "source": "New label render F1 5 gal pail (Product label redesign chat), incoming-photos/6284_5gal.png",
+      "px": 1800
+    }
   }
 }

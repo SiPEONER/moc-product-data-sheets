@@ -74,5 +74,17 @@
   "review": [
     "Has a Performance Ratings section: Gloss - 7 Durability - 3",
     "Spelling corrected from the old sheet: Dressiing -> Dressing"
-  ]
+  ],
+  "photo_sizes": {
+    "5gal": {
+      "image": "img/sizes/5128_5gal.png",
+      "source": "New label render F1 5 gal pail (Product label redesign chat), incoming-photos/5128_5gal.png",
+      "px": 1800
+    }
+  },
+  "photo": {
+    "source": "New label render F1 5 gal pail (Product label redesign chat), incoming-photos/5128_5gal.png",
+    "px": 1800,
+    "package": "5gal"
+  }
 }

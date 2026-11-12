@@ -90,5 +90,17 @@
     "Has a Performance Ratings section: Foaming - 7 Concentration - 6",
     "Name read by hand from the header artwork",
     "Spelling corrected from the old sheet: pressurewash -> pressure wash"
-  ]
+  ],
+  "photo_sizes": {
+    "5gal": {
+      "image": "img/sizes/6272_5gal.png",
+      "source": "New label render F1 5 gal pail (Product label redesign chat), incoming-photos/6272_5gal.png",
+      "px": 1800
+    }
+  },
+  "photo": {
+    "source": "New label render F1 5 gal pail (Product label redesign chat), incoming-photos/6272_5gal.png",
+    "px": 1800,
+    "package": "5gal"
+  }
 }

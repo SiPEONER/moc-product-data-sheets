@@ -94,7 +94,15 @@
     "Bottle photo is only 892 px tall"
   ],
   "photo": {
-    "source": "PPD photos/0 - New Logo/5111/51115.png",
-    "px": 1800
+    "source": "New label render F1 5 gal pail (Product label redesign chat), incoming-photos/5111_5gal.png",
+    "px": 1800,
+    "package": "5gal"
+  },
+  "photo_sizes": {
+    "5gal": {
+      "image": "img/sizes/5111_5gal.png",
+      "source": "New label render F1 5 gal pail (Product label redesign chat), incoming-photos/5111_5gal.png",
+      "px": 1800
+    }
   }
 }

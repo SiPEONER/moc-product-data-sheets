@@ -5,7 +5,7 @@
   "library_section": "Cleaners & Degreasers",
   "rev": "3.0",
   "issued": "2026",
-  "image": "img/labels/4340.png",
+  "image": "img/4340.png",
   "features": [
     {
       "text": "Has no adverse effect on paint when used as directed."
@@ -62,8 +62,15 @@
   },
   "review": [],
   "photo": {
-    "kind": "label",
-    "label_source": "New Logo Project/4340/4340S/LB4340S_REV006.ai",
-    "bottle": "img/4340.png"
+    "source": "New label render F1 5 gal pail (Product label redesign chat), incoming-photos/4340_5gal.png",
+    "px": 1800,
+    "package": "5gal"
+  },
+  "photo_sizes": {
+    "5gal": {
+      "image": "img/sizes/4340_5gal.png",
+      "source": "New label render F1 5 gal pail (Product label redesign chat), incoming-photos/4340_5gal.png",
+      "px": 1800
+    }
   }
 }

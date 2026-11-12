@@ -97,5 +97,12 @@
   "photo": {
     "source": "New label render F1 (Product label redesign chat), incoming-photos/6106.png",
     "px": 1797
+  },
+  "photo_sizes": {
+    "5gal": {
+      "image": "img/sizes/6106_5gal.png",
+      "source": "New label render F1 5 gal pail (Product label redesign chat), incoming-photos/6106_5gal.png",
+      "px": 1800
+    }
   }
 }

@@ -83,5 +83,17 @@
     "pdf": "4450.pdf",
     "old_rev": 2
   },
-  "review": []
+  "review": [],
+  "photo_sizes": {
+    "5gal": {
+      "image": "img/sizes/4450_5gal.png",
+      "source": "New label render F1 5 gal pail (Product label redesign chat), incoming-photos/4450_5gal.png",
+      "px": 1800
+    }
+  },
+  "photo": {
+    "source": "New label render F1 5 gal pail (Product label redesign chat), incoming-photos/4450_5gal.png",
+    "px": 1800,
+    "package": "5gal"
+  }
 }
