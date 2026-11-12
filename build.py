@@ -76,6 +76,18 @@ DOCS = {
 }
 
 
+
+def keep(name, phrases, breaks=None):
+    """Product name as HTML: each name_keep phrase held on one line (never broken at its hyphen),
+    and a line break forced before each name_break phrase."""
+    from markupsafe import Markup, escape
+    out = str(escape(name))
+    for k in phrases or []:
+        out = out.replace(str(escape(k)), f'<span class="nb">{escape(k)}</span>')
+    for k in breaks or []:
+        out = out.replace(" " + str(escape(k)), "<br>" + str(escape(k)), 1).replace(' <span class="nb">' + str(escape(k)), '<br><span class="nb">' + str(escape(k)), 1)
+    return Markup(out)
+
 def data_uri(path):
     path = ROOT / path
     mime = mimetypes.guess_type(path.name)[0] or ("font/woff2" if path.suffix == ".woff2" else "application/octet-stream")
@@ -123,6 +135,7 @@ def has(kind, p):
 def main(only):
     env = Environment(loader=FileSystemLoader(ROOT), autoescape=select_autoescape())
     env.filters["steps"] = steps
+    env.filters["keep"] = keep
     fonts = {w: data_uri(f"assets/fonts/Montserrat-{w.capitalize()}.woff2") for w in ("regular", "bold", "black")}
     logo = data_uri("assets/logos/moc-box-knockout.svg")
     OUT.mkdir(exist_ok=True)

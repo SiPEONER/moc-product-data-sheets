@@ -80,6 +80,7 @@ body { font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif; -webkit-p
 .foot .micro { font-size: 6.5pt; white-space: nowrap; }
 .foot .addr p + p { margin-top: 4pt; }
 .foot .docno { font-size: 7.5pt; font-weight: 900; }
+.nb { white-space: nowrap; } /* name_keep: phrases that never break across lines */
 </style>
 </head>
 <body class="{{ 'screen' if screen else '' }}">
@@ -91,7 +92,7 @@ body { font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif; -webkit-p
     <h1 class="claim">{{ a.headline }}</h1>
     <div class="ident">
       <p class="stamp">#{{ p.item }}</p>
-      <p class="pname">{{ p.name }}</p>
+      <p class="pname">{{ p.name|keep(p.name_keep) }}</p>
     </div>
   </header>
 

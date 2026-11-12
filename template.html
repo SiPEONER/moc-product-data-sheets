@@ -127,6 +127,7 @@ tr:last-child td { border-bottom: 2px solid #000000; }
 .foot .micro { font-size: 6.5pt; white-space: nowrap; }
 .foot .addr p + p { margin-top: 2pt; }
 .foot .docno { font-size: 7.5pt; font-weight: 900; }
+.nb { white-space: nowrap; } /* name_keep: phrases that never break across lines */
 </style>
 </head>
 <body class="{{ 'screen' if screen else '' }}">
@@ -136,7 +137,7 @@ tr:last-child td { border-bottom: 2px solid #000000; }
     <p class="micro micro-reg type">Product Performance &amp; Data Sheet</p>
     <img class="logo" src="{{ logo }}" alt="MOC Products">
     <p class="stamp">#{{ p.item }}</p>
-    <h1 class="title">{{ p.name }}</h1>
+    <h1 class="title">{{ p.name|keep(p.name_keep, p.name_break) }}</h1>
   </header>
 
   {% if p.image %}
