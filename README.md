@@ -47,6 +47,10 @@ New-label renders come from the "Product label redesign" chat through `incoming-
 
 Use only photos with the current MP label: most masters in the per-item folders of PPD photos carry the old M&C label; the "0 - New Logo" folder is current. Each product file's `photo` says where its photo came from and whether it was upscaled.
 
+## Product names
+
+Names are capped at two lines (the fit ladder narrows the type before it allows a third). Two optional fields in a product file control where a name breaks: `"name_keep": ["Cold-side"]` keeps a phrase on one line (never split at its hyphen), and `"name_break": ["Cold-side"]` forces the data sheet name onto a new line before that phrase. 1120 uses both: TURBOCLEAN / COLD-SIDE TURBO CLEANER.
+
 ## How it works
 
 One layout (`template.html`) plus one data file per product (`products/<item>.json`). `build.py` fills the layout with each data file and writes three files per product to `out/`:
