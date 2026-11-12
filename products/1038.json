@@ -75,5 +75,9 @@
   "review": [
     "Name check: header reads \"BRAKE & PARTS WASH\", description says \"Brake and Parts Cleaner\"",
     "Bottle photo is only 392 px tall"
-  ]
+  ],
+  "photo": {
+    "source": "New label render F1 aerosol (Product label redesign chat), incoming-photos/1038.png",
+    "px": 1799
+  }
 }

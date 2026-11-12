@@ -76,5 +76,9 @@
   },
   "review": [
     "Bottle photo is only 387 px tall"
-  ]
+  ],
+  "photo": {
+    "source": "New label render F1 aerosol (Product label redesign chat), incoming-photos/1008.png",
+    "px": 1799
+  }
 }
