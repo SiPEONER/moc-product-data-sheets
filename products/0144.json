@@ -76,11 +76,6 @@
       "12 oz.",
       "24",
       "17 lbs."
-    ],
-    [
-      "32 oz.",
-      "12",
-      "20.5 lbs."
     ]
   ],
   "source": {
@@ -103,12 +98,10 @@
       "Helps reduce exhaust emissions and smoke.",
       "Helps cure performance problems due to poor spray patterns and deposit buildup."
     ],
-    "callout": "Available in 12 and 32 oz. bottles",
+    "callout": "Available in 12 oz. bottles",
     "footnotes": [],
     "source": "Diesel Purge/Diesel-Purge-AD-07.21.25.pdf",
-    "review": [
-      "Moved to the call-out: Available in 12 and 32 oz. bottles."
-    ]
+    "review": []
   },
   "photo": {
     "source": "New label render F1 (Product label redesign chat), incoming-photos/0144.png",
