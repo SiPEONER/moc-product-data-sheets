@@ -93,5 +93,9 @@
   },
   "review": [
     "Bottle photo is only 386 px tall"
-  ]
+  ],
+  "photo": {
+    "source": "New label render F1 32 oz quart (Product label redesign chat), incoming-photos/0417.png",
+    "px": 1800
+  }
 }
