@@ -88,5 +88,9 @@
   "review": [
     "Has a Performance Ratings section: Concentration - 4",
     "Bottle photo is only 370 px tall"
-  ]
+  ],
+  "photo": {
+    "source": "New label render F1 (Product label redesign chat), incoming-photos/6105.png",
+    "px": 1797
+  }
 }

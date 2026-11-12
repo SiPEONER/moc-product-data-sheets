@@ -86,5 +86,9 @@
   "review": [
     "Has a Performance Ratings section: Abrasiveness - 5 Gloss - 7 Durability - 5",
     "Bottle photo is only 384 px tall"
-  ]
+  ],
+  "photo": {
+    "source": "New label render F1 (Product label redesign chat), incoming-photos/2140.png",
+    "px": 1797
+  }
 }
