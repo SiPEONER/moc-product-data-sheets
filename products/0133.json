@@ -5,7 +5,7 @@
   "library_section": "Additives & Fluids",
   "rev": "3.0",
   "issued": "2026",
-  "image": "img/labels/0133.png",
+  "image": null,
   "features": [
     {
       "text": "Compatible with R-12 and R-134a refrigerant."
@@ -79,8 +79,13 @@
     "Spelling corrected from the old sheet: moise is the -> noise in the"
   ],
   "photo": {
-    "kind": "label",
-    "label_source": "New Logo Project/0133/LB01331_REV005 new template.ai",
-    "bottle": "img/0133.png"
+    "none": true,
+    "reason": "Andy 2026-11-13: low-quantity package type, no new F1 image; image left off the sheet",
+    "was": {
+      "image": "img/labels/0133.png",
+      "kind": "label",
+      "label_source": "New Logo Project/0133/LB01331_REV005 new template.ai",
+      "bottle": "img/0133.png"
+    }
   }
 }

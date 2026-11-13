@@ -5,7 +5,7 @@
   "library_section": "Waxes, Polishes & Compounds",
   "rev": "3.0",
   "issued": "2026",
-  "image": "img/2116.png",
+  "image": null,
   "features": [
     {
       "text": "Simply spray on wipe off"
@@ -100,7 +100,12 @@
     ]
   },
   "photo": {
-    "source": "AD Sheets/MP Armour/armour-1-masked.png",
-    "px": 1793
+    "none": true,
+    "reason": "Andy 2026-11-13: low-quantity package type, no new F1 image; image left off the sheet",
+    "was": {
+      "image": "img/2116.png",
+      "source": "AD Sheets/MP Armour/armour-1-masked.png",
+      "px": 1793
+    }
   }
 }

@@ -57,7 +57,7 @@ DOCS = {
         rev=lambda p: p["rev"],
         checks={
             "the product name runs to the band edge": "(() => { const t = document.querySelector('.title').getBoundingClientRect(), b = document.querySelector('.band').getBoundingClientRect(); return t.bottom - (b.bottom - 20); })()",
-            "the description runs under the photo": "(() => document.querySelector('.photo').getBoundingClientRect().bottom - document.querySelectorAll('.h')[1].getBoundingClientRect().top)()",
+            "the description runs under the photo": "(() => { const ph = document.querySelector('.photo'); return ph ? ph.getBoundingClientRect().bottom - document.querySelectorAll('.h')[1].getBoundingClientRect().top : -1; })()",
         },
     ),
     "pas": dict(

@@ -119,7 +119,8 @@ tr:last-child td { border-bottom: 2px solid #000000; }
 .compact .photo { top: 1.5in; height: 3.25in; width: 1.3in; }
 .compact .photo:not(.label) img { max-width: 2.12in; }
 .compact .photo.label { top: 1.5in; height: 2.6in; width: 1.75in; }
-.compact .features { min-height: 2.05in; } /* 2.42 + 0.28 + 2.05 = 4.75in, the bottle bottom */
+.compact .features { min-height: 2.05in; }
+.nophoto .features, .nophoto.compact .features { max-width: none; min-height: 0; } /* no product image: features run full width */ /* 2.42 + 0.28 + 2.05 = 4.75in, the bottle bottom */
 .todo { border: 1.5px dashed #000000; padding: 1pt 4pt 0; font-weight: 700; }
 
 /* ---------- Footer band ---------- */
@@ -130,7 +131,7 @@ tr:last-child td { border-bottom: 2px solid #000000; }
 .nb { white-space: nowrap; } /* name_keep: phrases that never break across lines */
 </style>
 </head>
-<body class="{{ 'screen' if screen else '' }}">
+<body class="{{ 'screen' if screen else '' }}{{ ' nophoto' if (p.photo or {}).none }}">
 <div class="page{{ ' compact' if compact }}" style="--s: {{ scale|default(1) }}{% if name_pt %}; --nt: {{ name_pt }}pt; --nw: {{ name_w }}in{% endif %}">
   <header class="band">
     <p class="micro cat">{{ p.category }}</p>
@@ -140,7 +141,9 @@ tr:last-child td { border-bottom: 2px solid #000000; }
     <h1 class="title">{{ p.name|keep(p.name_keep, p.name_break) }}</h1>
   </header>
 
-  {% if p.image %}
+  {% if (p.photo or {}).none %}
+  {# no product image (Andy, 2026-11-13: low-quantity package types) #}
+  {% elif p.image %}
   <div class="photo{{ ' label' if (p.photo or {}).kind == 'label' }}"><img src="{{ p.image }}" alt="{{ p.name }}"></div>
   {% else %}
   <div class="photo ph"><p class="micro">Product photo<br><br>PNG cutout<br>1,200 px tall</p></div>

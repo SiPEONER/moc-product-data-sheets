@@ -95,13 +95,13 @@
     "Name read by hand from the header artwork"
   ],
   "photo": {
-    "source": "New label render F1 (Product label redesign chat), incoming-photos/5116.png",
+    "source": "New label render F1 rev 2 (Product label redesign chat), incoming-photos/5116.png",
     "px": 1797
   },
   "photo_sizes": {
     "5gal": {
       "image": "img/sizes/5116_5gal.png",
-      "source": "New label render F1 5 gal pail (Product label redesign chat), incoming-photos/5116_5gal.png",
+      "source": "New label render F1 rev 2 (Product label redesign chat), incoming-photos/5116_5gal.png",
       "px": 1800
     }
   }

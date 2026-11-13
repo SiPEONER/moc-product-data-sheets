@@ -56,6 +56,7 @@ body { font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif; -webkit-p
 /* ---------- Body ---------- */
 .body { padding: 0.36in 0 0 0.7in; flex: 1; display: flex; flex-direction: column; gap: 16pt; width: 5.4in; }
 .narrow .body { width: 4.78in; }
+.nophoto .claim { max-width: 7.1in; } /* no product image: the claim runs full width */
 .h { font-weight: 900; font-size: 8pt; line-height: 1.2; letter-spacing: 0.1em; text-transform: uppercase; border-bottom: 2px solid #000000; padding-bottom: 5pt; margin-bottom: 9pt; }
 .page { --s: 1; }
 .copy { font-size: calc(10pt * var(--s)); line-height: 1.5; }
@@ -83,7 +84,7 @@ body { font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif; -webkit-p
 .nb { white-space: nowrap; } /* name_keep: phrases that never break across lines */
 </style>
 </head>
-<body class="{{ 'screen' if screen else '' }}">
+<body class="{{ 'screen' if screen else '' }}{{ ' nophoto' if (p.photo or {}).none and not p.ad.image }}">
 <div class="page{{ ' narrow' if narrow else '' }}" style="--s: {{ scale|default(1) }}; --c: {{ claim|default(1) }}">
   <header class="band">
     <p class="micro cat">{{ p.category }}</p>
@@ -97,7 +98,9 @@ body { font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif; -webkit-p
   </header>
 
   {% set photo = a.image or p.image %}
-  {% if photo %}
+  {% if (p.photo or {}).none and not a.image %}
+  {# no product image #}
+  {% elif photo %}
   <div class="photo{{ ' label' if (p.photo or {}).kind == 'label' and not a.image }}"><img src="{{ photo }}" alt="{{ p.name }}"></div>
   {% else %}
   <div class="photo ph"><p class="micro">Product photo<br><br>PNG cutout<br>1,200 px tall</p></div>

@@ -5,7 +5,7 @@
   "library_section": "Additives & Fluids",
   "rev": "2.0",
   "issued": "2026",
-  "image": "img/labels/0627.png",
+  "image": null,
   "features": [
     {
       "text": "Improves cold-flow performance."
@@ -73,8 +73,13 @@
   },
   "review": [],
   "photo": {
-    "kind": "label",
-    "label_source": "New Logo Project/0627/06276/LB06276_REV004.ai",
-    "bottle": "img/0627.png"
+    "none": true,
+    "reason": "Andy 2026-11-13: low-quantity package type, no new F1 image; image left off the sheet",
+    "was": {
+      "image": "img/labels/0627.png",
+      "kind": "label",
+      "label_source": "New Logo Project/0627/06276/LB06276_REV004.ai",
+      "bottle": "img/0627.png"
+    }
   }
 }

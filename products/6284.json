@@ -83,14 +83,14 @@
     "Has a Performance Ratings section: Foaming - 7 Concentration - 5"
   ],
   "photo": {
-    "source": "New label render F1 5 gal pail (Product label redesign chat), incoming-photos/6284_5gal.png",
+    "source": "New label render F1 rev 2 (Product label redesign chat), incoming-photos/6284_5gal.png",
     "px": 1800,
     "package": "5gal"
   },
   "photo_sizes": {
     "5gal": {
       "image": "img/sizes/6284_5gal.png",
-      "source": "New label render F1 5 gal pail (Product label redesign chat), incoming-photos/6284_5gal.png",
+      "source": "New label render F1 rev 2 (Product label redesign chat), incoming-photos/6284_5gal.png",
       "px": 1800
     }
   }
