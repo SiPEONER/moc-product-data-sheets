@@ -5,7 +5,7 @@
   "library_section": "Additives & Fluids",
   "rev": "4.0",
   "issued": "2026",
-  "image": "img/0442.png",
+  "image": null,
   "features": [
     {
       "text": "Protects and keeps fuel fresh for an extended period."
@@ -92,5 +92,13 @@
     "footnotes": [],
     "source": "Boost/Boost-AD-07.29.25.pdf",
     "review": []
+  },
+  "photo": {
+    "none": true,
+    "phase": 2,
+    "reason": "Phase One (Andy 2026-11-16): image not yet on the new F1 label; removed until Phase Two",
+    "was": {
+      "image": "img/0442.png"
+    }
   }
 }

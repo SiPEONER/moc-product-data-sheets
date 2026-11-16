@@ -4,7 +4,7 @@
   "pds": false,
   "category": "Aerosols",
   "library_section": "Aerosols & Service Chemicals",
-  "image": "img/labels/10507.png",
+  "image": null,
   "image_px": 387,
   "ad": {
     "rev": "1.0",
@@ -31,8 +31,14 @@
     "Ad only: no product data sheet found for this item"
   ],
   "photo": {
-    "kind": "label",
-    "label_source": "New Logo Project/1050/10507 - QUEST/LB10507S_REV007 LBH035.ai",
-    "bottle": "img/10507.png"
+    "none": true,
+    "phase": 2,
+    "reason": "Phase One (Andy 2026-11-16): image not yet on the new F1 label; removed until Phase Two",
+    "was": {
+      "image": "img/labels/10507.png",
+      "kind": "label",
+      "label_source": "New Logo Project/1050/10507 - QUEST/LB10507S_REV007 LBH035.ai",
+      "bottle": "img/10507.png"
+    }
   }
 }

@@ -5,7 +5,7 @@
   "library_section": "Additives & Fluids",
   "rev": "5.0",
   "issued": "2026",
-  "image": "img/0447.png",
+  "image": null,
   "features": [
     {
       "text": "Highly resistant to shear, oxidation and thermal breakdown."
@@ -90,8 +90,14 @@
     "review": []
   },
   "photo": {
-    "source": "New label render F1 32 oz quart (Product label redesign chat), MOC_LABEL_UPDATE/quart_labels/images/0447.png",
-    "px": 1800
+    "none": true,
+    "phase": 2,
+    "reason": "Phase One (Andy 2026-11-16): image not yet on the new F1 label; removed until Phase Two",
+    "was": {
+      "image": "img/0447.png",
+      "source": "New label render F1 32 oz quart (Product label redesign chat), MOC_LABEL_UPDATE/quart_labels/images/0447.png",
+      "px": 1800
+    }
   },
   "name_keep": [
     "High-performance"

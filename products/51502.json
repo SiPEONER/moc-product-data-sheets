@@ -4,7 +4,7 @@
   "pds": false,
   "category": "Automotive Dressing",
   "library_section": "Dressings & Protectants",
-  "image": "img/51502.png",
+  "image": null,
   "image_px": 1378,
   "ad": {
     "rev": "1.0",
@@ -29,7 +29,13 @@
     "Ad only: no product data sheet found for this item"
   ],
   "photo": {
-    "source": "AD Sheets/Refresh/51502.png",
-    "px": 1800
+    "none": true,
+    "phase": 2,
+    "reason": "Phase One (Andy 2026-11-16): image not yet on the new F1 label; removed until Phase Two",
+    "was": {
+      "image": "img/51502.png",
+      "source": "AD Sheets/Refresh/51502.png",
+      "px": 1800
+    }
   }
 }

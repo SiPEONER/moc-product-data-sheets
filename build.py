@@ -66,7 +66,7 @@ DOCS = {
         checks={
             # Widest the claim may run before it meets the bottle neck: 5.95 in.
             # Widest the claim may run: 5.95 in, and never into the drawn bottle.
-            "the headline runs into the bottle": "(() => { const g = document.createRange(); g.selectNodeContents(document.querySelector('.claim')); const d = DRAWN(); let r = -1e9; for (const b of g.getClientRects()) { r = Math.max(r, b.right - 571); if (d && b.bottom > d.top) r = Math.max(r, b.right - d.left + 8); } return r; })()",
+            "the headline runs into the bottle": "(() => { const g = document.createRange(); g.selectNodeContents(document.querySelector('.claim')); const d = DRAWN(); let r = -1e9; for (const b of g.getClientRects()) { r = Math.max(r, b.right - (document.body.classList.contains('nophoto') ? 740 : 571)); if (d && b.bottom > d.top) r = Math.max(r, b.right - d.left + 8); } return r; })()",
             "the headline runs into the product name": "(() => document.querySelector('.claim').getBoundingClientRect().bottom - document.querySelector('.ident').getBoundingClientRect().top + 12)()",
             # The drawn picture inside its box (object-fit: contain, bottom-aligned), not the box itself.
             "the copy runs into the bottle": "(() => { const d = DRAWN(); if (!d) return 0; const g = document.createRange(); g.selectNodeContents(document.querySelector('.body')); let r = -1e9; for (const x of g.getClientRects()) if (x.bottom > d.top && x.top < d.bottom && x.width > 0) r = Math.max(r, x.right - d.left + 6); return r; })()",

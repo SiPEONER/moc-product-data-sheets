@@ -5,7 +5,7 @@
   "library_section": "Additives & Fluids",
   "rev": "2.0",
   "issued": "2026",
-  "image": "img/0436.png",
+  "image": null,
   "features": [
     {
       "text": "Designed to restore engine performance."
@@ -73,5 +73,13 @@
   },
   "review": [
     "Bottle photo is only 416 px tall"
-  ]
+  ],
+  "photo": {
+    "none": true,
+    "phase": 2,
+    "reason": "Phase One (Andy 2026-11-16): image not yet on the new F1 label; removed until Phase Two",
+    "was": {
+      "image": "img/0436.png"
+    }
+  }
 }

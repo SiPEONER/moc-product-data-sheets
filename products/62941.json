@@ -4,7 +4,7 @@
   "pds": false,
   "category": "Automotive Additives & Lubricants",
   "library_section": "Glass Care",
-  "image": "img/62941.png",
+  "image": null,
   "image_px": 898,
   "ad": {
     "rev": "1.0",
@@ -31,5 +31,13 @@
   },
   "review": [
     "Ad only: no product data sheet found for this item"
-  ]
+  ],
+  "photo": {
+    "none": true,
+    "phase": 2,
+    "reason": "Phase One (Andy 2026-11-16): image not yet on the new F1 label; removed until Phase Two",
+    "was": {
+      "image": "img/62941.png"
+    }
+  }
 }
