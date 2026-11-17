@@ -257,8 +257,10 @@ def build_site(env):
     shutil.copy2(ROOT / "assets/og/og-logo.png", WEB / "og-logo.png")  # link preview image (Slack, Teams, iMessage)
     updated = datetime.date.today().strftime("%b %Y")
     tpl = env.get_template("web_template.html")
+    im = WEB / "images" / "manifest.csv"  # product image library (tools/images.py)
+    images_total = max(len(im.read_text().splitlines()) - 1, 0) if im.exists() else 0
     for lib in libraries:
-        (WEB / lib["page"]).write_text(tpl.render(lib=lib, libraries=libraries, noindex=NOINDEX, updated=updated))
+        (WEB / lib["page"]).write_text(tpl.render(lib=lib, libraries=libraries, noindex=NOINDEX, updated=updated, images_total=images_total))
     if NOINDEX:
         (WEB / "robots.txt").write_text("User-agent: *\nAllow: /og-logo.png\nDisallow: /\n")
     elif (WEB / "robots.txt").exists():
