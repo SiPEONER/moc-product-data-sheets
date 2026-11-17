@@ -254,12 +254,13 @@ def build_site(env):
     shutil.copy2(ROOT / "assets/fonts/Montserrat-OFL.txt", WEB / "fonts")
     shutil.copy2(ROOT / "assets/logos/moc-box-primary.svg", WEB / "logo.svg")
     shutil.copy2(ROOT / "assets/logos/icon.svg", WEB / "icon.svg")
+    shutil.copy2(ROOT / "assets/og/og-logo.png", WEB / "og-logo.png")  # link preview image (Slack, Teams, iMessage)
     updated = datetime.date.today().strftime("%b %Y")
     tpl = env.get_template("web_template.html")
     for lib in libraries:
         (WEB / lib["page"]).write_text(tpl.render(lib=lib, libraries=libraries, noindex=NOINDEX, updated=updated))
     if NOINDEX:
-        (WEB / "robots.txt").write_text("User-agent: *\nDisallow: /\n")
+        (WEB / "robots.txt").write_text("User-agent: *\nAllow: /og-logo.png\nDisallow: /\n")
     elif (WEB / "robots.txt").exists():
         (WEB / "robots.txt").unlink()
     print("web/: " + ", ".join(f"{l['total']} {l['label'].lower()}" for l in libraries))
