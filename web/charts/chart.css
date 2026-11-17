@@ -94,6 +94,12 @@ table.cg { width: 100%; border-collapse: collapse; font-size: 13px; }
 .facts p + p { margin-top: 10px; }
 .empty { padding: 28px var(--pad); font-weight: 700; }
 .foot { margin-top: auto; border-top: 2px solid #000000; display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; padding-top: 18px; padding-bottom: 18px; }
+.review { border-bottom: 2px solid #000000; padding-top: 24px; padding-bottom: 28px; background: repeating-linear-gradient(135deg, #ffffff 0 10px, #f2f2f2 10px 11px); }
+.review h2 { font-weight: 900; font-size: 14px; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 4px; }
+.review .micro-reg { margin-bottom: 14px; }
+.review ol { margin: 0; padding-left: 22px; max-width: 900px; }
+.review li { padding: 6px 0; border-top: 1px solid #000000; }
+.review li:first-child { border-top: 0; }
 .print-only { display: none; }
 
 /* ---------- Print / PDF: US Letter, black band header like the data sheets ---------- */
