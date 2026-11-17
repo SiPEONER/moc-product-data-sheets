@@ -1,0 +1,69 @@
+{
+  "slug": "dct-dsg",
+  "source_file": "DCT-DSG-Compatibility-Chart.pdf",
+  "source_dates": {
+    "CreationDate": "D:20260728085019-05'00'",
+    "ModDate": "D:20260728085315-05'00'"
+  },
+  "rows": [
+    {
+      "oem": "AUDI / VW",
+      "spec": "TL - 052 182 / 052 529, G-052-182-A2"
+    },
+    {
+      "oem": "BMW",
+      "spec": "83 22 2 148 578, 83 22 2 148 579, 83 22 0 440 214, 83 22 2 147 477"
+    },
+    {
+      "oem": "CHERY",
+      "spec": "DCT’S"
+    },
+    {
+      "oem": "CITROEN/PEUGOET",
+      "spec": "9734.S2"
+    },
+    {
+      "oem": "FERRARI",
+      "spec": "TF DCT-F3"
+    },
+    {
+      "oem": "FIAT",
+      "spec": "BOT 341"
+    },
+    {
+      "oem": "FORD",
+      "spec": "M2C936A (BOT341)"
+    },
+    {
+      "oem": "MERCEDES-BENZ",
+      "spec": "236.21 (001 989 85 03) , 236.22 (000 989 61 04), 236.25"
+    },
+    {
+      "oem": "MITSUBISHI",
+      "spec": "MZ320065 DIA-Queen SSTF-I"
+    },
+    {
+      "oem": "NISSAN",
+      "spec": "M2C936A"
+    },
+    {
+      "oem": "PORSCHE",
+      "spec": "999.917.080.00, 000 043 207 29 (FFL-3)"
+    },
+    {
+      "oem": "RENAULT",
+      "spec": "BOT 450"
+    },
+    {
+      "oem": "SEAT / SKODA",
+      "spec": "TL 052 182"
+    },
+    {
+      "oem": "VOLVO",
+      "spec": "1161838, 1161839"
+    }
+  ],
+  "text_outside_tables": [
+    "DCT & DSG\nCOMPATIBILITY\nCHART\nSYNTHETIC DSG / DSG FLUID\nAn advanced lubricant designed to provide superior component protection and enhanced service reliability\nwhen used in wet dual clutch transmissions (DCT) & direct-shift gearboxes (DSG). Part #’s 0426\nAPPLICATION\nUse in DCT or DSG transmissions according to equipment manufacturer’s recommendations.\nDO NOT use in CVT, traditional step-shift transmissions or Nissan transmissions that require GTR fluid.\nMOC PRODUCTS, INC. ©2026"
+  ]
+}

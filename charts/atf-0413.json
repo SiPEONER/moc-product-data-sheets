@@ -1,0 +1,364 @@
+{
+  "slug": "atf-0413",
+  "type": "list",
+  "family": "ATF",
+  "title": "ATF Compatibility Chart",
+  "items": [
+    "0413"
+  ],
+  "product": "Premium Synthetic ATF-LV",
+  "intro": "A blend of full-synthetic base oils and a multi-purpose additive package that gives anti-wear protection and performance in virtually all passenger and commercial automatic transmissions that require newer low-viscosity fluid.",
+  "sizes": "1 gal, 3 gal, 55 gal",
+  "groups": [
+    {
+      "title": "Low-viscosity OEM specifications",
+      "rows": [
+        {
+          "oem": "ACURA",
+          "spec": "DW-1, TYPE 3.0 PN 08200-9016A, TYPE 3.1 08200-9017A"
+        },
+        {
+          "oem": "AISIN WARNER",
+          "spec": "AW-1"
+        },
+        {
+          "oem": "AUDI",
+          "spec": "G 052540, G 055005, G 055162, G 060162"
+        },
+        {
+          "oem": "BMW",
+          "spec": "83-22- 0142-516, 83-22-2152-426, 83-22-2305-396, 83-22-2355-599, 83-22-2289-720, 83-22-0397-114, 83-22-2163-514, 83-22-2220-445, 83-22-0024-359, 83-22-0403-249"
+        },
+        {
+          "oem": "CHRYSLER / MOPAR",
+          "spec": "68157995AA, 68157995AB, 68218925AA, 68218925AB, 68171866AA, 68171866AB, 68171869AA, 68171869AB"
+        },
+        {
+          "oem": "FORD",
+          "spec": "MERCON® LV"
+        },
+        {
+          "oem": "GENERAL MOTORS",
+          "spec": "DEXRON®-VI, 88863400, 88863401"
+        },
+        {
+          "oem": "HONDA",
+          "spec": "DW-1, TYPE 3.0 PN 08200-9016A, TYPE 3.1 08200-9017A"
+        },
+        {
+          "oem": "HYUNDAI / KIA",
+          "spec": "SP-IV, SPH-IV, SP-IV-RR, NWS-9638, 040000C90SG, SP4-M, SP4-M1"
+        },
+        {
+          "oem": "INFINITI / NISSAN",
+          "spec": "MATIC-S"
+        },
+        {
+          "oem": "ISUZU",
+          "spec": "SCS 2-90531-200-0"
+        },
+        {
+          "oem": "JAGUAR",
+          "spec": "JDE 26444, C2C8432"
+        },
+        {
+          "oem": "JASO",
+          "spec": "1-A-LV"
+        },
+        {
+          "oem": "JWS",
+          "spec": "3324"
+        },
+        {
+          "oem": "LAND ROVER",
+          "spec": "JDE 26444, LR 023288, LR 023289, TYK500050"
+        },
+        {
+          "oem": "LEXUS",
+          "spec": "WS"
+        },
+        {
+          "oem": "MAZDA",
+          "spec": "ATF-FZ (0000-FZ-113E-01)"
+        },
+        {
+          "oem": "MERCEDES-BENZ",
+          "spec": "236.12, 236.14, 236.15, 236.16, 236.17, 236.41"
+        },
+        {
+          "oem": "MITSUBISHI",
+          "spec": "ATF-J3, ATF-PA, SP-IV"
+        },
+        {
+          "oem": "PORSCHE",
+          "spec": "000-043306-24, 958-300540-00"
+        },
+        {
+          "oem": "SHELL",
+          "spec": "M-L12108, 3353, M-1375.4, M-1375.6"
+        },
+        {
+          "oem": "TOYOTA",
+          "spec": "WS (JWS 3324)"
+        },
+        {
+          "oem": "VOLVO",
+          "spec": "31256774, 31256775"
+        },
+        {
+          "oem": "VW",
+          "spec": "G-052-540, G-055-005, G-055-162, G-060-162"
+        },
+        {
+          "oem": "ZF FRIEDRICHSHAFEN AG",
+          "spec": "LifeGuard Fluid 6 (S671090255), LifeGuard Fluid 6 Plus (S671090281), LifeGuard Fluid 8 (AA00601304, S671090312)"
+        }
+      ]
+    },
+    {
+      "title": "Also suitable for these transmission types",
+      "rows": [
+        {
+          "oem": "ACURA",
+          "spec": "ATF-Z1, TYPE 2.0 PN 082009015A, PN 08200-9017A"
+        },
+        {
+          "oem": "AISIN WARNER",
+          "spec": "JWS 3309 (T-IV) & JWS 3324 (WS), AS69RC, 05189966AB/AD, 05189977AA"
+        },
+        {
+          "oem": "ALFA ROMEO",
+          "spec": "ALL"
+        },
+        {
+          "oem": "ALLISON",
+          "spec": "C-3, C-4, John Deere HD SynTran™, Mobil Delvac Synthetic ATF™, TES 668"
+        },
+        {
+          "oem": "AMERICAN MOTORS",
+          "spec": "ALL"
+        },
+        {
+          "oem": "ASTON MARTIN",
+          "spec": "ALL"
+        },
+        {
+          "oem": "AUDI",
+          "spec": "G052025A2, G052162 A1/A2, LT71141, G055025A2, G052990A2, G055540A2"
+        },
+        {
+          "oem": "BENTLEY",
+          "spec": "ALL INCLUDING PY112995PA"
+        },
+        {
+          "oem": "BMW",
+          "spec": "LA2634, LT71141, 81229400275, 83220142156, 83220403248, 83229407765, 83229407807, 83220026922, BMW807, BMW 7045E, ZF 5HP18FL, 5HP24, 5HP30, TEXACO ETL-7045E, TEXACO ETL-8072B, 705/ATFD-3, 83220402413, 83227542290"
+        },
+        {
+          "oem": "CATERPILLAR",
+          "spec": "TO-2"
+        },
+        {
+          "oem": "CHRYSLER / MOPAR",
+          "spec": "ATF 7176, +2, +3 (MS-7176E), +4 (MS-9602), AS68RC, AS69RC, 05127382AB, 05189966AB & AD, 05189966AA, 05189977AA, 05127382AA/AB, JWS3309, 68043742AA, 68089195AA"
+        },
+        {
+          "oem": "CITROEN",
+          "spec": "973622, Z000169756"
+        },
+        {
+          "oem": "DAEWOO",
+          "spec": "ALL INCLUDING, LT71141"
+        },
+        {
+          "oem": "DAIHATSU",
+          "spec": "AMMIX ATF D-II, AMMIX ATF D-III SP"
+        },
+        {
+          "oem": "ESSO",
+          "spec": "ATF LT 71141"
+        },
+        {
+          "oem": "FIAT-LANCIA",
+          "spec": "ALL"
+        },
+        {
+          "oem": "FORD",
+          "spec": "MERCON® (XT-2-QDR OR XT-2-QSM), MERCON®SP (XT-6-QSP), MERCON®V (XT-5-QM), PREMIUM AUTOMATIC TRANSMISSION FLUID (XT-8-QAW), FNR5 AUTOMATIC TRANSMISSION FLUID (XT-9- QMM5), X-2-QDX, M2C138CJ, M2C166H WSS M2C 922A1, 924A (XT-8-QAW) JWS 3309"
+        },
+        {
+          "oem": "FUCHS / FUSO",
+          "spec": "Titan ATF 3292, Titan ATF 3353 / ATF- II, ATF-SP III, ATF-A4"
+        },
+        {
+          "oem": "GENERAL MOTORS",
+          "spec": "DEXRON®, DEXRON®-II, -IID, -IIE, -III, -IIIG/H, GM T-IV (PN 88900925), AW1, 9986195 (Aisin AW, JWS 3309)"
+        },
+        {
+          "oem": "HONDA",
+          "spec": "ATF-Z1(EXCEPT CVT), 08200-9017"
+        },
+        {
+          "oem": "HYUNDAI",
+          "spec": "SP-II/DEX-II, SP-III, 00232-19012, 00232-19015, 00232-19016, 00232-19023 / 24, JWS-3309 T-4, JWS 3314 00232-19057, 00232-19059, NWS 9683"
+        },
+        {
+          "oem": "IDEMITSU",
+          "spec": "K17, JATCO 3100 PL085, W0133-19031-54"
+        },
+        {
+          "oem": "INFINITI",
+          "spec": "ALL INCLUDING MATIC D, J, K"
+        },
+        {
+          "oem": "ISUZU",
+          "spec": "BESCO ATF-II, ATF-III, ATF SP, SCS Fluid"
+        },
+        {
+          "oem": "JAGUAR",
+          "spec": "ATF 3403 M115, ATF 3403, C2C8432, ZF 5HP24, 1X43 2C9010AA, JLM 20237, JLM 20238, LT71141, JATCO 3100 PL085, JDE 26444"
+        },
+        {
+          "oem": "JASO",
+          "spec": "M315-2013 1A, 2A"
+        },
+        {
+          "oem": "JEEP",
+          "spec": "ATF 7176, +2, +3 (MS-7176E), +4 (MS-9602), AS68RC, AS69RC, 05127382AB, 05189966AB, 05189966AA, 05189977AA, 05127382AA, 68157995AA, 68157995AB, 68218925AA, 68171866, 68171869AB"
+        },
+        {
+          "oem": "JWS",
+          "spec": "3309, 3314, 3317"
+        },
+        {
+          "oem": "KIA",
+          "spec": "SP-II, SP-III, RED 1, ATF TYPE 4(M)"
+        },
+        {
+          "oem": "LAND ROVER",
+          "spec": "ESSO LT71141, TEXACO N402, LRN 13754, TEXACO ETL-7045E, STC4863, STC 505.31, LR 002748"
+        },
+        {
+          "oem": "LEXUS",
+          "spec": "ATF D-II, ATF D-III, TYPE T, T-II, T-III, TYPE T-IV"
+        },
+        {
+          "oem": "MAN",
+          "spec": "339F, 339V1, 339V2, 339Z1, 339Z2, 339Z3"
+        },
+        {
+          "oem": "MAZDA",
+          "spec": "ATF D-II, ATF-M III, ATF-MV, ATF-FZ, ATF F-1, ATF S-1, ATF N-1, ATF 3317, 0000-77-112E-01, 0000-77-120E-05, 0000-77-114E-01, 0000-FZ-113E-01"
+        },
+        {
+          "oem": "MERCEDES-BENZ",
+          "spec": "236.1, 236.2, 236.3, 236.5, 236.6, 236.7, 236.8, 236.9, 236.10, 236.11, 236.81, SHELL 3403-4 115, ATF 4134, AA0019892103 /2203/2303/4503/6803"
+        },
+        {
+          "oem": "MASERATI",
+          "spec": "231603"
+        },
+        {
+          "oem": "MATRA",
+          "spec": "ALL"
+        },
+        {
+          "oem": "MITSUBISHI",
+          "spec": "DIAQUEEN SK, SP, SP-II, SP-III, AW, J2"
+        },
+        {
+          "oem": "NISSAN",
+          "spec": "MATIC C, D, J, K, 402"
+        },
+        {
+          "oem": "OPEL",
+          "spec": "ALL"
+        },
+        {
+          "oem": "PEUGEOT",
+          "spec": "ZF 4HP20, 973622, Z000169756"
+        },
+        {
+          "oem": "PORSCHE",
+          "spec": "ZF 5HP19FL, ZF 5HP20, LT71141 ATF 3403-M115, T-IV (JWS 3309), 99991754700A2, 00004320509, 00004320441, SHELL 3403 M115, 99991754700, 000 043 205 28"
+        },
+        {
+          "oem": "RENAULT",
+          "spec": "Samsung SATF-D, 711218368"
+        },
+        {
+          "oem": "ROLLS ROYCE",
+          "spec": "PL31493 PA"
+        },
+        {
+          "oem": "SAAB",
+          "spec": "T-IV, 93160372, 93160393, 93165147"
+        },
+        {
+          "oem": "SATURN",
+          "spec": "AW1, 88863400, 88863401, 22689186, ALL"
+        },
+        {
+          "oem": "SHELL",
+          "spec": "LA2634, ATF 3353, ATF 3403, M115, M-1375.5"
+        },
+        {
+          "oem": "SUBARU",
+          "spec": "DEXRON®-II, ATF 5AT, SOA868V9241, K0140Y0700, ATF-HP, HP/PS (SOA427V1500 HP), ALL"
+        },
+        {
+          "oem": "SUZUKI",
+          "spec": "99980-06000, ATF 3317 SP-4B, 990B0B-01001, ATF 3314, AT OIL 5D06, ATF 2326, ATF 2384K, JWS 3309"
+        },
+        {
+          "oem": "TEXACO",
+          "spec": "ETL-7045E, ETL-8072B, N402"
+        },
+        {
+          "oem": "TOYOTA",
+          "spec": "ATF D-II, ATF D-III, TYPE T, T-II, T-III, TYPE T-IV, WS**"
+        },
+        {
+          "oem": "VOITH",
+          "spec": "55.6335.XX (G607), 55.6336.XX (G1363)"
+        },
+        {
+          "oem": "VOLVO",
+          "spec": "97340, 97341, 97342, 3344208, 31256776, 1161521, 1161540, 1161640, 1161621, CE 97340"
+        },
+        {
+          "oem": "VOLKSWAGEN",
+          "spec": "G055025A2, G052162A2, G052990A2, G052025A2, G052162A1, LT71141, G055540A2, 5 HP (ZF 5 HP 30) (18FL, 30) (19FL, 24A)"
+        },
+        {
+          "oem": "ZF FRIEDRICHSHAFEN AG",
+          "spec": "TE-ML: 02F, 03D, 04D, 05L, 09, 11A, 11B, 14A, 14B, 14C, 16L, 17C, 20B; SHELL LA2634, LT 71141, LifeGuard Fluid 9"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "** Compatible with 2020 and older vehicles."
+  ],
+  "do_not_use": "Continuously variable transmissions (CVT), dual clutch transmissions (DCT), direct-shift gearboxes (DSG), Ford Type F, MERCON® ULV and XT-12-QULV, and GM DEXRON®-HP.",
+  "disclaimer": "The vehicle manufacturers listed have not evaluated or endorsed this product. Always follow the equipment manufacturer's recommendations. It is the service technician's responsibility to confirm that this fluid is suitable for a particular vehicle or transmission.",
+  "source": "ATF-Compatibility-Chart-0413.pdf",
+  "source_year": "2023 and 2024",
+  "old_urls": [
+    "/mm/pdf/ATF-Compatibility-Chart-0413.pdf"
+  ],
+  "review": [
+    "Confirm the list is current.",
+    "Old chart sizes: 1 gal or 55 gal; library data sheet lists 1, 3 and 55 gal. Draft uses the data sheet. Confirm.",
+    "The \"also suitable\" list (old pages 2 and 3) is the full 0411 list. Confirm 0413 covers every application of 0411.",
+    "Old pages 2 and 3 footer named \"Premium Synthetic ATF\" and \"Multi-Vehicle Synthetic ATF\"; draft names Premium Synthetic ATF-LV.",
+    "OEM name \"DIWA / DAIHATSU\" shown as \"DAIHATSU\"",
+    "FUCHS / FUSO: \"Titan ATF 3292, Titan ATF 3353 / ATF- II , ATF-SP III , AFT-A4\" typo corrected",
+    "OEM name \"MERCEDES BENZ\" shown as \"MERCEDES-BENZ\"",
+    "OEM name \"RENAULT 7\" shown as \"RENAULT\"",
+    "OEM name \"ZF FRIEDRICHSHAFEN\" shown as \"ZF FRIEDRICHSHAFEN AG\"",
+    "ZF FRIEDRICHSHAFEN AG: \"TE-ML: 02F, 03D, 04D, 05L, 09, 11A, 11B, 14A, 14B, 14C, 16L, 17C, 20B; SHELLLA 2634, LT 71141, LifeGuard Fluid 9\" typo corrected"
+  ],
+  "status": "draft",
+  "rev": "1.0"
+}

@@ -1,0 +1,146 @@
+{
+  "slug": "cvt",
+  "type": "list",
+  "family": "CVT",
+  "title": "CVT Compatibility Chart",
+  "items": [
+    "0417",
+    "0418"
+  ],
+  "product": "Multi-Vehicle Synthetic CVT Fluid and Universal CVT Conditioner",
+  "intro": "A premium additive blend for superior component protection and service reliability across a wide range of CVT systems, designed for optimal metal-to-metal friction, anti-shudder durability and shear stability.",
+  "sizes": "CVT Fluid: 1 qt, 5 qt, 1 gal // CVT Conditioner: 11 oz",
+  "groups": [
+    {
+      "title": "Compatible OEM specifications",
+      "rows": [
+        {
+          "oem": "AUDI / VW",
+          "spec": "Multitronic, TL 525 16 (G 052 516), TL 521 80 (G 052 180)"
+        },
+        {
+          "oem": "BMW",
+          "spec": "P/N 83220136376,83220429154,EZL799 & 799A, PUNCH EZL799 & 799A"
+        },
+        {
+          "oem": "CHRYSLER",
+          "spec": "Mopar CVTF+4, P/N 05191184AA"
+        },
+        {
+          "oem": "DAIHATSU",
+          "spec": "AMMIX CVT Fluid DC, DFC, TC"
+        },
+        {
+          "oem": "DODGE / JEEP",
+          "spec": "NS-2"
+        },
+        {
+          "oem": "FIAT",
+          "spec": "Tutela Car CVT N.G"
+        },
+        {
+          "oem": "FORD",
+          "spec": "Motorcraft P/N XT-7-QCFT, WSS-M2C933-A, Ford Merc C, CFT23, CFT30"
+        },
+        {
+          "oem": "FUJI HEAVY INDUSTRIES (SUBARU)",
+          "spec": "I-CVT FG"
+        },
+        {
+          "oem": "GM / SATURN",
+          "spec": "DEX-CVT, GM1940713, 1940714, CVTF I-Green2, VT40, HP CVT"
+        },
+        {
+          "oem": "HONDA",
+          "spec": "Multimatic HMMF (without starting clutch), HCF2, CVT model, without starting clutch"
+        },
+        {
+          "oem": "HYUNDAI / KIA",
+          "spec": "SP-CVT1, SP III (CVT model)"
+        },
+        {
+          "oem": "IDEMITSU",
+          "spec": "CVTF-EX1"
+        },
+        {
+          "oem": "LEXUS / TOYOTA",
+          "spec": "Genuine CVT Fluid TC, CVTF Type FE"
+        },
+        {
+          "oem": "MAZDA",
+          "spec": "CVTF 3320"
+        },
+        {
+          "oem": "MG ROVER",
+          "spec": "EM-CVT"
+        },
+        {
+          "oem": "MINI",
+          "spec": "EZL799 & 799A, ZF CVT V1"
+        },
+        {
+          "oem": "MITSUBISHI",
+          "spec": "CVTF-J1, CVTF-J4 and -J4+ (MMC Diaqueen), SP-III (CVT model only), CVTF ECO J4"
+        },
+        {
+          "oem": "NISSAN",
+          "spec": "CVTF - NS-1, NS-2, NS-3"
+        },
+        {
+          "oem": "OPEL / VAUXHALL",
+          "spec": "7-speed CVT, 95529854"
+        },
+        {
+          "oem": "PERODUA",
+          "spec": "D-CVT"
+        },
+        {
+          "oem": "PUNCH PSA",
+          "spec": "Standard 9735EF"
+        },
+        {
+          "oem": "PEUGEOT",
+          "spec": "PSA Standard 9735EF"
+        },
+        {
+          "oem": "RENAULT",
+          "spec": "ELFMATIC"
+        },
+        {
+          "oem": "SHELL",
+          "spec": "GREEN 1V"
+        },
+        {
+          "oem": "SUBARU",
+          "spec": "iCVT, iCVT FG, ECVT, Lineartronic CVT, CVT II & CVT3 Fluid, K0425Y0710 & 0711, (HT) CVT Fluid, CV-30, K0421Y0700, (HT) CVTF-LV"
+        },
+        {
+          "oem": "SUZUKI",
+          "spec": "CVTF TC, 3320, 4401, NS-2, Green 1, 2 & 1V"
+        },
+        {
+          "oem": "VOLVO",
+          "spec": "CVT 4959"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "do_not_use": "",
+  "disclaimer": "The vehicle manufacturers listed have not evaluated or endorsed this product. Always follow the equipment manufacturer's recommendations. It is the service technician's responsibility to confirm that this fluid is suitable for a particular vehicle or transmission.",
+  "source": "CVT-Compatibilitychart.pdf",
+  "source_year": "2025",
+  "old_urls": [
+    "/mm/pdf/CVT-Compatibilitychart.pdf"
+  ],
+  "review": [
+    "Confirm the list is current and applies to both 0417 Multi-Vehicle Synthetic CVT Fluid and 0418 Universal CVT Conditioner (old chart: \"Part #s 04181, 0417x\").",
+    "Old chart has no do-not-use warning. Add one?",
+    "Honda row repeats \"without starting clutch\". Confirm wording.",
+    "OEM name \"FUJIJYUUKO\" shown as \"FUJI HEAVY INDUSTRIES (SUBARU)\"",
+    "OEM name \"IDEMMITSU\" shown as \"IDEMITSU\"",
+    "OEM name \"OPEL/VAUXHALL\" shown as \"OPEL / VAUXHALL\""
+  ],
+  "status": "draft",
+  "rev": "1.0"
+}

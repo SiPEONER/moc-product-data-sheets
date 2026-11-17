@@ -1,0 +1,95 @@
+{
+  "slug": "dct-dsg",
+  "type": "list",
+  "family": "DCT / DSG",
+  "title": "DCT & DSG Compatibility Chart",
+  "items": [
+    "0426"
+  ],
+  "product": "Synthetic DCT Fluid",
+  "intro": "An advanced lubricant for superior component protection and service reliability in wet dual clutch transmissions (DCT) and direct-shift gearboxes (DSG).",
+  "sizes": "1 qt",
+  "groups": [
+    {
+      "title": "Compatible OEM specifications",
+      "rows": [
+        {
+          "oem": "AUDI / VW",
+          "spec": "TL - 052 182 / 052 529, G-052-182-A2"
+        },
+        {
+          "oem": "BMW",
+          "spec": "83 22 2 148 578, 83 22 2 148 579, 83 22 0 440 214, 83 22 2 147 477"
+        },
+        {
+          "oem": "CHERY",
+          "spec": "DCT’S"
+        },
+        {
+          "oem": "CITROEN / PEUGEOT",
+          "spec": "9734.S2"
+        },
+        {
+          "oem": "FERRARI",
+          "spec": "TF DCT-F3"
+        },
+        {
+          "oem": "FIAT",
+          "spec": "BOT 341"
+        },
+        {
+          "oem": "FORD",
+          "spec": "M2C936A (BOT341)"
+        },
+        {
+          "oem": "MERCEDES-BENZ",
+          "spec": "236.21 (001 989 85 03), 236.22 (000 989 61 04), 236.25"
+        },
+        {
+          "oem": "MITSUBISHI",
+          "spec": "MZ320065 DIA-Queen SSTF-I"
+        },
+        {
+          "oem": "NISSAN",
+          "spec": "M2C936A"
+        },
+        {
+          "oem": "PORSCHE",
+          "spec": "999.917.080.00, 000 043 207 29 (FFL-3)"
+        },
+        {
+          "oem": "RENAULT",
+          "spec": "BOT 450"
+        },
+        {
+          "oem": "SEAT / SKODA",
+          "spec": "TL 052 182"
+        },
+        {
+          "oem": "VOLVO",
+          "spec": "1161838, 1161839"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Use in DCT or DSG transmissions according to the equipment manufacturer's recommendations."
+  ],
+  "do_not_use": "CVT, traditional step-shift transmissions, or Nissan transmissions that require GTR fluid.",
+  "disclaimer": "The vehicle manufacturers listed have not evaluated or endorsed this product. Always follow the equipment manufacturer's recommendations. It is the service technician's responsibility to confirm that this fluid is suitable for a particular vehicle or transmission.",
+  "source": "DCT-DSG-Compatibility-Chart.pdf",
+  "source_year": "2026",
+  "old_urls": [
+    "/mm/pdf/DCT-DSG-Compatibility-Chart.pdf",
+    "/mm/pdf/Synthetic-DCT-DSG-fluid-guide.pdf"
+  ],
+  "review": [
+    "Confirm the list is current.",
+    "Old title read \"Synthetic DSG / DSG Fluid\"; draft uses the library name Synthetic DCT Fluid.",
+    "\"CHERY: DCT'S\" is vague. Confirm wording.",
+    "Old 84014 DCT/DSG fluid guide (2017) is an older version; its address will redirect here.",
+    "OEM name \"CITROEN/PEUGOET\" shown as \"CITROEN / PEUGEOT\""
+  ],
+  "status": "draft",
+  "rev": "1.0"
+}

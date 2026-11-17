@@ -1,0 +1,259 @@
+{
+  "slug": "coolant",
+  "type": "grid",
+  "family": "Coolant",
+  "title": "Coolant Compatibility Chart",
+  "items": [],
+  "product": "Coolant type by make and model year",
+  "intro": "The factory coolant type for each make by model year. Match the coolant type before topping off or refilling a cooling system.",
+  "years": [
+    "1990 & older",
+    "1991-1996",
+    "1997-2001",
+    "2002",
+    "2003",
+    "2004",
+    "2005-2006",
+    "2007",
+    "2008-2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015 & newer"
+  ],
+  "grid": {
+    "Domestic": {
+      "GM": [
+        "OG",
+        "DEX-COOL",
+        "DEX-COOL",
+        "DEX-COOL",
+        "DEX-COOL",
+        "DEX-COOL",
+        "DEX-COOL",
+        "DEX-COOL",
+        "DEX-COOL",
+        "DEX-COOL",
+        "DEX-COOL",
+        "DEX-COOL",
+        "DEX-COOL"
+      ],
+      "Ford cars": [
+        "OG",
+        "OG",
+        "OG",
+        "OG",
+        "G05",
+        "G05",
+        "G05",
+        "G05",
+        "G05",
+        "DEX-COOL",
+        "DEX-COOL",
+        "DEX-COOL",
+        "DEX-COOL"
+      ],
+      "Ford trucks and SUVs": [
+        "OG",
+        "OG",
+        "OG",
+        "G05",
+        "G05",
+        "G05",
+        "G05",
+        "G05",
+        "G05",
+        "G05",
+        "DEX-COOL",
+        "DEX-COOL",
+        "DEX-COOL"
+      ],
+      "Chrysler": [
+        "OG",
+        "OG",
+        "OG",
+        "G05",
+        "G05",
+        "G05",
+        "G05",
+        "G05",
+        "G05",
+        "G05",
+        "DEX-COOL",
+        "DEX-COOL",
+        "DEX-COOL"
+      ]
+    },
+    "European": {
+      "Mercedes-Benz": [
+        "G05",
+        "G05",
+        "G05",
+        "G05",
+        "G05",
+        "G05",
+        "G05",
+        "G05",
+        "G05",
+        "G48",
+        "G48",
+        "G40",
+        "G40"
+      ],
+      "BMW, Mini": [
+        "G05",
+        "G48",
+        "G48",
+        "G48",
+        "G48",
+        "G48",
+        "G48",
+        "G48",
+        "G48",
+        "G48",
+        "G48",
+        "G48",
+        "G48"
+      ],
+      "Audi, VW, Porsche": [
+        "G05",
+        "G05",
+        "G05",
+        "G05",
+        "G05",
+        "G05",
+        "G40",
+        "G40",
+        "G40",
+        "G40",
+        "G40",
+        "G40",
+        "G40"
+      ],
+      "Jaguar, Land Rover": [
+        "G05",
+        "G05",
+        "G30",
+        "G30",
+        "G30",
+        "G30",
+        "G30",
+        "G30",
+        "G30",
+        "G30",
+        "G30",
+        "G40",
+        "G40"
+      ],
+      "Volvo": [
+        "G48",
+        "G48",
+        "G48",
+        "G48",
+        "G48",
+        "G48",
+        "G48",
+        "G48",
+        "G48",
+        "G48",
+        "G48",
+        "G48",
+        "G40"
+      ],
+      "Fiat": [
+        "N/A",
+        "N/A",
+        "N/A",
+        "N/A",
+        "N/A",
+        "N/A",
+        "N/A",
+        "G30",
+        "G30",
+        "G30",
+        "G30",
+        "G30",
+        "G30"
+      ]
+    },
+    "Asian": {
+      "Toyota, Lexus, Scion": [
+        "Red P-HOAT",
+        "Red P-HOAT",
+        "Red P-HOAT",
+        "Red P-HOAT",
+        "Red P-HOAT",
+        "Red P-HOAT",
+        "Red P-HOAT",
+        "Red P-HOAT",
+        "Red P-HOAT",
+        "Red P-HOAT",
+        "Red P-HOAT",
+        "Red P-HOAT",
+        "Red P-HOAT"
+      ],
+      "Honda, Acura, Subaru, Mazda, Hyundai, Kia": [
+        "Blue P-HOAT",
+        "Blue P-HOAT",
+        "Blue P-HOAT",
+        "Blue P-HOAT",
+        "Blue P-HOAT",
+        "Blue P-HOAT",
+        "Blue P-HOAT",
+        "Blue P-HOAT",
+        "Blue P-HOAT",
+        "Blue P-HOAT",
+        "Blue P-HOAT",
+        "Blue P-HOAT",
+        "Blue P-HOAT"
+      ]
+    }
+  },
+  "key": [
+    [
+      "OG",
+      "Original green (conventional)"
+    ],
+    [
+      "DEX-COOL",
+      "Domestic vehicles; orange"
+    ],
+    [
+      "G05",
+      "HOAT hybrid antifreeze that meets Ford and Chrysler specs (2002 to 2012), also Mercedes (2011 and older), Audi and VW"
+    ],
+    [
+      "G30",
+      "OAT formula with no silicates or phosphates. Meets BS 6580:2010 for European applications"
+    ],
+    [
+      "G40",
+      "OAT formula with silicates for Mercedes, VW and other European makes. Meets ASTM D3306, D4985 and D6210"
+    ],
+    [
+      "G48",
+      "Low silicate, low pH, phosphate-free OAT formula for Volvo, BMW and Mini. Meets ASTM D3306 and D4985"
+    ],
+    [
+      "P-HOAT",
+      "Phosphated hybrid organic acid technology (Asian makes); red for Toyota, Lexus and Scion, blue for Honda and others"
+    ]
+  ],
+  "notes": [],
+  "do_not_use": "",
+  "disclaimer": "Always follow the vehicle manufacturer's coolant specification.",
+  "source": "Coolant-Comp-Chart.pdf",
+  "source_year": "2024",
+  "old_urls": [
+    "/mm/pdf/Coolant-Comp-Chart.pdf"
+  ],
+  "review": [
+    "Which MOC coolant to use for each type? The old chart names no MOC product (library: 04503 Universal Extended Life, 04513 Asian Red/Pink Super Long-life, 04533P Heavy-Duty).",
+    "Years read from the old chart's color bars. Ford 2012 and later and Chrysler 2013 and later are shown as DEX-COOL; Ford and Chrysler use their own specs (Motorcraft Orange, Mopar OAT). Confirm.",
+    "Chart stops at \"2015 and newer\". Update for 2016 to 2027 models?",
+    "Old descriptors for G-05, G-40 and G-48 were cut off mid-sentence; draft ends them where the text was readable. P-HOAT key line is new: confirm.",
+    "Toyota row: red from 1990, labeled \"RED\" and \"P-HOAT\". Confirm Toyota pink/red SLLC history."
+  ],
+  "status": "draft",
+  "rev": "1.0"
+}
