@@ -136,7 +136,7 @@ p { margin: 0; text-wrap: pretty; }
       <article class="card" data-pkg="{{ o.pkg }}" data-q="{{ (o.pn ~ ' ' ~ o.item ~ ' ' ~ o.name ~ ' ' ~ o.variant ~ ' ' ~ o.pkg)|lower }}">
         <div class="stage"><img src="thumbs/{{ o.pn }}.webp" alt="{{ o.name }}, {{ o.pkg }}" loading="lazy" decoding="async" width="{{ (o.ww * 360 / 800)|round|int }}" height="360"></div>
         <div class="meta">
-          <span class="pn">#{{ o.pn }}</span>
+          <span class="pn">{{ o.pn }}</span>
           <span class="nm">{{ o.name }}{% if o.variant and o.variant|lower not in o.name|lower %} // {{ o.variant }}{% endif %}</span>
           <span class="pk">{{ o.pkg }} // {{ o.net }}</span>
           <span class="pk">Item {{ o.item }}{% if o.ds %} // <a href="../pdfs/{{ o.ds }}.pdf" target="_blank" rel="noopener">Data sheet</a>{% endif %}</span>
