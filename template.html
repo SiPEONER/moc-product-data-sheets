@@ -93,6 +93,10 @@ tr:last-child td { border-bottom: 2px solid #000000; }
 .pk td:first-child { font-weight: 700; }
 .pk th:last-child, .pk td:last-child { text-align: right; padding-right: 0; white-space: nowrap; }
 .pk th:nth-child(2), .pk td:nth-child(2) { white-space: nowrap; }
+/* Label part numbers (2026-11-19): a Part No. column first, bold; the fill drops to regular. */
+.pk-pn td:first-child { white-space: nowrap; }
+.pk-pn td:nth-child(2) { font-weight: 400; white-space: normal; }
+.pk-pn th:nth-child(3), .pk-pn td:nth-child(3) { white-space: nowrap; }
 .kv { width: 100%; }
 .kv > div { display: flex; justify-content: space-between; gap: 12pt; padding: 3.6pt 0 3.1pt; border-bottom: 1px solid #000000; font-size: 8.75pt; line-height: 1.3; }
 .kv > div:last-child { border-bottom: 2px solid #000000; }
@@ -137,7 +141,7 @@ tr:last-child td { border-bottom: 2px solid #000000; }
     <p class="micro cat">{{ p.category }}</p>
     <p class="micro micro-reg type">Product Performance &amp; Data Sheet</p>
     <img class="logo" src="{{ logo }}" alt="MOC Products">
-    <p class="stamp">{{ p.item }}</p>
+    <p class="stamp">{{ p.pn }}</p>
     <h1 class="title">{{ p.name|keep(p.name_keep, p.name_break) }}</h1>
   </header>
 
@@ -189,10 +193,11 @@ tr:last-child td { border-bottom: 2px solid #000000; }
 {% macro packaging(num) %}
         <section>
           <h2 class="h">{{ num }} // Packaging</h2>
-          <table class="pk">
-            <thead><tr><th>Fill</th><th>Case Qty</th><th>Case Wt</th></tr></thead>
+          {% set pns = p.pack_pn if p.pack_pn and p.pack_pn|select|list else [] %}
+          <table class="pk{% if pns %} pk-pn{% endif %}">
+            <thead><tr>{% if pns %}<th>Part No.</th>{% endif %}<th>Fill</th><th>Case Qty</th><th>Case Wt</th></tr></thead>
             <tbody>
-              {% for f, q, w in p.packaging %}<tr><td>{{ f }}</td><td>{{ q }}</td><td>{{ w }}</td></tr>{% endfor %}
+              {% for f, q, w in p.packaging %}<tr>{% if pns %}<td>{{ pns[loop.index0] }}</td>{% endif %}<td>{{ f }}</td><td>{{ q }}</td><td>{{ w }}</td></tr>{% endfor %}
             </tbody>
           </table>
         </section>
@@ -240,7 +245,7 @@ tr:last-child td { border-bottom: 2px solid #000000; }
   <header class="band band-slim">
     <p class="micro cat">{{ p.category }} // Product Performance &amp; Data Sheet</p>
     <img class="logo" src="{{ logo }}" alt="MOC Products">
-    <p class="slim-name"><span class="stamp stamp-sm">{{ p.item }}</span> {{ p.name }}</p>
+    <p class="slim-name"><span class="stamp stamp-sm">{{ p.pn }}</span> {{ p.name }}</p>
   </header>
   <main class="body">
     {% if two_specs %}{{ specs("04") }}{% endif %}

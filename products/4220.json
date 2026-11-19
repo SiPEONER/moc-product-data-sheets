@@ -84,7 +84,7 @@
       "46 lbs."
     ],
     [
-      "5 gal",
+      "55 gal",
       "1",
       "490 lbs."
     ]
@@ -94,7 +94,8 @@
     "old_rev": 2
   },
   "review": [
-    "Spelling corrected from the old sheet: D`Limonen -> d-Limonene"
+    "Spelling corrected from the old sheet: D`Limonen -> d-Limonene",
+    "2026-11-19: third packaging row read \"5 gal\" at 1 per case and over 480 lbs; changed to 55 gal (a 5 gal pail weighs about 46 lbs). Confirm."
   ],
   "photo": {
     "source": "New label render F2 (Product label redesign chat, 2026-11-18), incoming-photos/4220.png",

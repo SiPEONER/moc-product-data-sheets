@@ -131,10 +131,10 @@ img { max-width: 100%; }
       <p class="micro kicker">Doc no. MOC-{{ lib.code }} // Product {{ lib.label|lower }} // Rev 1.0 // Updated {{ updated }}</p>
       <h1 class="title">Product {{ lib.label }}</h1>
       <div class="hero-row"><p class="stamp">{{ lib.total }} {{ "product" if lib.total == 1 else "products" }} // {{ sections|length }} {{ "section" if sections|length == 1 else "sections" }}</p></div>
-      <p class="lead">{% if lib.kind == "pds" %}Performance data, specifications and packaging for every MOC Products additive, fluid, cleaner and appearance product. Find a product by name or item number and download its data sheet.{% else %}One-page sales sheets for MOC Products, ready to print or send to a customer. Find a product by name or item number and download its ad sheet.{% endif %}</p>
+      <p class="lead">{% if lib.kind == "pds" %}Performance data, specifications and packaging for every MOC Products additive, fluid, cleaner and appearance product. Find a product by name or part number and download its data sheet.{% else %}One-page sales sheets for MOC Products, ready to print or send to a customer. Find a product by name or part number and download its ad sheet.{% endif %}</p>
       <form class="search" role="search" id="search-form">
         <label for="q" class="sr-only">Search {{ lib.label|lower }}</label>
-        <input id="q" name="q" type="search" class="field" placeholder="Search by product or item number" autocomplete="off">
+        <input id="q" name="q" type="search" class="field" placeholder="Search by product or part number" autocomplete="off">
       </form>
     </header>
 
@@ -154,13 +154,13 @@ img { max-width: 100%; }
       </div>
       <div class="cells">
         {% for p in s.sheets %}
-        <article class="cell" data-search="{{ (p.name ~ ' ' ~ p.item ~ ' ' ~ s.title)|lower }}">
+        <article class="cell" data-search="{{ (p.name ~ ' ' ~ p.pn ~ ' ' ~ p.item ~ ' ' ~ (p.pack_pn|join(' ')) ~ ' ' ~ s.title)|lower }}">
           <a class="cell-img" href="pdfs/{{ p.file }}.pdf" target="_blank" rel="noopener" aria-label="Open the {{ p.name }} {{ 'data sheet' if lib.kind == 'pds' else 'ad sheet' }} (PDF)">
             <img src="previews/{{ p.file }}.jpg" alt="{{ p.name }} {{ 'data sheet' if lib.kind == 'pds' else 'ad sheet' }}" width="720" height="932" loading="lazy">
           </a>
           <div class="cap">
             <h3 class="cap-name">{{ p.name }}</h3>
-            <div class="cap-meta"><span class="st st-solid">{{ p.item }}</span><span class="st">Rev {{ p.rev }}</span></div>
+            <div class="cap-meta"><span class="st st-solid">{{ p.pn }}</span><span class="st">Rev {{ p.rev }}</span></div>
             <p class="micro micro-reg">MOC-{{ p.code }}-{{ p.item }} // PDF {{ p.size }}</p>
             <div class="cap-actions">
               <a class="btn btn-solid" href="pdfs/{{ p.file }}.pdf" download>Download PDF <span class="size"><svg viewBox="0 0 16 16" class="arrow" aria-hidden="true"><path d="M8 2 V13 M4 9 L8 13 L12 9" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="square" stroke-linejoin="miter"/></svg></span></a>
@@ -171,7 +171,7 @@ img { max-width: 100%; }
       </div>
     </section>
     {% endfor %}
-    <p class="empty in" id="empty" hidden>No {{ "data sheet" if lib.kind == "pds" else "ad sheet" }} matches that search. Try a product name or a five-digit item number.</p>
+    <p class="empty in" id="empty" hidden>No {{ "data sheet" if lib.kind == "pds" else "ad sheet" }} matches that search. Try a product name or a part number.</p>
   </main>
 
   <footer class="foot in">

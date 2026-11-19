@@ -57,13 +57,14 @@ def prepare(c, products):
     c["pdf"] = f"{c['docno']}_{slugify(c['title'])}_REV-{c['rev']}.pdf"
     c["example"] = EXAMPLES.get(c["slug"], "")
     c["datasheets"] = []
+    c["pns"] = [build.part_numbers(dict(products[i]))["pn"] if i in products else i for i in c["items"]]  # label part numbers
     for i in c["items"]:
         p = products.get(i)
         if p and build.has("pds", p):
-            c["datasheets"].append(dict(item=i, file=build.file_base("pds", p)))
+            c["datasheets"].append(dict(item=i, pn=build.part_numbers(dict(p))["pn"], file=build.file_base("pds", p)))
     if c["type"] == "list":
         oems = [r["oem"].title() for g in c["groups"] for r in g["rows"]]
-        who = f"MOC {', '.join(c['items'])} {c['product']}" if c["items"] else c["product"]
+        who = f"MOC {', '.join(c['pns'])} {c['product']}" if c["items"] else c["product"]
         c["description"] = f"{c['title']} for {who}: the OEM fluid specifications and part numbers it replaces, for " + ", ".join(oems[:8]) + f" and {max(len(oems) - 8, 0)} more makes."
     else:
         c["grid_spans"] = [(region, [(make, spans(v, c["years"])) for make, v in makes.items()]) for region, makes in c["grid"].items()]
@@ -112,7 +113,7 @@ INDEX = """<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 {% if drafts %}<p class="draft micro">Drafts // Pending product expert review // Not for distribution</p>{% endif %}
 <main><header class="hero in"><p class="micro kicker">Doc no. MOC-CHT // Compatibility charts</p><h1 class="title">Compatibility Charts</h1>
 <p class="lead">Find the MOC fluid that matches an OEM specification. Each chart lists the factory fluid specs and part numbers a product replaces.</p></header>
-<div class="cards">{% for c in charts %}<a class="card" href="{{ c.slug }}"><span class="micro">{{ c.docno }}{% if c.status == 'draft' %} // Draft{% endif %}</span><span class="cname">{{ c.title }}</span><span class="cprod">{% for i in c['items'] %}{{ i }} {% endfor %}{{ c.product }}</span></a>{% endfor %}</div></main>
+<div class="cards">{% for c in charts %}<a class="card" href="{{ c.slug }}"><span class="micro">{{ c.docno }}{% if c.status == 'draft' %} // Draft{% endif %}</span><span class="cname">{{ c.title }}</span><span class="cprod">{% for i in c.pns %}{{ i }} {% endfor %}{{ c.product }}</span></a>{% endfor %}</div></main>
 <footer class="foot in"><p class="micro micro-reg">MOC Products // 12306 Montague Street // Pacoima, CA 91331-2279 // 800.266.9226</p><p class="micro">MOC-CHT // Rev 1.0</p></footer>
 </div></div></body></html>"""
 

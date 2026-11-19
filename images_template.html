@@ -139,7 +139,7 @@ p { margin: 0; text-wrap: pretty; }
           <span class="pn">{{ o.pn }}</span>
           <span class="nm">{{ o.name }}{% if o.variant and o.variant|lower not in o.name|lower %} // {{ o.variant }}{% endif %}</span>
           <span class="pk">{{ o.pkg }} // {{ o.net }}</span>
-          <span class="pk">Item {{ o.item }}{% if o.ds %} // <a href="../pdfs/{{ o.ds }}.pdf" target="_blank" rel="noopener">Data sheet</a>{% endif %}</span>
+          <span class="pk">{% if o.ds %}<a href="../pdfs/{{ o.ds }}.pdf" target="_blank" rel="noopener">Data sheet</a>{% else %}&nbsp;{% endif %}</span>
         </div>
         <div class="dl">
           <a class="btn btn-solid" href="web_800/{{ o.pn }}.png" download="{{ o.pn }}.png" aria-label="Download {{ o.pn }} {{ o.name }}, 800 px, {{ o.web_kb }} KB">800 px</a>

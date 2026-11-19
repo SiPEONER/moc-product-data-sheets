@@ -127,6 +127,51 @@ def steps(text):
     return dict(intro=intro, list=[i for i in items if i], outro="")
 
 
+# Label part numbers (Andy, 2026-11-19): the number printed on the product label is the reference.
+# images/manifest.csv (from the label chat) lists every label: part number, item number, package.
+# A sheet shows the part number of the package in its image; its packaging table shows one part
+# number per size that has a label. Products with no new label (no image, Pro Series, low volume)
+# keep their item number. Document numbers and file names stay on the item number.
+_LABELS = None
+PACK_RX = {"5 gal pail": r"(?<![\d.])5\s*ga\s*l", "1 gal jug": r"(?<![\d.])1\s*ga\s*l", "32 oz bottle": r"(?<![\d.])1\s*(qt|quart)\b|(?<![\d.])32\s*(fl\.?\s*)?oz"}
+
+
+def labels():
+    global _LABELS
+    if _LABELS is None:
+        import csv
+        _LABELS = {}
+        f = ROOT / "images" / "manifest.csv"
+        for r in (csv.DictReader(open(f, newline="")) if f.exists() else []):
+            _LABELS.setdefault(r["item_number"], []).append((r["part_number"], r["package"]))
+    return _LABELS
+
+
+def pack_kind(fill, kinds):
+    """The label package a packaging row's fill belongs to, or None."""
+    f = fill.lower()
+    for k, rx in PACK_RX.items():
+        if k in kinds and re.search(rx, f):
+            return k
+    small = [k for k in kinds if k not in PACK_RX]  # additive bottle / aerosol can
+    if len(small) == 1 and "oz" in f and not re.search(r"(?<![\d.])32\s*(fl\.?\s*)?oz", f) and not re.search(r"ga\s*l", f):
+        return small[0]
+    return None
+
+
+def part_numbers(p):
+    """Set p['pn'] (number shown on the sheet) and p['pack_pn'] (one per packaging row, '' where no label)."""
+    p["pn"], p["pack_pn"] = p["item"], []
+    labs = labels().get(p["item"])
+    if not labs or (p.get("photo") or {}).get("none"):
+        return p
+    kinds = {k: n for n, k in labs}
+    shown = "5 gal pail" if (p.get("photo") or {}).get("package") == "5gal" else next((k for k in kinds if k != "5 gal pail"), "5 gal pail")
+    p["pn"] = kinds.get(shown, p["item"])
+    p["pack_pn"] = [kinds.get(pack_kind(row[0], kinds), "") for row in p.get("packaging") or []]
+    return p
+
+
 def has(kind, p):
     """Every product has a data sheet unless it is ad-only ("pds": false); an ad sheet when it has an "ad" block."""
     return p.get("pds", True) if kind == "pds" else bool(p.get("ad"))
@@ -146,7 +191,7 @@ def main(only):
     with sync_playwright() as pw:
         browser = pw.chromium.launch()
         for path in products:
-            p = json.loads(path.read_text())
+            p = part_numbers(json.loads(path.read_text()))
             if p.get("image"):
                 p["image"] = data_uri(p["image"])
             if p.get("ad", {}).get("image"):
@@ -221,7 +266,7 @@ def build_site(env):
 
     for sub in ("pdfs", "previews", "fonts"):
         (WEB / sub).mkdir(parents=True, exist_ok=True)
-    products = [json.loads(p.read_text()) for p in sorted((ROOT / "products").glob("*.json"))]
+    products = [part_numbers(json.loads(p.read_text())) for p in sorted((ROOT / "products").glob("*.json"))]
     products = [p for p in products if p["item"] != TEMPLATE_ITEM]
     libraries, keep = [], set()
     for kind, d in DOCS.items():
@@ -238,7 +283,7 @@ def build_site(env):
             im.resize((720, round(720 * im.height / im.width)), Image.LANCZOS).save(WEB / "previews" / f"{file}.jpg", quality=86)
             keep.add(file)
             sections.setdefault(p.get("library_section", "Products"), []).append(dict(
-                item=p["item"], name=p["name"], rev=d["rev"](p), file=file, code=d["code"],
+                item=p["item"], pn=p["pn"], pack_pn=p["pack_pn"], name=p["name"], rev=d["rev"](p), file=file, code=d["code"],
                 size=f"{round(pdf.stat().st_size / 1024)} KB"))
         order = lambda t: (SECTION_ORDER.index(t) if t in SECTION_ORDER else len(SECTION_ORDER), t)
         secs = [dict(id=slug(t).lower(), title=t, sheets=sorted(sections[t], key=lambda i: i["item"])) for t in sorted(sections, key=order)]

@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>{{ c.title }}{% if c['items'] %} // {{ c['items']|join(', ') }} {{ c.product }}{% endif %} // MOC Products</title>
+<title>{{ c.title }}{% if c['items'] %} // {{ c.pns|join(', ') }} {{ c.product }}{% endif %} // MOC Products</title>
 <meta name="description" content="{{ c.description }}">
 {% if not indexable %}<meta name="robots" content="noindex, nofollow">{% endif %}
 <link rel="canonical" href="{{ base }}/charts/{{ c.slug }}">
@@ -179,14 +179,14 @@ table.cg { width: 100%; border-collapse: collapse; font-size: 13px; }
       <p class="micro kicker">Doc no. {{ c.docno }} // Compatibility chart // Rev {{ c.rev }}{% if c.status == 'draft' %} draft{% endif %}</p>
       <h1 class="title">{{ c.title }}</h1>
       <div class="product">
-        {% for i in c['items'] %}<span class="stamp">{{ i }}</span>{% endfor %}
+        {% for i in c.pns %}<span class="stamp">{{ i }}</span>{% endfor %}
         <p class="pname">{{ c.product }}</p>
       </div>
       <p class="lead">{{ c.intro }}</p>
       {% if c.sizes %}<p class="micro sizes">Sizes // {{ c.sizes }}</p>{% endif %}
       <div class="actions">
         <a class="btn btn-solid" href="pdf/{{ c.pdf }}" download>Download PDF <svg viewBox="0 0 16 16" class="arrow" aria-hidden="true"><path d="M8 2 V13 M4 9 L8 13 L12 9" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="square"/></svg></a>
-        {% for d in c.datasheets %}<a class="btn" href="../pdfs/{{ d.file }}.pdf" target="_blank" rel="noopener">{{ d.item }} data sheet</a>{% endfor %}
+        {% for d in c.datasheets %}<a class="btn" href="../pdfs/{{ d.file }}.pdf" target="_blank" rel="noopener">{{ d.pn }} data sheet</a>{% endfor %}
       </div>
       {% if c.type == 'list' %}
       <form class="search" role="search" id="search-form">

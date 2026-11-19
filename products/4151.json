@@ -74,7 +74,7 @@
       "45 lbs."
     ],
     [
-      "5 gal",
+      "55 gal",
       "1",
       "484 lbs."
     ]
@@ -83,7 +83,9 @@
     "pdf": "4151.pdf",
     "old_rev": 2
   },
-  "review": [],
+  "review": [
+    "2026-11-19: third packaging row read \"5 gal\" at 1 per case and over 480 lbs; changed to 55 gal (a 5 gal pail weighs about 46 lbs). Confirm."
+  ],
   "ad": {
     "rev": "1.0",
     "headline": "Neutralizes Odors",
