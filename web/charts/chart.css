@@ -93,6 +93,7 @@ table.cg { width: 100%; border-collapse: collapse; font-size: 13px; }
 .facts h2 { font-weight: 900; font-size: 14px; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 10px; }
 .facts p + p { margin-top: 10px; }
 .empty { padding: 28px var(--pad); font-weight: 700; }
+.dnu { padding-top: 20px; padding-bottom: 20px; border-bottom: 2px solid #000000; background: #000000; color: #ffffff; font-size: 16px; }
 .foot { margin-top: auto; border-top: 2px solid #000000; display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; padding-top: 18px; padding-bottom: 18px; }
 .review { border-bottom: 2px solid #000000; padding-top: 24px; padding-bottom: 28px; background: repeating-linear-gradient(135deg, #ffffff 0 10px, #f2f2f2 10px 11px); }
 .review h2 { font-weight: 900; font-size: 14px; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 4px; }
@@ -108,7 +109,7 @@ table.cg { width: 100%; border-collapse: collapse; font-size: 13px; }
   :root { --pad: 0px; }
   body { font-size: 9pt; }
   .page { padding: 0; } .sheet { border: 0; min-height: 0; }
-  .masthead, .search, .actions, .skip-link, .bymake, .screen-only { display: none !important; }
+  .masthead, .search, .actions, .skip-link, .bymake, .screen-only, .dnu { display: none !important; }
   .grid-wrap { display: block !important; overflow: visible; }
   .print-only { display: block; }
   .draft { padding: 5pt 0 4pt; font-size: 7.5pt; }
@@ -142,3 +143,11 @@ table.cg { width: 100%; border-collapse: collapse; font-size: 13px; }
 .card:hover { background: #000000; color: #ffffff; }
 .cname { font-weight: 900; font-size: 24px; line-height: 1.05; letter-spacing: -0.01em; text-transform: uppercase; }
 .cprod { font-size: 15px; }
+.hit { display: block; padding-top: 20px; padding-bottom: 20px; border-bottom: 2px solid #000000; color: #000000; text-decoration: none; }
+.hit:hover .cname { text-decoration: underline; }
+.hit-h { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; margin-bottom: 10px; }
+.hit .cname { font-size: 20px; }
+.hit-r { display: grid; grid-template-columns: minmax(140px, 240px) minmax(0, 1fr); gap: 4px 24px; padding: 8px 0; border-top: 1px solid #000000; font-size: 15px; overflow-wrap: anywhere; }
+.hit-r b { font-weight: 900; text-transform: uppercase; }
+.hit-no { display: block; background: #000000; color: #ffffff; padding: 10px 12px; margin-bottom: 8px; font-size: 15px; }
+@media (max-width: 700px) { .hit-r { grid-template-columns: 1fr; } }

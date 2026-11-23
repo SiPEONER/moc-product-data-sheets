@@ -21,7 +21,7 @@ WEB = ROOT / "web"
 OUT = WEB / "charts"
 BASE = "https://datasheets.mocproducts.app"   # switch to the library.mocproducts.com address when it is live
 INDEXABLE_HOST = False                        # True once BASE is the new library host
-EXAMPLES = {"atf-0411": "JWS 3324 or DEXRON-III", "atf-0413": "MERCON LV or DEXRON-VI", "cvt": "NS-2 or SP-CVT1",
+EXAMPLES = {"atf-0411": "JWS 3324 or DEXRON-III", "atf-0611": "JWS 3324 or DEXRON-III", "atf-0413": "MERCON LV or DEXRON-VI", "cvt": "NS-2 or SP-CVT1",
             "dct-dsg": "BOT 341 or G 052 182", "coolant": ""}
 
 
@@ -112,10 +112,41 @@ INDEX = """<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 <nav class="libs" aria-label="Libraries"><a href="../">Data Sheets</a><a href="../ads">Ad Sheets</a><a href="./" aria-current="page">Compatibility Charts</a><a href="../tsb/">Service Bulletins</a><a href="../images/">Product Images</a></nav></header>
 {% if drafts %}<p class="draft micro">Drafts // Pending product expert review // Not for distribution</p>{% endif %}
 <main><header class="hero in"><p class="micro kicker">Doc no. MOC-CHT // Compatibility charts</p><h1 class="title">Compatibility Charts</h1>
-<p class="lead">Find the MOC fluid that matches an OEM specification. Each chart lists the factory fluid specs and part numbers a product replaces.</p></header>
+<p class="lead">Find the MOC fluid that matches an OEM specification. Search every chart at once, or open a chart for its full list.</p>
+<form class="search" role="search" onsubmit="return false"><label class="sr-only" for="q">Search every chart</label><input class="field" id="q" type="search" placeholder="Find an OEM or spec, e.g. JWS 3324, DEXRON-VI or NS-2" autocomplete="off"></form></header>
+<section id="results" hidden><div class="sec-head in"><h2 class="sec-title" id="rcount"></h2><span class="micro">All charts</span></div><div id="rlist"></div></section>
 <div class="cards">{% for c in charts %}<a class="card" href="{{ c.slug }}"><span class="micro">{{ c.docno }}{% if c.status == 'draft' %} // Draft{% endif %}</span><span class="cname">{{ c.title }}</span><span class="cprod">{% for i in c.pns %}{{ i }} {% endfor %}{{ c.product }}</span></a>{% endfor %}</div></main>
 <footer class="foot in"><p class="micro micro-reg">MOC Products // 12306 Montague Street // Pacoima, CA 91331-2279 // 800.266.9226</p><p class="micro">MOC-CHT // Rev 1.0</p></footer>
-</div></div></body></html>"""
+</div></div>
+<script type="application/json" id="data">{{ data|safe }}</script>
+<script>
+(() => {
+  const D = JSON.parse(document.getElementById("data").textContent);
+  const norm = (s) => s.toLowerCase().replace(/[®™\\s\\-.\\/]/g, "");
+  const esc = (s) => s.replace(/[&<>"]/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+  D.forEach((c) => { c.rows.forEach((r) => { r.k = norm(r[0] + " " + r[1]); }); c.dk = norm(c.dnu); });
+  const q = document.getElementById("q"), res = document.getElementById("results"), list = document.getElementById("rlist"), count = document.getElementById("rcount"), cards = document.querySelector(".cards");
+  q.addEventListener("input", () => {
+    const v = norm(q.value);
+    if (v.length < 2) { res.hidden = true; cards.hidden = false; return; }
+    let html = "", n = 0;
+    for (const c of D) {
+      const hits = c.rows.filter((r) => r.k.includes(v));
+      const warn = v.length >= 3 && c.dk.includes(v);
+      if (!hits.length && !warn) continue;
+      n += hits.length;
+      html += '<a class="hit in" href="' + c.slug + "?q=" + encodeURIComponent(q.value.trim()) + '"><span class="hit-h"><span class="stamp">' + esc(c.pns) + '</span><span class="cname">' + esc(c.product) + '</span><span class="micro">' + esc(c.title) + (hits.length ? " // " + hits.length + (hits.length === 1 ? " match" : " matches") : "") + "</span></span>";
+      if (warn) html += '<span class="hit-no"><b>Not recommended.</b> Not for: ' + esc(c.dnu) + "</span>";
+      html += hits.slice(0, 6).map((r) => '<span class="hit-r"><b>' + esc(r[0]) + "</b>" + esc(r[1]) + "</span>").join("");
+      if (hits.length > 6) html += '<span class="hit-r micro">+ ' + (hits.length - 6) + " more in this chart</span>";
+      html += "</a>";
+    }
+    count.textContent = n ? n + (n === 1 ? " match" : " matches") : (html ? "Not recommended" : "No match");
+    list.innerHTML = html || '<p class="empty">No chart lists that OEM or spec. Check the spelling, or try part of the spec (for example "3324" or "DEXRON").</p>';
+    res.hidden = false; cards.hidden = true;
+  });
+})();
+</script></body></html>"""
 
 
 def write_index(env, charts):
@@ -127,9 +158,19 @@ def write_index(env, charts):
 .card:hover { background: #000000; color: #ffffff; }
 .cname { font-weight: 900; font-size: 24px; line-height: 1.05; letter-spacing: -0.01em; text-transform: uppercase; }
 .cprod { font-size: 15px; }
+.hit { display: block; padding-top: 20px; padding-bottom: 20px; border-bottom: 2px solid #000000; color: #000000; text-decoration: none; }
+.hit:hover .cname { text-decoration: underline; }
+.hit-h { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; margin-bottom: 10px; }
+.hit .cname { font-size: 20px; }
+.hit-r { display: grid; grid-template-columns: minmax(140px, 240px) minmax(0, 1fr); gap: 4px 24px; padding: 8px 0; border-top: 1px solid #000000; font-size: 15px; overflow-wrap: anywhere; }
+.hit-r b { font-weight: 900; text-transform: uppercase; }
+.hit-no { display: block; background: #000000; color: #ffffff; padding: 10px 12px; margin-bottom: 8px; font-size: 15px; }
+@media (max-width: 700px) { .hit-r { grid-template-columns: 1fr; } }
 """
     (OUT / "chart.css").write_text(css)
-    html = env.from_string(INDEX).render(charts=charts, base=BASE, indexable=INDEXABLE_HOST and all(c["status"] == "approved" for c in charts),
+    data = json.dumps([dict(slug=c["slug"], title=c["title"], product=c["product"], pns=" ".join(c["pns"]), dnu=c.get("do_not_use", ""),
+                            rows=[[r["oem"], r["spec"]] for g in c["groups"] for r in g["rows"]]) for c in charts if c["type"] == "list"]).replace("</", "<\\/")
+    html = env.from_string(INDEX).render(data=data, charts=charts, base=BASE, indexable=INDEXABLE_HOST and all(c["status"] == "approved" for c in charts),
                                         drafts=any(c["status"] == "draft" for c in charts))
     (OUT / "index.html").write_text(html)
 

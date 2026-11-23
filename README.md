@@ -107,6 +107,12 @@ After the sheets, the build writes the public library site to `web/`: one card p
 
 `out/` (working files), `site/` (the internal review page), `drafts/`, `drafts_ad/`, `img_ad/` (extraction output) and `review/` (the product-expert review list) are kept out of git; they live in the build kit in Andy's MOC-BRAND-STYLE-GUIDE folder.
 
+## Compatibility charts (updated 2026-11-23)
+
+- `charts/<slug>.json` -> `python3 tools/charts.py` -> `/charts/<slug>` pages, PDFs in `/charts/pdf/` and the `/charts/` home page. Six charts: atf-0411, atf-0413, atf-0611, cvt, dct-dsg, coolant. All drafts until a product expert signs off (`status`).
+- The `/charts/` home page searches every chart at once and links into a chart with `?q=`, which pre-fills that chart's search. A search that matches a chart's "do not use" list shows a Not recommended notice instead of "no match".
+- The "For the product expert" box sits at the bottom of each draft page and is never in the PDF.
+
 ## Technical Service Bulletins (MOC-TSB, added 2026-11-23)
 
 - `tsb/<vol>-<no>.json` is one bulletin (Machine & Equipment Department); `tsb/img/` holds its figures. `python3 tools/tsb.py` builds every PDF (`tsb_template.html`, one Letter page, fitted by shrinking the photo row) and the pages at `/tsb/` and `/tsb/<vol>-<no>`.

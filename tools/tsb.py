@@ -149,7 +149,7 @@ q.addEventListener('input',()=>{const v=q.value.trim().toLowerCase();let n=0;car
 </script></body></html>"""
 
 MAST = """<header class="masthead in"><a class="brand" href="../"><img src="../logo.svg" alt="MOC Products" width="40" height="41"><span class="micro">Resource Library</span></a>
-<nav class="libs" aria-label="Libraries"><a href="../">Data Sheets</a><a href="../ads">Ad Sheets</a><a href="./"{cur}>Service Bulletins</a><a href="../images/">Product Images</a></nav></header>"""
+<nav class="libs" aria-label="Libraries"><a href="../">Data Sheets</a><a href="../ads">Ad Sheets</a><a href="../charts/">Compatibility Charts</a><a href="./"{cur}>Service Bulletins</a><a href="../images/">Product Images</a></nav></header>"""
 FOOT = """<footer class="foot in"><p class="micro micro-reg">MOC Products // Machine &amp; Equipment Department // 866.244.6621</p><p class="micro">MOC-TSB // Rev 1.0</p></footer>"""
 
 EXTRA = """
