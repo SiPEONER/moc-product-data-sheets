@@ -316,7 +316,7 @@
         },
         {
           "oem": "TOYOTA",
-          "spec": "ATF D-II, ATF D-III, TYPE T, T-II, T-III, TYPE T-IV, WS**"
+          "spec": "ATF D-II, ATF D-III, TYPE T, T-II, T-III, TYPE T-IV, WS"
         },
         {
           "oem": "VOITH",
@@ -337,9 +337,7 @@
       ]
     }
   ],
-  "notes": [
-    "** Compatible with 2020 and older vehicles."
-  ],
+  "notes": [],
   "do_not_use": "Continuously variable transmissions (CVT), dual clutch transmissions (DCT), direct-shift gearboxes (DSG), Ford Type F, MERCON® ULV and XT-12-QULV, and GM DEXRON®-HP.",
   "disclaimer": "The vehicle manufacturers listed have not evaluated or endorsed this product. Always follow the equipment manufacturer's recommendations. It is the service technician's responsibility to confirm that this fluid is suitable for a particular vehicle or transmission.",
   "source": "ATF-Compatibility-Chart-0413.pdf",
@@ -357,7 +355,8 @@
     "OEM name \"MERCEDES BENZ\" shown as \"MERCEDES-BENZ\"",
     "OEM name \"RENAULT 7\" shown as \"RENAULT\"",
     "OEM name \"ZF FRIEDRICHSHAFEN\" shown as \"ZF FRIEDRICHSHAFEN AG\"",
-    "ZF FRIEDRICHSHAFEN AG: \"TE-ML: 02F, 03D, 04D, 05L, 09, 11A, 11B, 14A, 14B, 14C, 16L, 17C, 20B; SHELLLA 2634, LT 71141, LifeGuard Fluid 9\" typo corrected"
+    "ZF FRIEDRICHSHAFEN AG: \"TE-ML: 02F, 03D, 04D, 05L, 09, 11A, 11B, 14A, 14B, 14C, 16L, 17C, 20B; SHELLLA 2634, LT 71141, LifeGuard Fluid 9\" typo corrected",
+    "Toyota WS: the old chart limited it to \"2020 and older vehicles\" (**). Removed: Smart Tech fluid lookup (fluids.mocproducts.com, 2026-11-23): Toyota Camry 2.5 2021-2024, automatic 8-speed (Toyota WS) lists 04133, 06113 and 04113. Andy (2026-11-23): the lookup is the most up-to-date data."
   ],
   "status": "draft",
   "rev": "1.0"
