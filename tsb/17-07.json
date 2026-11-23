@@ -1,0 +1,49 @@
+{
+ "id": "17-07",
+ "date": "2017-08-09",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2017/TSB Vol 17 No 07 New Lexus Trans Fill Port adapters.pdf",
+ "title": "Lexus ATF Fill Port Adapters",
+ "tag": "New",
+ "lead": "MOC has developed 2 new transmission adapters to be used on various Lexus vehicles such as the IS 350 and GS 350. These 2 new adapters screw into the transmission-fluid fill port and require the existing Lexus pressure-port adapter to complete the service.",
+ "body": [
+  "Both adapters are used together with the existing Lexus banjo pressure-port adapter (94778) to perform a service."
+ ],
+ "figures": [
+  {
+   "img": "17-07-1.jpg",
+   "caption": "Adapter, ATF, 18mm Swivel Adapter, ATF, 14mm Swivel (94941, 94942)"
+  },
+  {
+   "img": "17-07-2.jpg",
+   "caption": "The following image is the existing Lexus ATF pressure-port adapter also needed"
+  },
+  {
+   "img": "17-07-3.jpg",
+   "caption": "Adapter, ATF, Lexus Banjo",
+   "pn": "94778"
+  }
+ ],
+ "parts": [
+  [
+   "94941",
+   "Adapter, ATF, 18mm Swivel",
+   ""
+  ],
+  [
+   "94942",
+   "Adapter, ATF, 14mm Swivel",
+   ""
+  ],
+  [
+   "94778",
+   "Adapter, ATF, Lexus Banjo",
+   ""
+  ]
+ ],
+ "pn": [
+  "94778"
+ ],
+ "category": "Transmission"
+}

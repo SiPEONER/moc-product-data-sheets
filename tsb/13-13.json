@@ -1,0 +1,31 @@
+{
+ "id": "13-13",
+ "date": "2013-04-18",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 13 Lexus Brake Adapter (New).pdf",
+ "title": "Lexus Brake Adapter",
+ "tag": "New",
+ "lead": "MOC has developed a new Brake adapter for use on various Lexus models (Part No. 98453). This new adapter attaches to the reservoir by twisting and locking on the tabs inside the reservoir.",
+ "body": [
+  "This adapter is available for purchase."
+ ],
+ "figures": [
+  {
+   "img": "13-13-1.jpg",
+   "caption": "Adapter, Brake, Lexus 2 Tab",
+   "pn": "98453"
+  }
+ ],
+ "parts": [
+  [
+   "98453",
+   "Adapter, Brake, Lexus 2 Tab",
+   ""
+  ]
+ ],
+ "pn": [
+  "98453"
+ ],
+ "category": "Brake"
+}

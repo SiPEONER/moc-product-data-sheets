@@ -1,0 +1,54 @@
+{
+ "id": "13-12",
+ "date": "2013-04-09",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 12 Arctic Blast Injector Tool.pdf",
+ "title": "Arctic Blast Injector Tool",
+ "tag": "New",
+ "lead": "MOC has developed a new tool to inject Arctic Blast into the A/C.",
+ "body": [
+  "The first batch of the Arctic Blast Injector Tools were created to work with the threaded syringe and does not include the white Luer Lock fitting shown at the end of the tool above.",
+  "Future batches of Arctic Blast will come in Syringes with a Luer Lock fitting that will connect to the above Tool (Part No. 76608) through the white fitting at the end of the tool.",
+  "The picture below represents the first batch of tools created.",
+  "If you have an Arctic Blast Injector Tool that looks like the picture above, you will need the 76015 adapter to connect to the Syringes with the Luer Lock connection.",
+  "The picture below shows the 76015 Adapter."
+ ],
+ "figures": [
+  {
+   "img": "13-12-1.jpg",
+   "caption": "Tool, Arctic Blast Injector",
+   "pn": "76008"
+  },
+  {
+   "img": "13-12-2.jpg",
+   "caption": ""
+  },
+  {
+   "img": "13-12-3.jpg",
+   "caption": "Adapter, 1/4\" Flare to Luer Lock",
+   "pn": "76015"
+  }
+ ],
+ "parts": [
+  [
+   "76008",
+   "Tool, Arctic Blast Injector",
+   ""
+  ],
+  [
+   "76015",
+   "Adapter, 1/4\" Flare to Luer Lock",
+   ""
+  ],
+  [
+   "76608",
+   "Above Tool",
+   ""
+  ]
+ ],
+ "pn": [
+  "76008"
+ ],
+ "category": "HVAC"
+}

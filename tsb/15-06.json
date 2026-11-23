@@ -1,0 +1,47 @@
+{
+ "id": "15-06",
+ "date": "2015-04-15",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2015/TSB Vol 15 No 06 - Audi - Ford Coolant Adapters.pdf",
+ "title": "Coolant Adapters for Audi and Ford Vehicles",
+ "tag": "New",
+ "lead": "MOC has developed 2 new adapters to service the cooling systems in various Audi and Ford vehicles (Part Nos. 94356 and 94357). These adapters are known to fit the 2011-up Ford Fiesta, Focus, Fusion, Escape and Transit. These adapters also fit a variety of Audi vehicles. These adapters connect at the pressurized reserve tank.",
+ "body": [
+  "The photos show the OEM quick disconnects on Ford and Audi vehicles that these adapters connect to."
+ ],
+ "figures": [
+  {
+   "img": "15-06-1.jpg",
+   "caption": "Adapter, Male Coolant, Audi & Ford Adapter, Female Coolant, Audi & Ford (94356, 94357)"
+  },
+  {
+   "img": "15-06-2.jpg",
+   "caption": ""
+  },
+  {
+   "img": "15-06-3.jpg",
+   "caption": "Ford OEM Connection Audi OEM Connection"
+  },
+  {
+   "img": "15-06-4.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "94356",
+   "Adapter, Male Coolant, Audi & Ford",
+   ""
+  ],
+  [
+   "94357",
+   "Adapter, Female Coolant, Audi & Ford",
+   ""
+  ]
+ ],
+ "pn": [
+  "94356"
+ ],
+ "category": "Cooling"
+}

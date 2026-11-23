@@ -1,0 +1,33 @@
+{
+ "id": "18-08",
+ "date": "2018-06-12",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2018/TSB Vol 18 No 08 - Air Coolant Adapter.pdf",
+ "title": "Adapter w/Handle for the Air Operated Coolant Machine",
+ "tag": "New",
+ "lead": "MOC has developed a new cone adapter for the Air Operated Coolant Machine. This new adapter is longer with finger grips to allow the user to hold the adapter securely during the service while keeping their hand away from the metal components; the metal components can get hot while the used fluid is being evacuated.",
+ "body": [],
+ "figures": [
+  {
+   "img": "18-08-1.jpg",
+   "caption": ""
+  },
+  {
+   "img": "18-08-2.jpg",
+   "caption": "Adapter, Handle, Air Coolant",
+   "pn": "95337"
+  }
+ ],
+ "parts": [
+  [
+   "95337",
+   "Adapter, Handle, Air Coolant",
+   ""
+  ]
+ ],
+ "pn": [
+  "95337"
+ ],
+ "category": "Cooling"
+}

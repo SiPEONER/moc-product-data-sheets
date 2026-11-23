@@ -1,0 +1,48 @@
+{
+ "id": "15-20",
+ "date": "2015-12-09",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2015/TSB Vol 15 No 20 - Jaguar Fuel Kit Updated.pdf",
+ "title": "Jaguar Fuel Adapter Kit Updated",
+ "tag": null,
+ "lead": "MOC has added 2 adapters to the Jaguar fuel adapter kit (Part No. 73013). These 2 adapters were added to perform services on the Jaguar 5.0L direct injection engines. The 5.0L engines are returnless fuel systems and will need Part No. 73055 (See TSB Vol 15 No 12). The 2 adapters added to the kit are Part No. 72101, which is the 5/16\" male quick disconnect adapter, and Part No. 73060, which is the 5/16\" female quick disconnect adapter.",
+ "body": [],
+ "figures": [
+  {
+   "img": "15-20-1.jpg",
+   "caption": "Adapter, Fuel, 5/16\" Male Quick Disconnect Adapter, Fuel, 5/16\" Female Quick Disconnect (72101, 73060)"
+  },
+  {
+   "img": "15-20-2.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "72101",
+   "Adapter, Fuel, 5/16\" Male Quick Disconnect",
+   ""
+  ],
+  [
+   "73060",
+   "Adapter, Fuel, 5/16\" Female Quick Disconnect",
+   ""
+  ],
+  [
+   "73013",
+   "Jaguar fuel adapter kit",
+   ""
+  ],
+  [
+   "73055",
+   "Tool, Fuel Pump Bypass",
+   ""
+  ]
+ ],
+ "pn": [
+  "73013",
+  "73055"
+ ],
+ "category": "Fuel"
+}

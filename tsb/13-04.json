@@ -1,0 +1,53 @@
+{
+ "id": "13-04",
+ "date": "2013-03-11",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 04 Dipstick Service Hose Changes.pdf",
+ "title": "Dipstick Service Hose Changes",
+ "tag": null,
+ "lead": "MOC has made improvements to the Dipstick Service Hoses used on the Dipstick Service Adapter (Part No. 94777). We have increased the length by 24\" of both of these service hoses. Additionally, we replaced the hose connector on the Green Service hose (Part No. 94841).",
+ "body": [
+  "To tell the old hose connector from the new one on the Green Service Hose (94841), look at the tip of the hose connector: the old connector has a blue plastic tip, the new connector has a metal tip."
+ ],
+ "figures": [
+  {
+   "img": "13-04-1.jpg",
+   "caption": "Hose, Dipstick Service, 1/4\" (Red) Hose, Dipstick Service, 5/16\" (Green) MOC (94839, 94841)"
+  },
+  {
+   "img": "13-04-2.jpg",
+   "caption": "Hose Connector"
+  },
+  {
+   "img": "13-04-3.jpg",
+   "caption": "Tip Tip New Hose Connector Old Hose Connector"
+  },
+  {
+   "img": "13-04-4.jpg",
+   "caption": "NOTE: To distinguish the Old Hose Connector from the New Hose Connector on"
+  }
+ ],
+ "parts": [
+  [
+   "94839",
+   "Hose, Dipstick Service, 1/4\" (Red)",
+   ""
+  ],
+  [
+   "94841",
+   "Hose, Dipstick Service, 5/16\" (Green) MOC",
+   ""
+  ],
+  [
+   "94777",
+   "Dipstick Service Adapter",
+   ""
+  ]
+ ],
+ "pn": [
+  "94777",
+  "94841"
+ ],
+ "category": "Transmission"
+}

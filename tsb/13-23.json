@@ -1,0 +1,36 @@
+{
+ "id": "13-23",
+ "date": "2013-07-29",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 23 - New Brake Chain Assembly.pdf",
+ "title": "Redesigned Universal Chain Assembly",
+ "tag": "New",
+ "lead": "The MOC Machine and Equipment Department has redesigned the chain assembly used to connect the Universal Brake adapters to the Brake reservoirs – both the long chain (Part No. 98125) and the short chain (Part No. 98716). This new design is easier to use and less likely to tangle when the adapter is being installed for service.",
+ "body": [
+  "This chain assembly is now on the shelf and available for purchase."
+ ],
+ "figures": [
+  {
+   "img": "13-23-1.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "98125",
+   "Long chain",
+   ""
+  ],
+  [
+   "98716",
+   "Short chain",
+   ""
+  ]
+ ],
+ "pn": [
+  "98125",
+  "98716"
+ ],
+ "category": "Brake"
+}

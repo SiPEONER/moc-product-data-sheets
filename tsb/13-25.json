@@ -1,0 +1,36 @@
+{
+ "id": "13-25",
+ "date": "2013-08-27",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 25 - Pure Brake Machine Changes.pdf",
+ "title": "Pure Brake Machine Controller Board",
+ "tag": "New",
+ "lead": "MOC has redesigned a Controller Board for the Pure Brake Fluid Exchanger Machines, which will be included in the Pure Brake Machines as soon as possible.",
+ "body": [
+  "For those that would like to convert the Controller Board in the older Pure Brake Machine (Part No. 98150) to the newly redesigned Controller Board, we have created a kit (Part No. 98225) that includes all the needed components for the conversion—a new board, new LCD display, ribbon cable, external fuse and face panel.",
+  "The old Controller Board (Part No. 98150) is being discontinued."
+ ],
+ "figures": [
+  {
+   "img": "13-25-1.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "98150",
+   "Older Pure Brake Machine",
+   ""
+  ],
+  [
+   "98225",
+   "Kit",
+   ""
+  ]
+ ],
+ "pn": [
+  "98150"
+ ],
+ "category": "Brake"
+}

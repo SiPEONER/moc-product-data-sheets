@@ -1,0 +1,30 @@
+{
+ "id": "17-01",
+ "date": "2017-03-06",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2017/TSB Vol 17 No 01 - Pump change for On-Board Dispensing Kit.pdf",
+ "title": "Pump Change for the On-board Dispensing feature used with ATF Machines",
+ "tag": null,
+ "lead": "The MOC Machine and Equipment Department has replaced the small pump currently used with the ATF machine On-Board Dispensing feature with a larger stronger pump. The larger pump (Part No. 94895) can push past the flow of the transmission allowing the user to add the additive into the transmission while the vehicle is on, instead of having to turn it off.",
+ "body": [
+  "The picture below is for reference only."
+ ],
+ "figures": [
+  {
+   "img": "17-01-1.jpg",
+   "caption": "94895 Pump Installed in an ATF machine"
+  }
+ ],
+ "parts": [
+  [
+   "94895",
+   "Larger pump",
+   ""
+  ]
+ ],
+ "pn": [
+  "94895"
+ ],
+ "category": "Transmission"
+}

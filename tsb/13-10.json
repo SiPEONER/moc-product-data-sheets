@@ -1,0 +1,36 @@
+{
+ "id": "13-10",
+ "date": "2013-03-28",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 10 94728 BMW Coolant Adapter.pdf",
+ "title": "BMW Coolant Adapter",
+ "tag": null,
+ "lead": "MOC has brought back the BMW Coolant adapter (Part No. 94728) for use on various models of BMW vehicles. A clip is included with the adapter. Replacement clips can be purchased separately (Part No. 94842). This adapter connects at the water pump.",
+ "body": [
+  "This adapter is now available for purchase."
+ ],
+ "figures": [
+  {
+   "img": "13-10-1.jpg",
+   "caption": "available as: Adapter, Coolant, BMW (94842, 94728)"
+  }
+ ],
+ "parts": [
+  [
+   "94842",
+   "available as:",
+   ""
+  ],
+  [
+   "94728",
+   "Adapter, Coolant, BMW",
+   ""
+  ]
+ ],
+ "pn": [
+  "94728",
+  "94842"
+ ],
+ "category": "Cooling"
+}

@@ -1,0 +1,56 @@
+{
+ "id": "18-17",
+ "date": "2018-11-01",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2018/TSB Vol 18 No 17 - Cleaning clogged nozzles.pdf",
+ "title": "Cleaning a Clogged Universal Turbo Misting Nozzle",
+ "tag": null,
+ "lead": "Have you noticed the service time has increased while using the Universal Turbo Misting Nozzle? If so, there is a good chance the nozzle has become plugged. Follow the procedure below to disassemble and clean the nozzle. Use a 3/4in wrench on the hex fitting and a 7/16in wrench on the misting nozzle.",
+ "body": [],
+ "steps": [
+  "Unscrew the cone of the adapter from the hex fitting connector, then unscrew the misting nozzle from the hex fitting connector.",
+  "Unscrew the filter from the back of the misting nozzle.",
+  "Remove the spring and poppet from the head of the misting nozzle.",
+  "Clean the nozzle head: carefully spray parts wash into the head of the nozzle body, followed by a couple of quick bursts of shop air through the front of the nozzle. You should see light through the nozzle tip when it is clean.",
+  "Reassemble the spring and poppet in reverse order from step 3, with the spring around the base of the poppet, and make sure the head of the poppet goes into the head of the nozzle.",
+  "Screw the misting nozzle into the hex fitting by hand until tight, then tighten an additional 1 to 2 turns with a wrench."
+ ],
+ "figures": [
+  {
+   "img": "18-17-1.jpg",
+   "caption": "2. Unscrew the filter from the back of the misting nozzle."
+  },
+  {
+   "img": "18-17-2.jpg",
+   "caption": ""
+  },
+  {
+   "img": "18-17-3.jpg",
+   "caption": "3. Remove the spring and poppet from the head of the misting nozzle. Head"
+  },
+  {
+   "img": "18-17-4.jpg",
+   "caption": "Spring Poppet"
+  },
+  {
+   "img": "18-17-5.jpg",
+   "caption": ""
+  },
+  {
+   "img": "18-17-6.jpg",
+   "caption": ""
+  },
+  {
+   "img": "18-17-7.jpg",
+   "caption": ""
+  },
+  {
+   "img": "18-17-8.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [],
+ "pn": [],
+ "category": "Fuel"
+}

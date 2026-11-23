@@ -1,0 +1,42 @@
+{
+ "id": "18-05",
+ "date": "2018-04-16",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2018/TSB Vol 18 No 05 - GM ATF adapter set.pdf",
+ "title": "GM ATF Adapter",
+ "tag": "New",
+ "lead": "MOC has developed a new set of transmission adapters for use on the GM 6T75, 6T40, and 6T50 transmissions. These adapters are Part No. 94947 and Part No. 94948, respectively. This adapter set connects to the transmission. Applications available for the Chevy Traverse, Cruz, Sonic, and Malibu; GMC Acadia; and Buick Enclave, LaCrosse, and Encore.",
+ "body": [],
+ "figures": [
+  {
+   "img": "18-05-1.jpg",
+   "caption": "Adapter, ATF, GM Female Cooler Line Adapter, ATF, GM Male Cooler Line (94947, 94948)"
+  },
+  {
+   "img": "18-05-2.jpg",
+   "caption": ""
+  },
+  {
+   "img": "18-05-3.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "94947",
+   "Adapter, ATF, GM Female Cooler Line",
+   ""
+  ],
+  [
+   "94948",
+   "Adapter, ATF, GM Male Cooler Line",
+   ""
+  ]
+ ],
+ "pn": [
+  "94947",
+  "94948"
+ ],
+ "category": "Transmission"
+}

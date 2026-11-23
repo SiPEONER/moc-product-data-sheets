@@ -1,0 +1,34 @@
+{
+ "id": "18-01",
+ "date": "2017-01-30",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2018/TSB Vol 18 No 01 - GM EGR Optimizer tool.pdf",
+ "title": "GM 6.6L EGR and Induction Cleaning Tool",
+ "tag": "New",
+ "lead": "MOC has developed a new tool to clean the EGR Valve and Cooler System along with the Induction System for the 6.6L GM Diesel engines. The EGR Tool, along with Optimizer Product (MOC# 16501- sold separately), will safely assist in removing deposits in these systems, and related areas. The adapter connection location and full user instructions are included with each tool.",
+ "body": [],
+ "figures": [
+  {
+   "img": "18-01-1.jpg",
+   "caption": "Tool, GM 6.6L EGR, Optimizer",
+   "pn": "72376"
+  }
+ ],
+ "parts": [
+  [
+   "72376",
+   "Tool, GM 6.6L EGR, Optimizer",
+   ""
+  ],
+  [
+   "16501",
+   "Optimizer",
+   ""
+  ]
+ ],
+ "pn": [
+  "16501"
+ ],
+ "category": "Fuel"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "14-19",
+ "date": "2014-10-21",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2014/TSB Vol 14 No 19 - Ford Focus Coolant Adapter.pdf",
+ "title": "Ford Focus Coolant Adapters",
+ "tag": "New",
+ "lead": "MOC has developed 2 new adapters (Part No. 94342 and 94343) to service the cooling system of a Ford Focus along with any other vehicle that have the same size quick disconnect fitting.",
+ "body": [
+  "*In order to connect Part No. 94343 to the Coolant Machine, you must have the universal adapters, which are included in the standard adapter kit."
+ ],
+ "figures": [
+  {
+   "img": "14-19-1.jpg",
+   "caption": "(94342, 94343)"
+  },
+  {
+   "img": "14-19-2.jpg",
+   "caption": "Adapter,Coolant,Male,Ford Ø1.00\" Adapter,Coolant,Female,Ford Ø1.00\""
+  },
+  {
+   "img": "14-19-3.jpg",
+   "caption": ""
+  },
+  {
+   "img": "14-19-4.jpg",
+   "caption": ""
+  },
+  {
+   "img": "14-19-5.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "94342",
+   "Adapter, Coolant, Male, Ford Focus",
+   ""
+  ],
+  [
+   "94343",
+   "Adapter, Coolant, Ford Focus",
+   ""
+  ]
+ ],
+ "pn": [
+  "94342"
+ ],
+ "category": "Cooling"
+}

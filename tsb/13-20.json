@@ -1,0 +1,31 @@
+{
+ "id": "13-20",
+ "date": "2013-07-09",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 20 5-16 QD Fuel adapter.pdf",
+ "title": "5/16\" Female Quick Disconnect Fuel Adapter",
+ "tag": "New",
+ "lead": "MOC has developed a new fuel adapter. This new Quick Disconnect adapter is deeper allowing it to connect to fuel systems with longer stems.",
+ "body": [
+  "This adapter has been confirmed to fit the newer Toyota Highlanders."
+ ],
+ "figures": [
+  {
+   "img": "13-20-1.jpg",
+   "caption": "Adapter, Fuel, 90° 5/16\" Deep Female Quick Disconnect",
+   "pn": "72077"
+  }
+ ],
+ "parts": [
+  [
+   "72077",
+   "Adapter, Fuel, 90° 5/16\" Deep Female Quick Disconnect",
+   ""
+  ]
+ ],
+ "pn": [
+  "72077"
+ ],
+ "category": "Fuel"
+}

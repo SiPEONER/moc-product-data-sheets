@@ -1,0 +1,53 @@
+{
+ "id": "14-02",
+ "date": "2014-03-03",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2014/TSB Vol 14 No 02 - New Optimizer Tool Caps with Chart.pdf",
+ "title": "Optimizer Tools Available",
+ "tag": "New",
+ "lead": "MOC has developed new Foaming Intake tools with a Thumb Actuator Cap to be used with Optimizer™. These tools were created to provide our customers with an optional thumb actuator cap.",
+ "body": [
+  "The MOC Optimizer™ product (Part No. 16501) is sold separately.",
+  "See the attached chart showing all the tools available and their part numbers."
+ ],
+ "figures": [
+  {
+   "img": "14-02-1.jpg",
+   "caption": "Thumb Actuator Cap on Optional Foaming Intake Tools"
+  },
+  {
+   "img": "14-02-2.jpg",
+   "caption": "These new tools are not replacing the existing tools; both versions are available"
+  }
+ ],
+ "attachments": [
+  {
+   "img": "14-02-a2.jpg",
+   "caption": "Original attachment, page 2"
+  },
+  {
+   "img": "14-02-a3.jpg",
+   "caption": "Original attachment, page 3"
+  },
+  {
+   "img": "14-02-a4.jpg",
+   "caption": "Original attachment, page 4"
+  },
+  {
+   "img": "14-02-a5.jpg",
+   "caption": "Original attachment, page 5"
+  }
+ ],
+ "parts": [
+  [
+   "16501",
+   "Optimizer",
+   ""
+  ]
+ ],
+ "pn": [
+  "16501"
+ ],
+ "category": "Fuel"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "12-02",
+ "date": "2012-02-17",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB Vol 12 No 2 Important Brake Service Announcement 2-17-12.pdf",
+ "title": "Brake Service Announcement Draining the Master Cylinder",
+ "tag": "Notice",
+ "lead": ": It has been brought to our attention that removing all the fluid from the brake fluid reservoir, while doing a brake fluid flush service, can possibly lead to air in the brake system.",
+ "body": [
+  "It is our recommendation that you leave at least a ½\" of fluid in the reservoir when evacuating the old fluid at the beginning of the service."
+ ],
+ "figures": [],
+ "parts": [],
+ "pn": [],
+ "category": "Brake"
+}

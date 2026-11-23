@@ -1,0 +1,44 @@
+{
+ "id": "12-06",
+ "date": "2012-03-10",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB Vol 12 No 6 New Brake Machine 98060.pdf",
+ "title": "Brake Fluid Exchanger 98060 – Pure Brake Basic",
+ "tag": "New",
+ "lead": "MOC has developed a new Brake Fluid Exchanger Machine that is now available for purchase.",
+ "body": [
+  "This machine does not include the Standard Brake Adapter Kit. If adapters are needed, they can be purchased separately."
+ ],
+ "benefits": [
+  "Single Bleeder Hose",
+  "User Adjustable Pressure from 0-50 PSI / 3.5 BAR",
+  "Pressure gauge reads in dual scale PSI/BAR",
+  "Auto safety shutoff when new fluid is low",
+  "No code required to operate",
+  "Auxiliary tank available (Part No. 98033) to allow the use of the 32oz bottles"
+ ],
+ "figures": [
+  {
+   "img": "12-06-1.jpg",
+   "caption": "Machine, Pure Brake Basic™",
+   "pn": "98060"
+  }
+ ],
+ "parts": [
+  [
+   "98060",
+   "Machine, Pure Brake Basic™",
+   ""
+  ],
+  [
+   "98033",
+   "Auxiliary Brake Tank",
+   ""
+  ]
+ ],
+ "pn": [
+  "98060"
+ ],
+ "category": "Brake"
+}

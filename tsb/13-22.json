@@ -1,0 +1,79 @@
+{
+ "id": "13-22",
+ "date": "2013-07-29",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 22 - New Ford 5R55W Trans adapters.pdf",
+ "title": "Ford 5R55 Transmission Adapters",
+ "tag": "New",
+ "lead": "MOC has developed a new transmission adapter to be used on the Ford 5R55W transmissions. This new adapter is Part No. 94792 and connects to the fill port on these transmissions. It is used with the existing adapter Part No. 94787 which connects to the test port.",
+ "body": [
+  "**One of the 90 degree Intermediate Transmission Lines (Part No. 94855) is recommended to connect to the Pressure Port adapter.",
+  "2004 Ford transmissions 2004 thru 2006 Lincoln Explorer – 5R55 Aviator 4.6L – 5R55 Thunderbird 3.9L – 5R55 LS 3.0L & 3.9L – 5R55"
+ ],
+ "figures": [
+  {
+   "img": "13-22-1.jpg",
+   "caption": "Adapter, 1/4\" QD Plug x 1/8\" MPT Adapter, ATF, Ford Pressure Port (94792, 94787)"
+  },
+  {
+   "img": "13-22-2.jpg",
+   "caption": ""
+  }
+ ],
+ "table": {
+  "title": "Known to fit",
+  "head": [
+   "Group",
+   "Vehicle"
+  ],
+  "rows": [
+   [
+    "2010 Ford transmissions",
+    "Explorer 4.0L – 5R55"
+   ],
+   [
+    "2010 Ford transmissions",
+    "Explorer Sport Trac 4.0L – 5R55"
+   ],
+   [
+    "2010 Ford transmissions",
+    "Mustang 4.0L & 4.6L – 5R55"
+   ],
+   [
+    "2009 Ford transmissions",
+    "Explorer 4.0L – 5R55"
+   ],
+   [
+    "2009 Ford transmissions",
+    "Explorer Sport Trac 4.0L – 5R55"
+   ],
+   [
+    "2009 Ford transmissions",
+    "Mustang 4.0L & 4.6L – 5R55"
+   ]
+  ]
+ },
+ "parts": [
+  [
+   "94792",
+   "Adapter, 1/4\" QD Plug x 1/8\" MPT",
+   ""
+  ],
+  [
+   "94787",
+   "Adapter, ATF, Ford Pressure Port",
+   ""
+  ],
+  [
+   "94855",
+   "90 degree Intermediate Transmission Lines",
+   ""
+  ]
+ ],
+ "pn": [
+  "94792",
+  "94787"
+ ],
+ "category": "Transmission"
+}

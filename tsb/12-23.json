@@ -1,0 +1,47 @@
+{
+ "id": "12-23",
+ "date": "2012-08-18",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB Vol 12 No 23 Power Steering Remote Bracket.pdf",
+ "title": "Bracket for Power Steering Fluid Exchanger Remote Control",
+ "tag": "New",
+ "lead": "MOC has developed a new bracket to mount the Power Steering remote control onto the Power Steering machine when it is not in use. These brackets are now included on all Power Steering machines. Additionally, a cable tie down strap has been added to these machines to relieve any strain placed on the remote control connectors. These additions are available for purchase.",
+ "body": [],
+ "figures": [
+  {
+   "img": "12-23-1.jpg",
+   "caption": "Bracket, Mounting, Power Steering Remote",
+   "pn": "74912"
+  },
+  {
+   "img": "12-23-2.jpg",
+   "caption": ""
+  },
+  {
+   "img": "12-23-3.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "74912",
+   "Bracket, Mounting, P/S Remote",
+   "Qty 1"
+  ],
+  [
+   "94235",
+   "Nylon Loop Strap, ¼\"",
+   "Qty 1"
+  ],
+  [
+   "98756",
+   "Screw, #10 X 1/2\" Phil Truss, Black Oxide",
+   "Qty 4"
+  ]
+ ],
+ "pn": [
+  "74912"
+ ],
+ "category": "Power Steering"
+}

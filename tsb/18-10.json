@@ -1,0 +1,49 @@
+{
+ "id": "18-10",
+ "date": "2018-07-18",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2018/TSB Vol 18 No 10 - EDR-3 Machine.pdf",
+ "title": "EDR-3 Fuel Service Machine",
+ "tag": "New",
+ "lead": "MOC has developed a new, versatile fuel service machine. See the attached Ad Sheet for the overview and key features of this new machine.",
+ "body": [
+  "This machine includes the Universal Turbo Mister Adapter only. See the attached list of available adapters sold separately and in kits."
+ ],
+ "figures": [
+  {
+   "img": "18-10-1.jpg",
+   "caption": "Machine, EDR-3 Fuel Service",
+   "pn": "73400"
+  }
+ ],
+ "attachments": [
+  {
+   "img": "18-10-a2.jpg",
+   "caption": "Original attachment, page 2"
+  },
+  {
+   "img": "18-10-a3.jpg",
+   "caption": "Original attachment, page 3"
+  },
+  {
+   "img": "18-10-a4.jpg",
+   "caption": "Original attachment, page 4"
+  },
+  {
+   "img": "18-10-a5.jpg",
+   "caption": "Original attachment, page 5"
+  }
+ ],
+ "parts": [
+  [
+   "73400",
+   "Machine, EDR-3 Fuel Service",
+   ""
+  ]
+ ],
+ "pn": [
+  "73400"
+ ],
+ "category": "Fuel"
+}

@@ -1,0 +1,54 @@
+{
+ "id": "20-02",
+ "date": "2020-02-27",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2020/TSB Vo. 20. No 02. - High Flow Double Pump Kit.pdf",
+ "title": "Kit to Replace High Flow Double Pump on Existing Machines.",
+ "tag": "New",
+ "lead": "MOC has created a new kit to replace the high flow double pump in all ATF machines. The high flow double pump was released in TSB Vol. 19 No. 05. This new kit includes a High Flow decal to attach to the chassis to identify the machine has the high flow double pump inside. This new kit is Part No. 94951. This kit includes all the parts needed to replace the pump along with instructions. MOC has also created new part numbers for the transmission machines built with these high flow pumps.",
+ "body": [],
+ "figures": [
+  {
+   "img": "20-02-1.jpg",
+   "caption": "PUMP, DOUBLE, HIGH FLOW Decal Placement reference",
+   "pn": "94857"
+  }
+ ],
+ "parts": [
+  [
+   "94930",
+   "MACHINE, HIGH FLOW TRANSMISSION, MOC",
+   ""
+  ],
+  [
+   "94940",
+   "MACHINE, HIGH FLOW ATF W/OB DISPENSING",
+   ""
+  ],
+  [
+   "95850HF",
+   "MACHINE, HIGH FLOW, SMART TECH II ATF EXCHANGER, MOC",
+   ""
+  ],
+  [
+   "95890HF",
+   "MACHINE, HIGH FLOW, SMART TECH II ATF, W/OB, MOC",
+   ""
+  ],
+  [
+   "94857",
+   "PUMP, DOUBLE, HIGH FLOW Decal Placement reference",
+   ""
+  ],
+  [
+   "94951",
+   "High Flow Double Pump Replacement Kit",
+   ""
+  ]
+ ],
+ "pn": [
+  "94951"
+ ],
+ "category": "Transmission"
+}

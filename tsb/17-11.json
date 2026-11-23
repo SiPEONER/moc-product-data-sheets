@@ -1,0 +1,37 @@
+{
+ "id": "17-11",
+ "date": "2017-11-14",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2017/TSB Vol 17 No 11 - Replacement Clip for 94356 adapter.pdf",
+ "title": "Replacement Clips now available for Coolant Adapter",
+ "tag": "New",
+ "lead": "MOC has a replacement clip available for the 94356 Audi & Ford Coolant adapter. The clip on these adapters are designed to be removable for ease of replacement and maintenance. However, as a result, these clips are often lost or get misplaced, wear regularly, or get damaged. Fortunately, MOC now has the replacement clip available as Part No 94359. Remember to inspect your adapter and clips before and after every use.",
+ "body": [],
+ "figures": [
+  {
+   "img": "17-11-1.jpg",
+   "caption": "Clip, QD Coolant Adapter (94356) Adapter, Male Coolant, Audi & Ford (94359, 94356)"
+  },
+  {
+   "img": "17-11-2.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "94359",
+   "Clip, QD Coolant Adapter (94356)",
+   ""
+  ],
+  [
+   "94356",
+   "Adapter, Male Coolant, Audi & Ford",
+   ""
+  ]
+ ],
+ "pn": [
+  "94356"
+ ],
+ "category": "Cooling"
+}

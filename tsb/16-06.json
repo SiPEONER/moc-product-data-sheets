@@ -1,0 +1,33 @@
+{
+ "id": "16-06",
+ "date": "2016-04-06",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2016/TSB Vol 16 No 06 - Fuel QD Adapter Modified.pdf",
+ "title": "3/8in Quick Disconnect Fuel Adapter",
+ "tag": "Update",
+ "lead": "MOC has modified the 3/8in quick disconnect fuel adapter to accommodate the larger diameter collars found on some of the newer Ford & GM models' connection to the fuel rails. After learning that these models would not fit inside the original adapter (\"Old design\"), MOC modified the adapter to fit these models. To help you distinguish between the Old design and New design, the outside appearance of the New design was modified. The New design, has 2 slots on the body and a hex fitting between the body and the hose.",
+ "body": [],
+ "figures": [
+  {
+   "img": "16-06-1.jpg",
+   "caption": "Old design Adapter, Fuel, 3/8\" Female QD",
+   "pn": "73048"
+  },
+  {
+   "img": "16-06-2.jpg",
+   "caption": "Hex fitting Slots added New design"
+  }
+ ],
+ "parts": [
+  [
+   "73048",
+   "Old design Adapter, Fuel, 3/8\" Female QD",
+   ""
+  ]
+ ],
+ "pn": [
+  "73048"
+ ],
+ "category": "Fuel"
+}

@@ -1,0 +1,27 @@
+{
+ "id": "16-04",
+ "date": "2016-02-25",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2016/TSB Vol 16 No 04 - GM Catalytic Converter.pdf",
+ "title": "Special Application Requirements for Fuel Service on GM 3.0L & 3.6L Engines",
+ "tag": "Notice",
+ "lead": "Due to the location of the catalytic converter on GM vehicles with 3.0L and 3.6L engines, such as Chevrolet Traverse and Cadillac SRX, they are susceptible to excessive loading and potential damage if certain steps are not followed during an induction and/or injector service. The following precautions and steps must be followed to avoid potential damage:",
+ "body": [
+  "Never leave a vehicle unattended during an induction service."
+ ],
+ "benefits": [
+  "Single Cleaning. Do not clean both the induction system AND injector rail during the same service. Perform one at a time, as the combination may create excessive load and strain the catalytic converter.",
+  "RPM. Keep engine RPM below 1500, but above idle, by using a throttle depressor during any induction service. Very Important: Since the RPM is being maintained under 1500, slowly and intermittently raise RPM to 2500 and hold for 3 to 4 seconds then release. This should be done every 2 minutes during the process until the tool or aerosol is empty.",
+  "Note. In some older vehicles turning on the A/C and headlights will increase the RPM a small amount making it easier for you to maintain the RPM above idle.",
+  "Scan Tool. If available, use a scan tool to monitor the catalytic converter temperature during the service. If the temperature becomes too high, temporarily stop or reduce the flow of product until the temperature lowers to a safe level.",
+  "Keep Engine Running. Do not turn the vehicle off after an induction service. First, remove the tool and let the engine idle for 10 minutes rising the RPM slowly every few minutes to 2500. Second, make sure all residual chemistry is out of the system before moving the vehicle.",
+  "Reassemble the system making sure all wiring is reconnected.",
+  "Clear all codes, and test drive vehicle. Drive the vehicle hard for 2 to 3 miles after the service.",
+  "Throttle bodies that face up, are lower than the intake, or are goose-neck style have the greatest hydro-locking potential during an induction service. AS A RESULT, THE PERIODIC INCREASE OF RPM AND TIME INTERVAL SHOULD BE 3000 RPM, EVERY 30 SECONDS INSTEAD OF 2500 RPM, EVERY 2 MINUTES. DO THIS THROUGHOUT THE ENTIRE SERVICE."
+ ],
+ "figures": [],
+ "parts": [],
+ "pn": [],
+ "category": "Fuel"
+}

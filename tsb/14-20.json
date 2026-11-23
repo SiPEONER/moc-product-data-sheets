@@ -1,0 +1,51 @@
+{
+ "id": "14-20",
+ "date": "2014-12-03",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2014/TSB Vol 14 No 20 - Dodge 6.7L EGR tools.pdf",
+ "title": "EGR Tools for Dodge 6.7L Diesel Engines",
+ "tag": "New",
+ "lead": "MOC has developed 4 new tools, available as a complete kit (Part No. 72340) and individually (Part No. 72325, 72335, 72345, and 72342), to clean the Dodge 6.7L Diesel EGR valve and cooler. These tools are designed to be used with the MOC Optimizer™ Foaming Combustion Chamber & Emission System Cleaner (Part No. 16501, sold separately), and are easy to install for performing the service. Step by step user instructions are included with the kit.",
+ "body": [],
+ "figures": [
+  {
+   "img": "14-20-1.jpg",
+   "caption": "Dodge 6.7L EGR Valve & Cooler Cleaning Kit (72325, 72335, 72345, 72342, 72340)"
+  },
+  {
+   "img": "14-20-2.jpg",
+   "caption": ""
+  },
+  {
+   "img": "14-20-3.jpg",
+   "caption": ""
+  },
+  {
+   "img": "14-20-4.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "72340",
+   "Complete kit",
+   ""
+  ],
+  [
+   "72325",
+   "Dodge 6.7L EGR Valve & Cooler Cleaning Kit",
+   ""
+  ],
+  [
+   "16501",
+   "Optimizer",
+   ""
+  ]
+ ],
+ "pn": [
+  "72340",
+  "72325"
+ ],
+ "category": "Fuel"
+}

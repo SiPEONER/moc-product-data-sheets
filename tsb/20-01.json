@@ -1,0 +1,68 @@
+{
+ "id": "20-01",
+ "date": "2020-02-24",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2020/TSB Vol 20. No 01 - GDI Chemicals.pdf",
+ "title": "Chemicals for EDR-3 Machine Restore Dissolve Enhance",
+ "tag": "New",
+ "lead": "MOC has improved its GDI Induction Service using the EDR-3 Fuel Service Machine and Module with new updated chemicals and procedure. The EDR-3 Machine and Module manuals have been updated to include the new chemicals and procedures.",
+ "body": [
+  "GDI INDUCTION SERVICE PROCEDURE: MP PREMIUM FUEL SERVICE KIT: (Part No. 05941):"
+ ],
+ "steps": [
+  "Start service by injecting one (16oz) can of Restore (Part No. 04331).",
+  "When Step 1 is complete, slowly raise the engine RPM to 4,000 RPM 2 to 3 times to clear any residual product.",
+  "After clearing any residual Restore product, follow up with an application of one (16oz) can of Dissolve (Part No. 04311).",
+  "When Step 3 is complete, slowly raise the engine RPM to 4,000 RPM 2 to 3 times to clear any residual product.",
+  "Test drive the vehicle promptly after the service is complete and the engine is still hot. IMPORTANT: A loaded test drive for 10-15 minutes is recommended after the service is complete. This includes driving the vehicle over 2,000 RPM and 45 MPH for at least 5 minutes. Driving under a load, up a hill or steep slope, is also acceptable.",
+  "When all the above is complete, add one (16oz) can of Enhance (Part No. 04321) to the fuel tank at the next gas fill up for additional cleaning."
+ ],
+ "figures": [],
+ "attachments": [
+  {
+   "img": "20-01-a2.jpg",
+   "caption": "Original attachment, page 2"
+  },
+  {
+   "img": "20-01-a3.jpg",
+   "caption": "Original attachment, page 3"
+  },
+  {
+   "img": "20-01-a4.jpg",
+   "caption": "Original attachment, page 4"
+  },
+  {
+   "img": "20-01-a5.jpg",
+   "caption": "Original attachment, page 5"
+  }
+ ],
+ "parts": [
+  [
+   "05941",
+   "",
+   ""
+  ],
+  [
+   "04331",
+   "Restore Combustion Chamber Cleaner",
+   ""
+  ],
+  [
+   "04311",
+   "Dissolve GDI Intake Cleaner",
+   ""
+  ],
+  [
+   "04321",
+   "Enhance Fuel System Cleaner",
+   ""
+  ]
+ ],
+ "pn": [
+  "04331",
+  "04311",
+  "04321"
+ ],
+ "category": "Fuel"
+}

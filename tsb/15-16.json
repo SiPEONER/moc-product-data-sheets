@@ -1,0 +1,28 @@
+{
+ "id": "15-16",
+ "date": "2015-08-18",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2015/TSB Vol 15 No 16 - NEW CAT Tool II.pdf",
+ "title": "Cleaner Application Tool II",
+ "tag": "New",
+ "lead": "MOC has developed a new Cleaner Application Tool (Part No. 72480), which includes the hose assembly that was designed to service vehicles with return-less fuel systems. (See Technical Service Bulletin Vol. 15 No. 12 for information on the return-less fuel system tool). This new Cleaner Application Tool also includes a 2nd pressure gauge attached to the air regulator.",
+ "body": [],
+ "figures": [
+  {
+   "img": "15-16-1.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "72480",
+   "Cleaner Application Tool",
+   ""
+  ]
+ ],
+ "pn": [
+  "72480"
+ ],
+ "category": "Fuel"
+}

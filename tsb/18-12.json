@@ -1,0 +1,31 @@
+{
+ "id": "18-12",
+ "date": "2018-07-27",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2018/TSB Vol 18 No 12 - New Volvo Banjo Fuel adapter.pdf",
+ "title": "Volvo Banjo Fuel Adapter",
+ "tag": "New",
+ "lead": "MOC has developed a new Banjo fuel adapter for various Volvo vehicles with 3.0L and 3.2L engines. This adapter is Part No. 73067. This new Banjo adapter is necessary to fit some newer vehicles where the connection to the fuel rail is close to the fire wall.",
+ "body": [
+  "This adapter set is replacing the 73037 & 73038 Volvo quick disconnect adapters."
+ ],
+ "figures": [
+  {
+   "img": "18-12-1.jpg",
+   "caption": "73065 73064 94781 Adapter, 3/8 Fuel QD Female, 90 Degree",
+   "pn": "73067"
+  }
+ ],
+ "parts": [
+  [
+   "73067",
+   "73065 73064 94781 Adapter, 3/8 Fuel QD Female, 90 Degree",
+   ""
+  ]
+ ],
+ "pn": [
+  "73067"
+ ],
+ "category": "Fuel"
+}

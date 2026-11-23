@@ -1,0 +1,41 @@
+{
+ "id": "12-14",
+ "date": "2012-04-26",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB Vol 12 No 14 Universal Coolant  625 Open Hose.pdf",
+ "title": "Universal Coolant Adapter 5/8\" Open Ended Hose",
+ "tag": "New",
+ "lead": "MOC has created a new 5/8\" Open Ended Hose adapter. This adapter is available for purchase.",
+ "body": [
+  "This adapter can be used with the existing 94280 adapter."
+ ],
+ "figures": [
+  {
+   "img": "12-14-1.jpg",
+   "caption": "Adapter,Coolant,Open Ended, Ø5/8\"",
+   "pn": "94297"
+  },
+  {
+   "img": "12-14-2.jpg",
+   "caption": "Plug, Hose, 5/8\"",
+   "pn": "94280"
+  }
+ ],
+ "parts": [
+  [
+   "94297",
+   "Adapter,Coolant,Open Ended, Ø5/8\"",
+   ""
+  ],
+  [
+   "94280",
+   "Plug, Hose, 5/8\"",
+   ""
+  ]
+ ],
+ "pn": [
+  "94297"
+ ],
+ "category": "Cooling"
+}

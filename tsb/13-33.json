@@ -1,0 +1,62 @@
+{
+ "id": "13-33",
+ "date": "2013-11-26",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 33 - Coolant Adapter Kit updated.pdf",
+ "title": "Additional Adapters added to the Coolant Machines and Standard Adapter Kit",
+ "tag": null,
+ "lead": "Due to the increased usage of the Reserve Coolant Tank Adapter Kit (Part No. 94284), and to meet the continuing needs of our customers, the MOC Machine and Equipment Department has updated the Standard Coolant Adapter Kit (Part No. 94111) by adding the adapters below.",
+ "body": [
+  "These adapters are also available separately:"
+ ],
+ "figures": [
+  {
+   "img": "13-33-1.jpg",
+   "caption": "94283 94222 94061 94282 Reserve Coolant Tank Adapter Kit",
+   "pn": "94284"
+  }
+ ],
+ "parts": [
+  [
+   "94283",
+   "Universal Step Down Adapter",
+   ""
+  ],
+  [
+   "94222",
+   "5/16\" Open Hose Adapter",
+   ""
+  ],
+  [
+   "94061",
+   "3/8\" Open Hose Adapter",
+   ""
+  ],
+  [
+   "94282",
+   "1/2\" Open Hose Adapter",
+   ""
+  ],
+  [
+   "72041",
+   "Small Hose Clamp",
+   ""
+  ],
+  [
+   "94284",
+   "94283 94222 94061 94282 Reserve Coolant Tank Adapter Kit",
+   ""
+  ],
+  [
+   "94111",
+   "Standard Coolant Adapter Kit",
+   ""
+  ]
+ ],
+ "pn": [
+  "94284",
+  "94111"
+ ],
+ "category": "Cooling"
+}

@@ -1,0 +1,75 @@
+{
+ "id": "15-13",
+ "date": "2015-07-30",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2015/TSB Vol 15 No 13 - Arctic Blast tool for HFO1234yf.pdf",
+ "title": "Arctic Blast Injector Tool",
+ "tag": null,
+ "lead": "MOC has developed a new Arctic Blast injector tool to service the A/C systems in vehicles with HFO1234yf refrigerant.",
+ "body": [
+  "The Arctic Blast product is sold separately."
+ ],
+ "figures": [
+  {
+   "img": "15-13-1.jpg",
+   "caption": "Tool, HFO-1234yf Lo-Side Artic Blast",
+   "pn": "76025"
+  }
+ ],
+ "table": {
+  "title": "Known to fit",
+  "head": [
+   "Vehicle"
+  ],
+  "rows": [
+   [
+    "Cadillac XTS (2013 and 2014)"
+   ],
+   [
+    "Chevrolet Spark EV (2014)"
+   ],
+   [
+    "Chrysler 300 (2014)"
+   ],
+   [
+    "Dodge Challenger (2014)"
+   ],
+   [
+    "Dodge Charger (2014)"
+   ],
+   [
+    "Ford F150 (2016)"
+   ],
+   [
+    "Ford Fusion (2016)"
+   ],
+   [
+    "Honda Fit EV (2013 and 2014)"
+   ],
+   [
+    "Jeep Cherokee (2014)"
+   ],
+   [
+    "Range Rover (2014)"
+   ],
+   [
+    "Range Rover Sport (2014)"
+   ],
+   [
+    "Toyota Tacoma (2016)"
+   ]
+  ]
+ },
+ "parts": [
+  [
+   "76025",
+   "Tool, HFO-1234yf Lo-Side Artic Blast",
+   ""
+  ]
+ ],
+ "pn": [
+  "76025"
+ ],
+ "category": "HVAC"
+}

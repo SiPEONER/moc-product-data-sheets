@@ -115,8 +115,10 @@ After the sheets, the build writes the public library site to `web/`: one card p
 
 ## Technical Service Bulletins (MOC-TSB, added 2026-11-23)
 
-- `tsb/<vol>-<no>.json` is one bulletin (Machine & Equipment Department); `tsb/img/` holds its figures. `python3 tools/tsb.py` builds every PDF (`tsb_template.html`, one Letter page, fitted by shrinking the photo row) and the pages at `/tsb/` and `/tsb/<vol>-<no>`.
+- `tsb/<vol>-<no>.json` is one bulletin (Machine & Equipment Department); `tsb/img/` holds its figures. `python3 tools/tsb.py` builds every PDF (`tsb_template.html`, Letter, fitted to one page by shrinking the photo row, else run on to more pages) and the pages at `/tsb/` and `/tsb/<vol>-<no>`.
 - Sources: OneDrive "MOC Support - Technical Service Bulletins/<year>/" (15 PDFs, Vol. 22 No. 01 to Vol. 26 No. 04) plus the EDR Advanced Module draft in "MOC_PDS_TSB_Art_Team_Package" (filed as Vol. 26 No. 05, Andy 2026-11-23).
+- 2011 to 2021 (added 2026-11-23): 166 bulletins from the same OneDrive year folders (167 PDFs; "Vol 15 No 17 - Smart Tech Engine Flush" is a duplicate of 15-18 and is left out). The two 2019 "MOC Bulletin" notices are filed as 19-EN1 and 19-EN2. Original attachments (Do-It-Right sheets, flyers, adapter charts) are kept as page images after the bulletin, marked "as issued; not redrawn". Long bulletins run to more pages instead of shrinking the type.
+- Old bulletins were extracted and edited by scripts kept outside the repo (scratchpad tsbold/extract.py, edit.py, overrides.py); the JSON files are now the source, so edit them directly.
 - Figures are cropped from 400 dpi renders of the original PDFs, so arrows and labels drawn over the photos stay.
 - Copy is a light brand edit (Andy, 2026-11-23): same facts, part numbers, steps and dates; "NEW!!" becomes the NEW tag; stock openers trimmed; typos fixed. Each JSON keeps its `source` file name.
 - A new bulletin: add `tsb/<vol>-<no>.json` and its images, run `python3 tools/tsb.py`, then `build.py`'s site step to update the nav count.

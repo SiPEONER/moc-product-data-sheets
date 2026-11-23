@@ -1,0 +1,70 @@
+{
+ "id": "11-07",
+ "date": "2011-08-16",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2011/TSB Vol 11 No 7 Misting Gun W Regulator 8-16-11.pdf",
+ "title": "Misting Gun With Air Regulator",
+ "tag": "New",
+ "lead": "MOC has developed a new Misting Gun with an air regulator for use with Odor-B-Gone. It is now available to order.",
+ "body": [
+  "Odor-B-Gone (Unscented, 0650; New Car Scent, 0651) is sold separately.",
+  "You can convert a current Misting Gun to the Air Regulator model with these parts: Regulator Adapter 74359, Air Regulator 74449, Pressure Gauge 75601 and QD Adapter 94254.",
+  "Remove the existing QD adapter from the bottom of the Misting Gun before adding the Air Regulator. Keep the o-ring that comes with the misting gun and install it above the Regulator Adapter (74359)."
+ ],
+ "figures": [
+  {
+   "img": "11-07-1.jpg",
+   "caption": "Universal Misting Gun w/Regulator"
+  },
+  {
+   "img": "11-07-2.jpg",
+   "caption": ""
+  },
+  {
+   "img": "11-07-3.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "74360",
+   "Universal Misting Gun w/Regulator",
+   ""
+  ],
+  [
+   "0650",
+   "Odor-B-Gone (Unscented)",
+   "Sold separately"
+  ],
+  [
+   "0651",
+   "Odor-B-Gone (New Car Scent)",
+   "Sold separately"
+  ],
+  [
+   "74359",
+   "Regulator Adapter",
+   "Conversion part"
+  ],
+  [
+   "74449",
+   "Air Regulator",
+   "Conversion part"
+  ],
+  [
+   "75601",
+   "Pressure Gauge",
+   "Conversion part"
+  ],
+  [
+   "94254",
+   "QD Adapter",
+   "Conversion part"
+  ]
+ ],
+ "pn": [
+  "74360"
+ ],
+ "category": "Equipment"
+}

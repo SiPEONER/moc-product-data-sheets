@@ -1,0 +1,46 @@
+{
+ "id": "14-05",
+ "date": "2014-04-08",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2014/TSB Vol 14 No 05 - Additive Dispensing Kit - Diff.pdf",
+ "title": "Additive Dispensing Kit for the Model Multi-Fluid Machine",
+ "tag": "New",
+ "lead": "MOC has developed a new On Board Additive Dispensing Kit for our Model # 96500 Multi-Fluid Machines.",
+ "body": [
+  "This new kit (Part # 95675) allows the technician to directly attach the Limited-Slip Concentrate bottle to the machine for direct pumping of contents into the vehicle's differential. In addition, an open hose adapter is included to allow fluid from a separate container (located at the front of the machine) to be pumped into the vehicle's differential,.",
+  "The below images show the new Kit on the machine, which is now available for purchase and in stock for immediate shipment."
+ ],
+ "figures": [
+  {
+   "img": "14-05-1.jpg",
+   "caption": "Kit, Differential O.B. Additive Dispensing",
+   "pn": "95675"
+  },
+  {
+   "img": "14-05-2.jpg",
+   "caption": ""
+  },
+  {
+   "img": "14-05-3.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "95675",
+   "Kit, Differential O.B. Additive Dispensing",
+   ""
+  ],
+  [
+   "96500",
+   "Multi-Fluid Machine",
+   ""
+  ]
+ ],
+ "pn": [
+  "96500",
+  "95675"
+ ],
+ "category": "Equipment"
+}

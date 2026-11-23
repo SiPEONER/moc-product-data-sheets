@@ -1,0 +1,31 @@
+{
+ "id": "12-18",
+ "date": "2012-06-10",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB Vol 12 No 18 Trans line Disconnect Tool.pdf",
+ "title": "Tool Available for Automatic-Transmission Service",
+ "tag": "New",
+ "lead": "MOC has a new Transmission Line Disconnect Tool Set. This tool set allows techs to disconnect the 3/8\" and 1/2\" quick disconnect transmission lines to perform a transmission fluid exchange service.",
+ "body": [
+  "This tool set is now available for purchase."
+ ],
+ "figures": [
+  {
+   "img": "12-18-1.jpg",
+   "caption": "Tool Set, Transmission Line Disconnect",
+   "pn": "94785"
+  }
+ ],
+ "parts": [
+  [
+   "94785",
+   "Tool Set, Transmission Line Disconnect",
+   ""
+  ]
+ ],
+ "pn": [
+  "94785"
+ ],
+ "category": "Transmission"
+}

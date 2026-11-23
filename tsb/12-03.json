@@ -1,0 +1,55 @@
+{
+ "id": "12-03",
+ "date": "2012-02-22",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB Vol 12 No 3 Optimizer_zMax Kit Now Available 2-22-12.pdf",
+ "title": "Optimizer/zMax Kit Available",
+ "tag": null,
+ "lead": "Kit 09221 Optimizer/zMax is now available: a powerful combination for excellent results.",
+ "body": [
+  "The MOC Optimizer (16501) process cleans carbon from problem areas of the fuel-induction system, while zMax (09108) addresses fuel deposits as a tank additive and completes the cleaning process. It has proven a quick and easy fix for carbon-related issues on direct-injected vehicles."
+ ],
+ "steps": [
+  "Bring the vehicle to operating temperature. Shake the can well. With the engine running, locate a manifold vacuum line that evenly feeds all cylinders (Figure A). Bring engine speed up to 2000 RPM.",
+  "Insert the extension tip of the Optimizer (16501) can into the vacuum line (Figure B) and evacuate the product until the can is empty. If the engine starts to sputter, reduce the flow to avoid stalling. When the can is empty, reconnect the vacuum line.",
+  "Pour the bottle of zMax (09108) into the fuel tank. For maximum efficiency the tank should be at least half full."
+ ],
+ "note": "If the engine stalls during application, stop evacuating the can and turn the crankshaft over several times before restarting. With an electronic throttle body, you need two people or a tool to hold 2000 RPM.",
+ "figures": [
+  {
+   "img": "12-03-1.jpg",
+   "caption": "Kit 09221",
+   "pn": "09221"
+  },
+  {
+   "img": "12-03-2.jpg",
+   "caption": "Figure A"
+  },
+  {
+   "img": "12-03-3.jpg",
+   "caption": "Figure B"
+  }
+ ],
+ "parts": [
+  [
+   "09221",
+   "Kit, Optimizer/zMax",
+   ""
+  ],
+  [
+   "16501",
+   "Optimizer",
+   "In the kit"
+  ],
+  [
+   "09108",
+   "zMax",
+   "In the kit"
+  ]
+ ],
+ "pn": [
+  "09221"
+ ],
+ "category": "Fuel"
+}

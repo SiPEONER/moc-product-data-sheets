@@ -1,0 +1,40 @@
+{
+ "id": "17-06",
+ "date": "2017-06-29",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2017/TSB Vol 17 No 06 - Engine Flush Adapter - Toyota 2.5L.pdf",
+ "title": "Engine Flush Adapter for Toyota and Lexus",
+ "tag": "New",
+ "lead": "MOC has developed a new engine-flush adapter for various models of Toyota and Lexus vehicles with 2.0L, 2.5L, 2.7L, and 3.5L engines. (Part No. 96136). This adapter is known to fit many vehicles which are listed in the table below.",
+ "body": [
+  "This adapter is now available for purchase.",
+  "Vehicle Application Chart: Toyota/Lexus Adapter (Part No. 96136)"
+ ],
+ "figures": [
+  {
+   "img": "17-06-1.jpg",
+   "caption": "Adapter, Oil Filter, Toyota/Lexus",
+   "pn": "96136"
+  },
+  {
+   "img": "17-06-2.jpg",
+   "caption": ""
+  },
+  {
+   "img": "17-06-3.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "96136",
+   "Adapter, Oil Filter, Toyota/Lexus",
+   ""
+  ]
+ ],
+ "pn": [
+  "96136"
+ ],
+ "category": "Engine"
+}

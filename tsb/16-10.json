@@ -1,0 +1,37 @@
+{
+ "id": "16-10",
+ "date": "2016-06-17",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2016/TSB Vol 16 No 10 - Smart Tech II New Design.pdf",
+ "title": "New Design for Smart Tech II ATF Machine",
+ "tag": null,
+ "lead": "MOC has updated the look for the Smart Tech® II ATF machines. The chassis is dark gray instead of black, and the face panel has the SMART TECH® II title in white text. This design change makes it easier to differentiate between the Smart Tech® I and Smart Tech® II ATF machines. For existing machines in the field, the new face panel is available separately as Part No. 95852.",
+ "body": [],
+ "figures": [
+  {
+   "img": "16-10-1.jpg",
+   "caption": ""
+  },
+  {
+   "img": "16-10-2.jpg",
+   "caption": ""
+  },
+  {
+   "img": "16-10-3.jpg",
+   "caption": "Face Panel, Smart Tech® II ATF Exchanger",
+   "pn": "95852"
+  }
+ ],
+ "parts": [
+  [
+   "95852",
+   "Face Panel, Smart Tech® II ATF Exchanger",
+   ""
+  ]
+ ],
+ "pn": [
+  "95852"
+ ],
+ "category": "Transmission"
+}

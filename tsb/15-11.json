@@ -1,0 +1,36 @@
+{
+ "id": "15-11",
+ "date": "2015-07-14",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2015/TSB Vol 15 No 11 - New Dual S Optimizer Tool.pdf",
+ "title": "Optimizer Tool Dual \"S\" Foaming Intake Tool",
+ "tag": "New",
+ "lead": "MOC has developed a new Foaming Intake tool to accommodate the use of Optimizer™. This tool was created to service vehicles with two (2) throttle bodies, allowing the user to clean both throttle bodies simultaneously.",
+ "body": [
+  "The MOC Optimizer™ product (Part No. 16501) is sold separately."
+ ],
+ "figures": [
+  {
+   "img": "15-11-1.jpg",
+   "caption": "Tool, Dual \"S\" Foaming Intake",
+   "pn": "75022"
+  }
+ ],
+ "parts": [
+  [
+   "75022",
+   "Tool, Dual \"S\" Foaming Intake",
+   ""
+  ],
+  [
+   "16501",
+   "Optimizer",
+   ""
+  ]
+ ],
+ "pn": [
+  "75022"
+ ],
+ "category": "Fuel"
+}

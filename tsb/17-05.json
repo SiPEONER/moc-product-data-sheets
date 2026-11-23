@@ -1,0 +1,43 @@
+{
+ "id": "17-05",
+ "date": "2017-06-26",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2017/TSB Vol 17 No 05 - Fluid Flow Restrictor.pdf",
+ "title": "Fluid Flow Restrictor for High Flow transmission services using Smart Tech II ATF Machines",
+ "tag": "New",
+ "lead": "MOC has designed a new Fluid Flow Restrictor to be used with the Smart Tech® II ATF machines when performing cooler line flush services on \"High Flow\" transmissions such as the GM 6L80. The devise is designed to eliminate potential underfill issues when added to the red service hose on the Smart Tech® II ATF machine. and in now available in stock. See page 2 for assembly instructions.",
+ "body": [
+  "The flow restrictor must be attached to the end of the Red Service Hose or it will not function properly."
+ ],
+ "figures": [
+  {
+   "img": "17-05-1.jpg",
+   "caption": "Restrictor, High Flow Transmission",
+   "pn": "94943"
+  },
+  {
+   "img": "17-05-2.jpg",
+   "caption": "2. Using Teflon tape, connect the Flow Restrictor to the end of the Service Hose"
+  },
+  {
+   "img": "17-05-3.jpg",
+   "caption": "3. Using Teflon tape, reconnect the coupler to the Flow Restrictor."
+  },
+  {
+   "img": "17-05-4.jpg",
+   "caption": "4. The machine is now ready for services."
+  }
+ ],
+ "parts": [
+  [
+   "94943",
+   "Restrictor, High Flow Transmission",
+   ""
+  ]
+ ],
+ "pn": [
+  "94943"
+ ],
+ "category": "Transmission"
+}

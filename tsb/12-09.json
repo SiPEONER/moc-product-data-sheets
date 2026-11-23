@@ -1,0 +1,46 @@
+{
+ "id": "12-09",
+ "date": "2012-03-22",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB  Vol 12 No 09 Important Optimizer Service Procedure Revision.pdf",
+ "title": "Optimizer Service Procedure Revision",
+ "tag": "Superseded",
+ "lead": "During recent in house testing we have found that performing Optimizer™ service on vehicles with the engine speed above 2000 RPM can result in excessive temperatures to be reached within Catalytic Converter. At these high temperatures it can cause internal damage to the Catalytic converter.",
+ "body": [
+  "Our recommendation is that all Optimizer™ services be performed with the engine at 1200 -1500 RPM, and NOT to exceed 2000 RPM.",
+  "The Optimizer™ \"Do It Rights\" have been revised to reflect the above recommendations. Both \"Do it Rights\" are attached with this document. It is highly recommended that these Do It Rights are distributed to any accounts purchasing Optimizer™.",
+  "Please note part #83752 \"Do it Right\" booklet will be temporarily unavailable, until multiple updates are made."
+ ],
+ "note": "Superseded by Vol. 12 No. 10 (April 26, 2012), which withdraws this RPM change: perform Optimizer services per the 16501 label and do not exceed 2000 RPM.",
+ "figures": [],
+ "attachments": [
+  {
+   "img": "12-09-a2.jpg",
+   "caption": "Original attachment, page 2"
+  },
+  {
+   "img": "12-09-a3.jpg",
+   "caption": "Original attachment, page 3"
+  },
+  {
+   "img": "12-09-a4.jpg",
+   "caption": "Original attachment, page 4"
+  },
+  {
+   "img": "12-09-a5.jpg",
+   "caption": "Original attachment, page 5"
+  }
+ ],
+ "parts": [
+  [
+   "83752",
+   "Optimizer \"Do It Right\" booklet",
+   ""
+  ]
+ ],
+ "pn": [
+  "83752"
+ ],
+ "category": "Fuel"
+}

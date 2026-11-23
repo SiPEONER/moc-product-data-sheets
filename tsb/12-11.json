@@ -1,0 +1,36 @@
+{
+ "id": "12-11",
+ "date": "2012-04-30",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB Vol 12 No 11 NewTrans Machine.pdf",
+ "title": "Transmission Fluid Exchanger",
+ "tag": "New",
+ "lead": "MOC has developed a new Transmission Fluid Exchanger Machine (Smart Tech™ ATF Machine, MOC Part No. 94800) that is now available for purchase.",
+ "body": [],
+ "benefits": [
+  "Ability to perform a service through the dipstick tube or cooler line",
+  "Upload/Download updates through USB flash drive",
+  "All service history stored including a resettable flush counter",
+  "Ability to incorporate different languages",
+  "New graphic LCD display"
+ ],
+ "figures": [
+  {
+   "img": "12-11-1.jpg",
+   "caption": "Machine, Smart Tech™ ATF Exchanger",
+   "pn": "94800"
+  }
+ ],
+ "parts": [
+  [
+   "94800",
+   "Machine, Smart Tech™ ATF Exchanger",
+   ""
+  ]
+ ],
+ "pn": [
+  "94800"
+ ],
+ "category": "Transmission"
+}

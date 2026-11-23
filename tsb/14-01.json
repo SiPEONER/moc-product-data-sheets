@@ -1,0 +1,34 @@
+{
+ "id": "14-01",
+ "date": "2014-01-27",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2014/TSB Vol 14 No 01 - Basic Brake External Hose Kit (New).pdf",
+ "title": "External Hose Replacement Kit for Basic Brake Fluid Exchanger Machines",
+ "tag": "New",
+ "lead": "A new kit of replacement hoses is now available for the external hoses used on the Basic Brake Fluid Exchanger Machines (Part No. 98060). This kit includes a vacuum, pressure and service hose cut to length, along with the clamps needed to attach the hoses to existing hardware and connect them to the machines.",
+ "body": [],
+ "figures": [
+  {
+   "img": "14-01-1.jpg",
+   "caption": "External Hose Replacement Kit, Basic Brake",
+   "pn": "98197"
+  }
+ ],
+ "parts": [
+  [
+   "98197",
+   "External Hose Replacement Kit, Basic Brake",
+   ""
+  ],
+  [
+   "98060",
+   "Basic Brake Fluid Exchanger Machines",
+   ""
+  ]
+ ],
+ "pn": [
+  "98060"
+ ],
+ "category": "Brake"
+}

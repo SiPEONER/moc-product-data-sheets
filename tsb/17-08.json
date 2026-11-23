@@ -1,0 +1,28 @@
+{
+ "id": "17-08",
+ "date": "2017-08-10",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2017/TSB Vol 17 No 08 - Transmission Flyer for Pressure Ports.pdf",
+ "title": "Laminated Flyer for Transmission services through Pressure Port Connections",
+ "tag": "New",
+ "lead": "MOC has developed a chart showing the vehicles that have thermostats in the transmission that can be bypassed by performing the transmission fluid flush service through the transmission line pressure port. The chart lists the vehicles, transmission, and the adapters needed to complete the service. This laminated flyer will be included with new machines being built. They are also available separately as Part No. 94939.",
+ "body": [],
+ "figures": [
+  {
+   "img": "17-08-1.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "94939",
+   "Laminated flyer, pressure-port transmission services",
+   ""
+  ]
+ ],
+ "pn": [
+  "94939"
+ ],
+ "category": "Transmission"
+}

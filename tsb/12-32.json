@@ -1,0 +1,63 @@
+{
+ "id": "12-32",
+ "date": "2012-01-01",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB Vol 12 No 32 (rv.2) - Dipstick Adapter Changes.pdf",
+ "title": "Dipstick Service Adapter Changes",
+ "tag": "Update",
+ "lead": "MOC has made improvements to the Dipstick Service Adapter (Part No. 94777). These changes include 2 new dipstick service hoses in 1/4\" and 5/16\" that are connected by a quick disconnect fitting and can be switched out to meet the user's needs.",
+ "body": [
+  "You will also need to request a Software update for the Smart Tech™ ATF Machine from the Equipment Department.",
+  "TO UPDATE YOUR EXISTING DIPSTICK SERVICE ADAPTER:"
+ ],
+ "steps": [
+  "Remove the brass fitting from the 3-Way manifold.",
+  "Apply Teflon tape to the Female Quick Disconnect Coupler (Part No. 94561) and connect it to the 3-Way manifold in the same location you removed the original brass fitting.",
+  "The adapter is now ready to be used. When performing a service, select the Dipstick Service Hose you want to use, 94839 or 94841, and connect it to the Female Coupler."
+ ],
+ "figures": [
+  {
+   "img": "12-32-1.jpg",
+   "caption": "Red Green Hose, Dipstick Service, 1/4\" (Red) Hose, Dipstick Service, 5/16\" (Green) MOC (94839, 94841)"
+  },
+  {
+   "img": "12-32-2.jpg",
+   "caption": ""
+  },
+  {
+   "img": "12-32-3.jpg",
+   "caption": "Female Quick Disconnect Coupler"
+  },
+  {
+   "img": "12-32-4.jpg",
+   "caption": "Manifold Brass Fitting"
+  }
+ ],
+ "parts": [
+  [
+   "94561",
+   "Coupler, Female Quick Disconnect, ¼\" MPT",
+   "Qty 1"
+  ],
+  [
+   "94839",
+   "Hose, Dipstick Service, 1/4\" (Red)",
+   "Qty 1"
+  ],
+  [
+   "94841",
+   "Hose, Dipstick Service, 5/16\" (Green)",
+   "Qty 1"
+  ],
+  [
+   "94777",
+   "Dipstick Service Adapter",
+   ""
+  ]
+ ],
+ "pn": [
+  "94777"
+ ],
+ "category": "Transmission"
+}

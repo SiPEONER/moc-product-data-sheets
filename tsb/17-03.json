@@ -1,0 +1,35 @@
+{
+ "id": "17-03",
+ "date": "2017-04-13",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2017/TSB Vol 17 No 03 - MBZ Sprinter EGR Optimizer tool.pdf",
+ "title": "Mercedes Sprinter EGR Valve and Cooler Cleaning Tool",
+ "tag": "New",
+ "lead": "MOC has developed a new EGR Valve and Cooler Cleaning tool for the 6 cylinder and 4 cylinder Mercedes Sprinter vehicles. The EGR Tool (Part No. 72375), when used with the Optimizer Product (Part No. 16501) (sold separately), will safely assist in removing deposits in the EGR Control Valve, Cooler, and related areas.",
+ "body": [],
+ "figures": [
+  {
+   "img": "17-03-1.jpg",
+   "caption": "Tool, Sprinter EGR, Optimizer",
+   "pn": "72375"
+  }
+ ],
+ "parts": [
+  [
+   "72375",
+   "Tool, Sprinter EGR, Optimizer",
+   ""
+  ],
+  [
+   "16501",
+   "Optimizer",
+   ""
+  ]
+ ],
+ "pn": [
+  "72375",
+  "16501"
+ ],
+ "category": "Fuel"
+}

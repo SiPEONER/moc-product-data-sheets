@@ -1,0 +1,42 @@
+{
+ "id": "12-01",
+ "date": "2012-01-16",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB Vol 12 No 1 ATF Additive Dispensing Kit 1-17-12.pdf",
+ "title": "Additive Dispensing Kit for ATF Machines",
+ "tag": "New",
+ "lead": "MOC has developed the On Board Additive Dispensing Kit (Part No. 98749) to dispense additives through a feature built into the Automatic Transmission fluid- exchange-machines. Especially useful in vehicles with sealed transmissions, with this Kit connected to the ATF machine additive products are added directly into the transmission.",
+ "body": [
+  "It is now available to order.",
+  "Included in the Kit are all components needed for the installation of this feature to the ATF machine.",
+  "Once installed, the machine will function as normal. When needed, connect an opened bottle of the product you wish to add to the side of the transmission machine (as shown in Fig. A).",
+  "To add the product to the transmission, press and hold the button on the side of the machine (shown in Fig A). Once the bottle is depleted, release the button."
+ ],
+ "figures": [
+  {
+   "img": "12-01-1.jpg",
+   "caption": "On Board Additive Dispensing Kit Assembled Kit on a machine",
+   "pn": "98749"
+  },
+  {
+   "img": "12-01-2.jpg",
+   "caption": ""
+  },
+  {
+   "img": "12-01-3.jpg",
+   "caption": "Fig. A"
+  }
+ ],
+ "parts": [
+  [
+   "98749",
+   "On Board Additive Dispensing Kit Assembled Kit on a machine",
+   ""
+  ]
+ ],
+ "pn": [
+  "98749"
+ ],
+ "category": "Transmission"
+}

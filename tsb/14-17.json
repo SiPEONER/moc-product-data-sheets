@@ -1,0 +1,32 @@
+{
+ "id": "14-17",
+ "date": "2014-11-25",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2014/TSB Vol 14 No 17 - Memory Saver Tool OBDII.pdf",
+ "title": "OBDII Vehicle Memory Saver Tool",
+ "tag": "New",
+ "lead": "MOC has developed a new Vehicle Memory Saver Tool (Part No. 71250, see image below). This tool allows technicians to replace a vehicle's battery without losing the driver's personal vehicle customization settings, such as seat position, radio presets or engine performance. Without this tool the vehicle's settings would need to be reset after the battery is replaced.",
+ "body": [
+  "Save your customer the inconvenience and frustration of having to wait for personal vehicle customization settings. The Vehicle Memory Saver Tool requires only a 9-volt battery sold separately to perform these functions.",
+  "This new tool is now available for purchase."
+ ],
+ "figures": [
+  {
+   "img": "14-17-1.jpg",
+   "caption": "Tool, Vehicle Memory Saver, OBDII",
+   "pn": "71250"
+  }
+ ],
+ "parts": [
+  [
+   "71250",
+   "Tool, Vehicle Memory Saver, OBDII",
+   ""
+  ]
+ ],
+ "pn": [
+  "71250"
+ ],
+ "category": "Equipment"
+}

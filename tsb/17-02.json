@@ -1,0 +1,31 @@
+{
+ "id": "17-02",
+ "date": "2017-03-23",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2017/TSB Vol 17 No 02 - New 1-4 QD Fuel Adapter.pdf",
+ "title": "1/4\" Female Quick Disconnect Fuel Adapter",
+ "tag": "New",
+ "lead": "MOC has developed a new 1/4in female fuel adapter. This new Quick Disconnect adapter (Part No. 73063) is deeper allowing it to connect to fuel systems with longer stems.",
+ "body": [
+  "This adapter has been confirmed to fit the newer Toyota vehicles."
+ ],
+ "figures": [
+  {
+   "img": "17-02-1.jpg",
+   "caption": "Adapter, Fuel, 1/4\" Deep Female Quick Disconnect",
+   "pn": "73063"
+  }
+ ],
+ "parts": [
+  [
+   "73063",
+   "Adapter, Fuel, 1/4\" Deep Female Quick Disconnect",
+   ""
+  ]
+ ],
+ "pn": [
+  "73063"
+ ],
+ "category": "Fuel"
+}

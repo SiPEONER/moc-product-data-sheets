@@ -1,0 +1,29 @@
+{
+ "id": "15-14",
+ "date": "2015-08-05",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2015/TSB Vol 15 No 14 - Single Pump Coolant waste tank cap.pdf",
+ "title": "Assembled Waste Tank Cap for Single Pump Coolant Machines",
+ "tag": "New",
+ "lead": "MOC has created a new part, A Waste Tank Cap for the Single Pump Coolant Machines (Part No. 94358). This part is now available for purchase.",
+ "body": [],
+ "figures": [
+  {
+   "img": "15-14-1.jpg",
+   "caption": "Cap, Waste Tank Assembled, Single Pump Coolant",
+   "pn": "94358"
+  }
+ ],
+ "parts": [
+  [
+   "94358",
+   "Cap, Waste Tank Assembled, Single Pump Coolant",
+   ""
+  ]
+ ],
+ "pn": [
+  "94358"
+ ],
+ "category": "Cooling"
+}

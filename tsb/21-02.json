@@ -1,0 +1,40 @@
+{
+ "id": "21-02",
+ "date": "2021-02-01",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2021/TSB Vol. 21 No. 02 - MAP Sensor adapters for EDR-3.pdf",
+ "title": "MAP Sensor Adapters For Induction Services",
+ "tag": "New",
+ "lead": "MOC has created two new adapters that make induction services easier with the EDR-3 machine through the MAP sensor port, keeping the MAP sensor connected to the vehicle during the service. This may help hold the engine at the recommended RPM.",
+ "body": [
+  "These adapters can only be used with the EDR-3 machines."
+ ],
+ "figures": [
+  {
+   "img": "21-02-1.jpg",
+   "caption": ""
+  },
+  {
+   "img": "21-02-2.jpg",
+   "caption": "Adapter, MAP Sensor, 90 Degree (73448) and Straight (73449)"
+  }
+ ],
+ "parts": [
+  [
+   "73448",
+   "Adapter, MAP Sensor, 90 Degree",
+   "EDR-3 only"
+  ],
+  [
+   "73449",
+   "Adapter, MAP Sensor, Straight",
+   "EDR-3 only"
+  ]
+ ],
+ "pn": [
+  "73448",
+  "73449"
+ ],
+ "category": "Fuel"
+}

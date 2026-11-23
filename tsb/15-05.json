@@ -1,0 +1,39 @@
+{
+ "id": "15-05",
+ "date": "2015-01-25",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2015/TSB Vol 15 No 05 - BMW F01-F02-F10 Coolant Adapters.pdf",
+ "title": "Coolant Adapters for BMW E92, F01, F02 & F10",
+ "tag": "New",
+ "lead": "MOC has developed 2 new adapters for use when servicing the cooling systems in various BMW vehicles. This adapter set is known to fit the BMW E92 (3 Series), F01 and F02 (7 Series), and F10 (5 Series) (Part Nos. 94351 and 94352). These adapters connect at the pressurized reserve tank.",
+ "body": [
+  "The new adapters, are available for purchase."
+ ],
+ "figures": [
+  {
+   "img": "15-05-1.jpg",
+   "caption": "Adapter, Coolant, BMW Male (F01/F02) Adapter, Coolant, BMW Female (F01/F02) (94351, 94352)"
+  },
+  {
+   "img": "15-05-2.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "94351",
+   "Adapter, Coolant, BMW Male (F01/F02)",
+   ""
+  ],
+  [
+   "94352",
+   "Adapter, Coolant, BMW Female (F01/F02)",
+   ""
+  ]
+ ],
+ "pn": [
+  "94351"
+ ],
+ "category": "Cooling"
+}

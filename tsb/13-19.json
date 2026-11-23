@@ -1,0 +1,31 @@
+{
+ "id": "13-19",
+ "date": "2013-06-12",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 19 Engine Flush Adapter - GM 1.4L (New).pdf",
+ "title": "Engine Flush Adapter for Chevy / GM 1.4L Engines",
+ "tag": "New",
+ "lead": "MOC has developed a new Engine Flush Adapter for 1.4L Engines (Part No. 96128) found in various models of Chevy and GM vehicles.",
+ "body": [
+  "This adapter is available for purchase."
+ ],
+ "figures": [
+  {
+   "img": "13-19-1.jpg",
+   "caption": "Adapter, Oil Filter, GM 1.4L",
+   "pn": "96128"
+  }
+ ],
+ "parts": [
+  [
+   "96128",
+   "Adapter, Oil Filter, GM 1.4L",
+   ""
+  ]
+ ],
+ "pn": [
+  "96128"
+ ],
+ "category": "Engine"
+}

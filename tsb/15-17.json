@@ -1,0 +1,48 @@
+{
+ "id": "15-17",
+ "date": "2015-09-15",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2015/TSB Vol 15 No 17 - CAT Tool Comparison.pdf",
+ "title": "Cleaner Application Tool Comparison",
+ "tag": null,
+ "lead": "The function of both tools (Part No. 72450 & Part No. 72480) is the same. However, the new Cleaner Application Tool II (Part No. 72480) comes equipped with a 2nd Pressure Gauge attached to the air regulator and the hose assembly needed to perform services on return-less fuel systems. The original CAT tool (Part No. 72450) can easily be upgraded to the new CAT tool (Part No. 72480) by adding the Pressure Gauge (Part No. 98004) to the air regulator and the hose assembly for return-less fuel systems (Part No. 73055), both of these parts are available separately.",
+ "body": [],
+ "figures": [
+  {
+   "img": "15-17-1.jpg",
+   "caption": "(72450, 72480)"
+  },
+  {
+   "img": "15-17-2.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "72450",
+   "CAT tool",
+   ""
+  ],
+  [
+   "72480",
+   "Cleaner Application Tool",
+   ""
+  ],
+  [
+   "98004",
+   "Pressure Gauge",
+   ""
+  ],
+  [
+   "73055",
+   "Tool, Fuel Pump Bypass",
+   ""
+  ]
+ ],
+ "pn": [
+  "72450",
+  "72480"
+ ],
+ "category": "Fuel"
+}

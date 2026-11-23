@@ -1,0 +1,61 @@
+{
+ "id": "16-03",
+ "date": "2016-02-12",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2016/TSB Vol 16 No 03 - New GM 6L80 Trans Adapter Kit.pdf",
+ "title": "GM ATF Adapter Kit",
+ "tag": "New",
+ "lead": "MOC has developed a new transmission adapter kit for use on the GM 6L80 transmissions to bypass the internal thermal valve and reduce the service time (Part No. 94916). This kit includes 4 adapters: (1) an adapter to connect to the line pressure port (Part No. 94796); (2) a short 90 degree adapter hose for the tight space around the pressure port (Part No. 94898); (3) an open hose adapter to be inserted into the transmission dipstick tube, for the vehicles that have dipstick tubes (Part No. 95669); and (4) a filler plug to be inserted into the filler plug hole, for vehicles that do not have a dipstick tube (Part No. 94922).",
+ "body": [],
+ "figures": [
+  {
+   "img": "16-03-1.jpg",
+   "caption": "Adapter, ATF Pressure Port, 1/8\" NPT Hose Assy, Pressure Port, 90° ATF (94796, 94898)"
+  },
+  {
+   "img": "16-03-2.jpg",
+   "caption": ""
+  },
+  {
+   "img": "16-03-3.jpg",
+   "caption": "Adapter, ATF Dipstick, Open Hose Adapter, GM Trans Filler Plug (95669, 94922)"
+  },
+  {
+   "img": "16-03-4.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "94796",
+   "Adapter, ATF Pressure Port, 1/8\" NPT Hose",
+   ""
+  ],
+  [
+   "94898",
+   "Assy, Pressure Port, 90° ATF",
+   ""
+  ],
+  [
+   "95669",
+   "Adapter, ATF Dipstick, Open Hose",
+   ""
+  ],
+  [
+   "94922",
+   "Adapter, GM Trans Filler Plug",
+   ""
+  ],
+  [
+   "94916",
+   "GM ATF Adapter Kit",
+   ""
+  ]
+ ],
+ "pn": [
+  "94916",
+  "94796"
+ ],
+ "category": "Transmission"
+}

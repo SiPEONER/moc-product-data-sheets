@@ -1,0 +1,29 @@
+{
+ "id": "18-02",
+ "date": "2017-11-13",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2018/TSB Vol 18 No 02 - Air Coolant Bulletin FA111317.pdf",
+ "title": "Air Coolant Machine",
+ "tag": "New",
+ "lead": "The Air Coolant Machine (Model 95330) was issued as this bulletin. The original flyer is attached as issued.",
+ "body": [],
+ "figures": [],
+ "attachments": [
+  {
+   "img": "18-02-a1.jpg",
+   "caption": "Original attachment, page 1"
+  }
+ ],
+ "parts": [
+  [
+   "95330",
+   "Air Coolant Machine",
+   ""
+  ]
+ ],
+ "pn": [
+  "95330"
+ ],
+ "category": "Cooling"
+}

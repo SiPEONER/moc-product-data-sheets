@@ -1,0 +1,38 @@
+{
+ "id": "14-07",
+ "date": "2014-06-30",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2014/TSB Vol 14 No 07 - 94767 discontinued.pdf",
+ "title": "Adapter Discontinued Replaced with 72232 - ½\" Open Hose",
+ "tag": null,
+ "lead": "Due to customer preference and ease of use, the 94767 adapter is being discontinued and replaced with the ½\" open-hose adapter (Part # 72232) for use with the Ford 90° ATF quick disconnect adapter (Part # 94693). The ½\" open- hose adapter is easier to disconnect after a service, especially in tight areas.",
+ "body": [],
+ "figures": [
+  {
+   "img": "14-07-1.jpg",
+   "caption": "½\" Open Hose Adapter Discontinued Adapter (72232, 94767)"
+  },
+  {
+   "img": "14-07-2.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "72232",
+   "Adapter, 1/2in Open Hose",
+   ""
+  ],
+  [
+   "94693",
+   "Adapter, Ford 90° ATF Quick Disconnect",
+   ""
+  ]
+ ],
+ "pn": [
+  "72232",
+  "94693"
+ ],
+ "category": "Transmission"
+}

@@ -1,0 +1,29 @@
+{
+ "id": "12-21",
+ "date": "2012-07-27",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB Vol 12 No 21 New Clamp Tool.pdf",
+ "title": "Multi-Use Clamp Tool",
+ "tag": "New",
+ "lead": "MOC has developed a new universal tool to clamp various tools and adapters in place where applicable during certain services. This tool can assist a technician to perform a service without the assistance of another individual in certain cases.",
+ "body": [],
+ "figures": [
+  {
+   "img": "12-21-1.jpg",
+   "caption": "Tool, Multi-Use Clamp",
+   "pn": "75010"
+  }
+ ],
+ "parts": [
+  [
+   "75010",
+   "Tool, Multi-Use Clamp",
+   ""
+  ]
+ ],
+ "pn": [
+  "75010"
+ ],
+ "category": "Equipment"
+}

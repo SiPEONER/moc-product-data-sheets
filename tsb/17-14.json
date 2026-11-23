@@ -1,0 +1,46 @@
+{
+ "id": "17-14",
+ "date": "2017-12-07",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2017/TSB Vol 17 No 14 -Liquid Optimizer.pdf",
+ "title": "Chemicals for EDR-3 Machine Optimizer- Liquid GDI Intake Valve Cleaner Diesel EGR System Cleaner",
+ "tag": "New",
+ "lead": "A liquid, non-aerosol form of Optimizer® is now available in 16oz cans to be used with the new EDR-3 Fuel Service Machine. The versatile product is recommended for Induction Cleaning Services on GDI vehicles. GDI Intake Valve Cleaner and Diesel EGR System Cleaner are also available separately in 16oz cans. The quantity and procedure recommended for each service will vary depending on if the vehicle was brought in for preventative maintenance or for drivability issues.",
+ "body": [
+  "Recommended Preventative Maintenance Service Procedure: 2 Can - GDI Induction Service: Start service with 1 can of Optimizer®- Liquid; when depleted, follow up with 1 can of GDI Intake Valve Cleaner (Part No. 04351)",
+  "2 Can - Diesel EGR Service: Perform service using 2 (16oz) cans of EGR System Cleaner (Part No. 04361)",
+  "Recommended Drivability Issue / Severe Carbon Build-Up Procedure: 3 Can - GDI Induction Service: Start service with 1 can of Optimizer®- Liquid; when depleted, follow up with wash down using 2 (16oz) cans of GDI Intake Valve Cleaner (Part No. 04351)",
+  "3 Can - Diesel EGR Service: Perform service using 3 (16oz) cans of EGR System Cleaner (Part No. 04361)",
+  "*Quantity and procedure required for each service will depend upon individual vehicle requirements. Consult your representative or maintenance advisor."
+ ],
+ "figures": [
+  {
+   "img": "17-14-1.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "04351",
+   "GDI Intake Valve Cleaner",
+   ""
+  ],
+  [
+   "04361",
+   "Diesel EGR System Cleaner",
+   ""
+  ],
+  [
+   "16502",
+   "Optimizer Liquid",
+   ""
+  ]
+ ],
+ "pn": [
+  "16502",
+  "04351",
+  "04361"
+ ],
+ "category": "Fuel"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "13-36",
+ "date": "2013-12-31",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 36 - New Fuel Adapter Seal Replacment Kits.pdf",
+ "title": "Fuel Adapter Seal Replacement Kits",
+ "tag": "New",
+ "lead": "New Seal Replacement kits are available for the 3/8\" (Part No. 73052) & 1/2\" (Part No. 73051) Ford Fuel adapters and plugs. Each kit includes the standard adapter O-Rings (2) and Latch Spring (1).",
+ "body": [],
+ "figures": [
+  {
+   "img": "13-36-1.jpg",
+   "caption": "(73052, 73051)"
+  },
+  {
+   "img": "13-36-2.jpg",
+   "caption": ""
+  },
+  {
+   "img": "13-36-3.jpg",
+   "caption": "(Reference Part Nos. 72001 & 72024) (Reference Parts Nos. 72002 & 72025)"
+  }
+ ],
+ "parts": [
+  [
+   "73052",
+   "Seal Replacement Kit, Ford fuel adapters and plugs",
+   ""
+  ],
+  [
+   "73051",
+   "Seal Replacement Kit, 1/2in Ford fuel adapters and plugs",
+   ""
+  ]
+ ],
+ "pn": [
+  "73052",
+  "73051"
+ ],
+ "category": "Fuel"
+}

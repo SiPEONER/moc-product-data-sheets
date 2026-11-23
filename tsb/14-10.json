@@ -1,0 +1,40 @@
+{
+ "id": "14-10",
+ "date": "2014-08-12",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2014/TSB Vol 14 No 10 - Flat Brake Bleeder Adapter (New) - 98010 Discontinued.pdf",
+ "title": "Flat Brake Bleeder Adapter for All Brake Fluid Exchanger Machines",
+ "tag": "New",
+ "lead": "MOC has developed a new Flat Brake Bleeder Adapter. This new adapter provides improved access to the wheel areas that are hard to reach when installing the machine's bleeder lines.",
+ "body": [
+  "The old Brake Bleeder Adapter (Part # 98010) has been discontinued and replaced with this new adapter."
+ ],
+ "figures": [
+  {
+   "img": "14-10-1.jpg",
+   "caption": ""
+  },
+  {
+   "img": "14-10-2.jpg",
+   "caption": "Adapter, Flat Brake Bleeder",
+   "pn": "98317"
+  }
+ ],
+ "parts": [
+  [
+   "98317",
+   "Adapter, Flat Brake Bleeder",
+   ""
+  ],
+  [
+   "98010",
+   "Old Brake Bleeder Adapter",
+   ""
+  ]
+ ],
+ "pn": [
+  "98317"
+ ],
+ "category": "Brake"
+}

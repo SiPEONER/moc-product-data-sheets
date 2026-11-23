@@ -53,6 +53,21 @@ ul.plus li::before { content: "+"; position: absolute; left: 0; font-weight: 900
 .two { display: grid; grid-template-columns: 1fr 1fr; gap: 0.36in; }
 
 .figs { display: flex; gap: 0.24in; justify-content: center; align-items: flex-end; }
+.figs + .figs { margin-top: calc(10pt * var(--s)); }
+/* Long bulletins (several pages in the original): the page grows and print flows onto more pages. */
+.long.page { height: auto; min-height: 11in; overflow: visible; }
+.long .body { flex: none; display: block; }
+.long .body > * + * { margin-top: calc(12pt * var(--s)); }
+.long .figs, .long .fig, .long .cols table, .long .contact, .long .copy p, .long li, .long tr { break-inside: avoid; }
+.long table.fit thead { display: table-header-group; }
+.long .h { break-after: avoid; }
+.long .cols { margin-top: calc(14pt * var(--s)); }
+.long .foot { margin-top: 0.3in; break-inside: avoid; }
+.att { break-before: page; }
+.att figure { display: flex; flex-direction: column; gap: 6pt; }
+.att img { display: block; max-width: 100%; max-height: 9.1in; width: auto; margin: 0 auto; box-shadow: 0 0 0 0.75pt #000000; }
+table.fit { font-size: calc(8pt * var(--s)); }
+table.fit td:first-child { font-weight: 700; }
 .fig { flex: 0 0 auto; min-width: 0; display: flex; flex-direction: column; gap: 5pt; }
 .fig .ph { max-height: var(--fh); display: flex; align-items: flex-end; justify-content: center; }
 .fig img { width: 100%; height: auto; display: block; object-fit: contain; box-shadow: 0 0 0 0.75pt #000000; }
@@ -76,10 +91,11 @@ td:first-child { font-weight: 900; white-space: nowrap; letter-spacing: 0.04em; 
 </style>
 </head>
 <body class="{{ 'screen' if screen else '' }}">
-<div class="page{{ ' hascut' if cut }}" style="--s: {{ scale }}; --fh: {{ fig_h }}in; --nt: {{ name_pt }}pt">
+{% if long %}<style>@page { margin: 0.45in 0 0.5in; } @page :first { margin-top: 0; }</style>{% endif %}
+<div class="page{{ ' hascut' if cut }}{{ ' long' if long }}" style="--s: {{ scale }}; --fh: {{ fig_h }}in; --nt: {{ name_pt }}pt">
   <header class="band">
     <p class="micro cat">{{ t.category }} // Technical Service Bulletin</p>
-    <p class="micro micro-reg meta">{{ t.dept }} // Vol. {{ t.vol }} No. {{ t.no }} // {{ t.date_long }}</p>
+    <p class="micro micro-reg meta">{{ t.dept }} // {{ t.volno }} // {{ t.date_long }}</p>
     <img class="logo" src="{{ logo }}" alt="MOC Products">
     <div class="marks">{% if t.tag %}<p class="tag">{{ t.tag }}</p>{% endif %}{% for n in t.pn %}<p class="stamp">{{ n }}</p>{% endfor %}</div>
     <h1 class="title">{{ t.title }}</h1>
@@ -91,20 +107,20 @@ td:first-child { font-weight: 900; white-space: nowrap; letter-spacing: 0.04em; 
     {% if t.benefits and (t.steps or t.body|length < 2) and not cut %}
     <div class="two">
       <section class="copy">{% set num.n = num.n + 1 %}
-        <h2 class="h">0{{ num.n }} // What's New</h2>
+        <h2 class="h">{{ "%02d"|format(num.n) }} // What's New</h2>
         <p class="lead">{{ t.lead }}</p>
         {% for b in t.body %}<p>{{ b }}</p>{% endfor %}
         {% if t.steps %}<ol class="steps">{% for s in t.steps %}<li>{{ s }}</li>{% endfor %}</ol>{% endif %}
       </section>
       <section class="copy">{% set num.n = num.n + 1 %}
-        <h2 class="h">0{{ num.n }} // Key Benefits</h2>
+        <h2 class="h">{{ "%02d"|format(num.n) }} // Key Benefits</h2>
         <ul class="plus">{% for b in t.benefits %}<li>{{ b }}</li>{% endfor %}</ul>
         {% if t.note %}<p class="note">{{ t.note }}</p>{% endif %}
       </section>
     </div>
     {% else %}
     <section class="copy intro">{% set num.n = num.n + 1 %}
-      <h2 class="h">0{{ num.n }} // What's New</h2>
+      <h2 class="h">{{ "%02d"|format(num.n) }} // What's New</h2>
       <p class="lead">{{ t.lead }}</p>
       {% if t.steps %}<ol class="steps">{% for s in t.steps %}<li>{{ s }}</li>{% endfor %}</ol>{% endif %}
       {% for b in t.body %}<p>{{ b }}</p>{% endfor %}
@@ -113,7 +129,7 @@ td:first-child { font-weight: 900; white-space: nowrap; letter-spacing: 0.04em; 
     </section>
     {% if t.benefits %}
     <section class="copy">{% set num.n = num.n + 1 %}
-      <h2 class="h">0{{ num.n }} // Key Benefits</h2>
+      <h2 class="h">{{ "%02d"|format(num.n) }} // Key Benefits</h2>
       <ul class="plus">{% for b in t.benefits %}<li>{{ b }}</li>{% endfor %}</ul>
     </section>
     {% endif %}
@@ -121,28 +137,41 @@ td:first-child { font-weight: 900; white-space: nowrap; letter-spacing: 0.04em; 
 
     {% if figs %}
     <section>{% set num.n = num.n + 1 %}
-      <h2 class="h">0{{ num.n }} // {{ "Image" if figs|length == 1 else "Images" }}</h2>
-      <div class="figs">
-        {% for f in figs %}
+      <h2 class="h">{{ "%02d"|format(num.n) }} // {{ "Image" if figs|length == 1 else "Images" }}</h2>
+      {% for row in fig_rows %}<div class="figs">
+        {% for f in row %}
         <figure class="fig" style="width: calc(var(--fh) * {{ '%.3f'|format(f.ar) }}); max-width: calc({{ f.basis }}% - 0.12in)"><div class="ph"><img src="{{ f.src }}" alt="{{ f.caption }}"></div>
           <figcaption>{% if f.pn %}<b>{{ f.pn }}</b>{% endif %}{{ f.caption }}</figcaption></figure>
         {% endfor %}
-      </div>
+      </div>{% endfor %}
     </section>
     {% endif %}
 
-    <div class="cols">
-      <section>{% set num.n = num.n + 1 %}
-        <h2 class="h">0{{ num.n }} // Part Numbers</h2>
+    {% if t.table %}
+    <section>{% set num.n = num.n + 1 %}
+      <h2 class="h">{{ "%02d"|format(num.n) }} // {{ t.table.title }}</h2>
+      <table class="fit"><thead><tr>{% for h in t.table.head %}<th>{{ h }}</th>{% endfor %}</tr></thead>
+        <tbody>{% for r in t.table.rows %}<tr>{% for c in r %}<td>{{ c }}</td>{% endfor %}</tr>{% endfor %}</tbody></table>
+    </section>
+    {% endif %}
+
+    <div class="cols"{% if not t.parts %} style="grid-template-columns: 1fr"{% endif %}>
+      {% if t.parts %}<section>{% set num.n = num.n + 1 %}
+        <h2 class="h">{{ "%02d"|format(num.n) }} // Part Numbers</h2>
         <table><thead><tr><th>Part No.</th><th>Description</th><th>Notes</th></tr></thead>
-          <tbody>{% for p, d, n in t.parts %}<tr><td>{{ p }}</td><td>{{ d }}</td><td>{{ n }}</td></tr>{% endfor %}</tbody></table>
-      </section>
+          <tbody>{% for p, d, n in t.parts %}<tr><td>{{ p }}</td><td>{{ d or "—" }}</td><td>{{ n }}</td></tr>{% endfor %}</tbody></table>
+      </section>{% endif %}
       <section class="contact">{% set num.n = num.n + 1 %}
-        <h2 class="h">0{{ num.n }} // Contact</h2>
+        <h2 class="h">{{ "%02d"|format(num.n) }} // Contact</h2>
         <p>For more information, contact the {{ t.dept }} Department.</p>
         <p class="phone">866.244.6621</p>
       </section>
     </div>
+    {% for a in atts %}
+    <section class="att">{% if loop.first %}{% set num.n = num.n + 1 %}<h2 class="h">{{ "%02d"|format(num.n) }} // Original attachments</h2>{% endif %}
+      <figure><img src="{{ a.src }}" alt="{{ a.caption }}"><figcaption class="micro micro-reg">{{ a.caption }} (as issued; not redrawn)</figcaption></figure>
+    </section>
+    {% endfor %}
   </main>
 
   <footer class="foot">

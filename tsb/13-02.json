@@ -1,0 +1,64 @@
+{
+ "id": "13-02",
+ "date": "2013-02-18",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 02 New Dipstick Adapter Upgrade Kit.pdf",
+ "title": "Dipstick Adapter Upgrade Kit",
+ "tag": "New",
+ "lead": "MOC has created an upgrade kit for the Dipstick Service Adapter (Part No. 94777). The Kit (Part No. 94845), which includes 2 new dipstick service hoses in 1/4\" and 5/16\" that are connected by a quick disconnect fitting, and the Female Quick Disconnect Coupler to add to the existing Dipstick Service Adapter as shown in the pictures below, is now available for purchase.",
+ "body": [
+  "NOTE: You will also need to request a Software update for the Smart Tech™ ATF Machine from the Machine and Equipment Department.",
+  "TO UPDATE YOUR EXISTING DIPSTICK SERVICE ADAPTER:"
+ ],
+ "steps": [
+  "Remove the brass fitting from the 3-Way manifold.",
+  "Apply Teflon tape to the Female Quick Disconnect Coupler (Part No. 94561) and connect it to the 3-Way manifold in the same location you removed the original brass fitting.",
+  "The adapter is now ready to be used. When performing a service, select the Dipstick Service Hose you want to use, 94839 or 94841, and connect it to the Female Coupler."
+ ],
+ "figures": [
+  {
+   "img": "13-02-1.jpg",
+   "caption": "(94839) (94841) (94561) Kit, Dipstick Adapter Upgrade",
+   "pn": "94845"
+  },
+  {
+   "img": "13-02-2.jpg",
+   "caption": ""
+  },
+  {
+   "img": "13-02-3.jpg",
+   "caption": ""
+  },
+  {
+   "img": "13-02-4.jpg",
+   "caption": "Female Quick Disconnect Coupler"
+  },
+  {
+   "img": "13-02-5.jpg",
+   "caption": "Manifold Brass Fitting"
+  }
+ ],
+ "parts": [
+  [
+   "94845",
+   "(94839) (94841) (94561) Kit, Dipstick Adapter Upgrade",
+   ""
+  ],
+  [
+   "94777",
+   "Dipstick Service Adapter",
+   ""
+  ],
+  [
+   "94561",
+   "Female Quick Disconnect Coupler",
+   ""
+  ]
+ ],
+ "pn": [
+  "94777",
+  "94845"
+ ],
+ "category": "Transmission"
+}

@@ -1,0 +1,21 @@
+{
+ "id": "12-10",
+ "date": "2012-04-26",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB Vol 12 No 10 (supercedes TSB Vol 12 No 9) Important Optimizer  Update.pdf",
+ "title": "Optimizer Service Procedure Update",
+ "tag": "Notice",
+ "lead": "This bulletin supersedes Vol. 12 No. 9: further in-house testing found that the catalytic converter stays within normal operating temperature during an Optimizer service at 2000 RPM, as originally instructed. Disregard Vol. 12 No. 9.",
+ "body": [
+  "Perform all Optimizer services per the directions on the 16501 label, and do not exceed 2000 RPM.",
+  "The Optimizer \"Do-It-Right\" documents have been revised to match. MOC highly recommends giving them to every account that purchases Optimizer."
+ ],
+ "figures": [],
+ "parts": [],
+ "pn": [],
+ "category": "Fuel",
+ "supersedes": [
+  "Vol. 12 No. 09"
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "id": "18-14",
+ "date": "2018-09-26",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2018/TSB Vol 18 No 14 - New Turbo Mister Demo Kit.pdf",
+ "title": "Demo Kit for the Universal Turbo Mister Adapter",
+ "tag": "New",
+ "lead": "MOC's new demo kit allows you to visually see the complete atomization/mist of the Universal Turbo Misting adapter (under vacuum) while used in connection with the EDR-3 Fuel Service Machine or Module. This new kit is Part No. 71381. Demonstration procedure instructions are included with each kit.",
+ "body": [],
+ "figures": [
+  {
+   "img": "18-14-1.jpg",
+   "caption": "Demo Kit, Misting Adapter",
+   "pn": "71381"
+  },
+  {
+   "img": "18-14-2.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "71381",
+   "Demo Kit, Misting Adapter",
+   ""
+  ]
+ ],
+ "pn": [
+  "71381"
+ ],
+ "category": "Fuel"
+}

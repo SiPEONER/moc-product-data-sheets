@@ -1,0 +1,29 @@
+{
+ "id": "19-06",
+ "date": "2019-12-30",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2019/TSB Vol. 19 - No. 06 EDR-3 Check Valves.pdf",
+ "title": "New Check Valve Updates For The EDR-3 Machine Kit",
+ "tag": null,
+ "lead": "MOC has improved your fuel system cleaning services by introducing two (2) new check valves for the EDR-3 machines. The first of the new check valves prevents the chemicals from getting to the air regulator. The second new check valve prevents fuel from getting into the tank when checking the vehicle fuel pressure. A kit is available including the two new check valves and necessary fittings to add them to the machine. The kit is Part No. 73471. Assembly instructions are included with each kit.",
+ "body": [],
+ "figures": [
+  {
+   "img": "19-06-1.jpg",
+   "caption": "KIT, UPGRADE, CHECK VALVE, EDR-3",
+   "pn": "73471"
+  }
+ ],
+ "parts": [
+  [
+   "73471",
+   "KIT, UPGRADE, CHECK VALVE, EDR-3",
+   ""
+  ]
+ ],
+ "pn": [
+  "73471"
+ ],
+ "category": "Fuel"
+}

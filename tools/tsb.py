@@ -34,6 +34,7 @@ def prepare(t):
     t = dict(t)
     vol, no = t["id"].split("-")
     d = datetime.date.fromisoformat(t["date"])
+    t.setdefault("volno", f"Vol. {vol} No. {no}")
     t.update(vol=vol, no=no, docno=f"MOC-TSB-{t['id']}", year=d.year,
              date_long=f"{d.strftime('%B')} {d.day}, {d.year}", date_short=f"{d.strftime('%b')} {d.day}, {d.year}")
     t["pdf"] = f"{t['docno']}_{slugify(t['title'])}_REV-{t['rev']}.pdf"
@@ -54,10 +55,21 @@ def figures(t, inline):
             cut = item
         else:
             figs.append(item)
-    total = sum(f["ar"] for f in figs) or 1
+    # Rows of at most three figures, so wide sets do not shrink to thumbnails.
+    rows, row = [], []
     for f in figs:
-        f["basis"] = round(100 * f["ar"] / total, 1)
-    return figs, cut
+        if row and (len(row) == 3 or sum(x["ar"] for x in row) + f["ar"] > 4.2):
+            rows.append(row)
+            row = []
+        row.append(f)
+    if row:
+        rows.append(row)
+    for row in rows:
+        total = sum(f["ar"] for f in row) or 1
+        for f in row:
+            f["basis"] = round(100 * f["ar"] / total, 1)
+    atts = [dict(a, src=build.data_uri(str((SRC / "img" / a["img"]).relative_to(ROOT))) if inline else f"img/{a['img']}") for a in t.get("attachments", [])]
+    return figs, cut, rows, atts
 
 
 def render_pdfs(env, bulletins, only):
@@ -74,32 +86,30 @@ def render_pdfs(env, bulletins, only):
         for t in bulletins:
             if only and t["id"] not in only:
                 continue
-            figs, cut = figures(t, True)
+            figs, cut, rows, atts = figures(t, True)
             name_pt = 34 if len(t["title"]) <= 26 else 30
-            fit = None
-            # Fit to one page: shrink the photo row first, then the running text.
-            for scale in (1, 0.95, 0.9, 0.86):
-                for fig_h in (3.2, 3.0, 2.8, 2.6, 2.4, 2.2, 2.0, 1.8, 1.6):
-                    html = tmp / f"{t['id']}.html"
-                    html.write_text(tpl.render(t=t, figs=figs, cut=cut, fonts=fonts, logo=logo, scale=scale, fig_h=fig_h, name_pt=name_pt))
-                    page.goto(html.as_uri())
-                    page.wait_for_load_state("networkidle")
-                    page.evaluate("document.fonts.ready")
-                    over = page.evaluate("(() => { const p = document.querySelector('.page').getBoundingClientRect(), f = document.querySelector('.foot').getBoundingClientRect(); return f.bottom - p.bottom; })()")
-                    if over <= 0:
-                        fit = (scale, fig_h)
-                        break
-                if fit:
-                    break
+            # Fit to one page: shrink the photo rows first, then the running text.
+            # A bulletin that still does not fit (a long original) flows onto more pages.
+            def render(scale, fig_h, long):
+                html = tmp / f"{t['id']}.html"
+                html.write_text(tpl.render(t=t, figs=figs, fig_rows=rows, atts=atts, cut=cut, fonts=fonts, logo=logo, scale=scale, fig_h=fig_h, name_pt=name_pt, long=long))
+                page.goto(html.as_uri())
+                page.wait_for_load_state("networkidle")
+                page.evaluate("document.fonts.ready")
+                return page.evaluate("(() => { const p = document.querySelector('.page').getBoundingClientRect(), f = document.querySelector('.foot').getBoundingClientRect(); return f.bottom - p.bottom; })()")
+            heights = (3.2, 3.0, 2.8, 2.6, 2.4, 2.2, 2.0, 1.8, 1.6, 1.4) if len(rows) < 2 else (2.4, 2.2, 2.0, 1.8, 1.6, 1.45, 1.3)
+            fit = None if atts or len(t.get("table", {}).get("rows", [])) > 12 else next(((s, h, False) for s in (1, 0.95, 0.9, 0.86) for h in heights if render(s, h, False) <= 0), None)
             if not fit:
-                sys.exit(f"{t['id']} does not fit on one page")
+                fit = (1, 2.6, True)
+                render(*fit)
             for old in (OUT / "pdf").glob(f"{t['docno']}_*.pdf"):
                 old.unlink()
             page.pdf(path=str(OUT / "pdf" / t["pdf"]), width="8.5in", height="11in", print_background=True)
             page.screenshot(path=str(tmp / f"{t['id']}.png"), full_page=False)
             im = Image.open(tmp / f"{t['id']}.png").convert("RGB")
             im.resize((540, round(540 * im.height / im.width)), Image.LANCZOS).save(OUT / "previews" / f"{t['id']}.jpg", quality=86)
-            print(f"{t['id']}: scale {fit[0]}, photos {fit[1]} in, {t['pdf']}")
+            pages = len(re.findall(rb"/Type\s*/Page[^s]", (OUT / "pdf" / t["pdf"]).read_bytes()))
+            print(f"{t['id']}: scale {fit[0]}, photos {fit[1]} in, {pages} page{'s' if pages > 1 else ''}, {t['pdf']}")
         browser.close()
 
 
@@ -110,7 +120,7 @@ PAGE = """<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name=
 <link rel="icon" href="../icon.svg" type="image/svg+xml"><link rel="stylesheet" href="tsb.css"></head><body>
 <div class="page"><div class="sheet">
 {{ masthead }}
-<main><header class="hero in"><p class="micro kicker">Doc no. {{ t.docno }} // Vol. {{ t.vol }} No. {{ t.no }} // {{ t.date_short }} // {{ t.category }}</p>
+<main><header class="hero in"><p class="micro kicker">Doc no. {{ t.docno }} // {{ t.volno }} // {{ t.date_short }} // {{ t.category }}</p>
 <h1 class="title">{{ t.title }}</h1>
 <div class="product">{% if t.tag %}<span class="stamp tagw">{{ t.tag }}</span>{% endif %}{% for n in t.pn %}<span class="stamp">{{ n }}</span>{% endfor %}</div>
 <p class="lead">{{ t.lead }}</p>
@@ -121,7 +131,9 @@ PAGE = """<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name=
 <h2{% if t.benefits %} class="gap"{% endif %}>Contact</h2><p>For more information, contact the {{ t.dept }} Department at <a href="tel:+18662446621"><b>866.244.6621</b></a>.</p></div>
 </div>
 <div class="figs in">{% for f in figs + ([cut] if cut else []) %}<figure><img src="{{ f.src }}" alt="{{ f.caption }}" loading="lazy"><figcaption>{% if f.pn %}<b>{{ f.pn }}</b> {% endif %}{{ f.caption }}</figcaption></figure>{% endfor %}</div>
-<div class="in parts"><h2>Part numbers</h2><table><thead><tr><th>Part No.</th><th>Description</th><th>Notes</th></tr></thead><tbody>{% for p, d, n in t.parts %}<tr><td>{{ p }}</td><td>{{ d }}</td><td>{{ n }}</td></tr>{% endfor %}</tbody></table></div>
+{% if t.table %}<div class="in parts"><h2>{{ t.table.title }}</h2><table><thead><tr>{% for h in t.table.head %}<th>{{ h }}</th>{% endfor %}</tr></thead><tbody>{% for r in t.table.rows %}<tr>{% for c in r %}<td>{{ c }}</td>{% endfor %}</tr>{% endfor %}</tbody></table></div>{% endif %}
+{% if t.parts %}<div class="in parts"><h2>Part numbers</h2><table><thead><tr><th>Part No.</th><th>Description</th><th>Notes</th></tr></thead><tbody>{% for p, d, n in t.parts %}<tr><td>{{ p }}</td><td>{{ d or "—" }}</td><td>{{ n }}</td></tr>{% endfor %}</tbody></table></div>{% endif %}
+{% if atts %}<div class="in parts"><h2>Original attachments</h2><p>As issued with the bulletin; not redrawn.</p>{% for a in atts %}<figure class="attw"><img src="{{ a.src }}" alt="{{ a.caption }}" loading="lazy"><figcaption>{{ a.caption }}</figcaption></figure>{% endfor %}</div>{% endif %}
 </main>
 {{ footer }}
 </div></div></body></html>"""
@@ -134,7 +146,7 @@ INDEX = """<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 <div class="page"><div class="sheet">
 {{ masthead }}
 <main><header class="hero in"><p class="micro kicker">Doc no. MOC-TSB // Technical service bulletins // {{ bulletins|length }} bulletins</p><h1 class="title">Technical Service Bulletins</h1>
-<p class="lead">New adapters, tools and machine upgrades from the MOC Machine &amp; Equipment Department, newest first. Each bulletin is one page with the part numbers to order.</p>
+<p class="lead">New adapters, tools and machine upgrades from the MOC Machine &amp; Equipment Department, newest first. Each bulletin lists the part numbers to order; 2011 to 2021 bulletins keep their original attachments.</p>
 <form class="search" role="search" onsubmit="return false"><label class="sr-only" for="q">Search bulletins</label><input class="field" id="q" type="search" placeholder="Search by part number, vehicle or tool" autocomplete="off"></form></header>
 {% for year, items in years %}<section class="group" data-year><div class="sec-head in"><h2 class="sec-title">{{ year }}</h2><span class="micro">{{ items|length }} {{ "bulletin" if items|length == 1 else "bulletins" }}</span></div>
 <div class="cards">{% for t in items %}<a class="card" href="{{ t.id }}" data-search="{{ (t.title ~ ' ' ~ t.category ~ ' ' ~ t.docno ~ ' ' ~ (t.parts|map('first')|join(' ')) ~ ' ' ~ (t.supersedes or [])|join(' ') ~ ' ' ~ t.lead)|lower }}">
@@ -168,6 +180,7 @@ ul.plus li::before { content: "+"; position: absolute; left: 0; font-weight: 900
 .figs img { display: block; width: auto; max-width: 100%; height: auto; max-height: 420px; }
 .figs figcaption { border-top: 2px solid #000000; margin-top: 10px; padding-top: 8px; font-size: 14px; }
 .parts { padding-top: 28px; padding-bottom: 36px; }
+.attw { margin: 20px 0 0; max-width: 900px; } .attw img { display: block; width: 100%; height: auto; outline: 1px solid #000000; } .attw figcaption { font-size: 13px; margin-top: 6px; }
 .parts h2 { font-weight: 900; font-size: 14px; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 10px; }
 .parts table { width: 100%; border-collapse: collapse; font-size: 15px; }
 .parts th { text-align: left; font-size: 11px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; border-bottom: 2px solid #000000; padding: 0 12px 8px 0; }
@@ -192,8 +205,8 @@ def write_site(env, bulletins):
         shutil.copy2(f, OUT / "img" / f.name)
     page = env.from_string(PAGE)
     for t in bulletins:
-        figs, cut = figures(t, False)
-        (OUT / f"{t['id']}.html").write_text(page.render(t=t, figs=figs, cut=cut, base=BASE, indexable=INDEXABLE,
+        figs, cut, rows, atts = figures(t, False)
+        (OUT / f"{t['id']}.html").write_text(page.render(t=t, figs=figs, atts=atts, cut=cut, base=BASE, indexable=INDEXABLE,
                                                           masthead=Markup(MAST.format(cur="")), footer=Markup(FOOT)))
     years = {}
     for t in sorted(bulletins, key=lambda t: t["id"], reverse=True):

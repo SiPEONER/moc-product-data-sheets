@@ -1,0 +1,33 @@
+{
+ "id": "19-03",
+ "date": "2019-11-14",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2019/TSB - Vol. 19 No- 03 Purple Coolant Tank.pdf",
+ "title": "Coolant Tank for New Fluid",
+ "tag": "New",
+ "lead": "MOC has a new purple tank for new coolant fluid, Part No. 94387. This new tank is recommended for Chrysler OAT & HOAT purple coolant. The purple tank has several benefits including to help avoid cross contamination, and the purple color can help identify the type of fluid that is in the tank. This tank is also compatible with the current transmission fluid exchanger machines.",
+ "body": [],
+ "figures": [
+  {
+   "img": "19-03-1.jpg",
+   "caption": "TANK ASSEMBLY, NEW FLUID, PURPLE (V2)",
+   "pn": "94387"
+  },
+  {
+   "img": "19-03-2.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "94387",
+   "TANK ASSEMBLY, NEW FLUID, PURPLE (V2)",
+   ""
+  ]
+ ],
+ "pn": [
+  "94387"
+ ],
+ "category": "Cooling"
+}

@@ -1,0 +1,61 @@
+{
+ "id": "11-20",
+ "date": "2012-01-01",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2011/TSB Vol 11 No 20. 1_Fluid Filling Station_2-1-12.pdf",
+ "title": "Smart Tech Fluid Filling Station",
+ "tag": "New",
+ "lead": "MOC has a new machine available for automatically refilling spray canisters with liquid and compressed air. The spray canister is 32oz and available with numerous different nozzles and spray patterns.",
+ "body": [
+  "This machine allows the user to purchase products such as Brake Wash and Parts Wash in bulk, 5 gallon or 55 gallon, and use the Fluid Filling Station to fill the reusable spray canister as needed.",
+  "See the attached Ad sheet for more details and images of the machine and spray canister."
+ ],
+ "figures": [],
+ "parts": [
+  [
+   "74367",
+   "Filling Station, 55 Gal, 32 Oz, Smart Tech",
+   ""
+  ],
+  [
+   "74368",
+   "Filling Station w/ table, 55 Gal, 32 Oz, Smart Tech",
+   ""
+  ],
+  [
+   "74370",
+   "Spray Canister, 32 Oz, Smart Tech",
+   ""
+  ],
+  [
+   "74366",
+   "Filler Cap, 32 Oz, Smart Tech",
+   ""
+  ],
+  [
+   "74373",
+   "Hose, 5 Gal, Smart Tech",
+   ""
+  ],
+  [
+   "74374",
+   "Hose, 55 Gal, Smart Tech",
+   ""
+  ],
+  [
+   "74369",
+   "Repair Kit, 32oz, Smart Tech",
+   ""
+  ],
+  [
+   "74371",
+   "Teflon Washer, 32oz, Smart Tech",
+   ""
+  ]
+ ],
+ "pn": [
+  "74367"
+ ],
+ "category": "Equipment"
+}

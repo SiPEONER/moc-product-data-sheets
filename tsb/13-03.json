@@ -1,0 +1,37 @@
+{
+ "id": "13-03",
+ "date": "2013-03-11",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 03 New Optimizer tool (15in L).pdf",
+ "title": "15in Optimizer Tool",
+ "tag": "New",
+ "lead": "MOC has developed a new universal Optimizer™ tool to accommodate the use of Optimizer™ on various models.",
+ "body": [
+  "This tool is known to accommodate the use of Optimizer™ on 5.4L Ford F-150s and Expeditions. This new tool enables the tech to use Optimizer™ on the Throttle Body without removing the air filter box.",
+  "The MOC Optimizer™ product (Part No. 16501) is sold separately."
+ ],
+ "figures": [
+  {
+   "img": "13-03-1.jpg",
+   "caption": "Tool, Foaming Intake, 15\" L",
+   "pn": "75015"
+  }
+ ],
+ "parts": [
+  [
+   "75015",
+   "Tool, Foaming Intake, 15\" L",
+   ""
+  ],
+  [
+   "16501",
+   "Optimizer",
+   ""
+  ]
+ ],
+ "pn": [
+  "75015"
+ ],
+ "category": "Fuel"
+}

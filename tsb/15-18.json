@@ -1,0 +1,50 @@
+{
+ "id": "15-18",
+ "date": "2015-10-23",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2015/TSB Vol 15 No 18 - Smart tech Engine Flush bulletin.pdf",
+ "title": "Smart Tech Engine Flush Machine",
+ "tag": "New",
+ "lead": "MOC has released the Smart Tech® Engine Oil Flush Machine.",
+ "body": [
+  "The following configurations of this machine are now available.",
+  "A Smart Tech® Engine Flush upgrade kit is also available. This kit will upgrade an existing Engine Flush machine to the new Smart Tech® Engine Flush machine."
+ ],
+ "benefits": [
+  "The Smart Tech® Engine flush machine utilizes a new user friendly interface.",
+  "Available Languages: English and Spanish."
+ ],
+ "figures": [
+  {
+   "img": "15-18-1.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "96560",
+   "Smart Tech® Engine Oil Flush Machine",
+   ""
+  ],
+  [
+   "96570",
+   "Smart Tech® Engine Oil Flush Machine, South America",
+   ""
+  ],
+  [
+   "96580",
+   "Smart Tech® Engine Oil Flush Machine, 220V",
+   ""
+  ],
+  [
+   "96561",
+   "Smart Tech® Engine Flush upgrade kit.",
+   ""
+  ]
+ ],
+ "pn": [
+  "96560"
+ ],
+ "category": "Engine"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "17-04",
+ "date": "2017-06-26",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2017/TSB Vol 17 No 04 - Smart Tech II Firmware Update.pdf",
+ "title": "Firmware Update for Smart Tech II ATF Machines",
+ "tag": "New",
+ "lead": "MOC has developed a new firmware revision for the Smart Tech® II ATF Machines. The new firmware allows the user to \"Continue Service\" when the sensor movement alert is triggered and the user sees that nothing is wrong with the sensor. The new firmware also has a Delayed Start feature which can be used when transmission cleaner is added to the transmission before the service. Choosing \"Start Delay\" will automatically start the flush service 5 minutes after pressing the button, allowing the cleaning chemical to cycle through the transmission before flushing.",
+ "body": [],
+ "figures": [
+  {
+   "img": "17-04-1.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [],
+ "pn": [],
+ "category": "Transmission"
+}

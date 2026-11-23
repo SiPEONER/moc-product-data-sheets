@@ -1,0 +1,31 @@
+{
+ "id": "14-12",
+ "date": "2014-09-11",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2014/TSB Vol 14 No 12 - Ford Brake Adapter Longer Tabs.pdf",
+ "title": "Ford Brake Adapter",
+ "tag": "New",
+ "lead": "MOC has developed a new brake adapter for use on various Ford models. This new adapter was created for the brake reservoirs that have thicker tabs where the cap is connected.",
+ "body": [
+  "This new adapter (Part # 98468), is known to fit the 2012 Ford Explorer."
+ ],
+ "figures": [
+  {
+   "img": "14-12-1.jpg",
+   "caption": "Adapter, Brake, Ford Long 3 Tab",
+   "pn": "98468"
+  }
+ ],
+ "parts": [
+  [
+   "98468",
+   "Adapter, Brake, Ford Long 3 Tab",
+   ""
+  ]
+ ],
+ "pn": [
+  "98468"
+ ],
+ "category": "Brake"
+}

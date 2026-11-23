@@ -1,0 +1,102 @@
+{
+ "id": "15-15",
+ "date": "2015-08-10",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2015/TSB Vol 15 No 15 - Quick Disconnect Fuel Adapters.pdf",
+ "title": "Quick Disconnect Fuel Adapters 5/16\" & 3/8\" with Replaceable O-rings",
+ "tag": "New",
+ "lead": "MOC has created new quick disconnect adapters for fuel rail services on various vehicles. These new adapters have metal bodies, external spring clips, and accessible O-ring glands to allow the user to replace the O-ring if necessary. Replacement O-ring packs for both adapter sizes are also available.",
+ "body": [
+  "Replacement parts are available for these adapters (see the part numbers below)."
+ ],
+ "steps": [
+  "To remove the current O-ring, use a pick-style tool (Fig. 1) and gently insert it behind the O-ring to pull it out of the O-ring gland (Fig. 2). Be careful not to scratch the exposed surfaces of the adapter interior.",
+  "Place the new O-ring (MOC-approved O-rings only) into the adapter horizontally, on top of the angled surface above the O-ring gland (Fig. 3). With a small screwdriver (Fig. 4), gently push the O-ring in until one edge catches under the lip of the gland, then push it into the gland until it is held in place (Fig. 5). Avoid scratching the interior surfaces.",
+  "Push the opposite side of the O-ring down until it is caught by the edge of the gland (Fig. 6), then work the rest of the O-ring into the gland the same way until it is firmly seated.",
+  "Insert the matching male adapter to verify the O-ring is seated properly before starting a service."
+ ],
+ "figures": [
+  {
+   "img": "15-15-1.jpg",
+   "caption": "3/8\" Female QD (73048), 5/16\" Female QD (73060), 5/16\" Female 90° QD (73059)"
+  },
+  {
+   "img": "15-15-2.jpg",
+   "caption": "Fig. 1"
+  },
+  {
+   "img": "15-15-3.jpg",
+   "caption": "Fig. 2"
+  },
+  {
+   "img": "15-15-4.jpg",
+   "caption": "Fig. 3"
+  },
+  {
+   "img": "15-15-5.jpg",
+   "caption": "Fig. 4"
+  },
+  {
+   "img": "15-15-6.jpg",
+   "caption": "Fig. 5"
+  },
+  {
+   "img": "15-15-7.jpg",
+   "caption": "Fig. 6"
+  }
+ ],
+ "parts": [
+  [
+   "73048",
+   "Adapter, Fuel, 3/8\" Female QD",
+   ""
+  ],
+  [
+   "73060",
+   "Adapter, Fuel, 5/16\" Female QD",
+   ""
+  ],
+  [
+   "73059",
+   "Adapter, Fuel, 5/16\" Female 90° QD",
+   ""
+  ],
+  [
+   "94736",
+   "Spring Clip",
+   "3/8\" QD adapter"
+  ],
+  [
+   "73058",
+   "O-ring (1 pc)",
+   "3/8\" QD adapter"
+  ],
+  [
+   "73062",
+   "O-ring (25 pk)",
+   "3/8\" QD adapter"
+  ],
+  [
+   "73056",
+   "Spring Clip",
+   "5/16\" QD adapter"
+  ],
+  [
+   "73057",
+   "O-ring (1 pc)",
+   "5/16\" QD adapter"
+  ],
+  [
+   "73061",
+   "O-ring (25 pk)",
+   "5/16\" QD adapter"
+  ]
+ ],
+ "pn": [
+  "73048",
+  "73060",
+  "73059"
+ ],
+ "category": "Fuel"
+}

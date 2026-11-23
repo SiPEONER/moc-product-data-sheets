@@ -1,0 +1,39 @@
+{
+ "id": "15-01",
+ "date": "2015-01-20",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2015/TSB Vol 15 No 01 - New Filter for Tank manifolds.pdf",
+ "title": "Filter for the New Fluid Pick-up Tubes Used on all ATF and Coolant Machines",
+ "tag": "New",
+ "lead": "MOC has created a new filter (Part No. 98233) for use in all ATF and Coolant Machines. This filter will replace the old filter (Part No. 94263), which has been discontinued. The new filter is installed inside the manifold, under the quick disconnect coupler.",
+ "body": [],
+ "figures": [
+  {
+   "img": "15-01-1.jpg",
+   "caption": "Coupler O-ring Manifold Pick-up Tube Screen Filter Kit",
+   "pn": "98233"
+  },
+  {
+   "img": "15-01-2.jpg",
+   "caption": "Discontinued"
+  }
+ ],
+ "parts": [
+  [
+   "98233",
+   "Coupler O-ring Manifold Pick-up Tube Screen Filter Kit",
+   ""
+  ],
+  [
+   "94263",
+   "Old filter",
+   ""
+  ]
+ ],
+ "pn": [
+  "98233",
+  "94263"
+ ],
+ "category": "Cooling"
+}

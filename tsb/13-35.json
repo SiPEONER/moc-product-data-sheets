@@ -1,0 +1,41 @@
+{
+ "id": "13-35",
+ "date": "2013-12-31",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 35 - Transmission Adapter Kit Updated.pdf",
+ "title": "Hose Assembly for Standard ATF Adapter Kit",
+ "tag": "New",
+ "lead": "MOC has updated the Standard Transmission Adapter Kit (Part No. 94505) by adding the 90 Degree Intermediate Hose Assembly.",
+ "body": [
+  "This hose is required when using the Ford adapter (Part No. 94786). It is also useful to connect transmission adapters in tight spaces where a straight connection will not fit."
+ ],
+ "figures": [
+  {
+   "img": "13-35-1.jpg",
+   "caption": "Assembly, Hose, 90 Deg. Intermediate",
+   "pn": "94855"
+  }
+ ],
+ "parts": [
+  [
+   "94855",
+   "Assembly, Hose, 90 Deg. Intermediate",
+   ""
+  ],
+  [
+   "94505",
+   "Standard Transmission Adapter Kit",
+   ""
+  ],
+  [
+   "94786",
+   "Ford adapter",
+   ""
+  ]
+ ],
+ "pn": [
+  "94505"
+ ],
+ "category": "Transmission"
+}

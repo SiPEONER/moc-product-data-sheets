@@ -1,0 +1,40 @@
+{
+ "id": "13-37",
+ "date": "2013-12-31",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 37 - Replacment Clips Available.pdf",
+ "title": "Quick Disconnect Replacement Clips Available",
+ "tag": "New",
+ "lead": "Replacement clips are now available for the 1/4\" Quick Disconnect Fuel adapter (Part No. 72034). These Quick Disconnect Replacement Clips (Part No. 73053) are available in packs of 5.",
+ "body": [],
+ "figures": [
+  {
+   "img": "13-37-1.jpg",
+   "caption": "1/4\" Clip, Hose Retainer (5pk)",
+   "pn": "73053"
+  },
+  {
+   "img": "13-37-2.jpg",
+   "caption": "1/4\" Quick Disconnect Fuel Adapter (Reference)",
+   "pn": "72034"
+  }
+ ],
+ "parts": [
+  [
+   "73053",
+   "1/4\" Clip, Hose Retainer (5pk)",
+   ""
+  ],
+  [
+   "72034",
+   "1/4\" Quick Disconnect Fuel Adapter (Reference)",
+   ""
+  ]
+ ],
+ "pn": [
+  "72034",
+  "73053"
+ ],
+ "category": "Fuel"
+}

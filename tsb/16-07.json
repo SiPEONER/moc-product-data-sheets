@@ -1,0 +1,40 @@
+{
+ "id": "16-07",
+ "date": "2016-05-04",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2016/TSB Vol 16 No 07 - Arctic Blast R134 Straight Tool Discontinued.pdf",
+ "title": "Straight R-134 Arctic Blast Injector Tool",
+ "tag": "Discontinued",
+ "lead": "The MOC Machine and Equipment Department is discontinuing the straight R-134 Arctic Blast Injector Tool (Part No. 76020). Only the 90-degree R-134 Arctic Blast Injector Tool (Part No. 76008) will remain available, given that it is more versatile and convenient for tight spaces.",
+ "body": [],
+ "figures": [
+  {
+   "img": "16-07-1.jpg",
+   "caption": "Tool, Arctic Blast Injector",
+   "pn": "76008"
+  },
+  {
+   "img": "16-07-2.jpg",
+   "caption": "DISCONTINUED Tool, Arctic Blast Injector (Straight)",
+   "pn": "76020"
+  }
+ ],
+ "parts": [
+  [
+   "76008",
+   "Tool, Arctic Blast Injector",
+   ""
+  ],
+  [
+   "76020",
+   "DISCONTINUED Tool, Arctic Blast Injector (Straight)",
+   ""
+  ]
+ ],
+ "pn": [
+  "76020",
+  "76008"
+ ],
+ "category": "HVAC"
+}

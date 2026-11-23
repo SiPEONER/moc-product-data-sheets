@@ -1,0 +1,29 @@
+{
+ "id": "16-08",
+ "date": "2016-05-10",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2016/TSB Vol 16 No 08 - Chevy 2 Tab Brake Adapter.pdf",
+ "title": "Chevy 2 Tab Brake Adapter",
+ "tag": "New",
+ "lead": "MOC has developed a new 2 Tab Brake Adapter for use on Chevrolet Spark gasoline vehicles (2013-2015) (Part No. 98471). This adapter may also fit other GM models.",
+ "body": [],
+ "figures": [
+  {
+   "img": "16-08-1.jpg",
+   "caption": "Adapter, Brake, Chevy 2 Tab",
+   "pn": "98471"
+  }
+ ],
+ "parts": [
+  [
+   "98471",
+   "Adapter, Brake, Chevy 2 Tab",
+   ""
+  ]
+ ],
+ "pn": [
+  "98471"
+ ],
+ "category": "Brake"
+}

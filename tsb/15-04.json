@@ -1,0 +1,53 @@
+{
+ "id": "15-04",
+ "date": "2015-03-03",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2015/TSB Vol 15 No 04 - Chevy Brake Adapter Longer Neck.pdf",
+ "title": "Chevy Brake Adapter",
+ "tag": "New",
+ "lead": "MOC has developed a new Brake adapter for use on various GM models (Part No. 98469). It was created for use with the brake reservoirs that have tabs molded on the inside of the neck.",
+ "body": [],
+ "figures": [
+  {
+   "img": "15-04-1.jpg",
+   "caption": "Adapter, Brake, Chevy Long Neck (Reservoir for reference)",
+   "pn": "98469"
+  },
+  {
+   "img": "15-04-2.jpg",
+   "caption": ""
+  }
+ ],
+ "table": {
+  "title": "Known to fit",
+  "head": [
+   "Vehicle"
+  ],
+  "rows": [
+   [
+    "Buick Enclave (2007-2014)"
+   ],
+   [
+    "Chevrolet Traverse (2007-2014)"
+   ],
+   [
+    "GMC Acadia (2007 -2014)"
+   ],
+   [
+    "Saturn Outlook (2007-2010)"
+   ]
+  ]
+ },
+ "parts": [
+  [
+   "98469",
+   "Adapter, Brake, Chevy Long Neck (Reservoir for reference)",
+   ""
+  ]
+ ],
+ "pn": [
+  "98469"
+ ],
+ "category": "Brake"
+}

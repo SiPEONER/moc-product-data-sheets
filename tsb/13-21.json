@@ -1,0 +1,37 @@
+{
+ "id": "13-21",
+ "date": "2013-07-29",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 21 - Caster with Locking Brake (New).pdf",
+ "title": "Casters With Locking Brake",
+ "tag": "New",
+ "lead": "MOC now has casters with the added feature of a locking brake (Part No. 94341).",
+ "body": [
+  "This new caster is the same as the current caster (Part No. 94285) with the exception of the locking brake. This caster is compatible with all of our machines.",
+  "This caster is now on shelf and available to purchase."
+ ],
+ "figures": [
+  {
+   "img": "13-21-1.jpg",
+   "caption": "Caster w/Brake, 3 x 1¼",
+   "pn": "94341"
+  }
+ ],
+ "parts": [
+  [
+   "94341",
+   "Caster w/Brake, 3 x 1¼",
+   ""
+  ],
+  [
+   "94285",
+   "Caster",
+   ""
+  ]
+ ],
+ "pn": [
+  "94341"
+ ],
+ "category": "Brake"
+}

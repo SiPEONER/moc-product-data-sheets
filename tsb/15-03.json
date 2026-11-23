@@ -1,0 +1,55 @@
+{
+ "id": "15-03",
+ "date": "2015-01-27",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2015/TSB Vol 15 No 03 - Smart Tech II ATF Machine.pdf",
+ "title": "Smart Tech II Automatic Transmission Fluid Exchanger Machine",
+ "tag": "New",
+ "lead": "MOC has released the Smart Tech® II ATF fluid exchanger machine.",
+ "body": [
+  "The following configurations of this machine are now available.",
+  "A Smart Tech® II upgrade kit is also available. This kit will upgrade an existing Smart Tech® ATF machine to the new Smart Tech® II machine."
+ ],
+ "benefits": [
+  "Improved accuracy. The machine utilizes new float level sensor technology.",
+  "Automatically adjusts. This machine automatically adjusts for the technician's chosen dipstick service adapter."
+ ],
+ "figures": [
+  {
+   "img": "15-03-1.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "95850",
+   "Smart Tech® II ATF machine with adapters",
+   ""
+  ],
+  [
+   "95950",
+   "Smart Tech® II ATF machine without adapters",
+   ""
+  ],
+  [
+   "94883",
+   "Smart Tech® II upgrade kit.",
+   ""
+  ],
+  [
+   "95890",
+   "Smart Tech® II ATF machine with OB Dispenser with adapters",
+   ""
+  ],
+  [
+   "95960",
+   "Smart Tech® II ATF machine with OB Dispenser without adapters",
+   ""
+  ]
+ ],
+ "pn": [
+  "95850"
+ ],
+ "category": "Transmission"
+}

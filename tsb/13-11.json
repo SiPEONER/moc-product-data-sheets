@@ -1,0 +1,31 @@
+{
+ "id": "13-11",
+ "date": "2013-03-28",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 11 New Intermediate ATF Hose.pdf",
+ "title": "90 Degree Intermediate Adapter Hose for Transmission Machines",
+ "tag": "New",
+ "lead": "MOC has developed a new 90 degree Intermediate Adapter Hose (Part No. 94855). This new Hose is especially needed to connect to transmission adapters in tight spaces where a straight connection will not fit.",
+ "body": [
+  "This Hose assembly can be used with all versions of the ATF machines."
+ ],
+ "figures": [
+  {
+   "img": "13-11-1.jpg",
+   "caption": "Assembly, Hose, 90 Deg. Intermediate",
+   "pn": "94855"
+  }
+ ],
+ "parts": [
+  [
+   "94855",
+   "Assembly, Hose, 90 Deg. Intermediate",
+   ""
+  ]
+ ],
+ "pn": [
+  "94855"
+ ],
+ "category": "Transmission"
+}

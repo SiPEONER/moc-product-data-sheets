@@ -1,0 +1,43 @@
+{
+ "id": "13-08",
+ "date": "2013-03-28",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 08 New VW Transmission Adapters for 2.5L engines.pdf",
+ "title": "Volkswagen Transmission Adapter for Automatic-Transmission Service",
+ "tag": "New",
+ "lead": "MOC has developed a new adapter for use on various Volkswagen® vehicles equipped with the 09G transmission (Part No. 94784). When performing a transmission service, temporarily remove and replace the oil cooler on top of the transmission with this adapter easy service.",
+ "body": [
+  "See below for pictures inside a Volkswagen® engine compartment showing the location of the Oil Cooler where this new adapter is connected."
+ ],
+ "figures": [
+  {
+   "img": "13-08-1.jpg",
+   "caption": "Adapter, ATF, Volkswagen® 2.5L",
+   "pn": "94784"
+  },
+  {
+   "img": "13-08-2.jpg",
+   "caption": "Oil Cooler Location"
+  },
+  {
+   "img": "13-08-3.jpg",
+   "caption": ""
+  },
+  {
+   "img": "13-08-4.jpg",
+   "caption": "Oil Cooler removed"
+  }
+ ],
+ "parts": [
+  [
+   "94784",
+   "Adapter, ATF, Volkswagen® 2.5L",
+   ""
+  ]
+ ],
+ "pn": [
+  "94784"
+ ],
+ "category": "Transmission"
+}

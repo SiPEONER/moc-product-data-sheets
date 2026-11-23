@@ -1,0 +1,39 @@
+{
+ "id": "16-02",
+ "date": "2016-02-12",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2016/TSB Vol 16 No 02 - New GM 6L80 Fill Plug adapter.pdf",
+ "title": "GM ATF Fill Plug Adapter",
+ "tag": "New",
+ "lead": "MOC has developed a new transmission adapter (Part No. 94922) for use on GM 6L80 transmissions with a fill plug. This adapter can be used with the adapter connected to the line pressure port (Part No. 94796).",
+ "body": [],
+ "figures": [
+  {
+   "img": "16-02-1.jpg",
+   "caption": "Adapter, GM Trans Filler Plug",
+   "pn": "94922"
+  },
+  {
+   "img": "16-02-2.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "94922",
+   "Adapter, GM Trans Filler Plug",
+   ""
+  ],
+  [
+   "94796",
+   "Adapter, ATF Pressure Port, 1/8\" NPT Hose",
+   ""
+  ]
+ ],
+ "pn": [
+  "94922",
+  "94796"
+ ],
+ "category": "Transmission"
+}

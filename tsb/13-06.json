@@ -1,0 +1,45 @@
+{
+ "id": "13-06",
+ "date": "2013-03-11",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 06 Smart Tech Conversion Kit.pdf",
+ "title": "Smart Tech ATF Conversion Kit",
+ "tag": "New",
+ "lead": "MOC has created a kit (Part No. 94815) to upgrade an existing Standard ATF Machine (Part No. 94500) into a new Smart Tech™ ATF Machine (Part No. 94800). It is stocked and available for purchase.",
+ "body": [
+  "Each kit includes a Step-by-Step instruction guide."
+ ],
+ "figures": [
+  {
+   "img": "13-06-1.jpg",
+   "caption": "Standard ATF Smart Tech™ ATF"
+  },
+  {
+   "img": "13-06-2.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "94815",
+   "Kit",
+   ""
+  ],
+  [
+   "94500",
+   "Standard ATF Machine",
+   ""
+  ],
+  [
+   "94800",
+   "Smart Tech™ ATF Machine",
+   ""
+  ]
+ ],
+ "pn": [
+  "94815",
+  "94500"
+ ],
+ "category": "Transmission"
+}

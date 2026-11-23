@@ -1,0 +1,17 @@
+{
+ "id": "16-15",
+ "date": "2016-11-28",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2016/TSB Vol 16 No 15 - 2.0L GDI Engine Warning.pdf",
+ "title": "DO NOT perform fuel services using the vacuum hose on Ford, Hyundai, and Kia 2.0L GDI Engines",
+ "tag": "Notice",
+ "lead": "Observation: MOC has learned that in some instances damage to the brake booster can occur on Ford, Hyundai, and Kia 2.0L GDI engines if an intake cleaner (Optimizer™, Double Clean™, Vacu Flush®, etc.) is introduced via the vacuum source. The 2.0L 4-cylinder engine design has a large vacuum line at the throttle body, which is the only vacuum source available, but the brake booster is downstream and check valves are upstream. This configuration can allow product to run down the hose into the brake booster and cause damage resulting in a \"hard\" brake pedal feel. When inspected the booster can be full of product and the diaphragm may be ruptured.",
+ "body": [
+  "Recommendation: To avoid this issue and risk of product building up in the brake booster, apply the intake cleaning product through the throttle body using a \"S\" Tool connected to a CAT tool configuration instead of an induction tool."
+ ],
+ "figures": [],
+ "parts": [],
+ "pn": [],
+ "category": "Fuel"
+}

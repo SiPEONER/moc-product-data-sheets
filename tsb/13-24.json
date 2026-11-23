@@ -1,0 +1,31 @@
+{
+ "id": "13-24",
+ "date": "2013-08-27",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 24 - Brake Hose Extension Kit (New).pdf",
+ "title": "Service Hose Extension Kit for Pure Brake Fluid Exchanger Machines",
+ "tag": "New",
+ "lead": "MOC has developed a new service hose extension kit for the Pure Brake Fluid Exchanger Machines. This kit is intended to increase the length of the existing service hoses on the brake machine by 5ft. Extended hoses are needed for vehicles with longer chassis, as well as for shops that do not have lifts for servicing a vehicle.",
+ "body": [
+  "In addition to creating a new hose extension kit, the Machine and Equipment Department has also increased the length of all 4 service hoses on the Pure Brake Machines by 2ft."
+ ],
+ "figures": [
+  {
+   "img": "13-24-1.jpg",
+   "caption": "Extension Kit, 5ft Brake Hose",
+   "pn": "98196"
+  }
+ ],
+ "parts": [
+  [
+   "98196",
+   "Extension Kit, 5ft Brake Hose",
+   ""
+  ]
+ ],
+ "pn": [
+  "98196"
+ ],
+ "category": "Brake"
+}

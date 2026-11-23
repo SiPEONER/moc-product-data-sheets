@@ -1,0 +1,29 @@
+{
+ "id": "15-07",
+ "date": "2015-04-17",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2015/TSB Vol 15 No 07 - 4 Hose Conversion Adapter.pdf",
+ "title": "4 Hose Conversion Adapter for Basic Brake Machines",
+ "tag": "New",
+ "lead": "MOC has developed a new adapter that will convert the Single Bleeder service hose on the Basic Brake machines into 4 Bleeder service hoses (Part No. 98184). This is an external adapter that is connected to the suction hose allowing the user to use the machine as a single hose or 4 hose machine.",
+ "body": [],
+ "figures": [
+  {
+   "img": "15-07-1.jpg",
+   "caption": "Adapter, Basic Brake 4 Hose Conversion",
+   "pn": "98184"
+  }
+ ],
+ "parts": [
+  [
+   "98184",
+   "Adapter, Basic Brake 4 Hose Conversion",
+   ""
+  ]
+ ],
+ "pn": [
+  "98184"
+ ],
+ "category": "Brake"
+}

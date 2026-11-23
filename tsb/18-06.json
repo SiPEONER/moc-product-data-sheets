@@ -1,0 +1,29 @@
+{
+ "id": "18-06",
+ "date": "2018-05-30",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2018/TSB Vol 18 No 06 - 73055 Modified.pdf",
+ "title": "Fuel Pump Bypass Tool",
+ "tag": "Update",
+ "lead": "MOC has new updates to the Fuel Pump Bypass tool (Part No. 73055) (used to perform fuel rail cleaning services on vehicles with Return-less fuel systems) to improve functionality and reduce spilling. To improve the tool, the ball valve was moved to the end of the service hose before the connection for the service adapter, a second ball valve was added to the other service hose in the same location, and the Schrader Valve adapters were removed. The new updates help to prevent any residual product left in the hoses from spilling when disconnecting the adapters from the vehicle.",
+ "body": [],
+ "figures": [
+  {
+   "img": "18-06-1.jpg",
+   "caption": "Tool, Fuel Pump Bypass",
+   "pn": "73055"
+  }
+ ],
+ "parts": [
+  [
+   "73055",
+   "Tool, Fuel Pump Bypass",
+   ""
+  ]
+ ],
+ "pn": [
+  "73055"
+ ],
+ "category": "Fuel"
+}

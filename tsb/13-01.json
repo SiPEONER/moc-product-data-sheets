@@ -1,0 +1,38 @@
+{
+ "id": "13-01",
+ "date": "2013-02-18",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 1 New Seal Replacement Kit.pdf",
+ "title": "Seal Replacement Kit",
+ "tag": "New",
+ "lead": "MOC now has a seal replacement kit available for the 90° Schrader Adapter (Part No. 72019). This Kit (Part No. 72088), which includes the Seal and the Actuator Pin, is now available for purchase.",
+ "body": [],
+ "figures": [
+  {
+   "img": "13-01-1.jpg",
+   "caption": "Kit, Seal Replacement Adapter, 90° Schrader MOC (72088, 72019)"
+  },
+  {
+   "img": "13-01-2.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "72088",
+   "Kit, Seal Replacement",
+   ""
+  ],
+  [
+   "72019",
+   "Adapter, 90° Schrader MOC",
+   ""
+  ]
+ ],
+ "pn": [
+  "72019",
+  "72088"
+ ],
+ "category": "Equipment"
+}

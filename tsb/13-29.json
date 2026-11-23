@@ -1,0 +1,41 @@
+{
+ "id": "13-29",
+ "date": "2013-11-14",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 29 - New Insert for Spin-On Trans adapter.pdf",
+ "title": "Insert for Spin-On Filter Transmission Adapter",
+ "tag": "New",
+ "lead": "MOC has developed a new insert for use with the spin-on filter transmission adapter (Part No. 94783). This insert screws into the 94783 adapter, which is designed for use on transmissions with an external filter that has a ¾ - 20 thread.",
+ "body": [
+  "This insert is known to fit on the Allison Transmission external filters.",
+  "NOTE: This insert can also be used with the Oil Filter Base Adapters (Part Nos. 74740 & 74742)."
+ ],
+ "figures": [
+  {
+   "img": "13-29-1.jpg",
+   "caption": "Adapter, Threaded Insert, ¾ - 20 (94783 adapter)",
+   "pn": "74786"
+  },
+  {
+   "img": "13-29-2.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "74786",
+   "Adapter, Threaded Insert, ¾ - 20 (94783 adapter)",
+   ""
+  ],
+  [
+   "94783",
+   "Spin-on filter transmission adapter",
+   ""
+  ]
+ ],
+ "pn": [
+  "94783"
+ ],
+ "category": "Transmission"
+}

@@ -1,0 +1,31 @@
+{
+ "id": "18-09",
+ "date": "2018-06-15",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2018/TSB Vol 18 No 09 - New 3-8 QD Fuel adapter.pdf",
+ "title": "3/8\" Female Quick Disconnect 90 Degree Fuel Adapter",
+ "tag": "New",
+ "lead": "MOC has developed a new 3/8in. female fuel adapter. This adapter is Part No. 73066. This new 90 Degree Quick Disconnect adapter is necessary to use on some vehicles where the connection is close to the fire wall or other engine parts.",
+ "body": [
+  "This adapter is known to fit 2014-newer GM trucks and SUV's with the 5.3L & 6.0L engines."
+ ],
+ "figures": [
+  {
+   "img": "18-09-1.jpg",
+   "caption": "Adapter, 3/8 Fuel QD Female, 90 Degree",
+   "pn": "73066"
+  }
+ ],
+ "parts": [
+  [
+   "73066",
+   "Adapter, 3/8 Fuel QD Female, 90 Degree",
+   ""
+  ]
+ ],
+ "pn": [
+  "73066"
+ ],
+ "category": "Fuel"
+}

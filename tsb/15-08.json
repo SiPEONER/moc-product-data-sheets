@@ -1,0 +1,32 @@
+{
+ "id": "15-08",
+ "date": "2015-05-11",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2015/TSB Vol 15 No 08 - CAT Tool Changes.pdf",
+ "title": "Cleaner Application Tool Changing",
+ "tag": null,
+ "lead": "The MOC Machine and Equipment Department is changing the Cleaner Application Tool by reducing the size of the canister. This change will reduce the overall height of the tool by 2½in. and reduce the weight of the tool by 8oz.",
+ "body": [
+  "The current version of this tool weighs 4.21lbs and is 17in. tall. The new revision of this tool weighs 3.71lbs and is 14.5in. tall.",
+  "The current version of this tool has a fluid capacity of 26oz. The new revision of this tool has a fluid capacity of 18oz.",
+  "The new changes will be implemented after the inventory of the current Cleaner Application Tool (4.21lbs / 17in.) is depleted."
+ ],
+ "figures": [
+  {
+   "img": "15-08-1.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "72450",
+   "Cleaner Application Tool",
+   ""
+  ]
+ ],
+ "pn": [
+  "72450"
+ ],
+ "category": "Fuel"
+}

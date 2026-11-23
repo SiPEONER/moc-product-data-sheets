@@ -1,0 +1,40 @@
+{
+ "id": "14-14",
+ "date": "2014-10-27",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2014/TSB Vol 14 No 14 - Fuel Injection Machine Can Adaptors.pdf",
+ "title": "Aerosol Can Adapters for the 74000 & 75000 Fuel Injection Machines",
+ "tag": "New",
+ "lead": "MOC has developed 2 new adapters (Part #s 72416 & 75021) for the 74000 & 75000 Fuel Injection Machines to connect to the aerosol cans.",
+ "body": [
+  "The 72409 adapter is discontinued and replaced by the 72416 adapter. The 74500 adapter is discontinued and replaced by the 75021 adapter."
+ ],
+ "figures": [
+  {
+   "img": "14-14-1.jpg",
+   "caption": "Valve Style Adapter, Fuel Injector (used on the 74000 machine)"
+  },
+  {
+   "img": "14-14-2.jpg",
+   "caption": "Puncture Adapter, Fuel Injector (used on the 75000 machine)"
+  }
+ ],
+ "parts": [
+  [
+   "72416",
+   "Valve Style Adapter, Fuel Injector",
+   "74000 machine; replaces 72409"
+  ],
+  [
+   "75021",
+   "Puncture Adapter, Fuel Injector",
+   "75000 machine; replaces 74500"
+  ]
+ ],
+ "pn": [
+  "72416",
+  "75021"
+ ],
+ "category": "Fuel"
+}

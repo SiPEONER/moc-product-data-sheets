@@ -1,0 +1,66 @@
+{
+ "id": "17-10",
+ "date": "2017-09-20",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2017/TSB Vol 17 No 10 - New Ford Trans Pressure Port adapter.pdf",
+ "title": "Ford ATF Pressure Port Adapter",
+ "tag": "New",
+ "lead": "MOC has developed a new transmission adapter to be used on the Ford Mustangs with the 6R80 transmissions. This new adapter is Part No. 94915 and connects to the line pressure port. The tight space around the pressure port requires a short 90 degree adapter hose. The hose is available as Part No. 94898. This adapter will also fit any vehicle with a 5R55, 6R80 or 6R140 transmission.",
+ "body": [
+  "This new adapter will replace the existing 94787 Ford Transmission Pressure Port adapter when current stock is depleted."
+ ],
+ "figures": [
+  {
+   "img": "17-10-1.jpg",
+   "caption": "Adapter, ATF Pressure Port, 1/8\" NPT Hose Assy, Pressure Port, 90° ATF (94915, 94898)"
+  },
+  {
+   "img": "17-10-2.jpg",
+   "caption": "Applications"
+  }
+ ],
+ "table": {
+  "title": "Applications",
+  "head": [
+   "Vehicle"
+  ],
+  "rows": [
+   [
+    "2009–present Ford F-150"
+   ],
+   [
+    "2009–present Ford Expedition"
+   ],
+   [
+    "2009–present Lincoln Navigator"
+   ],
+   [
+    "2011–2016 Ford Territory (SZ TCDi)"
+   ],
+   [
+    "2011-present Ford Mustang V6, GT, Ecoboost"
+   ],
+   [
+    "2011-present Ford Ranger 2.2L, 3.2L"
+   ]
+  ]
+ },
+ "parts": [
+  [
+   "94915",
+   "Adapter, ATF Pressure Port, 1/8\" NPT Hose",
+   ""
+  ],
+  [
+   "94898",
+   "Assy, Pressure Port, 90° ATF",
+   ""
+  ]
+ ],
+ "pn": [
+  "94915",
+  "94898"
+ ],
+ "category": "Transmission"
+}

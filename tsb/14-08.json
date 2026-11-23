@@ -1,0 +1,45 @@
+{
+ "id": "14-08",
+ "date": "2014-06-15",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2014/TSB Vol 14 No 08 - 74746 Drain Hose modified.pdf",
+ "title": "Engine Flush Drain Hose – Filter Added to Prevent Clogging",
+ "tag": "Update",
+ "lead": "To prevent hoses and couplers from clogging due to potential debris in an oil pan, the MOC Machine and Equipment Department has added a filter to the Universal Drain Hose (Part # 74746).",
+ "body": [
+  "To modify an existing drain hose you will need:"
+ ],
+ "steps": [
+  "Inline Fluid Filter – Part # 72264 (Qty. 1)",
+  "Pinch Clamp – Part # 98180 (Qty. 2)"
+ ],
+ "figures": [
+  {
+   "img": "14-08-1.jpg",
+   "caption": "Universal Drain Hose",
+   "pn": "74746"
+  }
+ ],
+ "parts": [
+  [
+   "74746",
+   "Universal Drain Hose",
+   ""
+  ],
+  [
+   "72264",
+   "",
+   ""
+  ],
+  [
+   "98180",
+   "",
+   ""
+  ]
+ ],
+ "pn": [
+  "74746"
+ ],
+ "category": "Engine"
+}

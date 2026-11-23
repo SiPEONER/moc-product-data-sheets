@@ -1,0 +1,35 @@
+{
+ "id": "13-05",
+ "date": "2013-03-11",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 05 New Fuel Plug adapters.pdf",
+ "title": "Fuel Plug Adapters",
+ "tag": "New",
+ "lead": "MOC has developed 2 new fuel plug adapters for use on various Ford vehicles.",
+ "body": [
+  "These new plug adapters can be used with the 72001 Adapter (3/8\") and the 72002 Adapter (1/2\")."
+ ],
+ "figures": [
+  {
+   "img": "13-05-1.jpg",
+   "caption": "Plug, Fuel, 1/2\" Quick Supply Plug, Fuel, 3/8\" Quick Supply (72057, 72058)"
+  }
+ ],
+ "parts": [
+  [
+   "72057",
+   "Plug, Fuel, 1/2\" Quick Supply",
+   ""
+  ],
+  [
+   "72058",
+   "Plug, Fuel, 3/8\" Quick Supply",
+   ""
+  ]
+ ],
+ "pn": [
+  "72057"
+ ],
+ "category": "Fuel"
+}

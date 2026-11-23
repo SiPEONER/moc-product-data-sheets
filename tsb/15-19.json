@@ -1,0 +1,79 @@
+{
+ "id": "15-19",
+ "date": "2015-10-30",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2015/TSB Vol 15 No 19 - New GM Trans Pressure Port adapter.pdf",
+ "title": "GM ATF Pressure Port Adapter",
+ "tag": "New",
+ "lead": "MOC has developed a new transmission adapter to be used on the GM 6L80 transmissions to bypass the thermostat for quicker service. This new adapter (Part No. 94796) connects to the pressure port by way of a short 90 degree adapter hose (Part No. 94898), given the tight space around the pressure port. An open hose adapter can be used and inserted into the transmission dipstick tube.",
+ "body": [],
+ "figures": [
+  {
+   "img": "15-19-1.jpg",
+   "caption": "Adapter, ATF Pressure Port, 1/8\" NPT Hose Assy, Pressure Port, 90° ATF (94796, 94898)"
+  },
+  {
+   "img": "15-19-2.jpg",
+   "caption": ""
+  }
+ ],
+ "table": {
+  "title": "Known to fit",
+  "head": [
+   "Group",
+   "Vehicle"
+  ],
+  "rows": [
+   [
+    "2015 GM vehicles",
+    "Cadillac Escalade 6.2L"
+   ],
+   [
+    "2015 GM vehicles",
+    "Cadillac Escalade ESV 6.2L"
+   ],
+   [
+    "2015 GM vehicles",
+    "Chevy Silverado 4.3L, 5.3L, & 6.2L"
+   ],
+   [
+    "2015 GM vehicles",
+    "Chevy Suburban 5.3L"
+   ],
+   [
+    "2015 GM vehicles",
+    "Chevy Tahoe 5.3L & 6.2L"
+   ],
+   [
+    "2015 GM vehicles",
+    "GMC Sierra 4.3L, 5.3L, & 6.2L"
+   ],
+   [
+    "2014 GM vehicles",
+    "Chevy Silverado 4.3L, 5.3L, & 6.2L"
+   ],
+   [
+    "2014 GM vehicles",
+    "GMC Sierra 4.3L, 5.3L, & 6.2L"
+   ]
+  ]
+ },
+ "parts": [
+  [
+   "94796",
+   "Adapter, ATF Pressure Port, 1/8\" NPT Hose",
+   ""
+  ],
+  [
+   "94898",
+   "Assy, Pressure Port, 90° ATF",
+   ""
+  ]
+ ],
+ "pn": [
+  "94796",
+  "94898"
+ ],
+ "category": "Transmission"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "15-09",
+ "date": "2015-05-29",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2015/TSB Vol 15 No 09 - Ford 6.7L Coolant Adapter.pdf",
+ "title": "Coolant Adapters for Ford 6.7L Diesel Engines",
+ "tag": "New",
+ "lead": "MOC has developed 2 new adapters to service the cooling systems in Ford 6.7L Diesel vehicles (Part Nos. 94345 & 94346). These adapters connect at the top radiator hose.",
+ "body": [],
+ "figures": [
+  {
+   "img": "15-09-1.jpg",
+   "caption": "Adapter, Female Coolant, Ford 6.7L Adapter, Male Coolant, Ford 6.7L (94345, 94346)"
+  },
+  {
+   "img": "15-09-2.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "94345",
+   "Adapter, Female Coolant, Ford 6.7L",
+   ""
+  ],
+  [
+   "94346",
+   "Adapter, Male Coolant, Ford 6.7L",
+   ""
+  ]
+ ],
+ "pn": [
+  "94345"
+ ],
+ "category": "Cooling"
+}

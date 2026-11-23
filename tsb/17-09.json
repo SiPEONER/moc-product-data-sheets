@@ -1,0 +1,43 @@
+{
+ "id": "17-09",
+ "date": "2017-08-14",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2017/TSB Vol 17 No 09 - New Dodge Trans Pressure Port adapter.pdf",
+ "title": "Dodge ATF Pressure Port Adapter",
+ "tag": "New",
+ "lead": "MOC has developed a new transmission adapter to be used on the Dodge NAG and 68RFE transmissions. This new adapter is Part No. 94944 and connects at the line pressure sensor. An open hose adapter can be used and inserted into the transmission dipstick tube or fill port. The adapter, along with an open hose in the dipstick tube or fill port, permits quicker service by bypassing the thermostat.",
+ "body": [
+  "This adapter is known to fit the following vehicles:"
+ ],
+ "figures": [
+  {
+   "img": "17-09-1.jpg",
+   "caption": ""
+  },
+  {
+   "img": "17-09-2.jpg",
+   "caption": "Adapter, Pressure Port Sensor, Dodge",
+   "pn": "94944"
+  },
+  {
+   "img": "17-09-3.jpg",
+   "caption": ""
+  },
+  {
+   "img": "17-09-4.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "94944",
+   "Adapter, Pressure Port Sensor, Dodge",
+   ""
+  ]
+ ],
+ "pn": [
+  "94944"
+ ],
+ "category": "Transmission"
+}

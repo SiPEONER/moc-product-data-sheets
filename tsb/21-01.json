@@ -1,0 +1,29 @@
+{
+ "id": "21-01",
+ "date": "2021-02-01",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2021/TSB Vol .21 No. 01 - New Volvo ATF adapter.pdf",
+ "title": "Volvo ATF Adapter",
+ "tag": "New",
+ "lead": "MOC has developed a new transmission adapter available for use in the Volvo transmissions set forth below. This adapter is Part No. 94954. This adapter connects to the transmission by removing the cooler valve and replacing it with the new adapter permitting a quick and reliable transmission fluid exchange.",
+ "body": [],
+ "figures": [
+  {
+   "img": "21-01-1.jpg",
+   "caption": "Adapter, ATF, Volvo Cooler",
+   "pn": "94954"
+  }
+ ],
+ "parts": [
+  [
+   "94954",
+   "Adapter, ATF, Volvo Cooler",
+   ""
+  ]
+ ],
+ "pn": [
+  "94954"
+ ],
+ "category": "Transmission"
+}

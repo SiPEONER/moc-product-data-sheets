@@ -1,0 +1,57 @@
+{
+ "id": "12-24",
+ "date": "2012-09-18",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB Vol 12 No 24 - Transmission Machines Available.pdf",
+ "title": "Transmission Fluid Exchangers",
+ "tag": "New",
+ "lead": "MOC has developed different variations of Transmission Fluid Exchanging Machines that are available for purchase to meet our customer's needs.",
+ "body": [],
+ "figures": [
+  {
+   "img": "12-24-2.jpg",
+   "caption": "Standard ATF Smart Tech™ ATF"
+  },
+  {
+   "img": "12-24-3.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "94500",
+   "Standard MOC Transmission Machine with adapters",
+   ""
+  ],
+  [
+   "94830",
+   "Standard MOC Transmission Machine without adapters",
+   ""
+  ],
+  [
+   "94780",
+   "MOC ATF Machine w/onboard Dispensing with adapters",
+   ""
+  ],
+  [
+   "94790",
+   "MOC ATF Machine w/onboard Dispensing without adapters",
+   ""
+  ],
+  [
+   "94800",
+   "MOC Smart Tech™ Transmission Machine with adapters",
+   ""
+  ],
+  [
+   "95570",
+   "MOC Smart Tech™ ATF Machine w/onboard Dispensing with adapters",
+   ""
+  ]
+ ],
+ "pn": [
+  "94500"
+ ],
+ "category": "Transmission"
+}

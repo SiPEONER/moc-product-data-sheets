@@ -1,0 +1,45 @@
+{
+ "id": "16-05",
+ "date": "2016-03-22",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2016/TSB Vol 16 No 05 - New Plate adapter for Allison transmission.pdf",
+ "title": "GM ATF Adapter Kit",
+ "tag": "New",
+ "lead": "MOC has developed a new extension plate (Part No. 94924) to be used with Part No. 94783, the transmission adapter used on various vehicles with an Allison transmission.",
+ "body": [
+  "See page 2 for pictures of the filter and mounting location.",
+  "This plate fits the Allison Spin-On transmission filter part number 29539579 and AC Delco Spin- On transmission filter part number TF950."
+ ],
+ "figures": [
+  {
+   "img": "16-05-1.jpg",
+   "caption": "Extension Plate, ATF, Spin-On Filter (94924, 94783)"
+  },
+  {
+   "img": "16-05-2.jpg",
+   "caption": ""
+  },
+  {
+   "img": "16-05-3.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "94924",
+   "Extension plate",
+   ""
+  ],
+  [
+   "94783",
+   "Adapter, Transmission, Spin-on Filter",
+   ""
+  ]
+ ],
+ "pn": [
+  "94924",
+  "94783"
+ ],
+ "category": "Transmission"
+}

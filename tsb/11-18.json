@@ -1,0 +1,50 @@
+{
+ "id": "11-18",
+ "date": "2011-12-22",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2011/TSB Vol 11 No 18 New Optimizer Tools 12-22-11.pdf",
+ "title": "Optimizer Tools for BMW, Audi and Volkswagen",
+ "tag": "New",
+ "lead": "MOC has developed two-(2) new Optimizer tools to service various models of BMW, Audi and Volkswagen.",
+ "body": [
+  "MOC Optimizer™ Product (Part No. 16501) is sold separately."
+ ],
+ "figures": [
+  {
+   "img": "11-18-1.jpg",
+   "caption": "Tool, Foaming Intake, BMW Tool, Foaming Intake, Audi/VW"
+  },
+  {
+   "img": "11-18-2.jpg",
+   "caption": "(75005, 75006)"
+  },
+  {
+   "img": "11-18-3.jpg",
+   "caption": "The pictures above show the 75005 tool being used on a BMW"
+  },
+  {
+   "img": "11-18-4.jpg",
+   "caption": ""
+  },
+  {
+   "img": "11-18-5.jpg",
+   "caption": "The pictures above show the 75006 tool being used on a VW"
+  },
+  {
+   "img": "11-18-6.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "16501",
+   "Optimizer",
+   ""
+  ]
+ ],
+ "pn": [
+  "16501"
+ ],
+ "category": "Fuel"
+}

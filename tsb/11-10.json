@@ -1,0 +1,40 @@
+{
+ "id": "11-10",
+ "date": "2011-09-15",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2011/TSB Vol 11 No 10 Universal Oil Adapter Lever 9-14-11.pdf",
+ "title": "Bilstein Universal Oil Adapter",
+ "tag": "Update",
+ "lead": "The lever on the Universal Drain Plug Oil Adapter (74741) can work loose, because the set screw in the Retainer Lever gets retightened again and again and can strip the threads inside the lever. MOC now makes the Long Retainer Lever out of steel instead of aluminum.",
+ "body": [
+  "If your Universal Drain Plug Adapter has this problem, contact the Machine and Equipment Department with the subject \"74741 Replacement Lever\", your name and phone number, and your shipping address. A replacement lever will be shipped to you."
+ ],
+ "steps": [
+  "Note which way the lever is facing, then remove the aluminum lever by unscrewing the set screw.",
+  "Discard the aluminum lever and attach the new steel lever in the same location with the original set screw."
+ ],
+ "note": "Attach the new lever facing the same direction as the one you removed, with the set screw hole in the lever aligned with the flat spot on the retainer.",
+ "figures": [
+  {
+   "img": "11-10-1.jpg",
+   "caption": "Retainer Lever Adapter, Universal Drain Plug",
+   "pn": "74741"
+  },
+  {
+   "img": "11-10-3.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "74741",
+   "Retainer Lever Adapter, Universal Drain Plug",
+   ""
+  ]
+ ],
+ "pn": [
+  "74741"
+ ],
+ "category": "Engine"
+}

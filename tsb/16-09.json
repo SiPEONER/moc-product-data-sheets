@@ -1,0 +1,47 @@
+{
+ "id": "16-09",
+ "date": "2016-05-19",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2016/TSB Vol 16 No 09 - Thumb Drive for Programming.pdf",
+ "title": "Required Thumb Drives for Programming and Upgrading the Smart Tech Machines",
+ "tag": null,
+ "lead": "The MOC Smart Tech® machines (Transmission, Brake, and Engine Flush) have controller boards that are programmed using a specific program on a thumb drive. These programs can be updated in the field by plugging the thumb drive into the controller board. In order for the controller board to read the program, a specific type of thumb drive (Part No. 71247) is required.",
+ "body": [
+  "Controller Boards available:",
+  "Recommendation: the MOC Machine and Equipment Department recommends that all partners and distributors keep a minimum of 1 of these thumb drives in stock for servicing the Smart Tech® machines and controller boards, as needed. The new or updated program can be sent by email and transferred to thumb drive for a quick update. A controller board programmed for a certain machine may be reprogrammed for another machine if needed (special procedure required)."
+ ],
+ "figures": [
+  {
+   "img": "16-09-1.jpg",
+   "caption": "Thumb Drive",
+   "pn": "71247"
+  }
+ ],
+ "parts": [
+  [
+   "95851",
+   "Smart Tech® II ATF Controller board",
+   ""
+  ],
+  [
+   "98234",
+   "Smart Tech® Brake Controller board",
+   ""
+  ],
+  [
+   "96531",
+   "Smart Tech® Engine Flush Controller board",
+   ""
+  ],
+  [
+   "71247",
+   "Thumb Drive",
+   ""
+  ]
+ ],
+ "pn": [
+  "71247"
+ ],
+ "category": "Brake"
+}

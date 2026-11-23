@@ -1,0 +1,29 @@
+{
+ "id": "12-05",
+ "date": "2012-03-10",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB Vol 12 No 5 New Pedal Depressor.pdf",
+ "title": "Accelerator Pedal Depressor",
+ "tag": "New",
+ "lead": "MOC has announced the availability of an Accelerator Pedal Depressor, which may be used to keep the engine at a fixed RPM. This will help increase efficiency in performing fuel system services on vehicles with Electronic throttle control, allowing a single technician to perform the service. This Pedal Depressor is now available to purchase.",
+ "body": [],
+ "figures": [
+  {
+   "img": "12-05-1.jpg",
+   "caption": "Depressor, Accelerator Pedal",
+   "pn": "75007"
+  }
+ ],
+ "parts": [
+  [
+   "75007",
+   "Depressor, Accelerator Pedal",
+   ""
+  ]
+ ],
+ "pn": [
+  "75007"
+ ],
+ "category": "Fuel"
+}

@@ -1,0 +1,31 @@
+{
+ "id": "12-19",
+ "date": "2012-06-10",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB Vol 12 No 19 12mm Fuel Adapter.pdf",
+ "title": "12mm Quick Disconnect Fuel Adapter",
+ "tag": "New",
+ "lead": "MOC has developed a new adapter for use on various vehicles. This New Adapter is Part No. 72202. This quick disconnect adapter will fit most 12mm stems.",
+ "body": [
+  "This adapter is known to work on the 2011 & newer Ford 6.7L Engine, as well as other compatible vehicles."
+ ],
+ "figures": [
+  {
+   "img": "12-19-1.jpg",
+   "caption": "Adapter, Fuel, Female, 12mm Quick Disconnect",
+   "pn": "72202"
+  }
+ ],
+ "parts": [
+  [
+   "72202",
+   "Adapter, Fuel, Female, 12mm Quick Disconnect",
+   ""
+  ]
+ ],
+ "pn": [
+  "72202"
+ ],
+ "category": "Fuel"
+}

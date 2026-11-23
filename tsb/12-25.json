@@ -1,0 +1,54 @@
+{
+ "id": "12-25",
+ "date": "2012-09-18",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB Vol 12 No 25 - Additive Dispenser Changes.pdf",
+ "title": "Additive Dispenser Changes",
+ "tag": null,
+ "lead": "MOC has made some changes to the ATF Onboard Additive Dispenser for better performance. The user will now need to press and hold down both buttons at the same time to dispense the attached additive.",
+ "body": [
+  "It is available for purchase.",
+  "Remove the tube assembly from the existing 90° push connect fitting, then unscrew the fitting from the bulkhead adapter. Assemble the 4 new parts, clamping the tube assembly that was removed from the push connect fitting to the 98090 Hose Barb."
+ ],
+ "figures": [
+  {
+   "img": "12-25-1.jpg",
+   "caption": "Old Version New Version On Board Additive Dispensing KIT"
+  },
+  {
+   "img": "12-25-2.jpg",
+   "caption": ""
+  },
+  {
+   "img": "12-25-4.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "94203",
+   "Reducer Bushing, 1/8\" NPT to 1/4\" NPT",
+   "Qty 1"
+  ],
+  [
+   "94826",
+   "Valve, 2-Way Push Button",
+   "Qty 1"
+  ],
+  [
+   "98090",
+   "Hose Barb, 1/8\" NPT x 1/4\"",
+   "Qty 1"
+  ],
+  [
+   "98001",
+   "Pinch Clamp, 1/4\"",
+   "Qty 1"
+  ]
+ ],
+ "pn": [
+  "94203"
+ ],
+ "category": "Transmission"
+}

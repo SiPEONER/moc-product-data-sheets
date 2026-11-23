@@ -1,0 +1,29 @@
+{
+ "id": "17-13",
+ "date": "2017-11-28",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2017/TSB Vol 17 No 13 - New GM ATF adapter.pdf",
+ "title": "GM ATF Adapter",
+ "tag": "New",
+ "lead": "MOC has developed a new transmission adapter to be used on the GM 6L80, 6L90, and 8L90 transmissions. This adapter is Part No. 94946. This adapter connects to the transmission in place of the thermostat. The technician merely needs to remove the thermostat and insert the adapter to perform a service; no waiting for the fluid to reach operating temperature.",
+ "body": [],
+ "figures": [
+  {
+   "img": "17-13-1.jpg",
+   "caption": "Adapter, ATF, GM Thermostat THERMOSTAT",
+   "pn": "94946"
+  }
+ ],
+ "parts": [
+  [
+   "94946",
+   "Adapter, ATF, GM Thermostat THERMOSTAT",
+   ""
+  ]
+ ],
+ "pn": [
+  "94946"
+ ],
+ "category": "Transmission"
+}

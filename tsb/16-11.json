@@ -1,0 +1,49 @@
+{
+ "id": "16-11",
+ "date": "2016-08-03",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2016/TSB Vol 16 No 11 - Changing ATF New Fluid Tanks.pdf",
+ "title": "How to Minimize Cross-Contamination of ATF Fluids on ATF Exchanging Machines",
+ "tag": null,
+ "lead": "The MOC Machine and Equipment Department offers ATF Machine New Fluid Tanks in different colors to minimize cross-contamination when using different automatic transmission fluids:",
+ "body": [
+  "In addition, when changing the New Fluid Tank the MOC Machine and Equipment Department recommends purging the ATF Machine before starting a service with a different transmission fluid.",
+  "Instructions:"
+ ],
+ "steps": [
+  "Connect the New Fluid tank with the desired ATF fluid to the machine.",
+  "Connect one of the open-hose adapters to the black service hose.",
+  "Confirm that the machine is next to an ATF waste container.",
+  "Hold the open-hose adapter over the ATF waste container.",
+  "Using the \"Top Off\" feature on the machine, press and hold the top off button for 10 seconds. If the new ATF fluid is a different color, you will see it coming out of the open-hose adapter.",
+  "The machine is now ready for the next service."
+ ],
+ "figures": [],
+ "parts": [
+  [
+   "94195",
+   "Green New Fluid Tank",
+   ""
+  ],
+  [
+   "94216",
+   "Orange New Fluid Tank",
+   ""
+  ],
+  [
+   "94547",
+   "Red New Fluid Tank",
+   ""
+  ],
+  [
+   "94516",
+   "Black New Fluid Tank",
+   ""
+  ]
+ ],
+ "pn": [
+  "94195"
+ ],
+ "category": "Transmission"
+}

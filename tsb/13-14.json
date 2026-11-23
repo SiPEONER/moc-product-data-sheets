@@ -1,0 +1,31 @@
+{
+ "id": "13-14",
+ "date": "2013-04-18",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 14 Engine Flush Adapter - Jeep-Chrysler-Dodge (New).pdf",
+ "title": "Engine Flush Adapter for Jeep/Chrysler/Dodge 3.6L Engines",
+ "tag": "New",
+ "lead": "MOC has developed a new Engine Flush Adapter for 3.6L Engines in various Jeep, Chrysler and Dodge models (Part No. 96127).",
+ "body": [
+  "This adapter is available for purchase."
+ ],
+ "figures": [
+  {
+   "img": "13-14-1.jpg",
+   "caption": "Adapter, Oil Filter, Jeep/Chry/Dodge 3.6L",
+   "pn": "96127"
+  }
+ ],
+ "parts": [
+  [
+   "96127",
+   "Adapter, Oil Filter, Jeep/Chry/Dodge 3.6L",
+   ""
+  ]
+ ],
+ "pn": [
+  "96127"
+ ],
+ "category": "Engine"
+}

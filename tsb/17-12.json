@@ -1,0 +1,20 @@
+{
+ "id": "17-12",
+ "date": "2017-11-28",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2017/TSB Vol 17 No 12 - Smart Tech II Firmware Update.pdf",
+ "title": "Firmware Update for Smart Tech II ATF Machines",
+ "tag": "New",
+ "lead": "MOC has been informed that users are getting a \"Warning\" on their Smart Tech® II ATF Machines while performing a dipstick service in cold weather; see photo below. MOC has determined this \"Warning\" is due to increased transmission fluid viscosity in cold weather which slows the movement across the sensors inside the fluid tank. To remedy this issue, a new firmware revision for the Smart Tech® II ATF Machines has been created to adjust the Float Sensor timer in cold weather conditions. The new firmware revision number is 4.3.6.",
+ "body": [],
+ "figures": [
+  {
+   "img": "17-12-1.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [],
+ "pn": [],
+ "category": "Transmission"
+}

@@ -1,0 +1,36 @@
+{
+ "id": "14-03",
+ "date": "2014-03-15",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2014/TSB Vol 14 No 03 - Ford 6.7L EGR Tool.pdf",
+ "title": "EGR Tool for Ford 6.7L Diesel Engines",
+ "tag": "New",
+ "lead": "MOC has developed a new tool to clean the Ford 6.7L Diesel EGR valves and coolers. This tool is designed to be used when performing services with our Optimizer™ Foaming Combustion Chamber & Emission System Cleaner, and is easy to install. User instructions are included with each tool.",
+ "body": [
+  "The MOC Optimizer™ product (Part # 16501) is sold separately. The image below shows the new tool that is now available for purchase."
+ ],
+ "figures": [
+  {
+   "img": "14-03-1.jpg",
+   "caption": "Tool, EGR Valve Cleaner, Ford 6.7L",
+   "pn": "72330"
+  }
+ ],
+ "parts": [
+  [
+   "72330",
+   "Tool, EGR Valve Cleaner, Ford 6.7L",
+   ""
+  ],
+  [
+   "16501",
+   "Optimizer",
+   ""
+  ]
+ ],
+ "pn": [
+  "72330"
+ ],
+ "category": "Fuel"
+}

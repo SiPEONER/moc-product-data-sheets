@@ -1,0 +1,37 @@
+{
+ "id": "12-17",
+ "date": "2012-06-10",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB Vol 12 No 17 New Optimizer tool.pdf",
+ "title": "Universal 20in Optimizer Tool",
+ "tag": "New",
+ "lead": "MOC has developed a new Optimizer™ Tool to service various models. This new Tool was designed to be universal.",
+ "body": [
+  "This tool is designed for vehicles where the throttle body is located below the exhaust manifold, such as Volvo and Chrysler vehicles. The Intake Air Boot is removed and the Tool is inserted. The Intake Air Boot is then pulled over the Tool and air filter/throttle body housing.",
+  "MOC Optimizer™ Product (Part No. 16501) is sold separately."
+ ],
+ "figures": [
+  {
+   "img": "12-17-1.jpg",
+   "caption": "Tool, Foaming Intake, 20\"",
+   "pn": "75008"
+  }
+ ],
+ "parts": [
+  [
+   "75008",
+   "Tool, Foaming Intake, 20\"",
+   ""
+  ],
+  [
+   "16501",
+   "Optimizer",
+   ""
+  ]
+ ],
+ "pn": [
+  "75008"
+ ],
+ "category": "Fuel"
+}

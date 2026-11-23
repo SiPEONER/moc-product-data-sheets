@@ -1,0 +1,39 @@
+{
+ "id": "14-22",
+ "date": "2014-11-10",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2014/TSB Vol 14 No 22 - Brake Toolbox Machine.pdf",
+ "title": "Brake Fluid Exchanger Machine – Pure Brake Toolbox",
+ "tag": "New",
+ "lead": "MOC has developed a new Brake Fluid Exchanger Machine (Part No. 98360) that is now available for purchase.",
+ "body": [
+  "This machine does not include the Standard Brake Adapter Kit. If adapters are needed, they can be purchased separately."
+ ],
+ "benefits": [
+  "Single Bleeder Hose",
+  "Adjustable Pressure from 0-50 PSI / 3.5 BAR",
+  "Pressure gauge reads in dual scale PSI/BAR",
+  "Auto safety shutoff when new fluid is low",
+  "No code required to operate",
+  "Handheld machine - easy to transport and store"
+ ],
+ "figures": [
+  {
+   "img": "14-22-1.jpg",
+   "caption": "Machine, Pure Brake® Toolbox",
+   "pn": "98360"
+  }
+ ],
+ "parts": [
+  [
+   "98360",
+   "Machine, Pure Brake® Toolbox",
+   ""
+  ]
+ ],
+ "pn": [
+  "98360"
+ ],
+ "category": "Brake"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "14-06",
+ "date": "2014-05-13",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2014/TSB Vol 14 No 06 - Differential Adapters.pdf",
+ "title": "Differential Adapter Part Numbers",
+ "tag": null,
+ "lead": "The hose adapters in the Differential Adapter Kit (Part No. 95644) now have individual part numbers so they may be ordered separately when needed. The part number for each individual hose adapter is listed below.",
+ "body": [],
+ "figures": [
+  {
+   "img": "14-06-1.jpg",
+   "caption": "Adapters: 1/4\" 95666, 3/8\" 95667, 1/2\" 95668, 3/8\" nylon 95669"
+  }
+ ],
+ "parts": [
+  [
+   "95644",
+   "Differential Adapter Kit",
+   ""
+  ],
+  [
+   "95666",
+   "Adapter, Differential, 1/4\" Open Hose (Dekabon)",
+   ""
+  ],
+  [
+   "95667",
+   "Adapter, Differential, 3/8\" Open Hose (Dekabon)",
+   ""
+  ],
+  [
+   "95668",
+   "Adapter, Differential, 1/2\" Open Hose (Dekabon)",
+   ""
+  ],
+  [
+   "95669",
+   "Adapter, Differential, 3/8\" Open Hose (Nylon)",
+   ""
+  ]
+ ],
+ "pn": [
+  "95644"
+ ],
+ "category": "Driveline"
+}

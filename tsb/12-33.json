@@ -1,0 +1,37 @@
+{
+ "id": "12-33",
+ "date": "2013-01-11",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB Vol 12 No 33 (rv.2) - Basic Brake Machine Changes.pdf",
+ "title": "Basic Brake Machines",
+ "tag": "Update",
+ "lead": "MOC has changed some of the internal hoses on the Basic Brake Machine (Part No. 98060) to accommodate its adjustable, higher working pressure. In addition to the hose changes, a small filter Part No. 98026 has been added to the service hose to prevent clogging of the selector valve.",
+ "body": [
+  "An Upgrade Kit (Part No. 98759) is available with all the necessary components to upgrade you Basic Brake Machine.",
+  "If you have any of these machines in your inventory please contact the Machine and Equipment Department at (866) 244-6621 to determine if these upgrades are needed for your machines."
+ ],
+ "figures": [],
+ "parts": [
+  [
+   "98060",
+   "Basic Brake Machine",
+   ""
+  ],
+  [
+   "98026",
+   "Filter, brake service hose",
+   ""
+  ],
+  [
+   "98759",
+   "Upgrade Kit",
+   ""
+  ]
+ ],
+ "pn": [
+  "98060",
+  "98026"
+ ],
+ "category": "Brake"
+}

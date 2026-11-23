@@ -1,0 +1,40 @@
+{
+ "id": "11-01",
+ "date": "2011-02-16",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2011/TSB Vol 11 No 1 S Tool 2-16-11.pdf",
+ "title": "Air Intake System Cleaning \"S\" Tool",
+ "tag": null,
+ "lead": "Due to a request from service technicians, MOC has reintroduced the Air Intake System Cleaning \"S\" Tool (Part No. 74100). This tool was previously replaced by a newly designed \"S\" Tool (Part No. 75450). MOC customers will now have a choice of two different \"S\" Tools. Both items are currently in stock.",
+ "body": [
+  "MOC# 74100 MOC# 75450 The \"S\" Tool (Part No. 75450) design has been improved by securing the tip with Loctite® to prevent it from coming loose during a service."
+ ],
+ "figures": [
+  {
+   "img": "11-01-1.jpg",
+   "caption": ""
+  },
+  {
+   "img": "11-01-2.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "74100",
+   "Air Intake System Cleaning \"S\" Tool",
+   ""
+  ],
+  [
+   "75450",
+   "Newly designed \"S\" Tool",
+   ""
+  ]
+ ],
+ "pn": [
+  "74100",
+  "75450"
+ ],
+ "category": "Fuel"
+}

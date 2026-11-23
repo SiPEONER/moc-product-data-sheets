@@ -1,0 +1,24 @@
+{
+ "id": "18-13",
+ "date": "2018-09-25",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2018/TSB Vol 18 No 13 - EDR-3 Service on Hybrids.pdf",
+ "title": "EDR-3 Induction Service Procedure For Hybrid Vehicles",
+ "tag": null,
+ "lead": "The vehicle's gasoline engine must be running and remain running throughout the service to prevent engine damage from chemical puddling in the lower portion of the intake manifold.",
+ "body": [
+  "The firmware for the EDR-3 machine has been updated to include the new service option \"Hybrid Induction Service\". The firmware is currently at revision 0.1.6. If you do not have the current revision firmware in your machine, contact the Machine and Equipment department to have the current revision sent to you.",
+  "In most hybrid vehicles, the engine speed is controlled by the PCM and not the accelerator pedal. The reason is the PCM will raise and lower the engine RPM when it senses the need to charge the hybrid battery. As a result, a hybrid engine service must be done at idle in Manual Mode due to the design & idle characteristics above."
+ ],
+ "benefits": [
+  "Begin by following the vehicles OEM procedure to ensure the hybrids gasoline engine will stay running through the entire service. o Example – activate vehicles maintenance mode. o Example – turn vehicles heater on.",
+  "To start a service and get to Manual Mode, choose the option for \"Induction Service\" and do not connect the OBD cable.",
+  "Once the EDR-3 determines it cannot communicate with the vehicle through the OBD cable it will give the option of Manual Mode.",
+  "Do not exceed Mode 2 while in Manual Mode. Doing so may result in puddling which may cause potential engine damage."
+ ],
+ "figures": [],
+ "parts": [],
+ "pn": [],
+ "category": "Fuel"
+}

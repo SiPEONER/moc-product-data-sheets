@@ -1,0 +1,130 @@
+{
+ "id": "12-22",
+ "date": "2012-07-31",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB Vol 12 No 22 Transmission Adapters for spin on filter.pdf",
+ "title": "Transmission Adapter for Automatic- Transmission Service",
+ "tag": "New",
+ "lead": "MOC has developed a new adapter for use on Transmissions equipped with a spin-on filter. This adapter takes the place of the filter.",
+ "body": [
+  "This Adapter is designed to work with threaded inserts and collars to fit the many different sizes and threads of spin-on filters."
+ ],
+ "figures": [
+  {
+   "img": "12-22-1.jpg",
+   "caption": "Adapter, Transmission, Spin-on Filter",
+   "pn": "94783"
+  },
+  {
+   "img": "12-22-2.jpg",
+   "caption": "74703 74704 74705 74706"
+  },
+  {
+   "img": "12-22-3.jpg",
+   "caption": ""
+  },
+  {
+   "img": "12-22-4.jpg",
+   "caption": ""
+  },
+  {
+   "img": "12-22-5.jpg",
+   "caption": ""
+  },
+  {
+   "img": "12-22-6.jpg",
+   "caption": "74707 74708 74709 74710"
+  },
+  {
+   "img": "12-22-7.jpg",
+   "caption": ""
+  },
+  {
+   "img": "12-22-8.jpg",
+   "caption": ""
+  },
+  {
+   "img": "12-22-9.jpg",
+   "caption": ""
+  },
+  {
+   "img": "12-22-10.jpg",
+   "caption": "74711 74712 74713"
+  },
+  {
+   "img": "12-22-11.jpg",
+   "caption": ""
+  },
+  {
+   "img": "12-22-12.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "74703",
+   "O-Ring Plate (For 3-3/8\" O.D. O-rings)",
+   ""
+  ],
+  [
+   "74704",
+   "O-Ring Plate (For 4\" O.D. O-rings)",
+   ""
+  ],
+  [
+   "74705",
+   "Outer Extension Sleeve (For use with",
+   ""
+  ],
+  [
+   "74706",
+   "Threaded Insert for 13/16\"-16 Thread",
+   ""
+  ],
+  [
+   "74707",
+   "Threaded Insert for 3/4\"-16 Thread",
+   ""
+  ],
+  [
+   "74708",
+   "Threaded Insert for M22-1.5 Thread",
+   ""
+  ],
+  [
+   "74709",
+   "Threaded Insert for M20-1.5 Thread",
+   ""
+  ],
+  [
+   "74710",
+   "Threaded Insert for M18-1.5 Thread",
+   ""
+  ],
+  [
+   "74711",
+   "Threaded Insert for 1\"-16 Thread",
+   ""
+  ],
+  [
+   "74712",
+   "Extension Sleeve for 1\"-12 Thread",
+   ""
+  ],
+  [
+   "74713",
+   "Threaded Insert for 1-1/2\"-16 Thread",
+   ""
+  ],
+  [
+   "94783",
+   "Adapter, Transmission, Spin-on Filter",
+   ""
+  ]
+ ],
+ "pn": [
+  "94783"
+ ],
+ "category": "Transmission"
+}

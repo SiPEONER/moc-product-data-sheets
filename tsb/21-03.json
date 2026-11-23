@@ -1,0 +1,35 @@
+{
+ "id": "21-03",
+ "date": "2021-03-16",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2021/TSB Vol. 21 No. 03 - New Honda CVT ATF adapter.pdf",
+ "title": "Honda ATF Adapter",
+ "tag": "New",
+ "lead": "MOC has developed a new transmission adapter to be used in the Honda CVT transmissions. This adapter is Part No. 94953. This adapter connects to the pressure sensor port on the transmission permitting a quick and reliable transmission fluid exchange.",
+ "body": [
+  "The pressure sensor location is shown in the diagram below as item number 9."
+ ],
+ "figures": [
+  {
+   "img": "21-03-1.jpg",
+   "caption": "Adapter, ATF, Honda CVT Pressure Port",
+   "pn": "94953"
+  },
+  {
+   "img": "21-03-2.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "94953",
+   "Adapter, ATF, Honda CVT Pressure Port",
+   ""
+  ]
+ ],
+ "pn": [
+  "94953"
+ ],
+ "category": "Transmission"
+}

@@ -1,0 +1,35 @@
+{
+ "id": "15-12",
+ "date": "2015-07-14",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2015/TSB Vol 15 No 12 - Return-less Fuel System Tool.pdf",
+ "title": "Fuel Pump Bypass Tool For Vehicles with Returnless Fuel Systems",
+ "tag": "New",
+ "lead": "MOC has developed a new tool (Part No. 73055) for use with the Cleaner Application Tool (Part No. 72450) to service vehicles with returnless fuel systems, which are found in most vehicles today. There is no longer a need to disable the fuel pump on vehicles with returnless fuel systems. The use of this new tool, in addition to other MOC fuel adapters, allows for fuel injector services via the fuel rail. Complete user instructions are included with each tool.",
+ "body": [],
+ "figures": [
+  {
+   "img": "15-12-1.jpg",
+   "caption": "Tool, Fuel Pump Bypass",
+   "pn": "73055"
+  }
+ ],
+ "parts": [
+  [
+   "73055",
+   "Tool, Fuel Pump Bypass",
+   ""
+  ],
+  [
+   "72450",
+   "Cleaner Application Tool",
+   ""
+  ]
+ ],
+ "pn": [
+  "73055",
+  "72450"
+ ],
+ "category": "Fuel"
+}

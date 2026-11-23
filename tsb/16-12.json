@@ -1,0 +1,100 @@
+{
+ "id": "16-12",
+ "date": "2016-09-02",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2016/TSB Vol 16 No 12 - Engine Flush Adapter - GM 3.6L (New).pdf",
+ "title": "Engine Flush Adapter for GM 3.6L Engines",
+ "tag": "New",
+ "lead": "MOC has developed a new Engine Flush Adapter for various GM models with 3.6L engines (Part No. 96135). This adapter is known to fit the vehicles listed in the table below.",
+ "body": [
+  "This adapter is now available for purchase."
+ ],
+ "figures": [
+  {
+   "img": "16-12-1.jpg",
+   "caption": "Adapter, Oil Filter, GM 3.6L",
+   "pn": "96135"
+  }
+ ],
+ "table": {
+  "title": "Known to fit",
+  "head": [
+   "Group",
+   "Vehicle"
+  ],
+  "rows": [
+   [
+    "Buick",
+    "Buick Enclave 3.6L – (2014)"
+   ],
+   [
+    "Cadillac",
+    "Cadillac ATS 3.6L – (2013-2015)"
+   ],
+   [
+    "Cadillac",
+    "Cadillac CTS 6.2L – (2012)"
+   ],
+   [
+    "Cadillac",
+    "Cadillac CTS 3.0L – (2010-2014)"
+   ],
+   [
+    "Cadillac",
+    "Cadillac CTS 3.6L – (2006-2015)"
+   ],
+   [
+    "Cadillac",
+    "Cadillac CTS 2.8L – (2006-2007)"
+   ],
+   [
+    "Cadillac",
+    "Cadillac SRX 2.8L – (2010-2011)"
+   ],
+   [
+    "Cadillac",
+    "Cadillac SRX 3.6L – (2006-2008)"
+   ],
+   [
+    "Cadillac",
+    "Cadillac STS 3.6L – (2007-2011)"
+   ],
+   [
+    "Chevy",
+    "Chevy Camaro 3.6L – (2012-2015)"
+   ],
+   [
+    "Chevy",
+    "Chevy Caprice 3.6L – (2012- 2015)"
+   ],
+   [
+    "Chevy",
+    "Chevy Colorado 3.6L – (2015)"
+   ],
+   [
+    "Chevy",
+    "Chevy Traverse 3.6L – (2014)"
+   ],
+   [
+    "Gmc",
+    "GMC Canyon 3.6L – (2015)"
+   ],
+   [
+    "Gmc",
+    "GMC Acadia 3.6L – (2014)"
+   ]
+  ]
+ },
+ "parts": [
+  [
+   "96135",
+   "Adapter, Oil Filter, GM 3.6L",
+   ""
+  ]
+ ],
+ "pn": [
+  "96135"
+ ],
+ "category": "Engine"
+}

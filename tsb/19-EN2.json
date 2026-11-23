@@ -1,0 +1,27 @@
+{
+ "id": "19-EN2",
+ "date": "2019-05-13",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2019/MOC_Bulletin_01_13MAY2019.pdf",
+ "title": "EDR-3 Firmware Update v.1.9",
+ "tag": "Notice",
+ "lead": "An important update that must be installed in all EDR-3 machines and modules as soon as possible.",
+ "body": [
+  "What's changing: when choosing an induction or GDI service, the customer is asked to enter the engine size (for example 4, 6 or 8 cylinders). The EDR-3 then uses a strategy specific to that engine size.",
+  "What you need to do: the firmware is available by email, or order a USB drive (part 71247) and ask for the firmware to be preloaded before it ships. Contact the Equipment Department."
+ ],
+ "figures": [],
+ "parts": [
+  [
+   "71247",
+   "USB drive with EDR-3 firmware v.1.9 preloaded",
+   "Ask for the firmware to be preloaded"
+  ]
+ ],
+ "pn": [
+  "71247"
+ ],
+ "category": "Fuel",
+ "volno": "Equipment Notice, May 2019"
+}

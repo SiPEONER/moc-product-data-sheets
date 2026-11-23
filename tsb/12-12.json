@@ -1,0 +1,42 @@
+{
+ "id": "12-12",
+ "date": "2012-04-26",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB Vol 12 No 12 New 30 sec Brake Chip.pdf",
+ "title": "Controller Board Chip for Pure Brake Fluid Exchanger Machines",
+ "tag": "New",
+ "lead": "MOC has developed a new Controller Board Chip (MOC Part No. 98035) for the Pure Brake™ Machine (MOC Part No. 98000) that is now available for purchase.",
+ "body": [
+  "This new chip will change the amount of time the machine flushes the brake fluid from each caliper from 45 seconds to 30 seconds. This chip is beneficial when adding the Auxiliary Brake Tank (MOC Part No. 98033) to your brake machine to use the 32oz brake fluid bottles."
+ ],
+ "figures": [
+  {
+   "img": "12-12-1.jpg",
+   "caption": "Chip, 30 seconds Brake Flush Program",
+   "pn": "98035"
+  }
+ ],
+ "parts": [
+  [
+   "98035",
+   "Chip, 30 seconds Brake Flush Program",
+   ""
+  ],
+  [
+   "98000",
+   "Pure Brake™ Machine",
+   ""
+  ],
+  [
+   "98033",
+   "Auxiliary Brake Tank",
+   ""
+  ]
+ ],
+ "pn": [
+  "98035",
+  "98000"
+ ],
+ "category": "Brake"
+}

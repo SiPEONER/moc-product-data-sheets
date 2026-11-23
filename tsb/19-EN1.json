@@ -1,0 +1,18 @@
+{
+ "id": "19-EN1",
+ "date": "2019-04-30",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2019/MOC_Bulletin_30APR2019.pdf",
+ "title": "GDI Service for Nissan Vehicles",
+ "tag": "Notice",
+ "lead": "Some EDR-3 machines go into limp mode while performing GDI services on Nissan vehicles with the engine at 3,000 RPM, normally within 3 to 5 minutes of starting the service.",
+ "body": [
+  "To prevent the vehicle from going into limp mode, perform the service at 1,000 RPM."
+ ],
+ "figures": [],
+ "parts": [],
+ "pn": [],
+ "category": "Fuel",
+ "volno": "Equipment Notice, April 2019"
+}

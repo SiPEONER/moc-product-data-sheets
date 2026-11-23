@@ -1,0 +1,138 @@
+{
+ "id": "13-28",
+ "date": "2013-09-26",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 28 - New Transmission Adapter Kits.pdf",
+ "title": "Transmission Adapter Kits & 94505 Standard ATF Adapter Kit Updated",
+ "tag": "New",
+ "lead": "MOC has updated the Standard Transmission Adapter Kit (Part No. 94505) by adding 5 new adapters—3 new Ford ATF adapters (Part Nos. 94786, 94787 and 94792) along with 2 new Lexus fill port adapters (Part No. 94778).",
+ "body": [
+  "See the attached the revised Transmission Adapter Chart.",
+  "In addition, we have developed NEW manufacturer specific transmission adapter kits."
+ ],
+ "figures": [],
+ "attachments": [
+  {
+   "img": "13-28-a2.jpg",
+   "caption": "Original attachment, page 2"
+  },
+  {
+   "img": "13-28-a3.jpg",
+   "caption": "Original attachment, page 3"
+  },
+  {
+   "img": "13-28-a4.jpg",
+   "caption": "Original attachment, page 4"
+  },
+  {
+   "img": "13-28-a5.jpg",
+   "caption": "Original attachment, page 5"
+  },
+  {
+   "img": "13-28-a6.jpg",
+   "caption": "Original attachment, page 6"
+  },
+  {
+   "img": "13-28-a7.jpg",
+   "caption": "Original attachment, page 7"
+  }
+ ],
+ "parts": [
+  [
+   "94861",
+   "Universal Kit",
+   ""
+  ],
+  [
+   "94873",
+   "Lexus Kit",
+   ""
+  ],
+  [
+   "94862",
+   "Acura Kit",
+   ""
+  ],
+  [
+   "94866",
+   "Lincoln/Mercury Kit",
+   ""
+  ],
+  [
+   "94863",
+   "Audi Kit",
+   ""
+  ],
+  [
+   "94864",
+   "BMW Kit",
+   ""
+  ],
+  [
+   "94865",
+   "Chrysler/Dodge Kit",
+   ""
+  ],
+  [
+   "94874",
+   "Mercedes Kit",
+   ""
+  ],
+  [
+   "94867",
+   "GM Kit",
+   ""
+  ],
+  [
+   "94875",
+   "Nissan Kit",
+   ""
+  ],
+  [
+   "94868",
+   "Hyundai Kit",
+   ""
+  ],
+  [
+   "94869",
+   "Jeep Kit",
+   ""
+  ],
+  [
+   "94876",
+   "Volvo Kit",
+   ""
+  ],
+  [
+   "94871",
+   "Kia Kit",
+   ""
+  ],
+  [
+   "94877",
+   "Volkswagen Kit",
+   ""
+  ],
+  [
+   "94872",
+   "Land Rover Kit",
+   ""
+  ],
+  [
+   "94505",
+   "Standard Transmission Adapter Kit",
+   ""
+  ],
+  [
+   "94778",
+   "Lexus fill port adapters",
+   ""
+  ]
+ ],
+ "pn": [
+  "94505",
+  "94778"
+ ],
+ "category": "Transmission"
+}

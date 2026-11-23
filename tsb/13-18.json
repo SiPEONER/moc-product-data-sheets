@@ -1,0 +1,22 @@
+{
+ "id": "13-18",
+ "date": "2013-06-04",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 18 Software Update for Smart Tech ATF.pdf",
+ "title": "Software Update for Smart Tech ATF Machines",
+ "tag": "Notice",
+ "lead": "MOC has released a new Firmware Revision (3.4) that we recommend to be installed in all Smart Tech™ Transmission Fluid Exchanging Machines as soon as possible.",
+ "body": [
+  "This update has added a new screen to allow the technician to adjust the fluid level after the drain and fill process. Our results have shown a more accurate service with the new update."
+ ],
+ "figures": [
+  {
+   "img": "13-18-1.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [],
+ "pn": [],
+ "category": "Transmission"
+}

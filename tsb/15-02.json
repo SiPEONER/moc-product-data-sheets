@@ -1,0 +1,36 @@
+{
+ "id": "15-02",
+ "date": "2015-01-07",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2015/TSB Vol 15 No 02 - Fluid Flow Regulator.pdf",
+ "title": "Fluid Flow Regulator for the Smart Tech ATF Machines",
+ "tag": "New",
+ "lead": "MOC has designed a new Fluid Flow Regulator to be used with the Smart Tech® ATF machine. This fitting will slow down the fluid exiting a vehicle to improve the 1:1 ratio during an exchange.",
+ "body": [
+  "A kit is now available to add this Flow Regulator to an existing machine."
+ ],
+ "benefits": [
+  "Fluid Flow Regulator",
+  "Clamps",
+  "Installation instructions"
+ ],
+ "figures": [
+  {
+   "img": "15-02-1.jpg",
+   "caption": "Smart Tech ATF Flow Regulator Kit",
+   "pn": "94886"
+  }
+ ],
+ "parts": [
+  [
+   "94886",
+   "Smart Tech ATF Flow Regulator Kit",
+   ""
+  ]
+ ],
+ "pn": [
+  "94886"
+ ],
+ "category": "Transmission"
+}

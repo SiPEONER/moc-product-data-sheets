@@ -1,0 +1,70 @@
+{
+ "id": "16-14",
+ "date": "2016-09-13",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2016/TSB Vol 16 No 14 - New Inline Filter for ATF machines.pdf",
+ "title": "Fluid Line Filter on ATF Machines",
+ "tag": "New",
+ "lead": "The MOC Machine and Equipment Department is replacing all filter screens on the New Tank Manifolds found on ATF machines with an inline filter (Part No. 94921), which will be installed on the new fluid line inside the machine before the first valve and pumps. The inline filter can catch more debris prior to clogging and is easier to clean.",
+ "body": [
+  "The old filter screen inside the manifold is discontinued and replaced by this inline filter. Photos are for reference.",
+  "Smart Tech II: the filter goes on the New Fluid hose inside the machine, between the diverter valve and the New Fluid tank (Fig. 1). Locate the hose coming up through the chassis from the New Fluid tank (Fig. 2), measure about 10in from the chassis surface and cut the hose. Install the filter between the cut ends with a pinch clamp (94098) on each side (Fig. 3). The arrow stamped on the filter must point toward the diverter valve.",
+  "Standard ATF machine: the filter goes on the New Fluid hose inside the machine, between the 3-way valve and the New Fluid tank (Fig. 4). Remove the hose and the 45° hose barb from the tee fitting on the 3-way valve (Fig. 5) and replace the barb with a straight barb fitting (94071). Cut 2in off the end of the black hose and reattach it to the barb, then install the filter between the 2in piece and the hose (Fig. 6). The arrow stamped on the filter must point toward the 3-way valve."
+ ],
+ "figures": [
+  {
+   "img": "16-14-1.jpg",
+   "caption": ""
+  },
+  {
+   "img": "16-14-2.jpg",
+   "caption": "Filter in Standard ATF Machine (94500) Filter in Smart Tech ATF Machine (95850)"
+  },
+  {
+   "img": "16-14-3.jpg",
+   "caption": ""
+  },
+  {
+   "img": "16-14-4.jpg",
+   "caption": "Fig. 2"
+  },
+  {
+   "img": "16-14-5.jpg",
+   "caption": "Fig. 3"
+  },
+  {
+   "img": "16-14-6.jpg",
+   "caption": ""
+  },
+  {
+   "img": "16-14-7.jpg",
+   "caption": ""
+  },
+  {
+   "img": "16-14-8.jpg",
+   "caption": "Fig. 6"
+  }
+ ],
+ "parts": [
+  [
+   "94921",
+   "Inline filter",
+   ""
+  ],
+  [
+   "94098",
+   "Pinch clamp",
+   "Smart Tech II"
+  ],
+  [
+   "94071",
+   "Straight barb fitting",
+   "Standard ATF machine"
+  ]
+ ],
+ "pn": [
+  "94921"
+ ],
+ "category": "Transmission"
+}

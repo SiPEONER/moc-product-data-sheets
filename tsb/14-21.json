@@ -1,0 +1,29 @@
+{
+ "id": "14-21",
+ "date": "2014-11-10",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2014/TSB Vol 14 No 21 - Brake Used Tank Manifold.pdf",
+ "title": "Assembled Tank Manifold for Pure Brake Machines",
+ "tag": null,
+ "lead": "MOC has created an Assembled Used Tank Manifold (Part No. 98232) for the brake machines that are now available for purchase.",
+ "body": [],
+ "figures": [
+  {
+   "img": "14-21-1.jpg",
+   "caption": "Manifold, Brake, Used Tank, Assembled",
+   "pn": "98232"
+  }
+ ],
+ "parts": [
+  [
+   "98232",
+   "Manifold, Brake, Used Tank, Assembled",
+   ""
+  ]
+ ],
+ "pn": [
+  "98232"
+ ],
+ "category": "Brake"
+}

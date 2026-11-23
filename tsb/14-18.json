@@ -1,0 +1,46 @@
+{
+ "id": "14-18",
+ "date": "2014-12-11",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2014/TSB Vol 14 No 18 - MBZ Induction tools.pdf",
+ "title": "Induction Service Tools for Mercedes V6 & V8 engines",
+ "tag": "New",
+ "lead": "MOC has developed 2 new adapters (Part No. 72166 and 72167) for use with the Deluxe Induction Tool (Part No. 72172) when performing an induction service on certain Mercedes vehicles.",
+ "body": [
+  "Part No. 72166, for the V6 twin turbo (276 engines), connects at the vacuum hose.",
+  "Part No. 72167, for the V8 turbo (278 engines), connects at the temp sensor."
+ ],
+ "figures": [
+  {
+   "img": "14-18-1.jpg",
+   "caption": "(72166, 72167)"
+  },
+  {
+   "img": "14-18-2.jpg",
+   "caption": "Tool, Induction, MBZ V6 (276 engine) Tool, Induction, MBZ V8 (278 engine)"
+  }
+ ],
+ "parts": [
+  [
+   "72166",
+   "Adapter, Mercedes V6 Twin Turbo (276 engine)",
+   ""
+  ],
+  [
+   "72172",
+   "Deluxe Induction Tool",
+   ""
+  ],
+  [
+   "72167",
+   "Adapter, Mercedes V8 Turbo (278 engine)",
+   ""
+  ]
+ ],
+ "pn": [
+  "72166",
+  "72172"
+ ],
+ "category": "Fuel"
+}

@@ -1,0 +1,79 @@
+{
+ "id": "15-10",
+ "date": "2015-06-11",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2015/TSB Vol 15 No 10 - New GM Trans adapter to bypass thermostat.pdf",
+ "title": "GMC/Chevy Transmission Adapter",
+ "tag": "New",
+ "lead": "MOC has developed a new transmission adapter for use on GMC/Chevy transmissions (Part No. 94795). This new adapter is intended to be used together with the existing adapter (Part No. 94688) to bypass the thermostat for a quicker service. Part No. 94795 connects to the plug on the external cooler thermal bypass valve in various vehicles, and Part No. 94688, connects to the cooler line at the thermal bypass valve.",
+ "body": [],
+ "figures": [
+  {
+   "img": "15-10-1.jpg",
+   "caption": "Adapter, ATF, 14mm GM Thermostat Adapter, 3/8in female Quick Disconnect (94795, 94688)"
+  },
+  {
+   "img": "15-10-2.jpg",
+   "caption": ""
+  }
+ ],
+ "table": {
+  "title": "Known to fit",
+  "head": [
+   "Group",
+   "Vehicle"
+  ],
+  "rows": [
+   [
+    "2015 GM vehicles",
+    "Cadillac Escalade 6.2L"
+   ],
+   [
+    "2015 GM vehicles",
+    "Cadillac Escalade ESV 6.2L"
+   ],
+   [
+    "2015 GM vehicles",
+    "Chevy Silverado 4.3L, 5.3L, & 6.2L"
+   ],
+   [
+    "2015 GM vehicles",
+    "Chevy Suburban 5.3L"
+   ],
+   [
+    "2015 GM vehicles",
+    "Chevy Tahoe 5.3L & 6.2L"
+   ],
+   [
+    "2015 GM vehicles",
+    "GMC Sierra 4.3L, 5.3L, & 6.2L"
+   ],
+   [
+    "2014 GM vehicles",
+    "Chevy Silverado 4.3L, 5.3L, & 6.2L"
+   ],
+   [
+    "2014 GM vehicles",
+    "GMC Sierra 4.3L, 5.3L, & 6.2L"
+   ]
+  ]
+ },
+ "parts": [
+  [
+   "94795",
+   "Adapter, ATF, 14mm GM Thermostat",
+   ""
+  ],
+  [
+   "94688",
+   "Adapter, 3/8in female Quick Disconnect",
+   ""
+  ]
+ ],
+ "pn": [
+  "94795",
+  "94688"
+ ],
+ "category": "Transmission"
+}

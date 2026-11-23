@@ -1,0 +1,45 @@
+{
+ "id": "18-04",
+ "date": "2018-03-01",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2018/TSB Vol 18 No 04 - Power Braking Warning.pdf",
+ "title": "Power Braking Warning Decal Kit",
+ "tag": "New",
+ "lead": "Some technicians have been power braking while performing transmission fluid changes with MOC equipment. Power braking with the car running can damage MOC transmission service equipment. A kit of warning decals is now available to add to transmission service machines in the field (Kit 94423).",
+ "body": [
+  "Review the materials with all service technicians and other users of the equipment. MOC strongly recommends that technicians inspect all hoses, crimps, adapters and related components before every service, and that field personnel inspect them during routine visits. Check each machine for power braking damage before installing the warning decal."
+ ],
+ "steps": [
+  "External red and black service hoses: check both ends of each hose for swelling before the clamp or ferrule (Figure 1).",
+  "Check that the fitting crimped or clamped to each hose end is not loose and has not pulled away from the hose, exposing the barbed fitting.",
+  "Grab each fitting and try to twist it. If it spins inside the tubing, the connection is too loose and there may be damage.",
+  "Feel the length of the hose: it should not feel spongy or squishy. Check the color; heat damage changes the color of the hose. Check that the diameter is consistent along the whole length.",
+  "Open the machine and inspect the interior hoses the same way: swelling at the clamp (Figure 2), loose fittings that twist, a spongy feel or changed color."
+ ],
+ "figures": [
+  {
+   "img": "18-04-1.jpg",
+   "caption": "Figure 1: fitting flush against the hose end, diameter consistent (good); fitting pulled away with barb exposed, hose swollen at the ferrule (damaged)"
+  },
+  {
+   "img": "18-04-2.jpg",
+   "caption": "Figure 2: interior hoses, good and damaged"
+  },
+  {
+   "img": "18-04-3.jpg",
+   "caption": ""
+  }
+ ],
+ "parts": [
+  [
+   "94423",
+   "Kit, Power Braking Warning Decal",
+   "For machines in the field"
+  ]
+ ],
+ "pn": [
+  "94423"
+ ],
+ "category": "Brake"
+}

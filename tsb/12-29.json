@@ -1,0 +1,34 @@
+{
+ "id": "12-29",
+ "date": "2012-11-29",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB Vol 12 No 29 Single Pump Coolant Hose.pdf",
+ "title": "Drain Hose For Single Pump Coolant Machines",
+ "tag": "New",
+ "lead": "MOC has developed a new more durable Drain Hose for use with the Single Pump Coolant Machines. This new Drain Hose will replace the existing Drain Hose (Part No. 94459) and be available on all Single Pump Coolant Machines manufactured after 10/1/12.",
+ "body": [],
+ "figures": [
+  {
+   "img": "12-29-1.jpg",
+   "caption": "Assembly, Used Fluid Drain Hose",
+   "pn": "94465"
+  }
+ ],
+ "parts": [
+  [
+   "94465",
+   "Assembly, Used Fluid Drain Hose",
+   ""
+  ],
+  [
+   "94459",
+   "Drain Hose",
+   ""
+  ]
+ ],
+ "pn": [
+  "94459"
+ ],
+ "category": "Cooling"
+}

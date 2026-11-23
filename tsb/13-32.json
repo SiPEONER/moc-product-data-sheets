@@ -1,0 +1,29 @@
+{
+ "id": "13-32",
+ "date": "2013-11-14",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 32 - Engine Flush Adapter - Hyundai 4.6L (New).pdf",
+ "title": "Engine Flush Adapter for Hyundai/Kia 4.6L Engines",
+ "tag": "New",
+ "lead": "MOC has developed a new Engine Flush Adapter for 4.6L Engines found in various models of Hyundai and Kia vehicle's. (Part No. 96129). This adapter is known to fit the Kia Borrego, as well as the Hyundai Genesis and Equus.",
+ "body": [],
+ "figures": [
+  {
+   "img": "13-32-1.jpg",
+   "caption": "Adapter, Oil Filter, Hyundai 4.6L",
+   "pn": "96129"
+  }
+ ],
+ "parts": [
+  [
+   "96129",
+   "Adapter, Oil Filter, Hyundai 4.6L",
+   ""
+  ]
+ ],
+ "pn": [
+  "96129"
+ ],
+ "category": "Engine"
+}

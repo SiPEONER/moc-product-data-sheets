@@ -1,0 +1,29 @@
+{
+ "id": "18-03",
+ "date": "2018-02-09",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2018/TSB Vol 18 No 03 - Air Coolant Machine Conversion Kit.pdf",
+ "title": "Conversion Kit for the Air Operated Coolant Machine",
+ "tag": "New",
+ "lead": "MOC has developed a new kit to convert an existing MOC Coolant Machine into the new Air Operated Coolant Machine. This easy to install kit allows the customer to take an existing Single Pump Coolant Machine or Double Pump Coolant Machine and convert it to the new Air Operated Coolant Machine. The conversion requires replacement of the internal components while utilizing the existing chassis and fluid tanks. The kit comes with step by step, color coded, user instructions.",
+ "body": [],
+ "figures": [
+  {
+   "img": "18-03-1.jpg",
+   "caption": "Conversion Kit, Air Coolant",
+   "pn": "95335"
+  }
+ ],
+ "parts": [
+  [
+   "95335",
+   "Conversion Kit, Air Coolant",
+   ""
+  ]
+ ],
+ "pn": [
+  "95335"
+ ],
+ "category": "Cooling"
+}

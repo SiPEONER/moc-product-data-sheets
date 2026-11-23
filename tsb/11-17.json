@@ -1,0 +1,35 @@
+{
+ "id": "11-17",
+ "date": "2011-12-08",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2011/TSB Vol 11 No 17 ATF Heat Exchanger 12-9-11.pdf",
+ "title": "Heat Exchanger for ATF Machines",
+ "tag": "New",
+ "lead": "MOC has developed a new Heat Exchanger Kit (Part No. 75700) to be used with the Automatic Transmission fluid exchange machines. This Heat Exchanger is used to decrease the service time on vehicles with a thermo valve inside the transmission by keeping the valve open once the transmission fluid exchange starts.",
+ "body": [
+  "It is now available to order.",
+  "Included in the Kit are all components needed for the installation of the Heat Exchanger to the ATF machine.",
+  "Once installed, the machine will function as normal. On vehicles with a thermo valve, MOC recommends the vehicle be driven for a few miles to help warm up the transmission, then connect the adapters.",
+  "With the adapters connected, the machine will show the flow of transmission fluid when the transmission reaches operating temperature. This hot fluid will be flowing through the connected lines which will \"warm up\" the Heat Exchanger.",
+  "When starting the service, the cold, new, fluid will travel through the Heat Exchanger increasing the temperature of the new fluid to the temperature needed to keep the valve in the open position."
+ ],
+ "figures": [
+  {
+   "img": "11-17-1.jpg",
+   "caption": "Heat Exchanger KIT Heat Exchanger mounted to a machine",
+   "pn": "75700"
+  }
+ ],
+ "parts": [
+  [
+   "75700",
+   "Heat Exchanger KIT Heat Exchanger mounted to a machine",
+   ""
+  ]
+ ],
+ "pn": [
+  "75700"
+ ],
+ "category": "Transmission"
+}

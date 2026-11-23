@@ -1,0 +1,37 @@
+{
+ "id": "13-27",
+ "date": "2013-09-26",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2013/TSB Vol 13 No 27 - New Optimizer tool (BMW Twin Turbo).pdf",
+ "title": "Optimizer Tool for BMW Twin Turbo Engines",
+ "tag": "New",
+ "lead": "MOC has developed a new Foaming Intake Tool (Part No. 75017) to accommodate the use of Optimizer™ on various BMW models. While the Tool is specifically known to fit vehicles with N63 Twin Turbo engines, it may also fit other models.",
+ "body": [
+  "This new Tool connects at the Charge Air Temperature and Pressure Sensor located on the intercoolers.",
+  "The MOC Optimizer™ product (Part No. 16501) is sold separately."
+ ],
+ "figures": [
+  {
+   "img": "13-27-1.jpg",
+   "caption": "Tool, Foaming Intake, BMW Twin Turbo",
+   "pn": "75017"
+  }
+ ],
+ "parts": [
+  [
+   "75017",
+   "Tool, Foaming Intake, BMW Twin Turbo",
+   ""
+  ],
+  [
+   "16501",
+   "Optimizer",
+   ""
+  ]
+ ],
+ "pn": [
+  "75017"
+ ],
+ "category": "Fuel"
+}

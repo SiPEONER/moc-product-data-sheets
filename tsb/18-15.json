@@ -1,0 +1,21 @@
+{
+ "id": "18-15",
+ "date": "2018-09-28",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2018/TSB Vol 18 No 15 - EDR-3 Induction Service RPM.pdf",
+ "title": "EDR-3 Induction Service New RPM Requirement",
+ "tag": null,
+ "lead": "MOC has learned through additional induction service testing with the MOC EDR-3 machine that adjusting the vehicle engine speed to 3,000 rpm enhances product performance and insures optimum product distribution between cylinders. The increased RPM results in additional air volume to the engine allowing maximum results.",
+ "body": [
+  "Note: The firmware for the EDR-3 machine has been updated from Rev 0.1.6 to Rev 0.1.7. Contact the Machine and Equipment department to receive the current revision if you do not have the most current firmware in your machine.",
+  "The firmware update contains the following changes:"
+ ],
+ "steps": [
+  "User is instructed to perform the EGR service at 2,000 rpm."
+ ],
+ "figures": [],
+ "parts": [],
+ "pn": [],
+ "category": "Fuel"
+}

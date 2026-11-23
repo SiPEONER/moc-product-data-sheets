@@ -1,0 +1,28 @@
+{
+ "id": "12-26",
+ "date": "2012-10-23",
+ "rev": "1.0",
+ "dept": "Machine & Equipment",
+ "source": "2012/TSB  Vol 12 No 26 Breather Hole Options.pdf",
+ "title": "Deluxe Induction Tool Breather Hole Options",
+ "tag": null,
+ "lead": "MOC has created two additional \"Breather Hole\" fittings for the Deluxe Induction Tool (Part No. 72172). This will provide the user with different options when it comes to the amount of air (additional or less) it wants to allow into the system during the service.",
+ "body": [],
+ "figures": [
+  {
+   "img": "12-26-1.jpg",
+   "caption": "Ø.06\" Ø.05\" Ø.04\" Ø.06\" Ø.05\" Ø.04\" (72173, 72165, 72164)"
+  }
+ ],
+ "parts": [
+  [
+   "72172",
+   "Deluxe Induction Tool",
+   ""
+  ]
+ ],
+ "pn": [
+  "72172"
+ ],
+ "category": "Fuel"
+}
