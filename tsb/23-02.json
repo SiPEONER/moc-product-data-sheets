@@ -1,0 +1,39 @@
+{
+ "id": "23-02",
+ "date": "2023-08-28",
+ "category": "Transmission",
+ "tag": "New",
+ "pn": [
+  "94959"
+ ],
+ "title": "Mazda ATF Adapter",
+ "lead": "A new transmission adapter for Mazda Skyactiv transmissions.",
+ "steps": [
+  "Remove the external cooler from the transmission.",
+  "Bolt the adapter directly to the transmission with the same 3 bolts that attach the cooler."
+ ],
+ "body": [
+  "Two simple steps make for a quick, reliable transmission fluid exchange."
+ ],
+ "figures": [
+  {
+   "img": "23-02-1.jpg",
+   "caption": "Adapter, ATF, Mazda",
+   "pn": "94959"
+  },
+  {
+   "img": "23-02-2.jpg",
+   "caption": "Mazda cooler location"
+  }
+ ],
+ "parts": [
+  [
+   "94959",
+   "Adapter, ATF, Mazda",
+   "Mazda Skyactiv transmissions"
+  ]
+ ],
+ "source": "New Mazda ATF Adapter Vol. 23 No. 2.pdf",
+ "rev": "1.0",
+ "dept": "Machine & Equipment"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "26-04",
+ "date": "2026-10-07",
+ "category": "Transmission",
+ "tag": "New",
+ "pn": [
+  "94972"
+ ],
+ "title": "Nissan 9-Speed ATF Adapter",
+ "lead": "A new transmission adapter for Nissan 9-speed transmissions. It connects directly to the transmission in two steps.",
+ "steps": [
+  "Remove the external cooler from the transmission.",
+  "Bolt the adapter directly to the transmission with the same 4 bolts that secure the cooler."
+ ],
+ "benefits": [
+  "Fast installation and removal",
+  "Uses the existing transmission mounting hardware",
+  "Reliable connection point for fluid exchange services",
+  "Less setup time, more efficient service"
+ ],
+ "figures": [
+  {
+   "img": "26-04-1.jpg",
+   "caption": "Adapter, ATF, Nissan 9-Speed",
+   "pn": "94972"
+  },
+  {
+   "img": "26-04-2.jpg",
+   "caption": "ATF cooler location"
+  }
+ ],
+ "parts": [
+  [
+   "94972",
+   "Adapter, ATF, Nissan 9-Speed",
+   "Nissan 9-speed"
+  ]
+ ],
+ "source": "Vol. 26 No. 04 - New Nissan ATF Adapter.pdf",
+ "rev": "1.0",
+ "dept": "Machine & Equipment"
+}

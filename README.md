@@ -107,6 +107,14 @@ After the sheets, the build writes the public library site to `web/`: one card p
 
 `out/` (working files), `site/` (the internal review page), `drafts/`, `drafts_ad/`, `img_ad/` (extraction output) and `review/` (the product-expert review list) are kept out of git; they live in the build kit in Andy's MOC-BRAND-STYLE-GUIDE folder.
 
+## Technical Service Bulletins (MOC-TSB, added 2026-11-23)
+
+- `tsb/<vol>-<no>.json` is one bulletin (Machine & Equipment Department); `tsb/img/` holds its figures. `python3 tools/tsb.py` builds every PDF (`tsb_template.html`, one Letter page, fitted by shrinking the photo row) and the pages at `/tsb/` and `/tsb/<vol>-<no>`.
+- Sources: OneDrive "MOC Support - Technical Service Bulletins/<year>/" (15 PDFs, Vol. 22 No. 01 to Vol. 26 No. 04) plus the EDR Advanced Module draft in "MOC_PDS_TSB_Art_Team_Package" (filed as Vol. 26 No. 05, Andy 2026-11-23).
+- Figures are cropped from 400 dpi renders of the original PDFs, so arrows and labels drawn over the photos stay.
+- Copy is a light brand edit (Andy, 2026-11-23): same facts, part numbers, steps and dates; "NEW!!" becomes the NEW tag; stock openers trimmed; typos fixed. Each JSON keeps its `source` file name.
+- A new bulletin: add `tsb/<vol>-<no>.json` and its images, run `python3 tools/tsb.py`, then `build.py`'s site step to update the nav count.
+
 ## Template rules
 
 - **Page:** US Letter, one page, 0.7 in side margins. Black band at the top, black footer band.

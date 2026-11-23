@@ -1,0 +1,50 @@
+{
+ "id": "26-02",
+ "date": "2026-06-09",
+ "category": "Cooling",
+ "tag": "New",
+ "pn": [
+  "95398"
+ ],
+ "title": "2-Tube Coolant Adapter",
+ "lead": "A new cone adapter for the 2-Tube Coolant machine, for vehicles with shorter, wider radiator openings, such as certain Dodge models.",
+ "benefits": [
+  "Seals better on difficult radiator neck designs",
+  "Faster, more reliable coolant exchange",
+  "Less chance of leaks or improper seating during the service"
+ ],
+ "body": [
+  "Effective immediately, the adapter ships with every new 2-Tube Coolant machine, which now includes four adapters."
+ ],
+ "figures": [
+  {
+   "img": "26-02-1.jpg",
+   "caption": "The four adapters now included with the 2-Tube Coolant machine: 95391, 95392, 95398 (new) and 95393"
+  }
+ ],
+ "parts": [
+  [
+   "95398",
+   "Cone adapter, 2-Tube Coolant, short wide radiator necks",
+   "New; now included with every machine"
+  ],
+  [
+   "95391",
+   "Cone adapter, 2-Tube Coolant",
+   "Included"
+  ],
+  [
+   "95392",
+   "Cone adapter, 2-Tube Coolant",
+   "Included"
+  ],
+  [
+   "95393",
+   "Cone adapter with hose, 2-Tube Coolant",
+   "Included"
+  ]
+ ],
+ "source": "Vol. 26 No. 02 - New Adapter for 2 Tube Coolant.pdf",
+ "rev": "1.0",
+ "dept": "Machine & Equipment"
+}

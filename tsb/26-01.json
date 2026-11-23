@@ -1,0 +1,41 @@
+{
+ "id": "26-01",
+ "date": "2026-06-09",
+ "category": "Fuel",
+ "tag": "New",
+ "pn": [
+  "72490"
+ ],
+ "title": "Cleaner Application Tool (CAT Tool)",
+ "lead": "A new Cleaner Application Tool with an updated, modern design. It replaces the previous models, 72450 and 72480.",
+ "body": [
+  "You can see the fluid level in the tank throughout the cleaning service, for better control and consistent application."
+ ],
+ "benefits": [
+  "Fluid level visible throughout the service",
+  "Updated ergonomic, streamlined design",
+  "Easier to use during operation",
+  "Lighter weight"
+ ],
+ "figures": [
+  {
+   "img": "26-01-1.jpg",
+   "caption": "Cleaner Application Tool",
+   "pn": "72490"
+  }
+ ],
+ "parts": [
+  [
+   "72490",
+   "Cleaner Application Tool (CAT Tool)",
+   "Replaces 72450 and 72480"
+  ]
+ ],
+ "supersedes": [
+  "72450",
+  "72480"
+ ],
+ "source": "Vol. 26 No. 01 - New CAT Tool.pdf",
+ "rev": "1.0",
+ "dept": "Machine & Equipment"
+}

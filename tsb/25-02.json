@@ -1,0 +1,34 @@
+{
+ "id": "25-02",
+ "date": "2025-11-05",
+ "category": "Brake",
+ "tag": "New",
+ "pn": [
+  "98407B"
+ ],
+ "title": "Honda & Acura Brake Adapter",
+ "lead": "A new brake adapter for Honda and Acura vehicles. It replaces the 98407A adapter.",
+ "body": [
+  "Angled locking tabs match the OEM cap, so the adapter locks into place more easily and holds pressure through the entire service, for a quick, reliable brake fluid exchange."
+ ],
+ "figures": [
+  {
+   "img": "25-02-1.jpg",
+   "caption": "Adapter, Brake, Honda/Acura",
+   "pn": "98407B"
+  }
+ ],
+ "parts": [
+  [
+   "98407B",
+   "Adapter, Brake, Honda/Acura",
+   "Replaces 98407A"
+  ]
+ ],
+ "supersedes": [
+  "98407A"
+ ],
+ "source": "TSB Vol. 25 No. 02 - Honda and Acura Brake Adpater.pdf",
+ "rev": "1.0",
+ "dept": "Machine & Equipment"
+}

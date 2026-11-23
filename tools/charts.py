@@ -109,7 +109,7 @@ INDEX = """<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 <link rel="icon" href="../icon.svg" type="image/svg+xml"><link rel="stylesheet" href="chart.css"></head><body>
 <div class="page"><div class="sheet">
 <header class="masthead in"><a class="brand" href="../"><img src="../logo.svg" alt="MOC Products" width="40" height="41"><span class="micro">Product Library</span></a>
-<nav class="libs" aria-label="Libraries"><a href="../">Data Sheets</a><a href="../ads">Ad Sheets</a><a href="./" aria-current="page">Compatibility Charts</a><a href="../images/">Product Images</a></nav></header>
+<nav class="libs" aria-label="Libraries"><a href="../">Data Sheets</a><a href="../ads">Ad Sheets</a><a href="./" aria-current="page">Compatibility Charts</a><a href="../tsb/">Service Bulletins</a><a href="../images/">Product Images</a></nav></header>
 {% if drafts %}<p class="draft micro">Drafts // Pending product expert review // Not for distribution</p>{% endif %}
 <main><header class="hero in"><p class="micro kicker">Doc no. MOC-CHT // Compatibility charts</p><h1 class="title">Compatibility Charts</h1>
 <p class="lead">Find the MOC fluid that matches an OEM specification. Each chart lists the factory fluid specs and part numbers a product replaces.</p></header>

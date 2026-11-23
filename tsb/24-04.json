@@ -1,0 +1,31 @@
+{
+ "id": "24-04",
+ "date": "2024-08-01",
+ "category": "Fuel",
+ "tag": "New",
+ "pn": [
+  "72150"
+ ],
+ "title": "Deluxe Induction Service Tool",
+ "lead": "A new Deluxe Induction Tool with a cone adapter, giving technicians more service port options.",
+ "body": [
+  "The cone adapter is for vehicles with no vacuum hose connection near the throttle body: use it in the MAP sensor location to perform the service. The tool makes for a quick, reliable induction cleaning service. Both adapters are included."
+ ],
+ "figures": [
+  {
+   "img": "24-04-1.jpg",
+   "caption": "Deluxe Induction Tool with Cone",
+   "pn": "72150"
+  }
+ ],
+ "parts": [
+  [
+   "72150",
+   "Deluxe Induction Tool with Cone",
+   "Both adapters included"
+  ]
+ ],
+ "source": "TSB Vol 24 No 4 - 2024 New Induction Tool.pdf",
+ "rev": "1.0",
+ "dept": "Machine & Equipment"
+}

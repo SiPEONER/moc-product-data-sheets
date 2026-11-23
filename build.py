@@ -304,8 +304,9 @@ def build_site(env):
     tpl = env.get_template("web_template.html")
     im = WEB / "images" / "manifest.csv"  # product image library (tools/images.py)
     images_total = max(len(im.read_text().splitlines()) - 1, 0) if im.exists() else 0
+    tsb_total = len(list((ROOT / "tsb").glob("*.json")))  # technical service bulletins (tools/tsb.py)
     for lib in libraries:
-        (WEB / lib["page"]).write_text(tpl.render(lib=lib, libraries=libraries, noindex=NOINDEX, updated=updated, images_total=images_total))
+        (WEB / lib["page"]).write_text(tpl.render(lib=lib, libraries=libraries, noindex=NOINDEX, updated=updated, images_total=images_total, tsb_total=tsb_total))
     if NOINDEX:
         (WEB / "robots.txt").write_text("User-agent: *\nAllow: /og-logo.png\nDisallow: /\n")
     elif (WEB / "robots.txt").exists():

@@ -1,0 +1,39 @@
+{
+ "id": "23-01",
+ "date": "2023-08-28",
+ "category": "Transmission",
+ "tag": "New",
+ "pn": [
+  "94961"
+ ],
+ "title": "Ford ATF Adapter",
+ "lead": "A new transmission adapter for Ford 10-speed transmissions.",
+ "body": [
+  "Smaller vehicles such as the Ranger and Explorer need this adapter: the space around the cooler is too tight to reach the line pressure port. The adapter bolts directly to the transmission with the same bolt that attaches the cooler, for a quick, reliable transmission fluid exchange."
+ ],
+ "figures": [
+  {
+   "img": "23-01-1.jpg",
+   "caption": "Adapter, ATF, Ford 10-Speed",
+   "pn": "94961"
+  },
+  {
+   "img": "23-01-2.jpg",
+   "caption": "Transmission connection point, cooler removed"
+  },
+  {
+   "img": "23-01-3.jpg",
+   "caption": "Ford transmission cooler"
+  }
+ ],
+ "parts": [
+  [
+   "94961",
+   "Adapter, ATF, Ford 10-Speed",
+   "Ranger, Explorer and other Ford 10-speed applications"
+  ]
+ ],
+ "source": "New Ford ATF Adapter Vol. 23 No. 1.pdf",
+ "rev": "1.0",
+ "dept": "Machine & Equipment"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "24-05",
+ "date": "2024-08-01",
+ "category": "Transmission",
+ "tag": "New",
+ "pn": [
+  "94962"
+ ],
+ "title": "GM ATF Adapter",
+ "lead": "A new transmission adapter for GM 8L90 transmissions that saves time and reduces the risk of cross-threading.",
+ "body": [
+  "The adapter connects to the transmission fill port. Thread it in by hand: the threads are a small, fine pitch, and hand-threading helps prevent cross-threading.",
+  "It works with MOC's existing open hose adapter, 94640. Push the open hose over the barbed end of the new adapter and secure it with a worm gear clamp to connect to the machine."
+ ],
+ "figures": [
+  {
+   "img": "24-05-2.jpg",
+   "caption": "Adapter, ATF, GM Filler",
+   "pn": "94962"
+  },
+  {
+   "img": "24-05-1.jpg",
+   "caption": "Open hose adapter, required",
+   "pn": "94640"
+  }
+ ],
+ "parts": [
+  [
+   "94962",
+   "Adapter, ATF, GM Filler",
+   "GM 8L90"
+  ],
+  [
+   "94640",
+   "Open hose adapter (existing)",
+   "Required with 94962; secure with a worm gear clamp"
+  ]
+ ],
+ "source": "TSB Vol 24 No 5 - 2024 New GM ATF Adapter.pdf",
+ "rev": "1.0",
+ "dept": "Machine & Equipment"
+}

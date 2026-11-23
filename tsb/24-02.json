@@ -1,0 +1,42 @@
+{
+ "id": "24-02",
+ "date": "2024-06-14",
+ "category": "Fuel",
+ "tag": "New",
+ "pn": [
+  "73068",
+  "73069"
+ ],
+ "title": "Mercedes Fuel Adapters",
+ "lead": "A new set of adapters for Mercedes-Benz fuel line services.",
+ "body": [
+  "The set connects to the fuel supply hose and the fuel rail, for a quick, reliable fuel system cleaning that removes deposits and improves drivability."
+ ],
+ "figures": [
+  {
+   "img": "24-02-1.jpg",
+   "caption": "Adapter, Fuel, 14 mm Male Flare",
+   "pn": "73068"
+  },
+  {
+   "img": "24-02-2.jpg",
+   "caption": "Adapter, Fuel, 14 mm Female Flare",
+   "pn": "73069"
+  }
+ ],
+ "parts": [
+  [
+   "73068",
+   "Adapter, Fuel, 14 mm Male Flare",
+   ""
+  ],
+  [
+   "73069",
+   "Adapter, Fuel, 14 mm Female Flare",
+   ""
+  ]
+ ],
+ "source": "TSB Vol 24 No 2 - New Mercedes Fuel Adapters.pdf",
+ "rev": "1.0",
+ "dept": "Machine & Equipment"
+}

@@ -1,0 +1,39 @@
+{
+ "id": "24-01",
+ "date": "2024-06-14",
+ "category": "Transmission",
+ "tag": "New",
+ "pn": [
+  "94964"
+ ],
+ "title": "Kia & Hyundai ATF Adapter",
+ "lead": "A new transmission adapter for Kia and Hyundai COGF1 CVT transmissions.",
+ "steps": [
+  "Remove the external cooler from the transmission.",
+  "Bolt the adapter directly to the transmission with the same 3 bolts that attach the cooler."
+ ],
+ "body": [
+  "Two simple steps make for a quick, reliable transmission fluid exchange."
+ ],
+ "figures": [
+  {
+   "img": "24-01-1.jpg",
+   "caption": "Adapter, ATF, Kia/Hyundai",
+   "pn": "94964"
+  },
+  {
+   "img": "24-01-2.jpg",
+   "caption": "ATF cooler location"
+  }
+ ],
+ "parts": [
+  [
+   "94964",
+   "Adapter, ATF, Kia/Hyundai",
+   "Kia and Hyundai COGF1 CVT"
+  ]
+ ],
+ "source": "TSB Vol 24 No 1 - New - Kia ATF Adapter.pdf",
+ "rev": "1.0",
+ "dept": "Machine & Equipment"
+}

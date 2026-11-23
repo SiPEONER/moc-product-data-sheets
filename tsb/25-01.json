@@ -1,0 +1,45 @@
+{
+ "id": "25-01",
+ "date": "2025-11-05",
+ "category": "Fuel",
+ "tag": "New",
+ "pn": [
+  "73491"
+ ],
+ "title": "BMW Induction Service Adapter",
+ "lead": "A new induction service adapter for BMW vehicles.",
+ "body": [
+  "It connects through the 73446 adapter for a 90-degree connection, or the 73447 adapter for a straight connection. The MAP sensor cup on the adapter lets the MAP sensor stay connected during the service, which helps prevent setting a code. The result is a quicker, more reliable induction cleaning service."
+ ],
+ "figures": [
+  {
+   "img": "25-01-1.jpg",
+   "caption": "Adapter, BMW, MAP Sensor",
+   "pn": "73491"
+  },
+  {
+   "img": "25-01-2.jpg",
+   "caption": "Universal induction adapters: 73446 (90 degree) and 73447 (straight)"
+  }
+ ],
+ "parts": [
+  [
+   "73491",
+   "Adapter, BMW, MAP Sensor",
+   ""
+  ],
+  [
+   "73446",
+   "Universal induction adapter, 90 degree",
+   "Mates with 73491"
+  ],
+  [
+   "73447",
+   "Universal induction adapter, straight",
+   "Mates with 73491"
+  ]
+ ],
+ "source": "TSB Vol. 25 No 01 - BMW Induction Service Adapter.pdf",
+ "rev": "1.0",
+ "dept": "Machine & Equipment"
+}

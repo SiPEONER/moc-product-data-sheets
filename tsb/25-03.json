@@ -1,0 +1,39 @@
+{
+ "id": "25-03",
+ "date": "2025-11-05",
+ "category": "Transmission",
+ "tag": "New",
+ "pn": [
+  "94965"
+ ],
+ "title": "Toyota ATF Adapter",
+ "lead": "A new transmission adapter for Toyota Tundra and Sequoia transmissions.",
+ "steps": [
+  "Remove the external cooler from the transmission.",
+  "Bolt the adapter directly to the transmission with the same 3 bolts that attach the cooler."
+ ],
+ "body": [
+  "Two simple steps make for a quick, reliable transmission fluid exchange."
+ ],
+ "figures": [
+  {
+   "img": "25-03-1.jpg",
+   "caption": "Adapter, ATF, Toyota Cooler",
+   "pn": "94965"
+  },
+  {
+   "img": "25-03-2.jpg",
+   "caption": "ATF cooler location"
+  }
+ ],
+ "parts": [
+  [
+   "94965",
+   "Adapter, ATF, Toyota Cooler",
+   "Toyota Tundra and Sequoia"
+  ]
+ ],
+ "source": "TSB Vol. 25 No. 03 - Toyota ATF Adapter.pdf",
+ "rev": "1.0",
+ "dept": "Machine & Equipment"
+}

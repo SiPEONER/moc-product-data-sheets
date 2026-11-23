@@ -1,0 +1,36 @@
+{
+ "id": "24-03",
+ "date": "2024-08-01",
+ "category": "Transmission",
+ "tag": "New",
+ "pn": [
+  "94797"
+ ],
+ "title": "Check Valve for ATF Machines",
+ "lead": "A new transmission machine upgrade kit that adds a check valve, to prevent backflow and keep the correct fill level on vehicles with high-pressure systems. It fits every transmission machine that services vehicles with high-pressure systems.",
+ "body": [
+  "Vehicles with 50 psi or more line pressure need this check valve to hold a 1-to-1 fluid level during the service. Without it, fluid from the vehicle can flow back past the pump and valves in loop mode and leave the transmission underfilled when the service is complete.",
+  "The kit includes barb fittings installed in the check valve, 2 pinch clamps, and instructions showing where to cut the hose to install it."
+ ],
+ "note": "Check the fluid level both before and after the service.",
+ "figures": [
+  {
+   "img": "24-03-1.jpg",
+   "caption": "Kit installed in a transmission machine"
+  },
+  {
+   "img": "24-03-2.jpg",
+   "caption": "Kit installed in a transmission machine"
+  }
+ ],
+ "parts": [
+  [
+   "94797",
+   "Kit, ATF, Backflow Prevention",
+   "Check valve with barb fittings, 2 pinch clamps, instructions"
+  ]
+ ],
+ "source": "TSB Vol 24 No 3 - 2024 New Check Valve for ATF Machines.pdf",
+ "rev": "1.0",
+ "dept": "Machine & Equipment"
+}

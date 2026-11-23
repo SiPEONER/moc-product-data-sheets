@@ -1,0 +1,31 @@
+{
+ "id": "22-01",
+ "date": "2022-07-01",
+ "category": "Brake",
+ "tag": "New design",
+ "pn": [
+  "98449"
+ ],
+ "title": "Toyota Brake Adapter",
+ "lead": "The 98449 small-cam brake adapter has a new design that fits newer Toyota vehicles where the brake fluid reservoir sits against the firewall, such as the RAV4.",
+ "body": [
+  "One side of the adapter is now flat. That removes the fitment problems of the earlier design and leaves more room on reservoirs that sit against the firewall."
+ ],
+ "figures": [
+  {
+   "img": "22-01-1.jpg",
+   "caption": "Adapter, Small Cam, Toyota",
+   "pn": "98449"
+  }
+ ],
+ "parts": [
+  [
+   "98449",
+   "Adapter, Small Cam, Toyota",
+   "New design: flat edge on one side"
+  ]
+ ],
+ "source": "TSB Vol. 22 No. 01 - Modified 98449 Brake adapter.pdf",
+ "rev": "1.0",
+ "dept": "Machine & Equipment"
+}

@@ -1,0 +1,49 @@
+{
+ "id": "26-05",
+ "date": "2026-10-19",
+ "category": "Fuel",
+ "tag": "New",
+ "pn": [
+  "73510"
+ ],
+ "title": "EDR Advanced Module",
+ "lead": "The new EDR Advanced Module works with the automated pedal depressor, 73545.",
+ "body": [
+  "It has the same advanced functions and performance as the full EDR Advanced Machine in a more compact, portable package. With the MOC CAT Tool as its fluid reservoir, technicians can perform advanced EDR procedures with more flexibility in the field."
+ ],
+ "benefits": [
+  "Compact and portable",
+  "Works with the automated pedal depressor, 73545",
+  "Same advanced features as the EDR Advanced Machine",
+  "Uses the MOC CAT Tool as its fluid tank, for a smaller equipment footprint"
+ ],
+ "upgrade": "Customers using the 73410 Module can upgrade to the new 73510 Advanced Module with the upgrade kit, 73559.",
+ "figures": [
+  {
+   "img": "26-05-1.png",
+   "caption": "EDR Advanced Module",
+   "pn": "73510",
+   "cutout": true
+  }
+ ],
+ "parts": [
+  [
+   "73510",
+   "EDR Advanced Module",
+   ""
+  ],
+  [
+   "73559",
+   "Upgrade kit, 73410 Module to 73510",
+   ""
+  ],
+  [
+   "73545",
+   "Automated pedal depressor",
+   ""
+  ]
+ ],
+ "source": "MOC_PDS_TSB_Art_Team_Package/TSB_73510_EDR_Advanced_Module.svg (draft dated 10-19-26)",
+ "rev": "1.0",
+ "dept": "Machine & Equipment"
+}
