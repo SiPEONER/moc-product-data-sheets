@@ -117,9 +117,9 @@ img { max-width: 100%; }
 <div class="page">
 <div class="sheet">
   <header class="masthead in">
-    <a class="brand" href="./" aria-label="MOC Products data sheets home">
+    <a class="brand" href="./" aria-label="MOC Products Resource Library home">
       <img src="logo.svg" alt="MOC Products" width="40" height="41">
-      <span class="micro">Product Sheets</span>
+      <span class="micro">Resource Library</span>
     </a>
     <nav class="libs" aria-label="Libraries">
       {% for l in libraries %}<a href="{{ './' if l.page == 'index.html' else l.page[:-5] }}"{% if l.kind == lib.kind %} aria-current="page"{% endif %}>{{ l.label }} <span class="n">{{ l.total }}</span></a>{% endfor %}{% if tsb_total %}<a href="tsb/">Service Bulletins <span class="n">{{ tsb_total }}</span></a>{% endif %}{% if images_total %}<a href="images/">Product Images <span class="n">{{ images_total }}</span></a>{% endif %}
