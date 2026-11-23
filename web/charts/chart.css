@@ -89,6 +89,7 @@ table.cg { width: 100%; border-collapse: collapse; font-size: 13px; }
 .facts { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 0; border-bottom: 2px solid #000000; }
 .facts > div { padding-top: 24px; padding-bottom: 28px; }
 .facts > div + div { border-left: 2px solid #000000; }
+@media screen and (min-width: 801px) { .facts > div + div { padding-left: 40px; } .facts > div:first-child:not(:last-child) { padding-right: 40px; } }
 @media (max-width: 800px) { .facts { grid-template-columns: 1fr; } .facts > div + div { border-left: 0; border-top: 2px solid #000000; } }
 .facts h2 { font-weight: 900; font-size: 14px; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 10px; }
 .facts p + p { margin-top: 10px; }
@@ -98,7 +99,7 @@ table.cg { width: 100%; border-collapse: collapse; font-size: 13px; }
 .review { border-bottom: 2px solid #000000; padding-top: 24px; padding-bottom: 28px; background: repeating-linear-gradient(135deg, #ffffff 0 10px, #f2f2f2 10px 11px); }
 .review h2 { font-weight: 900; font-size: 14px; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 4px; }
 .review .micro-reg { margin-bottom: 14px; }
-.review ol { margin: 0; padding-left: 22px; max-width: 900px; }
+.review ol { margin: 0; padding-left: 32px; max-width: 900px; }
 .review li { padding: 6px 0; border-top: 1px solid #000000; }
 .review li:first-child { border-top: 0; }
 .print-only { display: none; }
@@ -125,7 +126,7 @@ table.cg { width: 100%; border-collapse: collapse; font-size: 13px; }
   .sec-head { padding: 6pt 8pt 5pt; -webkit-print-color-adjust: exact; print-color-adjust: exact; break-after: avoid; }
   .sec-title { font-size: 10pt; }
   .group { border-bottom: 0; margin-top: 10pt; }
-  .row { grid-template-columns: 1.55in minmax(0, 1fr); gap: 0 10pt; padding: 3.5pt 8pt; break-inside: avoid; }
+  .row { grid-template-columns: 1.55in minmax(0, 1fr); gap: 0 10pt; padding: 3.2pt 8pt; break-inside: avoid; }
   .row dt, .row dd { font-size: 7.5pt; line-height: 1.35; }
   .facts { border: 1.5pt solid #000000; margin-top: 10pt; break-inside: avoid; }
   .facts > div { padding: 8pt; }
@@ -134,7 +135,9 @@ table.cg { width: 100%; border-collapse: collapse; font-size: 13px; }
   table.cg { font-size: 7pt; } .cg th, .cg td { padding: 4pt 2pt; } .cg tbody th { font-size: 7pt; } .cg td { font-size: 6.5pt; }
   .cg thead th, .cg td.t-dex, .cg td.t-g05, .cg td.t-g40, .cg td.t-g48, .cg td.t-g30 { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
   .key { grid-template-columns: 1fr 1fr; margin-top: 10pt; } .key div { padding: 5pt 8pt 5pt 0; font-size: 7.5pt; } .key b { font-size: 7.5pt; }
-  .foot { padding: 8pt 0 0; border-top: 1.5pt solid #000000; margin-top: 12pt; }
+  .foot { padding: 8pt 0 0; border-top: 1.5pt solid #000000; margin-top: 10pt; break-before: avoid; break-inside: avoid; }
+  .group:has(.key) { break-inside: avoid; }
+  .key div { break-inside: avoid; }
   .foot .micro { font-size: 6.5pt; }
 }
 
