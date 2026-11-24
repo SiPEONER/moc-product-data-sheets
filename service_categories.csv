@@ -1,0 +1,115 @@
+item,part_no,product,category,band,sub_category,grade
+0101,01011,Motor Oil Conditioner,Engine Oil,ENGINE,Oil Treatment,
+0102,01021,Universal Fuel Conditioner,Fuel & Air Intake,FUEL,Tank Additive,Gas + Diesel
+0103,01031,ATF Conditioner,Transmission,TRANSMISSION,Transmission Treatment,
+0104,01041,Cooling-system Sealer,Cooling,COOLING,Cooling Treatment,
+0105,01051,Diesel Fuel Conditioner,Diesel,DIESEL,Fuel Additive,
+0106,01061,Fuel System Treatment,Fuel & Air Intake,FUEL,Tank Additive,
+0107,01071,E-shield,Fuel & Air Intake,FUEL,Tank Additive,
+0109,01091,Cooling-system Fast Flush,Cooling,COOLING,Cooling Flush,
+0111,01111,Cooling-system Treatment,Cooling,COOLING,Cooling Treatment,
+0112,01121,Fuel-injector Flush,Fuel & Air Intake,FUEL,Fuel System Service,
+0114,0114,Extreme-pressure Lubricant,Driveline,DRIVELINE,Gear Additive,
+0115,01151,Power Steering Fluid Conditioner,Power Steering,STEERING,PS Treatment,
+0117,01171,Multi-clean,Engine Oil,ENGINE,Engine Cleaner,
+0118,01181,Premium ATF Cleaner,Transmission,TRANSMISSION,Transmission Treatment,
+0119,01191,Premium ATF Supplement,Transmission,TRANSMISSION,Transmission Treatment,
+0120,01201,Double Clean,Fuel & Air Intake,FUEL,Air Intake,
+0121,01211,Premium Engine Treatment,Engine Oil,ENGINE,Oil Treatment,
+0122,01221,Premium Diesel Engine Treatment,Diesel,DIESEL,Engine Oil,
+0123,0123,Power Steering Service Solution,Power Steering,STEERING,PS Service Solution,
+0124,01241,Multi-clean MAX,Engine Oil,ENGINE,Engine Cleaner,
+0126,01261,Fuel Induction System Cleaner,Fuel & Air Intake,FUEL,Fuel System Service,
+0127,01271,Premium Fuel Treatment,Fuel & Air Intake,FUEL,Tank Additive,
+0128,01281,Vacu Flush,Fuel & Air Intake,FUEL,Fuel System Service,
+0129,01291,Premium Fuel Guard,Fuel & Air Intake,FUEL,Tank Additive,Gas + Diesel
+01301,01301,Battery Terminal Protectors,Shop & General,,Battery,
+0133,0133,A/C Quiet,HVAC & Cabin,,A/C Treatment,
+0136,0136,A/C Quiet Max,HVAC & Cabin,,A/C Treatment,
+0140,0140,Quiet Brakes,Brake,BRAKE,Brake Care,
+0142,01421,Cool Off,Cooling,COOLING,Cooling Treatment,
+0143,01431,Cooling System Multi-treatment,Cooling,COOLING,Cooling Treatment,
+0144,01441,Diesel Purge,Diesel,DIESEL,Fuel System Service,
+0145,01451,Advanced Diesel Treatment,Diesel,DIESEL,Fuel Additive,
+0147,01474,Gear Guard Plus SAE 75W-85,Driveline,DRIVELINE,Gear Oil,75W-85
+0148,01484,Gear Guard,Driveline,DRIVELINE,Gear Oil,75W-140
+0149,0149,Limited-slip Concentrate,Driveline,DRIVELINE,Gear Additive,
+0150,0150,Battery Cleaner & Leak Detector,Shop & General,,Battery,
+0151,01511,Engine-oil Supplement,Engine Oil,ENGINE,Oil Treatment,
+0156,0156,Power Steering Service Solution - Red,Power Steering,STEERING,PS Service Solution,
+01581,01581,Brake System Silicone,Brake,BRAKE,Brake Care,
+0160,0160,Banish Rodent Deterrent,Shop & General,,Rodent Deterrent,
+0410,0410,Engine On,Engine Oil,ENGINE,Engine Cleaner,
+0411,04113,Multi-vehicle Synthetic ATF,Transmission,TRANSMISSION,ATF,ATF
+0412,04123,Engine Flush Solution,Engine Oil,ENGINE,Engine Cleaner,
+0413,04133,Premium Synthetic ATF-LV,Transmission,TRANSMISSION,ATF,ATF LV
+0414,04144,Gear Guard SAE 75W-90,Driveline,DRIVELINE,Gear Oil,75W-90
+0415,04154,Ultra Shift,Transmission,TRANSMISSION,Manual Trans Fluid,Ultra Shift
+0416,04163,Multi-vehicle Synthetic ATF-clear,Transmission,TRANSMISSION,ATF,ATF Clear
+0417,04174,Multi-vehicle Synthetic CVT Fluid,Transmission,TRANSMISSION,CVT Fluid,CVT
+0418,04181,Universal CVT Conditioner,Transmission,TRANSMISSION,Transmission Treatment,
+0419,04191,Universal Transmission Conditioner,Transmission,TRANSMISSION,Transmission Treatment,
+0420,04203,Multi-vehicle Synthetic ATF - Blue,Transmission,TRANSMISSION,ATF,ATF Blue
+0421,04214,Synthetic High-performance ULV ATF,Transmission,TRANSMISSION,ATF,ATF ULV
+0426,04264,Synthetic DCT Fluid,Transmission,TRANSMISSION,DCT Fluid,DCT
+0427,04274,Gear Guard Plus SAE 75W-90,Driveline,DRIVELINE,Gear Oil,75W-90
+0428,04284,Gear Guard Plus SAE 75W-140,Driveline,DRIVELINE,Gear Oil,75W-140
+0429,04294,MTF Manual Transmission Fluid,Transmission,TRANSMISSION,Manual Trans Fluid,MTF
+0431,0431,Dissolve GDI Intake Cleaner,Fuel & Air Intake,FUEL,Fuel System Service,
+0432,0432,Enhance Fuel System Cleaner,Fuel & Air Intake,FUEL,Tank Additive,
+0433,0433,Restore Combustion Chamber Cleaner,Fuel & Air Intake,FUEL,Fuel System Service,
+0435,0435,GDI Intake Valve Cleaner,Fuel & Air Intake,FUEL,Fuel System Service,
+0436,0436,Diesel EGR System Cleaner,Diesel,DIESEL,Emissions,
+0437,04371,Cat & O2 Sensor Cleaner,Fuel & Air Intake,FUEL,Tank Additive,
+0438,04384,Ultra Shift LV,Transmission,TRANSMISSION,Manual Trans Fluid,Ultra Shift LV
+0439,0439,Disperse,Engine Oil,ENGINE,Engine Cleaner,
+0440,0440,Recover,Engine Oil,ENGINE,Engine Cleaner,
+0442,0442,Boost,Fuel & Air Intake,FUEL,Tank Additive,
+0444,0444,Advanced Cooling System Protection,Cooling,COOLING,Cooling Treatment,
+0445,04451,Cooling System Protector,Cooling,COOLING,Cooling Treatment,
+0446,0446,Shyft Premium ATF Treatment,Transmission,TRANSMISSION,Transmission Treatment,
+0447,0447,Synthetic High-performance ULV ATF Clear,Transmission,TRANSMISSION,ATF,ATF ULV Clear
+0448,0448,Direct GDI Fuel-injector Cleaner,Fuel & Air Intake,FUEL,Fuel System Service,
+0449,0449,Thrust Octane Booster,Fuel & Air Intake,FUEL,Tank Additive,
+04503,04503,Universal Extended Life Coolant,Cooling,COOLING,Coolant,Extended Life
+04513,04513,Asian Red/pink Super Long-life Coolant,Cooling,COOLING,Coolant,Asian Red/Pink
+04533P,04533P,Heavy-Duty Antifreeze / Coolant,Cooling,COOLING,Coolant,Heavy-Duty
+0501,05011,Motor-oil Supplement,Engine Oil,ENGINE,Oil Treatment,
+05911,05911,Pre-treatment & Deodorizing Solution,HVAC & Cabin,,Odor Control,
+0600,06004,Heavy-duty DOT 3 Brake Fluid,Brake,BRAKE,Brake Fluid,DOT 3
+0601,06014,Heavy-duty DOT 4 Brake Fluid,Brake,BRAKE,Brake Fluid,DOT 4
+0602,0602,Ultra DOT 5.1 Brake Fluid,Brake,BRAKE,Brake Fluid,DOT 5.1
+0603,06034,Ultra DOT 4-LV Brake Fluid,Brake,BRAKE,Brake Fluid,DOT 4-LV
+0604,0604,Power Steering Flush Solution,Power Steering,STEERING,PS Service Solution,
+0611,06113,Premium Synthetic ATF - Red,Transmission,TRANSMISSION,ATF,ATF Red
+06114,06114,All-season Washer Solvent,Shop & General,,Washer Fluid,
+0612,0612,Ultima Synthetic Power Steering Fluid,Power Steering,STEERING,PS Fluid,PS Synthetic
+0617,06174,Electric Power Steering Fluid,Power Steering,STEERING,PS Fluid,EPS
+0618,0618,Tech Grade Power Steering Fluid,Power Steering,STEERING,PS Fluid,PS Tech Grade
+0620,0620,Arctic Blast,HVAC & Cabin,,A/C Treatment,
+0627,0627,Cold Protect Cold Weather Diesel Treatment,Diesel,DIESEL,Fuel Additive,
+0650-0651,0650-0651,Odor-B-Gone,HVAC & Cabin,,Odor Control,
+0656,06561,High Performance Motor Oil Conditioner,Engine Oil,ENGINE,Oil Treatment,
+0657,06571,Advanced Engine Treatment,Engine Oil,ENGINE,Oil Treatment,
+1008,10081,Parts Wash,Shop & General,,Shop Cleaner,
+1012,10121,Brake Wash,Brake,BRAKE,Brake Cleaner,
+1013,10131,Premium Throttle-body & Air-intake Cleaner,Fuel & Air Intake,FUEL,Air Intake,
+10161,10161,PLP Penetrant Lube,Shop & General,,Lubricant,
+1020,10201,Clear Liquid Lube,Shop & General,,Lubricant,
+1038,10381,Brake & Parts Wash,Brake,BRAKE,Brake Cleaner,
+1043,10431,Throttle-body & Air-intake Cleaner,Fuel & Air Intake,FUEL,Air Intake,
+1049,10491,White Lithium Grease,Shop & General,,Lubricant,
+1050,10501,A/C Odor Treatment,HVAC & Cabin,,Odor Control,
+10507,10507,Fresh A/C,HVAC & Cabin,,Odor Control,
+1051,10511,Evaporator Cleaner,HVAC & Cabin,,Evaporator Cleaner,
+1052,10521,Evaporator Core Cleaner,HVAC & Cabin,,Evaporator Cleaner,
+1060,10601,Odor Eliminator,HVAC & Cabin,,Odor Control,
+1065,10651,Odor-B-Gone Fogger,HVAC & Cabin,,Odor Control,
+10751,10751,DPF Cleaner,Diesel,DIESEL,Emissions,
+1088,10881,Fuel-injector Flush,Fuel & Air Intake,FUEL,Fuel System Service,
+1095,10951,Mass Air-flow Sensor Cleaner,Fuel & Air Intake,FUEL,Air Intake,
+1097,1097,Charge Port Cleaner,Shop & General,,Shop Cleaner,
+1120,11201,Turboclean Cold-side Turbo Cleaner,Fuel & Air Intake,FUEL,Air Intake,
+1650,16501,Optimizer,Fuel & Air Intake,FUEL,Fuel System Service,Gas + Diesel
+16502,16502,Optimizer Liquid,Fuel & Air Intake,FUEL,Fuel System Service,Gas + Diesel
+70367,70367,Premium Copper Grease,Shop & General,,Lubricant,

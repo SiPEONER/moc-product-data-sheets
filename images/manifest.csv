@@ -3,7 +3,7 @@ part_number,item_number,product_name,variant,package,net_contents,full_file,full
 01021,0102,Universal Fuel Conditioner,,Additive bottle,8 FL OZ (0.236 L),full/01021.png,681,1800,web_800/01021.png,303,800
 01031,0103,ATF Conditioner,,Additive bottle,8 FL OZ (0.236 L),full/01031.png,696,1800,web_800/01031.png,309,800
 01041,0104,Cooling-system Sealer,,Additive bottle,8 FL OZ (0.236 L),full/01041.png,696,1800,web_800/01041.png,309,800
-01051,0105,Diesel Fuel Conditioner,,Additive bottle,12 FL OZ (0.354 L),full/01051.png,681,1800,web_800/01051.png,303,800
+01051,0105,Diesel Fuel Conditioner,,Additive bottle,12 FL OZ (0.354 L),full/01051.png,696,1800,web_800/01051.png,309,800
 01061,0106,Fuel System Treatment,,Additive bottle,8 FL OZ (0.236 L),full/01061.png,681,1800,web_800/01061.png,303,800
 01065,0106,Fuel System Treatment,,5 gal pail,5 US GAL (18.9 L),full/01065.png,1270,1800,web_800/01065.png,564,800
 01071,0107,E-shield,,Additive bottle,8 FL OZ (0.236 L),full/01071.png,681,1800,web_800/01071.png,303,800
@@ -24,8 +24,8 @@ part_number,item_number,product_name,variant,package,net_contents,full_file,full
 01291,0129,Premium Fuel Guard,,Additive bottle,10 FL OZ (0.295 L),full/01291.png,681,1800,web_800/01291.png,303,800
 01421,0142,Cool Off,,Additive bottle,12 FL OZ (0.354 L),full/01421.png,696,1800,web_800/01421.png,309,800
 01431,0143,Cooling System Multi-treatment,,Additive bottle,12 FL OZ (0.354 L),full/01431.png,696,1800,web_800/01431.png,309,800
-01441,0144,Diesel Purge,,Additive bottle,12 FL OZ (0.354 L),full/01441.png,681,1800,web_800/01441.png,303,800
-01451,0145,Advanced Diesel Treatment,,Additive bottle,12 FL OZ (0.354 L),full/01451.png,681,1800,web_800/01451.png,303,800
+01441,0144,Diesel Purge,,Additive bottle,12 FL OZ (0.354 L),full/01441.png,696,1800,web_800/01441.png,309,800
+01451,0145,Advanced Diesel Treatment,,Additive bottle,12 FL OZ (0.354 L),full/01451.png,696,1800,web_800/01451.png,309,800
 01474,0147,Gear Guard Plus SAE 75W-85,75W-85,32 oz bottle,32 FL OZ (1 QT) 946 mL,full/01474.png,766,1800,web_800/01474.png,340,800
 01484,0148,Gear Guard,75W-140,32 oz bottle,32 FL OZ (1 QT) 946 mL,full/01484.png,766,1800,web_800/01484.png,340,800
 01511,0151,Engine-oil Supplement,,Additive bottle,8 FL OZ (0.236 L),full/01511.png,696,1800,web_800/01511.png,309,800

@@ -41,8 +41,18 @@ body {
 .band .type { margin-top: 3pt; }
 /* Box logo tucked into the corner: same 0.25in from the top and the right edge (designer sample). */
 .logo { position: absolute; top: 0.25in; right: 0.25in; width: 0.5in; height: auto; display: block; }
+/* Category band (service products): replaces the category line; same top as that line, white on the black band. */
+.svc-band { height: 0.2in; margin-bottom: 1pt; }
+.svc-band svg { display: block; }
+.stamps { margin-top: 0.36in; display: flex; align-items: stretch; gap: 8pt; }
+.svc-band ~ .stamps { margin-top: 0.28in; } /* keeps the header height of the category line it replaces */
+/* Grade box: the label's white box with black type, beside the part number stamp. */
+.grade {
+  display: inline-flex; align-items: center; background: #ffffff; color: #000000; border: 2px solid #ffffff;
+  padding: 0 12.2px 0 14.45px; font-weight: 900; font-size: 15pt; letter-spacing: 0.1em; line-height: 1; text-transform: uppercase;
+}
 .stamp {
-  display: inline-block; margin-top: 0.36in;
+  display: inline-block;
   /* Optically centred: Montserrat figures sit low in their line box, and the 0.10em
      tracking adds space after the last figure, so the padding is uneven on purpose. */
   border: 2px solid #ffffff; padding: 6.25px 12.2px 7.1px 14.45px;
@@ -118,7 +128,10 @@ tr:last-child td { border-bottom: 2px solid #000000; }
 .steps.bul li::before { content: "+"; position: absolute; left: calc(-13pt * var(--s)); font-weight: 900; }
 /* Compact header: shorter band, smaller title and bottle, for sheets with a lot of copy. */
 .compact .band { height: 2.42in; }
-.compact .stamp { margin-top: 0.22in; font-size: 13pt; padding: 5.4px 10.7px 6.2px 12.6px; }
+.compact .stamp { font-size: 13pt; padding: 5.4px 10.7px 6.2px 12.6px; }
+.compact .grade { font-size: 13pt; padding: 0 10.7px 0 12.6px; }
+.compact .stamps { margin-top: 0.22in; }
+.compact .svc-band ~ .stamps { margin-top: 0.14in; }
 .compact .title { font-size: var(--nt, 28pt); margin-top: 9pt; }
 .compact .photo { top: 1.5in; height: 3.25in; width: 1.3in; }
 .compact .photo:not(.label) img { max-width: 2.12in; }
@@ -138,10 +151,16 @@ tr:last-child td { border-bottom: 2px solid #000000; }
 <body class="{{ 'screen' if screen else '' }}{{ ' nophoto' if (p.photo or {}).none }}">
 <div class="page{{ ' compact' if compact }}" style="--s: {{ scale|default(1) }}{% if name_pt %}; --nt: {{ name_pt }}pt; --nw: {{ name_w }}in{% endif %}">
   <header class="band">
+    {% if p.svc %}
+    {# Service category coding (2026-11-24): the label's category band, in white; HVAC and shop products have no band. #}
+    {% if p.svc.band %}<div class="svc-band">{{ p.svc.band }}</div>{% else %}<p class="micro cat">{{ p.svc.category }}</p>{% endif %}
+    <p class="micro micro-reg type">{{ p.svc.sub }} // Product Performance &amp; Data Sheet</p>
+    {% else %}
     <p class="micro cat">{{ p.category }}</p>
     <p class="micro micro-reg type">Product Performance &amp; Data Sheet</p>
+    {% endif %}
     <img class="logo" src="{{ logo }}" alt="MOC Products">
-    <p class="stamp">{{ p.pn }}</p>
+    <p class="stamps"><span class="stamp">{{ p.pn }}</span>{% if p.svc and p.svc.grade %}<span class="grade">{{ p.svc.grade }}</span>{% endif %}</p>
     <h1 class="title">{{ p.name|keep(p.name_keep, p.name_break) }}</h1>
   </header>
 
@@ -243,7 +262,7 @@ tr:last-child td { border-bottom: 2px solid #000000; }
 {% if layout == "two" %}
 <div class="page p2" style="--s: {{ scale|default(1) }}">
   <header class="band band-slim">
-    <p class="micro cat">{{ p.category }} // Product Performance &amp; Data Sheet</p>
+    <p class="micro cat">{{ (p.svc.category ~ " // " ~ p.svc.sub) if p.svc else p.category }} // Product Performance &amp; Data Sheet</p>
     <img class="logo" src="{{ logo }}" alt="MOC Products">
     <p class="slim-name"><span class="stamp stamp-sm">{{ p.pn }}</span> {{ p.name }}</p>
   </header>
