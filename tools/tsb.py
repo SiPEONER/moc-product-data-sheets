@@ -117,10 +117,11 @@ PAGE = """<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name=
 <title>{{ t.title }} // {{ t.docno }} // MOC Products</title><meta name="description" content="{{ t.lead }}">
 {% if not indexable %}<meta name="robots" content="noindex, nofollow">{% endif %}<link rel="canonical" href="{{ base }}/tsb/{{ t.id }}">
 <meta property="og:title" content="{{ t.title }} // MOC Technical Service Bulletin"><meta property="og:description" content="{{ t.lead }}"><meta property="og:image" content="{{ base }}/og-logo.png"><meta name="twitter:card" content="summary">
-<link rel="icon" href="../icon.svg" type="image/svg+xml"><link rel="stylesheet" href="tsb.css"></head><body>
+<link rel="icon" href="../icon.svg" type="image/svg+xml"><link rel="stylesheet" href="../site.css"><link rel="stylesheet" href="tsb.css"></head><body>
+<a href="#main" class="skip-link">Skip to the bulletin{{ "s" if bulletins is defined else "" }}</a>
 <div class="page"><div class="sheet">
 {{ masthead }}
-<main><header class="hero in"><p class="micro kicker">Doc no. {{ t.docno }} // {{ t.volno }} // {{ t.date_short }} // {{ t.category }}</p>
+<main id="main"><header class="hero in"><p class="micro kicker">Doc no. {{ t.docno }} // {{ t.volno }} // {{ t.date_short }} // {{ t.category }}</p>
 <h1 class="title">{{ t.title }}</h1>
 <div class="product">{% if t.tag %}<span class="stamp tagw">{{ t.tag }}</span>{% endif %}{% for n in t.pn %}<span class="stamp">{{ n }}</span>{% endfor %}</div>
 <p class="lead">{{ t.lead }}</p>
@@ -142,10 +143,11 @@ INDEX = """<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 <title>Technical Service Bulletins // MOC Products</title><meta name="description" content="MOC Products Technical Service Bulletins: new adapters, tools and machine upgrades from the Machine & Equipment Department.">
 {% if not indexable %}<meta name="robots" content="noindex, nofollow">{% endif %}<link rel="canonical" href="{{ base }}/tsb/">
 <meta property="og:title" content="Technical Service Bulletins // MOC Products"><meta property="og:image" content="{{ base }}/og-logo.png"><meta name="twitter:card" content="summary">
-<link rel="icon" href="../icon.svg" type="image/svg+xml"><link rel="stylesheet" href="tsb.css"></head><body>
+<link rel="icon" href="../icon.svg" type="image/svg+xml"><link rel="stylesheet" href="../site.css"><link rel="stylesheet" href="tsb.css"></head><body>
+<a href="#main" class="skip-link">Skip to the bulletin{{ "s" if bulletins is defined else "" }}</a>
 <div class="page"><div class="sheet">
 {{ masthead }}
-<main><header class="hero in"><p class="micro kicker">Doc no. MOC-TSB // Technical service bulletins // {{ bulletins|length }} bulletins</p><h1 class="title">Technical Service Bulletins</h1>
+<main id="main"><header class="hero in"><p class="micro kicker">Doc no. MOC-TSB // Technical service bulletins // {{ bulletins|length }} bulletins</p><h1 class="title">Technical Service Bulletins</h1>
 <p class="lead">New adapters, tools and machine upgrades from the MOC Machine &amp; Equipment Department, newest first. Each bulletin lists the part numbers to order; 2011 to 2021 bulletins keep their original attachments.</p>
 <form class="search" role="search" onsubmit="return false"><label class="sr-only" for="q">Search bulletins</label><input class="field" id="q" type="search" placeholder="Search by part number, vehicle or tool" autocomplete="off"></form></header>
 {% for year, items in years %}<section class="group" data-year><div class="sec-head in"><h2 class="sec-title">{{ year }}</h2><span class="micro">{{ items|length }} {{ "bulletin" if items|length == 1 else "bulletins" }}</span></div>
@@ -160,8 +162,7 @@ const q=document.getElementById('q'),cards=[...document.querySelectorAll('.card'
 q.addEventListener('input',()=>{const v=q.value.trim().toLowerCase();let n=0;cards.forEach(c=>{const s=!v||c.dataset.search.includes(v)||c.dataset.search.replace(/[^a-z0-9 ]/g,'').includes(v.replace(/[^a-z0-9 ]/g,''));c.hidden=!s;if(s)n++;});groups.forEach(g=>g.hidden=![...g.querySelectorAll('.card')].some(c=>!c.hidden));document.getElementById('none').hidden=n>0;});
 </script></body></html>"""
 
-MAST = """<header class="masthead in"><a class="brand" href="../"><img src="../logo.svg" alt="MOC Products" width="40" height="41"><span class="micro">Resource Library</span></a>
-<nav class="libs" aria-label="Libraries"><a href="../">Data Sheets</a><a href="../ads">Ad Sheets</a><a href="../charts/">Compatibility Charts</a><a href="./"{cur}>Service Bulletins</a><a href="../images/">Product Images</a></nav></header>"""
+# The masthead is build.nav_html("tsb"): the same brand and nav as every library page, Service Bulletins current.
 FOOT = """<footer class="foot in"><p class="micro micro-reg">MOC Products // Machine &amp; Equipment Department // 866.244.6621</p><p class="micro">MOC-TSB // Rev 1.0</p></footer>"""
 
 EXTRA = """
@@ -187,8 +188,9 @@ ul.plus li::before { content: "+"; position: absolute; left: 0; font-weight: 900
 .parts td { border-bottom: 1px solid #000000; padding: 10px 12px 9px 0; vertical-align: top; }
 .parts tr:last-child td { border-bottom: 2px solid #000000; }
 .parts td:first-child { font-weight: 900; white-space: nowrap; }
-.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
-.card { display: flex; flex-direction: column; gap: 8px; padding: 20px var(--pad) 26px; border-bottom: 1px solid #000000; border-right: 1px solid #000000; color: #000000; text-decoration: none; }
+.cards { grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
+.card { display: flex; flex-direction: column; gap: 8px; padding: 20px var(--pad) 26px; color: #000000; text-decoration: none; }
+.group:last-of-type { border-bottom: 0; } /* the footer's rule closes the last year */
 .card img { width: 100%; height: auto; display: block; outline: 1px solid #000000; margin-bottom: 8px; }
 .card:hover { background: #000000; color: #ffffff; }
 .cname { font-weight: 900; font-size: 20px; line-height: 1.08; letter-spacing: -0.01em; text-transform: uppercase; }
@@ -199,7 +201,7 @@ ul.plus li::before { content: "+"; position: absolute; left: 0; font-weight: 900
 def write_site(env, bulletins):
     css = re.search(r"<style>(.*?)</style>", (ROOT / "chart_template.html").read_text(), re.S).group(1)
     css = re.sub(r"\{[%#].*?[%#]\}", "", css).replace("../fonts/", "../fonts/")
-    (OUT / "tsb.css").write_text(css + EXTRA)
+    (OUT / "tsb.css").write_text("/* MOC Technical Service Bulletins (MOC-TSB). Generated by tools/tsb.py; do not edit by hand. Shell: ../site.css; content styles shared with the charts, then the bulletins' own. */\n" + css + EXTRA)
     (OUT / "img").mkdir(parents=True, exist_ok=True)
     for f in (SRC / "img").iterdir():
         shutil.copy2(f, OUT / "img" / f.name)
@@ -207,12 +209,12 @@ def write_site(env, bulletins):
     for t in bulletins:
         figs, cut, rows, atts = figures(t, False)
         (OUT / f"{t['id']}.html").write_text(page.render(t=t, figs=figs, atts=atts, cut=cut, base=BASE, indexable=INDEXABLE,
-                                                          masthead=Markup(MAST.format(cur="")), footer=Markup(FOOT)))
+                                                          masthead=build.nav_html("tsb", "../"), footer=Markup(FOOT)))
     years = {}
     for t in sorted(bulletins, key=lambda t: t["id"], reverse=True):
         years.setdefault(t["year"], []).append(t)
     (OUT / "index.html").write_text(env.from_string(INDEX).render(bulletins=bulletins, years=list(years.items()), base=BASE, indexable=INDEXABLE,
-                                                                  masthead=Markup(MAST.format(cur=' aria-current="page"')), footer=Markup(FOOT)))
+                                                                  masthead=build.nav_html("tsb", "../"), footer=Markup(FOOT)))
     print(f"web/tsb/: {len(bulletins)} bulletins")
 
 

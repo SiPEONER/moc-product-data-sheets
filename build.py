@@ -172,6 +172,33 @@ def part_numbers(p):
     return p
 
 
+
+# ---------- Shared shell (site.css + one nav for every library page) ----------
+LIBS = [("pds", "Data Sheets", ""), ("pas", "Ad Sheets", "ads"), ("charts", "Compatibility Charts", "charts/"),
+        ("tsb", "Service Bulletins", "tsb/"), ("images", "Product Images", "images/")]
+
+
+def lib_counts():
+    """Items in each library, from the sources, so every page's nav shows the same numbers."""
+    products = [json.loads(p.read_text()) for p in sorted((ROOT / "products").glob("*.json"))]
+    products = [p for p in products if p["item"] != TEMPLATE_ITEM]
+    im = WEB / "images" / "manifest.csv"
+    return {"pds": sum(1 for p in products if has("pds", p)), "pas": sum(1 for p in products if has("pas", p)),
+            "charts": len([f for f in (ROOT / "charts").glob("*.json") if not f.name.endswith(".source.json")]),
+            "tsb": len(list((ROOT / "tsb").glob("*.json"))),
+            "images": max(len(im.read_text().splitlines()) - 1, 0) if im.exists() else 0}
+
+
+def nav_html(current, prefix=""):
+    """The masthead: brand and library nav, identical on every page. prefix = path back to web/ ("" or "../")."""
+    from markupsafe import Markup, escape
+    n = lib_counts()
+    links = "".join(f'<a href="{(prefix + href) if href else (prefix or "./")}"{" aria-current=\"page\"" if kind == current else ""}>{label} <span class="n">{n[kind]}</span></a>'
+                    for kind, label, href in LIBS)
+    return Markup(f'<header class="masthead in">\n    <a class="brand" href="{prefix or "./"}" aria-label="MOC Products Resource Library home">\n'
+                  f'      <img src="{prefix}logo.svg" alt="MOC Products" width="40" height="41">\n      <span class="micro">Resource Library</span>\n    </a>\n'
+                  f'    <nav class="libs" aria-label="Libraries">{links}</nav>\n  </header>')
+
 def has(kind, p):
     """Every product has a data sheet unless it is ad-only ("pds": false); an ad sheet when it has an "ad" block."""
     return p.get("pds", True) if kind == "pds" else bool(p.get("ad"))
@@ -298,6 +325,7 @@ def build_site(env):
         shutil.copy2(ROOT / "assets/fonts" / f"Montserrat-{w}.woff2", WEB / "fonts")
     shutil.copy2(ROOT / "assets/fonts/Montserrat-OFL.txt", WEB / "fonts")
     shutil.copy2(ROOT / "assets/logos/moc-box-primary.svg", WEB / "logo.svg")
+    shutil.copy2(ROOT / "site.css", WEB / "site.css")  # shared shell for every library page
     shutil.copy2(ROOT / "assets/logos/icon.svg", WEB / "icon.svg")
     shutil.copy2(ROOT / "assets/og/og-logo.png", WEB / "og-logo.png")  # link preview image (Slack, Teams, iMessage)
     updated = datetime.date.today().strftime("%b %Y")
@@ -307,7 +335,7 @@ def build_site(env):
     charts_total = len([f for f in (ROOT / "charts").glob("*.json") if not f.name.endswith(".source.json")])  # compatibility charts (tools/charts.py)
     tsb_total = len(list((ROOT / "tsb").glob("*.json")))  # technical service bulletins (tools/tsb.py)
     for lib in libraries:
-        (WEB / lib["page"]).write_text(tpl.render(lib=lib, libraries=libraries, noindex=NOINDEX, updated=updated, images_total=images_total, tsb_total=tsb_total, charts_total=charts_total))
+        (WEB / lib["page"]).write_text(tpl.render(lib=lib, libraries=libraries, nav=nav_html(lib["kind"]), noindex=NOINDEX, updated=updated, images_total=images_total, tsb_total=tsb_total, charts_total=charts_total))
     if NOINDEX:
         (WEB / "robots.txt").write_text("User-agent: *\nAllow: /og-logo.png\nDisallow: /\n")
     elif (WEB / "robots.txt").exists():

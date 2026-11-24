@@ -129,6 +129,13 @@ After the sheets, the build writes the public library site to `web/`: one card p
 - The data sheet header does not show the category band for now (Andy, 2026-11-24): it stays aligned with the other sheets. A band in the header was tried and taken out the same morning.
 - F3 label images (77 service labels with the color band) swapped in on 2026-11-24.
 
+## Site shell (2026-11-24)
+
+- `site.css` is the one copy of the library frame (fonts, sheet, masthead and nav, hero, search field, buttons, section bar, card grid, footer). `build.py` copies it to `web/site.css`; every page links it (`site.css` or `../site.css`) before its own content styles. Change the frame there, never in a page template.
+- The masthead is `build.nav_html(current, prefix)`: brand plus the five libraries with their counts, current library marked. Data Sheets, Ad Sheets, Product Images, Compatibility Charts and Service Bulletins all use it.
+- Card grids (charts, bulletins, images): `.cards` clips the last column's and last row's 1px rules under the 2px frame. Whatever ends `main` drops its bottom rule; the footer's top rule is the only one.
+- Check alignment with `node "MOC-BRAND-STYLE-GUIDE/Claude outputs/resource-library-layout-audit.js"` from the kit root: every template prints the same frame, masthead, nav, hero and title numbers at 1920, 1440, 1280, 1024, 768 and 390 px. Its "over" list shows the grid cards' last 1px, which the grid clips on purpose, and the Data and Ad Sheets section index, which scrolls sideways inside itself on tablets and phones.
+
 ## Template rules
 
 - **Page:** US Letter, one page, 0.7 in side margins. Black band at the top, black footer band.

@@ -149,7 +149,7 @@ def main():
     env = Environment(autoescape=select_autoescape(default=True))
     html = env.from_string((ROOT / "images_template.html").read_text()).render(
         items=out, pkgs=[(k, counts[k]) for k in PKGS], total=len(out), zip=ZIP,
-        zip_mb=f"{zp.stat().st_size / 1e6:.0f}", noindex=build.NOINDEX, base="https://datasheets.mocproducts.app")
+        zip_mb=f"{zp.stat().st_size / 1e6:.0f}", noindex=build.NOINDEX, nav=build.nav_html("images", "../"), base="https://datasheets.mocproducts.app")
     (OUT / "index.html").write_text(html)
     print(f"images: {len(out)} published ({', '.join(f'{v} {k}' for k, v in counts.items())}); zip {zp.stat().st_size / 1e6:.1f} MB")
     for s in skipped:

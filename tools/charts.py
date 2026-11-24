@@ -90,7 +90,7 @@ def main(only):
             jsonld = json.dumps({"@context": "https://schema.org", "@type": "WebPage", "name": c["title"], "description": c["description"],
                                  "url": f"{BASE}/charts/{c['slug']}", "publisher": {"@type": "Organization", "name": "MOC Products"}})
             html = OUT / f"{c['slug']}.html"
-            html.write_text(tpl.render(c=c, base=BASE, indexable=indexable, jsonld=jsonld))
+            html.write_text(tpl.render(c=c, base=BASE, indexable=indexable, jsonld=jsonld, nav=build.nav_html("charts", "../")))
             page.goto(html.as_uri())
             page.wait_for_load_state("networkidle")
             for old in (OUT / "pdf").glob(f"{c['docno']}_*.pdf"):
@@ -106,12 +106,12 @@ INDEX = """<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 <title>Compatibility Charts // MOC Products</title><meta name="description" content="Fluid and coolant compatibility charts for MOC Products: ATF, CVT, DCT/DSG and coolant.">
 {% if not indexable %}<meta name="robots" content="noindex, nofollow">{% endif %}<link rel="canonical" href="{{ base }}/charts/">
 <meta property="og:title" content="Compatibility Charts // MOC Products"><meta property="og:image" content="{{ base }}/og-logo.png"><meta name="twitter:card" content="summary">
-<link rel="icon" href="../icon.svg" type="image/svg+xml"><link rel="stylesheet" href="chart.css"></head><body>
+<link rel="icon" href="../icon.svg" type="image/svg+xml"><link rel="stylesheet" href="../site.css"><link rel="stylesheet" href="chart.css"></head><body>
+<a href="#main" class="skip-link">Skip to the charts</a>
 <div class="page"><div class="sheet">
-<header class="masthead in"><a class="brand" href="../"><img src="../logo.svg" alt="MOC Products" width="40" height="41"><span class="micro">Resource Library</span></a>
-<nav class="libs" aria-label="Libraries"><a href="../">Data Sheets</a><a href="../ads">Ad Sheets</a><a href="./" aria-current="page">Compatibility Charts</a><a href="../tsb/">Service Bulletins</a><a href="../images/">Product Images</a></nav></header>
+{{ nav }}
 {% if drafts %}<p class="draft micro">Drafts // Pending product expert review // Not for distribution</p>{% endif %}
-<main><header class="hero in"><p class="micro kicker">Doc no. MOC-CHT // Compatibility charts</p><h1 class="title">Compatibility Charts</h1>
+<main id="main"><header class="hero in"><p class="micro kicker">Doc no. MOC-CHT // Compatibility charts</p><h1 class="title">Compatibility Charts</h1>
 <p class="lead">Find the MOC fluid that matches an OEM specification. Search every chart at once, or open a chart for its full list.</p>
 <form class="search" role="search" onsubmit="return false"><label class="sr-only" for="q">Search every chart</label><input class="field" id="q" type="search" placeholder="Find an OEM or spec, e.g. JWS 3324, DEXRON-VI or NS-2" autocomplete="off"></form></header>
 <section id="results" hidden><div class="sec-head in"><h2 class="sec-title" id="rcount"></h2><span class="micro">All charts</span></div><div id="rlist"></div></section>
@@ -153,8 +153,8 @@ def write_index(env, charts):
     css = re.search(r"<style>(.*?)</style>", (ROOT / "chart_template.html").read_text(), re.S).group(1)
     css = re.sub(r"\{[%#].*?[%#]\}", "", css)
     css += """
-.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
-.card { display: flex; flex-direction: column; gap: 10px; padding: 24px var(--pad) 28px; border-bottom: 1px solid #000000; border-right: 1px solid #000000; color: #000000; text-decoration: none; }
+.cards { grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
+.card { display: flex; flex-direction: column; gap: 10px; padding: 24px var(--pad) 28px; color: #000000; text-decoration: none; }
 .card:hover { background: #000000; color: #ffffff; }
 .cname { font-weight: 900; font-size: 24px; line-height: 1.05; letter-spacing: -0.01em; text-transform: uppercase; }
 .cprod { font-size: 15px; }
@@ -171,7 +171,7 @@ def write_index(env, charts):
     data = json.dumps([dict(slug=c["slug"], title=c["title"], product=c["product"], pns=" ".join(c["pns"]), dnu=c.get("do_not_use", ""),
                             rows=[[r["oem"], r["spec"]] for g in c["groups"] for r in g["rows"]]) for c in charts if c["type"] == "list"]).replace("</", "<\\/")
     html = env.from_string(INDEX).render(data=data, charts=charts, base=BASE, indexable=INDEXABLE_HOST and all(c["status"] == "approved" for c in charts),
-                                        drafts=any(c["status"] == "draft" for c in charts))
+                                        drafts=any(c["status"] == "draft" for c in charts), nav=build.nav_html("charts", "../"))
     (OUT / "index.html").write_text(html)
 
 
