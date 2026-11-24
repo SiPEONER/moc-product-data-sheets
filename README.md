@@ -123,12 +123,10 @@ After the sheets, the build writes the public library site to `web/`: one card p
 - Copy is a light brand edit (Andy, 2026-11-23): same facts, part numbers, steps and dates; "NEW!!" becomes the NEW tag; stock openers trimmed; typos fixed. Each JSON keeps its `source` file name.
 - A new bulletin: add `tsb/<vol>-<no>.json` and its images, run `python3 tools/tsb.py`, then `build.py`'s site step to update the nav count.
 
-## Service category coding (added 2026-11-24)
+## Service category coding (2026-11-24)
 
-- `service_categories.csv` lists the 114 service-department products with their category, band word, sub category and grade, from the "Service Department Category + Color Coding" doc (Andy signed off 2026-11-20). Detail and appearance products are not in it and keep their old header.
-- On a service product's data sheet the category line at the top of the header becomes the label's category band, drawn in white (sheets stay black and white): the band word in a block with a 45 degree right edge, then bars to 0.25 in short of the logo. `build.py` draws it from `claude/category-band-element.md` (`band_svg`), in Montserrat Black. HVAC & Cabin and Shop & General products have no band; they show the category name instead.
-- The line under it reads `<sub category> // Product Performance & Data Sheet`. The grade (DOT 4, 75W-90, Gas + Diesel...) sits beside the part number stamp in a white box with black type, as on the label. Page 2 of a two-page sheet carries `Category // Sub category` in its slim header.
-- The header keeps its height, so no sheet changes its fit.
+- `service_categories.csv` lists the 114 service-department products with their category, band word, sub category and grade, from the "Service Department Category + Color Coding" doc (Andy signed off 2026-11-20). Not used by the build yet.
+- The data sheet header does not show the category band for now (Andy, 2026-11-24): it stays aligned with the other sheets. A band in the header was tried and taken out the same morning.
 - F3 label images (77 service labels with the color band) swapped in on 2026-11-24.
 
 ## Template rules

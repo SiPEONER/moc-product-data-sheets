@@ -12,7 +12,6 @@ listing every product except the master template (item 00000).
     python3 build.py            # every product
     python3 build.py 01011      # one product
 """
-import functools, csv
 import base64, datetime, json, mimetypes, pathlib, re, shutil, sys
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 from playwright.sync_api import sync_playwright
@@ -173,61 +172,6 @@ def part_numbers(p):
     return p
 
 
-
-# ---------- Service category coding (Andy, 2026-11-20; on the labels as F3 from 2026-11-24) ----------
-# service_categories.csv: every service product's category, band word, sub category and grade, from the
-# "Service Department Category + Color Coding" doc. Sheets stay black and white: the band is drawn in white.
-BAND_W = 6.8 * 72   # pt: left text margin (0.7 in) to 0.25 in short of the box logo
-BAND_H = 0.2 * 72   # pt
-
-
-@functools.lru_cache(None)
-def service_categories():
-    with open(ROOT / "service_categories.csv", newline="") as fh:
-        return {r["item"]: r for r in csv.DictReader(fh)}
-
-
-@functools.lru_cache(None)
-def _black_metrics():
-    from fontTools.ttLib import TTFont  # needs brotli for woff2
-    f = TTFont(ROOT / "assets/fonts/Montserrat-Black.woff2")
-    return f.getBestCmap(), f["hmtx"], f["OS/2"].sCapHeight / f["head"].unitsPerEm
-
-
-def band_svg(word, width=BAND_W, h=BAND_H, fill="#ffffff"):
-    """The category band (claude/category-band-element.md), as SVG: word block with a 45 degree right edge,
-    the word the same distance v from its left, top, bottom and slanted edges, then 45 degree bars ending
-    on a whole bar at the right margin. Everything follows from the band height h."""
-    from markupsafe import Markup
-    cmap, hmtx, cap = _black_metrics()
-    fs = 0.4 * h / cap                       # cap height = 0.4 h
-    track = 0.02 * fs
-    tw = sum(hmtx[cmap[ord(c)]][0] for c in word) / 1000 * fs + track * (len(word) - 1)
-    v = (h - cap * fs) / 2
-    br = v + tw + 0.414 * v                  # block's bottom right corner
-    tr = br + h                              # top right corner (45 degrees)
-    room = width - tr
-    n = max(1, round(room / h))
-    bar = room / (2 * n)
-    shapes = [f'<polygon points="0,0 {tr:.2f},0 {br:.2f},{h:.2f} 0,{h:.2f}"/>']
-    for i in range(n):
-        x0 = br + bar + i * 2 * bar          # bottom left of bar i (gap first)
-        shapes.append(f'<polygon points="{x0 + h:.2f},0 {x0 + h + bar:.2f},0 {x0 + bar:.2f},{h:.2f} {x0:.2f},{h:.2f}"/>')
-    return Markup(
-        f'<svg class="cband" viewBox="0 0 {width:.2f} {h:.2f}" width="{width:.2f}pt" height="{h:.2f}pt" role="img" aria-label="{word}">'
-        f'<g fill="{fill}">{"".join(shapes)}</g>'
-        f'<text x="{v:.2f}" y="{h - v:.2f}" font-family="Montserrat" font-weight="900" font-size="{fs:.2f}" '
-        f'textLength="{tw:.2f}" lengthAdjust="spacing" fill="#000000">{word}</text></svg>')
-
-
-def service(p):
-    """p['svc']: category, band (SVG or None), sub category and grade for a service product."""
-    r = service_categories().get(p["item"])
-    if r:
-        p["svc"] = dict(category=r["category"], word=r["band"], band=band_svg(r["band"]) if r["band"] else None,
-                        sub=r["sub_category"], grade=r["grade"])
-    return p
-
 def has(kind, p):
     """Every product has a data sheet unless it is ad-only ("pds": false); an ad sheet when it has an "ad" block."""
     return p.get("pds", True) if kind == "pds" else bool(p.get("ad"))
@@ -247,7 +191,7 @@ def main(only):
     with sync_playwright() as pw:
         browser = pw.chromium.launch()
         for path in products:
-            p = service(part_numbers(json.loads(path.read_text())))
+            p = part_numbers(json.loads(path.read_text()))
             if p.get("image"):
                 p["image"] = data_uri(p["image"])
             if p.get("ad", {}).get("image"):
